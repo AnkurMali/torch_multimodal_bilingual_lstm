@@ -1,0 +1,1093 @@
+,sentence,pos,language,switch
+0,there are plenty of new alternatives .,pro:exist cop adv prep adj n .,ENG ENG ENG ENG ENG ENG,0
+1,ahhah .,co .,ENG,0
+2,regarding birth control pills .,part n n n .,ENG ENG ENG ENG,0
+3,yeah .,co .,ENG,0
+4,sí pero es que yo no quiero /.,co conj cop pro:rel pro:sub adv v +/.,ENG ENG ENG ENG ENG ENG ENG,0
+5,but ah they're not as strong as they were a couple of years ago .,conj co pro:sub neg prep adj prep pro:sub cop det:art n prep n post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+6,yeah .,co .,ENG,0
+7,pero es que es que /.,conj cop pro:rel cop pro:rel +/.,ENG ENG ENG ENG ENG,0
+8,like like ah in the sixties they were terrible !,co co co prep det:art det:num pro:sub cop adj !,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+9,yeah .,co .,ENG,0
+10,yeah they were .,co pro:sub cop .,ENG ENG ENG,0
+11,like too strong .,prep adv adj .,ENG ENG ENG,0
+12,too too much strong .,adv adv adv adj .,ENG ENG ENG ENG,0
+13,too much /.,adv adv +/.,ENG ENG,0
+14,yeah no no /.,co co co +/.,ENG ENG ENG,0
+15,but now the dose is so slight /.,conj adv det:art n cop adv adj +/.,ENG ENG ENG ENG ENG ENG ENG,0
+16,basically .,adv .,ENG,0
+17,but look at this .,conj v prep pro:dem .,ENG ENG ENG ENG,0
+18,eso es homeopathic .,L2 L2 adj .,ESP ESP ENG,1
+19,eso lo que tengo que //.,pro:dem pro:obj pro:rel v pro:rel +//.,ENG ENG ENG ENG ENG,0
+20,I wanna do more natural things because I really //.,pro:sub v v adv adj n conj pro:sub adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+21,I'm already on medication .,pro:sub adv prep n .,ENG ENG ENG ENG,0
+22,I'm already on Effexor //.,pro:sub adv prep n:prop +//.,ENG ENG ENG ENG,0
+23,and I've been on antidepressants since I was seventeen .,coord pro:sub cop prep anti#n conj pro:sub cop det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+24,"so , I've already been fucked //.",co cm pro:sub adv aux part +//.,ENG ENG ENG ENG ENG ENG,0
+25,you know I've already had my body being dependent on medicine .,pro:per v pro:sub adv part det:poss n n adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+26,I don't want to take even more medicine if I could find something else that helps me .,pro:sub mod v inf v adv qn n conj pro:sub mod v pro:indef post pro:rel v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+27,but I wouldn't say that hormones are //.,conj pro:sub mod v comp n cop +//.,ENG ENG ENG ENG ENG ENG ENG,0
+28,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+29,for me it's a natural way to regulate stuff .,prep pro:obj pro:per det:art adj n inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+30,yes but //.,co conj +//.,ENG ENG,0
+31,but I could find //.,conj pro:sub mod v +//.,ENG ENG ENG ENG,0
+32,yeah but those things are synthetic hormones .,co conj det:dem n cop adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+33,that's why they're more powerful .,pro:dem pro:int pro:sub qn adj .,ENG ENG ENG ENG ENG,0
+34,they have more side effects .,pro:sub v adv adj n .,ENG ENG ENG ENG ENG,0
+35,that's the problem .,pro:dem det:art n .,ENG ENG ENG,0
+36,and I know I have to be better about my diet and all that stuff .,coord pro:sub v pro:sub v inf cop adv prep det:poss n coord qn pro:dem v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+37,I have to eat healthier .,pro:sub v inf v adj .,ENG ENG ENG ENG ENG,0
+38,I'm actually starting to eat /.,pro:sub adv part inf v +/.,ENG ENG ENG ENG ENG,0
+39,sí is it like a generic /?,L2 aux pro:per conj det:art adj +/?,ESP ENG ENG ENG ENG ENG,1
+40,yeah it's genetic because my mom ...,co pro:per adj conj det:poss n +...,ENG ENG ENG ENG ENG ENG,0
+41,so ah it's not something that was like /.,co co pro:per neg pro:indef pro:rel cop prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+42,qué ?,pro:int ?,ENG,0
+43,these pills .,det:dem n .,ENG ENG,0
+44,no no no eso es totalmente natural .,adv adv adv pro:dem cop adv:adj adj .,ENG ENG ENG ENG ENG ENG ENG,0
+45,.,None,,0
+46,eso es /.,pro:dem cop +/.,ENG ENG,0
+47,I think that they need to consider your ah weight and blood type and stuff .,pro:sub v comp pro:sub v inf v det:poss co n coord n n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+48,no eso es totalmente natural /.,adv pro:dem cop adv:adj adj +/.,ENG ENG ENG ENG ENG,0
+49,entonces /.,adv +/.,ENG,0
+50,when they do a good one ah like let's say a costumized ah homeopathic stuff /.,conj pro:sub v det:art adj pro:indef co co v v det:art part co adj n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+51,the thing is I went to /.,det:art n cop pro:sub v prep +/.,ENG ENG ENG ENG ENG ENG,0
+52,like if this is generic ah I think it's ah still effective ...,co conj pro:dem cop adj co pro:sub v pro:per co adv adj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+53,it's still effective .,pro:per adv adj .,ENG ENG ENG,0
+54,pero cómo te digo ?,conj pro:int pro:obj v ?,ENG ENG ENG ENG,0
+55,I know .,pro:sub v .,ENG ENG,0
+56,I know I need to find /.,pro:sub v pro:sub v inf v +/.,ENG ENG ENG ENG ENG ENG,0
+57,el real homepático ah medicina homeopática .,L2 L2 L2 co L2 L2 .,ESP ESP ESP ENG ESP ESP,1
+58,es que yo lo /.,cop pro:rel pro:sub pro:obj +/.,ENG ENG ENG ENG,0
+59,ajá .,co .,ENG,0
+60,el doctor te mira .,det:art n pro:obj v .,ENG ENG ENG ENG,0
+61,y te analiza el tipo de sangre y otras características .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+62,mhm .,co .,ENG,0
+63,sí yo tengo que /.,co pro:sub v pro:rel +/.,ENG ENG ENG ENG,0
+64,y de acuerdo con tu peso tu tipo de sangre tu personalidad y otras cosas .,coord prep v prep det:pos v det:pos n prep imp det:pos n coord det:indef v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+65,yo no he hecho eso .,pro:sub adv aux part pro:dem .,ENG ENG ENG ENG ENG,0
+66,yeah yeah yeah yeah yeah .,co co co co co .,ENG ENG ENG ENG ENG,0
+67,that's the thing .,pro:dem det:art n .,ENG ENG ENG,0
+68,I've been /.,pro:sub cop +/.,ENG ENG,0
+69,that's what I think .,pro:dem pro:int pro:sub v .,ENG ENG ENG ENG,0
+70,I've been /.,pro:sub cop +/.,ENG ENG,0
+71,this might be even more effective if a real homeopathic doctor like .,pro:dem mod cop adj adv adj comp det:art adj adj n prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+72,es que no he tenido receta .,cop pro:rel adv aux part v .,ENG ENG ENG ENG ENG ENG,0
+73,this is all prescribed .,pro:dem aux adv part .,ENG ENG ENG ENG,0
+74,I need to go to a good homeopath .,pro:sub v inf v prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+75,and the thing is that a lot of them are not covered under regular health insurance .,coord det:art n cop comp det:art n prep pro:obj aux neg part adv adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+76,mhm .,co .,ENG,0
+77,so you have to pay the whole //.,co pro:per v inf v det:art n +//.,ENG ENG ENG ENG ENG ENG ENG,0
+78,you have to pay extra .,pro:per v inf v adj .,ENG ENG ENG ENG ENG,0
+79,I don't know maybe later ah in a couple of minutes we can check some books there in .,pro:sub mod v adv adv co prep det:art n prep n pro:sub mod v qn n adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+80,yeah yes this is also good .,co co pro:dem cop adv adj .,ENG ENG ENG ENG ENG ENG,0
+81,I was going to say Starbucks eh Barnes_and_Noble because //.,pro:sub aux part inf v n:prop co n:prop conj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+82,I'm also /.,pro:sub adv +/.,ENG ENG,0
+83,.,None,,0
+84,there's always ways that you can help yourself .,pro:exist adv n pro:rel pro:per mod v pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+85,that's why I also have that .,pro:dem pro:int pro:sub adv v pro:dem .,ENG ENG ENG ENG ENG ENG,0
+86,it's a massage oil .,pro:per det:art n n .,ENG ENG ENG ENG,0
+87,I put it on my womb en el vientre por aquí y por detrás .,pro:sub v pro:per prep det:poss n L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+88,así que eso me calma también .,adv pro:rel pro:dem pro:obj v adv .,ENG ENG ENG ENG ENG ENG,0
+89,y qué tiene eso ?,coord pro:int v pro:dem ?,ENG ENG ENG ENG,0
+90,esto tiene eh el coconut oil .,L2 L2 co L2 n n .,ESP ESP ENG ESP ENG ENG,1
+91,eso es coconut oil .,L2 L2 n n .,ESP ESP ENG ENG,1
+92,so you have your kit .,co pro:per v det:poss n .,ENG ENG ENG ENG ENG,0
+93,ah yo tengo mi kit .,co L2 L2 L2 n .,ENG ESP ESP ESP ENG,1
+94,tú tienes .,pro:sub v .,ENG ENG,0
+95,sí sí .,co co .,ENG ENG,0
+96,grape seed oil lavanda eh este eh aceite de trigo .,n n n L2 co L2 co L2 L2 L2 .,ENG ENG ENG ESP ENG ESP ENG ESP ESP ESP,1
+97,like herbs and natural components whatever .,prep n coord adj n pro:int .,ENG ENG ENG ENG ENG ENG,0
+98,sí eh sí sí sí .,L2 co L2 L2 L2 .,ESP ENG ESP ESP ESP,1
+99,eh eh bueno te voy a decir lo que es el lo de aromaterapia .,co co L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+100,yes .,co .,ENG,0
+101,it might help .,pro:per mod n .,ENG ENG ENG,0
+102,but the good stuff is that it's never going to do anything like wrong to you like it's not going to affect you negatively .,conj det:art adj n cop adv pro:per adv part inf v pro:indef prep adj prep pro:per v pro:per neg part inf v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+103,no exactamente .,adv adv:adj .,ENG ENG,0
+104,that's why I like it .,pro:dem pro:int pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+105,and there might be a good effect .,coord adv mod cop det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+106,lavender /.,adj +/.,ENG,0
+107,there's lavender que eso es lavanda .,pro:exist n L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP,1
+108,y este cómo es ...,coord imp pro:int cop +...,ENG ENG ENG ENG,0
+109,Clary sage es salvia .,n:prop n L2 L2 .,ENG ENG ESP ESP,1
+110,sage es salvia .,n L2 L2 .,ENG ESP ESP,1
+111,eh ...,co +...,ENG,0
+112,ah sí yo no sabía .,co L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+113,eh sí .,co L2 .,ENG ESP,1
+114,salvia .,n .,ENG,0
+115,este los otros aceites son aceites de tú sabes para que sean masajes para que se dilutan .,det:dem det:art pro:indef n cop n v pro:sub v prep pro:rel cop n prep pro:rel pro:refl L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+116,so they dilute .,co pro:sub v .,ENG ENG ENG,0
+117,diluyan .,imp .,ENG,0
+118,para que se diluyan .,prep pro:rel pro:refl v .,ENG ENG ENG ENG,0
+119,y también este ...,coord adv det:dem +...,ENG ENG ENG,0
+120,so by the way /.,adv prep det:art n +/.,ENG ENG ENG ENG,0
+121,sí porque eso es bien concentrado .,co conj pro:dem cop adv part .,ENG ENG ENG ENG ENG ENG,0
+122,sometimes you get words in English .,adv pro:per v n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+123,and you force them to look like Spanish .,coord pro:per v pro:obj inf v conj n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+124,yeah exactly .,co adv .,ENG ENG,0
+125,yeah .,co .,ENG,0
+126,.,None,,0
+127,y jazmín .,coord n .,ENG ENG,0
+128,sometimes you can guess that .,adv pro:per mod v pro:dem .,ENG ENG ENG ENG ENG,0
+129,and sometimes you can make it like //.,coord adv pro:per mod v pro:per conj +//.,ENG ENG ENG ENG ENG ENG ENG,0
+130,but dilute it's how do you say ?,conj adj pro:per pro:int mod pro:per v ?,ENG ENG ENG ENG ENG ENG ENG,0
+131,no sé .,adv v .,ENG ENG,0
+132,diluir .,inf .,ENG,0
+133,?,None,,0
+134,eh no eh I know .,co L2 co pro:sub v .,ENG ESP ENG ENG ENG,1
+135,it's diluyan sí sí .,pro:per L2 L2 L2 .,ENG ESP ESP ESP,1
+136,diluir .,inf .,ENG,0
+137,diluir diluir exactamente .,inf inf adv:adj .,ENG ENG ENG,0
+138,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+139,it's good that you're doing this stuff .,pro:per adj adv pro:per part det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+140,and you have your things to take care of yourself .,coord pro:per v det:poss n inf v n prep pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+141,it's good .,pro:per adj .,ENG ENG,0
+142,it's good .,pro:per adj .,ENG ENG,0
+143,but still what I was telling you is that we can check a couple of books and maybe ah like self help something .,conj adv pro:int pro:sub aux part pro:per cop comp pro:sub mod v det:art n prep n coord adv co co n n pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+144,and I actually need to check some books for myself .,coord pro:sub adv v inf v qn n prep pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+145,and I have woman's Dong_Quai tonic .,coord pro:sub v n n:prop n .,ENG ENG ENG ENG ENG ENG,0
+146,esto tiene cinnamon que es canela orange_peel que eso es eh la cáscara de naranja //.,pro:dem v L2 pro:rel cop n L2 pro:rel pro:dem cop co det:art n prep adj +//.,ENG ENG ESP ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+147,eh ginebra .,co L2 .,ENG ESP,1
+148,no ginebra ginger .,adv n L2 .,ENG ENG ESP,1
+149,ginger que ginger es ?,n L2 n L2 ?,ENG ESP ENG ESP,1
+150,ginger ?,n ?,ENG,0
+151,ginger .,n .,ENG,0
+152,la con la galleta .,det:art prep det:art n .,ENG ENG ENG ENG,0
+153,ajonjolí ?,n ?,ENG,0
+154,no no no .,adv adv adv .,ENG ENG ENG,0
+155,ginebra no es ginebra eh .,n adv cop n co .,ENG ENG ENG ENG ENG,0
+156,eh eh ...,co co +...,ENG ENG,0
+157,coño .,co .,ENG,0
+158,ginger ?,n ?,ENG,0
+159,ginger .,n .,ENG,0
+160,Ginger_Snaps ginger cookies .,n:prop n n .,ENG ENG ENG,0
+161,ginger ginger ginger .,n n n .,ENG ENG ENG,0
+162,how do you call those ah seeds that ah buns have when you are having a hamburger .,pro:int mod pro:per v det:dem co n pro:rel co n v conj pro:per aux part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+163,no no no it's sesame .,co co co pro:per n .,ENG ENG ENG ENG ENG,0
+164,and they have those /.,coord pro:sub v pro:dem +/.,ENG ENG ENG ENG,0
+165,eso es sesame .,pro:dem cop L2 .,ENG ENG ESP,1
+166,oh yeah .,co co .,ENG ENG,0
+167,ginger .,n .,ENG,0
+168,ginger jengibre ?,n L2 ?,ENG ESP,1
+169,coño !,co !,ENG,0
+170,eso mismo .,L2 L2 .,ESP ESP,0
+171,but it's not for cooking ?,conj pro:per neg prep n:gerund ?,ENG ENG ENG ENG ENG,0
+172,it's like a little bitter ?,pro:per conj det:art adj adj ?,ENG ENG ENG ENG ENG,0
+173,no .,L2 .,ESP,0
+174,no sí porque eh sí sí sí .,adv co conj co co co co .,ENG ENG ENG ENG ENG ENG ENG,0
+175,like strong .,prep adj .,ENG ENG,0
+176,so ginger es jengibre .,co n L2 L2 .,ENG ENG ESP ESP,1
+177,jengibre sí jengibre sí .,n co n co .,ENG ENG ENG ENG,0
+178,este ...,det:dem +...,ENG,0
+179,eh fennel .,co n .,ENG ENG,0
+180,no sé qué es fennel este .,adv v pro:int cop L2 imp .,ENG ENG ENG ENG ESP ENG,1
+181,esto tiene eh eh manzanilla .,pro:dem v co co n .,ENG ENG ENG ENG ENG,0
+182,eh dandelion .,co n .,ENG ENG,0
+183,eh no sé cómo se dice .,co adv v pro:int pro:refl v .,ENG ENG ENG ENG ENG ENG,0
+184,and how long //.,coord pro:int adv +//.,ENG ENG ENG,0
+185,how long are your eh periods ?,pro:int adj aux det:poss co n ?,ENG ENG ENG ENG ENG ENG,0
+186,este /.,det:dem +/.,ENG,0
+187,for how long ?,prep pro:int adv ?,ENG ENG ENG,0
+188,three days five six ?,det:num n det:num det:num ?,ENG ENG ENG ENG,0
+189,no siete .,adv det:num .,ENG ENG,0
+190,fuck !,v !,ENG,0
+191,yo sangro por siete días .,pro:sub v prep det:num n .,ENG ENG ENG ENG ENG,0
+192,!,None,,0
+193,no y por eso le dije hoy /.,adv coord prep pro:dem pro:ind v adv +/.,ENG ENG ENG ENG ENG ENG ENG,0
+194,no puede ser de verdad ?,adv v inf prep co ?,ENG ENG ENG ENG ENG,0
+195,sí .,co .,ENG,0
+196,"por eso yo le dije a mami ""/.","prep pro:dem pro:sub pro:ind v aprep n +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+197,este like thanks for giving me you know your strong periodos .,L2 co co prep n:gerund pro:obj pro:per v det:poss adj L2 .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+198,for having inherit .,prep n:gerund v .,ENG ENG ENG,0
+199,"and she is like ""/.","coord pro:sub cop co +""/.",ENG ENG ENG ENG,0
+200,you're welcome .,pro:per adj .,ENG ENG,0
+201,exactly .,adv .,ENG,0
+202,sí eso es .,co pro:dem cop .,ENG ENG ENG,0
+203,eso eso es de ...,pro:dem pro:dem cop prep +...,ENG ENG ENG ENG,0
+204,oh that's a huge inconvenience !,co pro:dem det:art adj in#n !,ENG ENG ENG ENG ENG,0
+205,eso es de .,pro:dem cop prep .,ENG ENG ENG,0
+206,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+207,seven days !,det:num n !,ENG ENG,0
+208,sí .,co .,ENG,0
+209,no está //.,adv cop +//.,ENG ENG,0
+210,lo que pasa es que los primeros como dos o tres días me siento como que .,pro:obj pro:rel v cop pro:rel pro:obj adj:num pro:rel det:num coord det:num n pro:obj v adv pro:rel .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+211,este tengo fatiga .,det:dem v v .,ENG ENG ENG,0
+212,y después este estoy agitada y //.,coord adv det:dem aux part coord +//.,ENG ENG ENG ENG ENG ENG,0
+213,y como que crispy y ...,L2 L2 L2 adj L2 +...,ESP ESP ESP ENG ESP,1
+214,ah ...,co +...,ENG,0
+215,you know what ?,pro:per v pro:int ?,ENG ENG ENG,0
+216,consider all the facts of ah just been a woman .,v qn det:art n prep co adv cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+217,it's yeah it's a pain of fucking ass .,pro:per co pro:per det:art n prep n:gerund n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+218,.,None,,0
+219,yeah like quarter of the time you have blood in yourself like you are bleeding .,co prep n prep det:art n pro:per v n prep pro:refl prep pro:per aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+220,yo .,L2 .,ESP,0
+221,yes .,co .,ENG,0
+222,like one week every four .,prep det:num n qn det:num .,ENG ENG ENG ENG ENG,0
+223,no every //.,qn qn +//.,ENG ENG,0
+224,yeah .,co .,ENG,0
+225,mhm .,L2 .,ESP,0
+226,so like a quarter /.,adv prep det:art n +/.,ENG ENG ENG ENG,0
+227,cada mes //.,det:indef n +//.,ENG ENG,0
+228,quarter of the month you are bleeding .,n prep det:art n pro:per aux part .,ENG ENG ENG ENG ENG ENG ENG,0
+229,veintiocho días veintiocho días .,det:num n det:num n .,ENG ENG ENG ENG,0
+230,and then you can have your own pleasure and eh have sex and whatever .,coord adv:tem pro:per mod v det:poss adj n coord co v n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+231,but if you get pregnant you need to give birth through there .,conj conj pro:per v adj pro:per v inf v n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+232,yeah .,co .,ENG,0
+233,.,None,,0
+234,y eso se estira .,coord pro:dem pro:refl v .,ENG ENG ENG ENG,0
+235,and it's painful .,coord pro:per adj .,ENG ENG ENG,0
+236,y eso se estira .,coord pro:dem pro:refl v .,ENG ENG ENG ENG,0
+237,no se estira no .,adv pro:refl v adv .,ENG ENG ENG ENG,0
+238,yo no estoy de acuerdo con eso .,pro:sub adv cop imp v prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+239,I don't like like natural birth .,pro:sub mod v prep adj n .,ENG ENG ENG ENG ENG ENG,0
+240,for me natural birth it's just unnatural .,prep pro:obj adj n pro:per adj un#adj .,ENG ENG ENG ENG ENG ENG ENG,0
+241,you think it's barbaric .,pro:per v pro:per adj .,ENG ENG ENG ENG,0
+242,yeah it is .,co pro:per cop .,ENG ENG ENG,0
+243,it was another way for God to punish people .,pro:per cop qn n prep n:prop inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+244,women once again .,n adv adv .,ENG ENG ENG,0
+245,yeah yeah yo pensaba mira /.,co co L2 L2 L2 +/.,ENG ENG ESP ESP ESP,1
+246,sí yo alguna vez me caso y le pido a mi esposa que por favor no tenga un parto natural porque eso es mucho dolor y mucha sangre .,co pro:sub det:indef n pro:obj v coord pro:ind v aprep det:pos n pro:rel prep n adv v det:art v adj conj pro:dem cop adv n coord det:indef v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+247,no .,adv .,ENG,0
+248,no no no pero eso es lo mejor porque la cesárea /.,adv adv adv conj pro:dem cop pro:obj adj conj det:art n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+249,it is not going to //.,pro:per aux neg part inf +//.,ENG ENG ENG ENG ENG,0
+250,la cesárea es peor .,det:art n cop adv .,ENG ENG ENG ENG,0
+251,no I know that I //.,co pro:sub v comp pro:sub +//.,ENG ENG ENG ENG ENG,0
+252,but the person will be able to keep the same shape and the muscle tone and everything .,conj det:art n mod cop adj inf v det:art adj n coord det:art n n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+253,carajo carajo you're thinking about oh I don't want my wife to have stretch out her tight pussy .,L2 L2 pro:per part adv co pro:sub mod v det:poss n inf v n prep det:poss adj n .,ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+254,yeah .,co .,ENG,0
+255,I am thinking that .,pro:sub aux part comp .,ENG ENG ENG ENG,0
+256,well /.,co +/.,ENG,0
+257,why would I want it that way like eh I don't know it's so uncomfortable .,pro:int mod pro:sub v pro:per det:dem n co co pro:sub mod v pro:per adv un#adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+258,pero es no es peor James porque //.,L2 L2 L2 L2 L2 n:prop L2 +//.,ESP ESP ESP ESP ESP ENG ESP,1
+259,tú te imaginas .,pro:sub pro:obj v .,ENG ENG ENG,0
+260,la persona se recupera más rápido con un parto natural .,det:art n pro:refl v adv adj prep det:art v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+261,no .,adv .,ENG,0
+262,exactamente yeah .,L2 co .,ESP ENG,1
+263,adelgaza más rápido .,v adv adj .,ENG ENG ENG,0
+264,sí .,co .,ENG,0
+265,es mejor en muchos sentidos .,cop adj prep det:indef part .,ENG ENG ENG ENG ENG,0
+266,sí .,co .,ENG,0
+267,pero la destruye por allá .,conj pro:obj v prep adv .,ENG ENG ENG ENG ENG,0
+268,pero para /.,conj v +/.,ENG ENG,0
+269,it's going must likely the person is going to be like loose .,pro:per part mod adv det:art n aux part inf cop prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+270,and that's why you do Kegel muscles .,coord pro:dem pro:int pro:per v n:prop v .,ENG ENG ENG ENG ENG ENG ENG,0
+271,oh not enough .,co neg adv .,ENG ENG ENG,0
+272,I wouldn't say that it's enough //.,pro:sub mod v adv pro:per adv +//.,ENG ENG ENG ENG ENG ENG,0
+273,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+274,I don't like that .,pro:sub mod v pro:dem .,ENG ENG ENG ENG,0
+275,ah you know that I have blood phobia .,co pro:per v comp pro:sub v n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+276,did you know that ?,mod pro:per v pro:dem ?,ENG ENG ENG ENG,0
+277,what ?,pro:int ?,ENG,0
+278,no no sabía no sabía .,adv adv v adv v .,ENG ENG ENG ENG ENG,0
+279,blood phobia .,n n .,ENG ENG,0
+280,in Spanish is hematofobia .,prep n:prop cop L2 .,ENG ENG ENG ESP,1
+281,sí que no te gusta ver sangre .,co pro:rel adv pro:obj v inf v .,ENG ENG ENG ENG ENG ENG ENG,0
+282,ah who likes to see blood ?,co pro:rel v inf v n ?,ENG ENG ENG ENG ENG ENG,0
+283,a mí tampoco .,aprep pro:prep adv .,ENG ENG ENG,0
+284,no one .,qn pro:indef .,ENG ENG,0
+285,a mí tampoco .,aprep pro:prep adv .,ENG ENG ENG,0
+286,but I could faint .,conj pro:sub mod v .,ENG ENG ENG ENG,0
+287,no ah coño tú eres como mi papá .,L2 co L2 L2 L2 L2 L2 L2 .,ESP ENG ESP ESP ESP ESP ESP ESP,1
+288,you're just like my dad .,pro:per adv prep det:poss n .,ENG ENG ENG ENG ENG,0
+289,I'm becoming stronger .,pro:sub part adj .,ENG ENG ENG,0
+290,but ah like ten years ago //.,conj co co det:num n post +//.,ENG ENG ENG ENG ENG ENG,0
+291,no .,co .,ENG,0
+292,my dad was just the same .,det:poss n cop adv det:art adj .,ENG ENG ENG ENG ENG ENG,0
+293,if I happens to see like running blood or something like that I feel disgust and I feel weak and I //.,conj pro:sub v inf v co part n coord pro:indef co adv pro:sub v n coord pro:sub v adj coord pro:sub +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+294,ajá .,co .,ENG,0
+295,it's like my type kryptonite .,pro:per co det:poss n n .,ENG ENG ENG ENG ENG,0
+296,that's the point about freaking where I always /.,pro:dem det:art n prep n:gerund pro:rel pro:sub adv +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+297,sí kryptonite .,L2 n .,ESP ENG,1
+298,kryptonite yeah .,n co .,ENG ENG,0
+299,no mi papá era igual .,adv det:pos n cop co .,ENG ENG ENG ENG ENG,0
+300,.,None,,0
+301,mi papá eh se las tuvo que aguantar para estar en el parto mío .,det:pos n co pro:refl pro:obj v pro:rel inf prep inf prep det:art v pro:pos .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+302,so it's not just about a loose vagina .,adv pro:per neg adv prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+303,it's about blood too .,pro:per prep n adv .,ENG ENG ENG ENG,0
+304,I do not like when I don't know people is bleeding .,pro:sub mod neg v conj pro:sub mod v n aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+305,yeah .,co .,ENG,0
+306,I could faint as I told you .,pro:sub mod v conj pro:sub v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+307,and I'm becoming stronger .,coord pro:sub part adj .,ENG ENG ENG ENG,0
+308,but how can I say this ?,conj pro:rel mod pro:sub co det:dem ?,ENG ENG ENG ENG ENG ENG,0
+309,once I was giving blood .,adv pro:sub aux part n .,ENG ENG ENG ENG ENG,0
+310,mhm .,co .,ENG,0
+311,and ah this black guy that it was doing it was so careless .,coord co det:dem n n pro:rel pro:per aux part pro:per cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+312,mhm .,co .,ENG,0
+313,once again we're talking about that .,adv adv pro:sub part prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+314,and the guy I told him /.,coord det:art n pro:sub v pro:obj +/.,ENG ENG ENG ENG ENG ENG,0
+315,and we're talking about niggers not black people .,coord pro:sub part prep n neg adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+316,calla .,L2 .,ESP,0
+317,don't say that .,mod v comp .,ENG ENG ENG,0
+318,.,None,,0
+319,eh the /.,co det:art +/.,ENG ENG,0
+320,there's a difference .,pro:exist det:art n .,ENG ENG ENG,0
+321,there's a difference .,pro:exist det:art n .,ENG ENG ENG,0
+322,what ?,pro:int ?,ENG,0
+323,I don't want to talk about that because we already talked about that .,pro:sub mod v prep n prep pro:dem conj pro:sub adv part prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+324,okay .,co .,ENG,0
+325,okay yeah yeah yeah .,co co co co .,ENG ENG ENG ENG,0
+326,and ...,coord +...,ENG,0
+327,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+328,okay okay yeah .,co co co .,ENG ENG ENG,0
+329,he was being careless .,pro:sub cop aux adj .,ENG ENG ENG ENG,0
+330,so yeah even if he's black or not /.,co co v conj pro:sub adj coord neg +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+331,yeah he was no te acribilló .,co pro:sub cop L2 L2 L2 .,ENG ENG ENG ESP ESP ESP,1
+332,I ah /.,pro:sub co +/.,ENG ENG,0
+333,que casi te mata .,pro:rel adv pro:obj v .,ENG ENG ENG ENG,0
+334,not always expect the best type of service ah from ...,neg adv v det:art adj n prep n co prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+335,ajá .,co .,ENG,0
+336,from health people .,prep n n .,ENG ENG ENG,0
+337,especially health .,adv n .,ENG ENG,0
+338,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+339,que te estaba //.,pro:rel pro:obj aux +//.,ENG ENG ENG,0
+340,no encontraba la vena y te estaba pinchando .,adv v det:art imp coord pro:obj aux ger .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+341,I guess .,pro:sub v .,ENG ENG,0
+342,I told him clearly .,pro:sub v pro:obj adv .,ENG ENG ENG ENG,0
+343,ah I I'm more than happy to give blood .,L2 pro:sub pro:sub qn prep adj inf v n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+344,I am going to try .,pro:sub aux part inf v .,ENG ENG ENG ENG ENG,0
+345,but I have blood phobia .,conj pro:sub v n n .,ENG ENG ENG ENG ENG,0
+346,mhm .,co .,ENG,0
+347,and I could faint .,coord pro:sub mod v .,ENG ENG ENG ENG,0
+348,so I need you to be close to me and talk to me and stuff like that for me not to think about what I am doing and feel and imagine what I'm doing because /.,co pro:sub v pro:per inf cop adj prep pro:obj coord n prep pro:obj coord n prep pro:dem prep pro:obj neg inf v prep pro:int pro:sub aux part coord v coord v pro:int pro:sub part conj +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+349,te da cosa .,pro:obj v v .,ENG ENG ENG,0
+350,yeah .,co .,ENG,0
+351,it could happen if my mind is focused on that .,pro:per mod v comp det:poss n aux part prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+352,es lo que yo te estaba diciendo .,cop pro:obj pro:rel pro:sub pro:obj aux ger .,ENG ENG ENG ENG ENG ENG ENG,0
+353,sí sí sí .,co co co .,ENG ENG ENG,0
+354,que la mente no se debe enfocar en los problemas porque los ve más grandes .,pro:rel pro:obj imp adv pro:refl v inf prep det:art n conj pro:obj co adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+355,sí .,co .,ENG,0
+356,so bueno pues mira te cuento .,L2 co co co pro:obj v .,ESP ENG ENG ENG ENG ENG,1
+357,ajá .,co .,ENG,0
+358,y el el tipo me puso la inyección .,coord det:art det:art n pro:obj v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+359,y se fue .,coord pro:refl v .,ENG ENG ENG,0
+360,y yo me quedé ahí .,coord pro:sub pro:obj v adv .,ENG ENG ENG ENG ENG,0
+361,entonces tratando de pensar otra cosa otra cosa otra cosa .,adv ger prep inf det:indef v det:indef v det:indef v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+362,y no fui capaz .,coord adv v adj .,ENG ENG ENG ENG,0
+363,entonces cuando me miré el brazo I just no sé empecé a pensar sangre estoy sangre sangre .,co conj pro:obj v det:art n n:prop:L2 L2 adv v v aprep inf imp aux v v .,ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+364,te dio //.,pro:obj v +//.,ENG ENG,0
+365,yeah .,co .,ENG,0
+366,y me sentí mal .,coord pro:obj v adv .,ENG ENG ENG ENG,0
+367,you got a hot flush .,pro:per v det:art adj n .,ENG ENG ENG ENG ENG,0
+368,sí .,co .,ENG,0
+369,me sentí mal //.,pro:obj v adv +//.,ENG ENG ENG,0
+370,hot flushes ?,adj n ?,ENG ENG,0
+371,sí .,co .,ENG,0
+372,yo creí que eso solamente le daba a las mujeres .,pro:sub v pro:rel pro:dem adv pro:ind v aprep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+373,no eso es que te da el sudor .,adv pro:dem cop pro:rel pro:obj v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+374,so that un hombre puede tener hot flushes ?,adv adv L2 L2 L2 L2 adj n ?,ENG ENG ESP ESP ESP ESP ENG ENG,1
+375,sí pues claro te daba sudor .,co co co pro:obj v n .,ENG ENG ENG ENG ENG ENG,0
+376,te estabas sudando .,pro:obj aux ger .,ENG ENG ENG,0
+377,y te sentías pálido tú sabes .,coord pro:obj v adj pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+378,te como que un calentón como que .,pro:obj adv pro:rel det:art n adv pro:rel .,ENG ENG ENG ENG ENG ENG ENG,0
+379,okay .,co .,ENG,0
+380,he was just negligent .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+381,así eso es negligencia .,adv pro:dem cop n .,ENG ENG ENG ENG,0
+382,because I told him I could faint .,conj pro:sub v pro:obj pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG,0
+383,yeah .,co .,ENG,0
+384,so be here .,adv cop adv .,ENG ENG ENG,0
+385,and talk to me like //.,coord n prep pro:obj prep +//.,ENG ENG ENG ENG ENG,0
+386,exactly .,adv .,ENG,0
+387,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+388,if I'm doing this for you because I do not like it and I know that I could faint .,conj pro:sub part pro:dem prep pro:per conj pro:sub mod neg v pro:per coord pro:sub v comp pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+389,mhm .,co .,ENG,0
+390,mhm .,co .,ENG,0
+391,I'm doing it because I want to be nice and maybe help a child or something like that .,pro:sub part pro:per conj pro:sub v inf cop adj coord adv v det:art n coord pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+392,mhm .,co .,ENG,0
+393,but he just left me there .,conj pro:sub adv v pro:obj adv .,ENG ENG ENG ENG ENG ENG,0
+394,so I fainted .,co pro:sub v .,ENG ENG ENG,0
+395,mhm .,co .,ENG,0
+396,and when I faint I pulled my arm and it removed the needle .,coord conj pro:sub adj pro:sub v det:poss n coord pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+397,mhm .,co .,ENG,0
+398,so there was blood all around the floor .,co pro:exist cop n adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+399,oh !,co !,ENG,0
+400,and I just fainted .,coord pro:sub adv part .,ENG ENG ENG ENG,0
+401,and it was so deep .,coord pro:per cop adv adj .,ENG ENG ENG ENG ENG,0
+402,and I felt like shit .,coord pro:sub v conj n .,ENG ENG ENG ENG ENG,0
+403,have you fainted once or ..?,v pro:per part adv coord +..?,ENG ENG ENG ENG ENG,0
+404,sí .,co .,ENG,0
+405,when they ah I almost fainted right after when they did this .,conj pro:sub co pro:sub adv part adj prep conj pro:sub mod det:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+406,yeah .,co .,ENG,0
+407,because I was like freaking out about the pain .,conj pro:sub cop co part adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+408,so /.,co +/.,ENG,0
+409,it was painful ?,pro:per cop adj ?,ENG ENG ENG,0
+410,they //.,pro:sub +//.,ENG,0
+411,it was painful .,pro:per cop adj .,ENG ENG ENG,0
+412,pero es que yo me //.,conj cop pro:rel pro:sub pro:obj +//.,ENG ENG ENG ENG ENG,0
+413,I was just like thinking ...,pro:sub cop adv co part +...,ENG ENG ENG ENG ENG,0
+414,I was like tired .,pro:sub cop co v .,ENG ENG ENG ENG,0
+415,I was really /.,pro:sub cop adv +/.,ENG ENG ENG,0
+416,it's just a piercing you know .,pro:per adj det:art n:gerund pro:per v .,ENG ENG ENG ENG ENG ENG,0
+417,I know .,pro:sub v .,ENG ENG,0
+418,pero es que no me gusta el dolor .,conj cop pro:rel adv pro:obj v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+419,and the needle .,coord det:art n .,ENG ENG ENG,0
+420,no me gusta el dolor .,adv pro:obj v det:art n .,ENG ENG ENG ENG ENG,0
+421,no .,adv .,ENG,0
+422,type of piercings .,n prep n:gerund .,ENG ENG ENG,0
+423,those are even more painful .,pro:dem cop adv qn adj .,ENG ENG ENG ENG ENG,0
+424,I know I know .,pro:sub v pro:sub v .,ENG ENG ENG ENG,0
+425,pero no eh el muchacho .,L2 L2 co L2 L2 .,ESP ESP ENG ESP ESP,1
+426,it's crazy .,pro:per adj .,ENG ENG,0
+427,el muchacho que que pasamos vamos a pasar después y te lo presento .,det:art n pro:rel pro:rel v v aprep inf adv coord pro:obj pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+428,estaba así .,cop adv .,ENG ENG,0
+429,y yo vomité .,coord pro:sub v .,ENG ENG ENG,0
+430,me hicieron eso .,pro:obj v pro:dem .,ENG ENG ENG,0
+431,pero yo estaba tan mareada de la situación que yo vomité .,conj pro:sub cop adv part prep det:art n pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+432,"y él como ""/.","coord pro:sub adv +""/.",ENG ENG ENG,0
+433,ay /.,L2 +/.,ESP,0
+434,pero te has desmayado totalmente alguna vez en tu vida ?,conj pro:obj aux part adv:adj det:indef n prep det:pos co:voc ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+435,dime sí o no nada más .,imp co coord adv v adv .,ENG ENG ENG ENG ENG ENG,0
+436,no no .,adv adv .,ENG ENG,0
+437,bueno tú no sabes lo que se siente desmayarse .,co pro:sub adv v pro:obj pro:rel pro:refl v inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+438,no .,adv .,ENG,0
+439,por poco me desmayo .,prep adv pro:obj v .,ENG ENG ENG ENG,0
+440,it's like ah //.,pro:per co co +//.,ENG ENG ENG,0
+441,por poco me desmayo .,prep adv pro:obj v .,ENG ENG ENG ENG,0
+442,they had to //.,pro:sub v prep +//.,ENG ENG ENG,0
+443,it's it's like you're dying .,pro:per pro:per conj pro:per part .,ENG ENG ENG ENG ENG,0
+444,I know .,pro:sub v .,ENG ENG,0
+445,like you feel like you're losing yourself .,conj pro:per v conj pro:per part pro:refl .,ENG ENG ENG ENG ENG ENG ENG,0
+446,like oh my God !,co co det:poss n:prop !,ENG ENG ENG ENG,0
+447,and fuck and you feel so weak /.,coord v coord pro:per v adv adj +/.,ENG ENG ENG ENG ENG ENG ENG,0
+448,I almost fainted no I almost fainted at ah his place .,pro:sub adv part co pro:sub adv part prep co det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+449,and helpless .,coord adj .,ENG ENG,0
+450,you have no idea what it is to be actually in that position .,pro:per v qn n pro:int pro:per cop inf cop adv prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+451,so I had //.,co pro:sub v +//.,ENG ENG ENG,0
+452,it happened to me like five times or six .,pro:per v prep pro:obj co det:num n coord det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+453,and it's //.,coord pro:per +//.,ENG ENG,0
+454,oh I hate it .,co pro:sub v pro:per .,ENG ENG ENG ENG,0
+455,no no what I'm trying to tell you is I did not faint .,co co pro:int pro:sub part inf v pro:per cop pro:sub mod neg adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+456,but I was this close to fainting because I threw up //.,conj pro:sub cop det:dem adj prep n:gerund conj pro:sub v adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+457,not the same stuff .,neg det:art adj n .,ENG ENG ENG ENG,0
+458,what if you start to faint ?,pro:int conj pro:per v inf v ?,ENG ENG ENG ENG ENG ENG,0
+459,I can understand /.,pro:sub mod v +/.,ENG ENG ENG,0
+460,would you //.,mod pro:per +//.,ENG ENG,0
+461,no you have no idea .,co pro:per v qn n .,ENG ENG ENG ENG ENG,0
+462,when you actually faint when you lose your ah consciousness .,conj pro:per adv adj conj pro:per v det:poss co n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+463,ajá .,co .,ENG,0
+464,consciousness .,n .,ENG,0
+465,you feel like crap .,pro:per v prep n .,ENG ENG ENG ENG,0
+466,it's even worse .,pro:per adv adj .,ENG ENG ENG,0
+467,because I have been in your /.,conj pro:sub aux cop prep det:poss +/.,ENG ENG ENG ENG ENG ENG,0
+468,no no no no no .,co co co co co .,ENG ENG ENG ENG ENG,0
+469,stop !,n !,ENG,0
+470,.,None,,0
+471,oh .,co .,ENG,0
+472,remember wisdom .,v n .,ENG ENG,0
+473,qué te dije ?,pro:int pro:obj v ?,ENG ENG ENG,0
+474,.,None,,0
+475,continue .,v .,ENG,0
+476,tú tienes que aprender a abrir los ojos .,pro:sub v pro:rel inf aprep inf det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+477,y abrir las orejitas .,coord inf det:art n .,ENG ENG ENG ENG,0
+478,mhm .,co .,ENG,0
+479,porque la sabiduría entra por los ojos y las orejitas .,conj det:art n v prep det:art n coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+480,a veces tú no me has escuchado en absoluto lo que estoy diciendo .,aprep n pro:sub adv pro:obj aux part prep adj pro:obj prep aux ger .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+481,déjame terminar .,imp inf .,ENG ENG,0
+482,okay .,co .,ENG,0
+483,que tú que me dices que yo hablo mucho .,pro:rel pro:sub pro:rel pro:obj v pro:rel pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+484,ya te voy a acabar de decir .,adv pro:obj v aprep inf prep inf .,ENG ENG ENG ENG ENG ENG ENG,0
+485,ah I have felt like you have felt like ah I'm about to lose my consciousness .,co pro:sub aux part conj pro:per v n co co pro:sub adv inf v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+486,mhm .,co .,ENG,0
+487,yeah .,co .,ENG,0
+488,and it's terrible .,coord pro:per adj .,ENG ENG ENG,0
+489,it's not nice to be in that position .,pro:per neg adj inf cop prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+490,but actually losing the consciousness is worst .,conj adv part det:art n cop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+491,mhm okay .,co co .,ENG ENG,0
+492,so you do not know that part .,co pro:per v neg v adv n .,ENG ENG ENG ENG ENG ENG ENG,0
+493,okay .,co .,ENG,0
+494,so it has happened to me that I have like lost my consciousness .,co pro:per aux part prep pro:obj comp pro:sub v prep v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+495,and it's terrible .,coord pro:per adj .,ENG ENG ENG,0
+496,it's like a small death .,pro:per conj det:art adj n .,ENG ENG ENG ENG ENG,0
+497,mhm .,co .,ENG,0
+498,something like that .,pro:indef prep pro:dem .,ENG ENG ENG,0
+499,pero lo que te estaba diciendo qué era ?,conj pro:obj pro:rel pro:obj aux ger pro:int cop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+500,ah bueno yo veo sangre y me desmayo .,co L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP,1
+501,ajá .,co .,ENG,0
+502,so then I have plenty of reasons for not ah I don't know support natural birth .,adv adv:tem pro:sub v adv prep n prep neg co pro:sub mod v n adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+503,mhm .,co .,ENG,0
+504,it's so unnatural and painful .,pro:per adv un#adj coord adj .,ENG ENG ENG ENG ENG,0
+505,mhm .,co .,ENG,0
+506,and most likely the person is going to get a loose vagina .,coord qn adv det:art n aux part inf v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+507,mhm .,co .,ENG,0
+508,and even the doctor put the hands inside the vagina to pull the placenta .,coord adv det:art n v det:art n prep det:art n inf v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+509,mhm .,co .,ENG,0
+510,yeah .,co .,ENG,0
+511,placenta how do you say that ?,n pro:rel mod pro:per v comp ?,ENG ENG ENG ENG ENG ENG,0
+512,yeah yeah .,co co .,ENG ENG,0
+513,the placenta .,det:art n .,ENG ENG,0
+514,yeah placenta .,co n .,ENG ENG,0
+515,in English .,prep n:prop .,ENG ENG,0
+516,placenta .,n .,ENG,0
+517,that's it .,pro:dem pro:per .,ENG ENG,0
+518,how do you pronounce it ?,pro:int mod pro:per v pro:per ?,ENG ENG ENG ENG ENG,0
+519,placenta .,n .,ENG,0
+520,placenta ?,n ?,ENG,0
+521,yeah .,co .,ENG,0
+522,okay so the doctor takes the placenta .,co conj det:art n v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+523,ajá .,co .,ENG,0
+524,out of the woman like pulling it with his own //.,adv prep det:art n prep part pro:per prep det:poss adj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+525,yeah .,co .,ENG,0
+526,like the whole hand goes inside .,prep det:art adj n v adv .,ENG ENG ENG ENG ENG ENG,0
+527,and it's so barbaric !,coord pro:per adv adj !,ENG ENG ENG ENG,0
+528,yeah .,co .,ENG,0
+529,and !,coord !,ENG,0
+530,and it's not just about myself and my pleasure but about the blood and //.,coord pro:per neg adv prep pro:refl coord det:poss n conj prep det:art n coord +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+531,mhm .,co .,ENG,0
+532,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+533,it's terrible .,pro:per adj .,ENG ENG,0
+534,I was ...,pro:sub cop +...,ENG ENG,0
+535,bueno te digo que yo soy brava porque yo fui la fotógrafa el parto de mi hermana .,co pro:obj v pro:rel pro:sub cop adj conj pro:sub v det:art n det:art v prep det:pos n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+536,yo fui la fotógrafa .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+537,tu hermana //.,det:pos n +//.,ENG ENG,0
+538,tú tienes una hermana mayor ?,pro:sub v det:art n adj ?,ENG ENG ENG ENG ENG,0
+539,no .,adv .,ENG,0
+540,de Carla .,L2 n:prop .,ESP ENG,1
+541,ah !,co !,ENG,0
+542,yo estuve ahí .,pro:sub cop adv .,ENG ENG ENG,0
+543,cuando nació tu hermana .,conj v det:pos n .,ENG ENG ENG ENG,0
+544,sí cuando nació /.,co pro:rel v +/.,ENG ENG ENG,0
+545,yo creía que tenías una hermana que había dado a luz .,pro:sub v pro:rel v det:art n pro:rel aux part aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+546,no no no no no cuando mi /.,adv adv adv adv adv conj det:pos +/.,ENG ENG ENG ENG ENG ENG ENG,0
+547,oy horroroso horroroso .,L2 adj adj .,ESP ENG ENG,1
+548,sí no no .,co adv adv .,ENG ENG ENG,0
+549,me dio cosa .,pro:obj v v .,ENG ENG ENG,0
+550,sí .,co .,ENG,0
+551,me dio un poquito de cosa .,pro:obj v det:art pro:indef prep v .,ENG ENG ENG ENG ENG ENG,0
+552,no te sentiste mal viendo a tu mamá ?,adv pro:obj v adv ger aprep det:pos n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+553,no no lo único que me dolía /.,adv adv pro:obj adj pro:rel pro:obj v +/.,ENG ENG ENG ENG ENG ENG ENG,0
+554,le dan hernias y haemorrhoids .,pro:ind v n coord L2 .,ENG ENG ENG ENG ESP,1
+555,sí es así yeah .,co cop adv co .,ENG ENG ENG ENG,0
+556,it's terrible !,pro:per adj !,ENG ENG,0
+557,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+558,cuando no tengas hijos .,conj adv v n .,ENG ENG ENG ENG,0
+559,people //.,n +//.,ENG,0
+560,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+561,there should be like ah some sort of device to have children .,adv mod aux co co qn n prep n inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+562,like put them like in some sort of microwave or something like an oven !,co v pro:obj prep prep qn n prep n coord pro:indef prep det:art n !,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+563,la esperma y el óvulo .,det:art n coord det:art n .,ENG ENG ENG ENG ENG,0
+564,like how do you say that ?,prep pro:int mod pro:per v comp ?,ENG ENG ENG ENG ENG ENG,0
+565,in Spanish se dice el cigoto .,prep n:prop L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP,1
+566,eh la mórula blástula .,co det:art n n .,ENG ENG ENG ENG,0
+567,that's /.,pro:dem +/.,ENG,0
+568,ajá .,co .,ENG,0
+569,when it's growing /.,conj pro:per part +/.,ENG ENG ENG,0
+570,you're talking about infertile //.,pro:per part prep in#adj +//.,ENG ENG ENG ENG,0
+571,you're talking about instead of having inside //.,pro:per part adv adv prep n:gerund adv +//.,ENG ENG ENG ENG ENG ENG ENG,0
+572,no that is fucked up !,co pro:rel aux part adv !,ENG ENG ENG ENG ENG,0
+573,that is the most fucked up thing I've ever heard you say .,pro:dem cop det:art qn v adv n pro:sub adv part pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+574,because the baby's supposed to be inside the woman /.,conj det:art adj v inf cop prep det:art n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+575,I'm just joking .,pro:sub adv part .,ENG ENG ENG,0
+576,I'm just joking .,pro:sub adv part .,ENG ENG ENG,0
+577,oh okay .,co co .,ENG ENG,0
+578,but it would be so convenient .,conj pro:per mod cop adv adj .,ENG ENG ENG ENG ENG ENG,0
+579,it would /.,pro:per mod +/.,ENG ENG,0
+580,"can you imagine ""/.","mod pro:per v +""/.",ENG ENG ENG,0
+581,let's see our fetus !,v v det:poss n !,ENG ENG ENG ENG,0
+582,it's on the microwave growing .,pro:per adv det:art n part .,ENG ENG ENG ENG ENG,0
+583,no no that's fucked up !,co co pro:dem v adv !,ENG ENG ENG ENG ENG,0
+584,and you open there and you ...,coord pro:per v adv coord pro:per +...,ENG ENG ENG ENG ENG ENG,0
+585,I'm telling you that's fucked up man !,pro:sub part pro:per pro:rel part adv n !,ENG ENG ENG ENG ENG ENG ENG,0
+586,no no but what if //.,co co conj pro:int conj +//.,ENG ENG ENG ENG ENG,0
+587,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+588,it would be so unnatural to have a child like growing like a fetus outside the woman .,pro:per mod cop adv un#adj inf v det:art n prep part conj det:art n adj det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+589,and I know this is the un bebé de laboratorio .,coord pro:sub v pro:dem cop det:art L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+590,yeah the whole nine months in the lab .,co det:art n det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+591,I know .,pro:sub v .,ENG ENG,0
+592,eso es como si fuera un producto .,pro:dem cop adv conj adv det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+593,eso no es una persona .,pro:dem adv cop det:art n .,ENG ENG ENG ENG ENG,0
+594,it's going to become a product sooner than later !,pro:per part inf cop det:art n adj prep adv !,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+595,no pero es no no no eso es /.,adv conj cop adv adv adv pro:dem cop +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+596,let's buy a baby !,v v det:art n !,ENG ENG ENG ENG,0
+597,that's I know that's ...,pro:dem pro:sub v comp +...,ENG ENG ENG ENG,0
+598,let's get a baby !,v v det:art n !,ENG ENG ENG ENG,0
+599,un bebé no es un perrito tampoco sabes .,det:art n adv cop det:art n adv v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+600,eso es tan contra Dios y contra la naturaleza que la iglesia está opuesta a todo eso .,pro:dem cop adv prep n:prop coord prep det:art n prep det:art n cop adj aprep det:indef pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+601,es tan contra la vida .,cop adv prep det:art co:voc .,ENG ENG ENG ENG ENG,0
+602,mhm .,co .,ENG,0
+603,qué yo no sé muy bien qué es eso de las células madres que Bush no apoya ?,pro:int pro:sub adv v adv adv pro:int cop pro:dem prep det:art n n pro:rel n:prop adv v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+604,oh stem cell .,co n n .,ENG ENG ENG,0
+605,stem cell .,n n .,ENG ENG,0
+606,yeah I have no idea about that .,co pro:sub v qn n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+607,no let's not talk about that .,co v neg v prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+608,it's like kind of using fetus to //.,pro:per co adj prep n:gerund n inf +//.,ENG ENG ENG ENG ENG ENG ENG,0
+609,I don't know something .,pro:sub mod v pro:indef .,ENG ENG ENG ENG,0
+610,let's go back to this .,v v adv prep pro:dem .,ENG ENG ENG ENG ENG,0
+611,no more no more !,co adv qn pro:indef !,ENG ENG ENG ENG,0
+612,I don't want more .,pro:sub mod v adv .,ENG ENG ENG ENG,0
+613,no .,co .,ENG,0
+614,what Dong_Quai /.,pro:int n:prop +/.,ENG ENG,0
+615,no more herbs and stuff .,qn qn n coord n .,ENG ENG ENG ENG ENG,0
+616,boring stuff .,part n .,ENG ENG,0
+617,do you ever hear me talk about that like ..?,mod pro:per adv v pro:obj v prep pro:dem prep +..?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+618,I know but I didn't finish reading it .,pro:sub v conj pro:sub mod v part pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+619,okay man read it !,co n v pro:per !,ENG ENG ENG ENG,0
+620,read all of them .,v pro:indef prep pro:obj .,ENG ENG ENG ENG,0
+621,it has stinging nettle .,pro:per aux part v .,ENG ENG ENG ENG,0
+622,no tengo ni idea qué es eso .,adv v coord n pro:int cop pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+623,organic Dong_Quai .,adj n:prop .,ENG ENG,0
+624,ah that's the Chinese .,co pro:dem det:art n:prop .,ENG ENG ENG ENG,0
+625,the chingchangchongchong .,det:art on .,ENG ENG,0
+626,y qué es esto ?,coord pro:int cop pro:dem ?,ENG ENG ENG ENG,0
+627,a PMS lollipop ?,det:art n:prop n ?,ENG ENG ENG,0
+628,yeah .,co .,ENG,0
+629,with what ?,prep pro:int ?,ENG ENG,0
+630,it's actually /?,pro:per adv +/?,ENG ENG,0
+631,no that's just me that's just before //.,co pro:dem adv pro:obj pro:dem adj adv +//.,ENG ENG ENG ENG ENG ENG ENG,0
+632,because me gusta el dulce .,L2 pro:obj v det:art adj .,ESP ENG ENG ENG ENG,1
+633,kosher .,adj .,ENG,0
+634,Dong_Quai /.,n:prop +/.,ENG,0
+635,so it's not intended for helping you with your PMS ?,co pro:per neg part prep n:gerund pro:per prep det:poss n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+636,no that's just me because I bought it yesterday .,co pro:dem adv pro:obj conj pro:sub v pro:per adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+637,Dong_Quai root extract .,n:prop n n .,ENG ENG ENG,0
+638,juniper berry extract .,n n n .,ENG ENG ENG,0
+639,organic orange oil /.,adj adj n +/.,ENG ENG ENG,0
+640,looks like a lollipop made out of herbs or something .,v conj det:art n v adv prep n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+641,stevia .,n .,ENG,0
+642,stevia leaf .,n n .,ENG ENG,0
+643,oh stevia !,co n !,ENG ENG,0
+644,stevia's good !,adj adj !,ENG ENG,0
+645,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+646,I know .,pro:sub v .,ENG ENG,0
+647,that regulates your blood sugar .,pro:rel v det:poss n n .,ENG ENG ENG ENG ENG,0
+648,stevia ?,n ?,ENG,0
+649,stevia .,n .,ENG,0
+650,so expensive !,adv adj !,ENG ENG,0
+651,it is .,pro:per cop .,ENG ENG,0
+652,have you tried it ?,aux pro:per v pro:per ?,ENG ENG ENG ENG,0
+653,the natural one ?,det:art adj pro:indef ?,ENG ENG ENG,0
+654,yeah this is all natural .,co pro:dem cop adv adj .,ENG ENG ENG ENG ENG,0
+655,no but ah /.,co conj co +/.,ENG ENG ENG,0
+656,organic /.,adj +/.,ENG,0
+657,no no I mean the leaves .,co co pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG,0
+658,ah tú solo ?,co L2 L2 ?,ENG ESP ESP,1
+659,no no no no no .,L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP,0
+660,the leaves .,det:art n .,ENG ENG,0
+661,the leaves itself .,det:art n pro:refl .,ENG ENG ENG,0
+662,ah no no lo he probado .,co L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP,1
+663,and you know what is stevia ?,coord pro:per v pro:int cop n ?,ENG ENG ENG ENG ENG ENG,0
+664,sí .,co .,ENG,0
+665,it's like a plant that grows in Chile .,pro:per conj det:art n pro:rel v adv n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+666,.,None,,0
+667,yeah .,co .,ENG,0
+668,in Chile .,prep n:prop .,ENG ENG,0
+669,recently discover I don't know but the fact is that might be ah the next big thing to replace sugar or .,adv v pro:sub mod v conj det:art n cop adv mod cop co det:art adj adj n inf re#v n coord .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+670,.,None,,0
+671,ahhah .,co .,ENG,0
+672,sí eso mismo .,co pro:dem adj .,ENG ENG ENG,0
+673,esa mismo es .,det:dem adj cop .,ENG ENG ENG,0
+674,yo sé todo eso .,pro:sub v det:indef pro:dem .,ENG ENG ENG ENG,0
+675,pero es muy cara .,conj cop adv adj .,ENG ENG ENG ENG,0
+676,es carísima .,cop adj .,ENG ENG,0
+677,sí sí sí .,co co co .,ENG ENG ENG,0
+678,es carísima .,cop adj .,ENG ENG,0
+679,son unas hojitas dulces .,cop det:art n adj .,ENG ENG ENG ENG,0
+680,que tú las coges .,pro:rel pro:sub pro:obj v .,ENG ENG ENG ENG,0
+681,y las secas .,coord pro:obj v .,ENG ENG ENG,0
+682,y te las metes en la boca y te endulzan .,coord pro:obj pro:obj v prep det:art n coord pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+683,sí yeah .,L2 co .,ESP ENG,1
+684,endulzan natural y rico .,v adj coord adj .,ENG ENG ENG ENG,0
+685,y sin una sola caloría .,coord prep pro:dem adj n .,ENG ENG ENG ENG ENG,0
+686,eso es esto mismo .,pro:dem cop pro:dem adj .,ENG ENG ENG ENG,0
+687,.,None,,0
+688,stevia leaf esto es /.,n n L2 L2 +/.,ENG ENG ESP ESP,1
+689,pero es bien caro .,conj cop adv adj .,ENG ENG ENG ENG,0
+690,sí por eso es que estos tés son bien caros .,co prep pro:dem cop pro:rel det:dem n cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+691,esos tés son orgánicos .,det:dem n cop adj .,ENG ENG ENG ENG,0
+692,y son hechos como en la tradición hindú de Ayurveda /.,coord cop part adv prep det:art n adj prep n:prop +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+693,Ayurdeva .,n:prop .,ENG,0
+694,yeah eso mismo !,co pro:dem adj !,ENG ENG ENG,0
+695,Ayurdeva .,n:prop .,ENG,0
+696,Ayurvedic .,n:prop .,ENG,0
+697,.,None,,0
+698,you know that I used to be a Hare_Krishna ?,pro:per v comp pro:sub v inf cop det:art n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+699,yes you told me .,co pro:per v pro:obj .,ENG ENG ENG ENG,0
+700,and I used to be a lot of things .,coord pro:sub v inf cop det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+701,so let's count them down .,adv v v pro:obj adv .,ENG ENG ENG ENG ENG,0
+702,oh the list is huge .,co det:art n cop adj .,ENG ENG ENG ENG ENG,0
+703,I know .,pro:sub v .,ENG ENG,0
+704,you told me it was eighteen .,pro:per v pro:obj pro:per cop det:num .,ENG ENG ENG ENG ENG ENG,0
+705,you might not know about some of them like espiritismo .,pro:per mod neg v adv qn prep pro:obj prep L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+706,pues claro sí yo sé de eso .,co co co pro:sub v prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+707,"but not like in the movies like ""/.","conj neg v prep det:art n prep +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+708,oh my God !,co det:poss n:prop !,ENG ENG ENG,0
+709,no no no no yo sé como New_Age .,adv adv adv adv pro:sub v adv n:prop:L2 .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+710,it's not like a medium like with blank eyes like doing weird stuff .,pro:per neg prep det:art n co prep adj n prep part adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+711,no no no yo sé The_New_Age así que tú sabes /.,adv adv adv pro:sub v n:prop:L2 adv pro:rel pro:sub v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+712,just some way to relax and get in touch with a spirit that eh has some wisdom .,adv pro:indef adv inf v coord v prep n prep det:art n pro:rel co v qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+713,the chakras .,det:art n .,ENG ENG,0
+714,yes .,co .,ENG,0
+715,not any other spirit .,neg qn qn n .,ENG ENG ENG ENG,0
+716,ahhah .,co .,ENG,0
+717,depends on the medium .,v prep det:art n .,ENG ENG ENG ENG,0
+718,ahhah .,co .,ENG,0
+719,but what happens is that they make connection .,conj pro:int v cop comp pro:sub v n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+720,and the spirit speaks about the medium like through the medium .,coord det:art n v prep det:art n v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+721,mhm .,co .,ENG,0
+722,and I found it really interesting .,coord pro:sub v pro:per adv adj .,ENG ENG ENG ENG ENG ENG,0
+723,so in that group I happened to learn about the real espiritismo .,adv prep det:dem n pro:sub v inf v prep det:art adj L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+724,mhm .,co .,ENG,0
+725,how do you say that in English ?,pro:int mod pro:per co adv prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+726,like spiritism ?,co n ?,ENG ENG,0
+727,no it's called New_Age .,co pro:per part n:prop .,ENG ENG ENG ENG,0
+728,eso es New_Age .,L2 L2 n:prop .,ESP ESP ENG,1
+729,eso es lo que llaman espiritismo en español o ciencia espiritual .,pro:dem cop pro:obj pro:rel v n prep adj coord n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+730,sí si yo sé .,co conj pro:sub v .,ENG ENG ENG ENG,0
+731,yo sé .,pro:sub v .,ENG ENG,0
+732,yo estuve en tres de esos .,pro:sub aux prep det:num prep det:dem .,ENG ENG ENG ENG ENG ENG,0
+733,tres diferentes .,det:num adj .,ENG ENG,0
+734,cuáles cuáles ?,pro:int pro:int ?,ENG ENG,0
+735,tres diferentes grupos .,det:num adj n .,ENG ENG ENG,0
+736,pero dame los nombres de los grupos .,conj imp pro:obj v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+737,Cima se llamaba uno .,n:prop pro:refl v pro:dem .,ENG ENG ENG ENG,0
+738,Asonde se llamaba otro .,n:prop pro:refl v det:indef .,ENG ENG ENG ENG,0
+739,ahhah .,co .,ENG,0
+740,ahhah .,co .,ENG,0
+741,eh y el otro cambio de nombre después .,co coord det:art pro:indef v prep v adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+742,pero fueron esos tres básicamente .,conj cop det:dem det:num adv:adj .,ENG ENG ENG ENG ENG,0
+743,ahhah .,co .,ENG,0
+744,eh también estuve en el Círculo_Efe .,co adv cop prep det:art n:prop .,ENG ENG ENG ENG ENG ENG,0
+745,ajá .,co .,ENG,0
+746,eh and I was looking for eh ah third type encounters .,co coord pro:sub aux part prep co co n n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+747,how you call those ?,pro:int pro:per v pro:dem ?,ENG ENG ENG ENG,0
+748,los U_F_Os ?,det:art n:prop ?,ENG ENG,0
+749,yeah .,co .,ENG,0
+750,estuve en el monte en las montañas buscando extraterrestres .,aux prep det:art v prep det:art n ger adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+751,.,None,,0
+752,then I became a Hare_Krishna part time .,adv:tem pro:sub cop det:art n:prop n n .,ENG ENG ENG ENG ENG ENG ENG,0
+753,mhm .,co .,ENG,0
+754,a part time Hare_Krishna .,det:art adj n n:prop .,ENG ENG ENG ENG,0
+755,yeah .,co .,ENG,0
+756,so I used to be like vegetarian .,co pro:sub v inf aux co n .,ENG ENG ENG ENG ENG ENG ENG,0
+757,but sometimes I had my meat .,conj adv pro:sub v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+758,mhm .,co .,ENG,0
+759,and I went to this a ceremonias .,coord pro:sub v prep det:dem L2 L2 .,ENG ENG ENG ENG ENG ESP ESP,1
+760,en la mañana .,prep det:art adv .,ENG ENG ENG,0
+761,el .,det:art .,ENG,0
+762,and I used to sing with them and stuff like that but just part time .,coord pro:sub v inf v prep pro:obj coord n prep pro:dem conj adj adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+763,oh it was I //.,co pro:per cop pro:sub +//.,ENG ENG ENG ENG,0
+764,lo que a mí me gustaba de Coconut_Grove es que ahí está el templo Hare_Krishna .,pro:obj pro:rel aprep pro:prep pro:obj v prep n:prop cop pro:rel adv cop det:art v n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+765,y ahí antes se pasaban así .,coord adv adv pro:refl v adv .,ENG ENG ENG ENG ENG ENG,0
+766,cantando ellos cantan /.,ger pro:sub v +/.,ENG ENG ENG,0
+767,la procesión .,det:art n .,ENG ENG,0
+768,a veces cantan para recoger dinero .,aprep n v prep re#inf n .,ENG ENG ENG ENG ENG ENG,0
+769,ahhah .,co .,ENG,0
+770,y para coger donaciones se llama prasha .,coord prep inf n pro:refl v L2 .,ENG ENG ENG ENG ENG ENG ESP,1
+771,ahhah .,co .,ENG,0
+772,y es para para coger comida gratis .,coord cop prep prep inf n adj .,ENG ENG ENG ENG ENG ENG ENG,0
+773,y darle comida a los demás .,coord inf n aprep det:art adj .,ENG ENG ENG ENG ENG ENG,0
+774,mhm .,co .,ENG,0
+775,para que la gente que tiene hambre coma y aprenda el Bhagavad_Gita .,prep pro:rel det:art n pro:rel v n imp coord v det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+776,it's like marketing .,pro:per co part .,ENG ENG ENG,0
+777,sí .,co .,ENG,0
+778,so they sing and they get free food from the market people //.,co pro:sub v coord pro:sub v adj n prep det:art n n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+779,mhm .,co .,ENG,0
+780,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+781,they give away food .,pro:sub v adv n .,ENG ENG ENG ENG,0
+782,they prepare the food .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+783,and if there's a homeless guy or someone they have like meetings .,coord conj pro:exist det:art adj n coord pro:indef pro:sub v prep n:gerund .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+784,and they give away people for food .,coord pro:sub v adv n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+785,eh es como una misión ?,co cop adv det:art n ?,ENG ENG ENG ENG ENG,0
+786,es misión ?,cop n ?,ENG ENG,0
+787,but you need to first listen the Bhagavad_Gita .,conj pro:per v inf adj v det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+788,and then you get the soup .,coord adv:tem pro:per v det:art n .,ENG ENG ENG ENG ENG ENG,0
+789,oh no .,co co .,ENG ENG,0
+790,eso no es cristiano .,pro:dem adv cop adj .,ENG ENG ENG ENG,0
+791,.,None,,0
+792,so if you're hungry you can become a Hare_Krishna .,adv conj pro:per adj pro:per mod cop det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+793,just get the soup and then get the Bhagavad_Gita and sing with us and dance with us and ...,adv v det:art n coord adv:tem v det:art n:prop coord v prep pro:obj coord n prep pro:obj coord +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+794,oye eso no es /.,v pro:dem adv cop +/.,ENG ENG ENG ENG,0
+795,it's kind of a manipulation .,pro:per n prep det:art n .,ENG ENG ENG ENG ENG,0
+796,no eso no es //.,adv pro:dem adv cop +//.,ENG ENG ENG ENG,0
+797,porque por lo menos los cristianos le los misioneros /.,conj prep pro:obj adv det:art n pro:ind det:art n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+798,it's marketing .,pro:per part .,ENG ENG,0
+799,it's a good way to I don't know give someone a bowl of soup and some I don't know comfort for the soul .,pro:per det:art adj n prep pro:sub mod v v pro:indef det:art n prep n coord qn pro:sub mod v n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+800,no no no porque eso no se supone que sea así .,adv adv adv conj pro:dem adv pro:refl v pro:rel cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+801,porque por lo menos .,conj prep pro:obj adv .,ENG ENG ENG ENG,0
+802,lo mi entendimiento de las misiones católicas .,pro:obj det:pos n prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG,0
+803,en eh le daban comida .,prep co pro:ind v part .,ENG ENG ENG ENG ENG,0
+804,no y después si querían aprender del cristianismo pues le enseñaban .,adv coord adv conj v inf prep n co pro:ind v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+805,pero eso no era de /.,conj pro:dem adv cop prep +/.,ENG ENG ENG ENG ENG,0
+806,okay so it's a mission .,co adv pro:per det:art n .,ENG ENG ENG ENG ENG,0
+807,we give you food .,pro:sub v pro:per n .,ENG ENG ENG ENG,0
+808,and if you want to hear about Jesus_Christ that's fine .,coord conj pro:per v inf v prep n:prop pro:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+809,you're more than welcome .,pro:per qn prep n .,ENG ENG ENG ENG,0
+810,but a couple of centuries ago you do not want to hear about Jesus_Christ so you are going to lose your head .,conj det:art n prep n post pro:per v neg v inf v prep n:prop conj pro:per aux part inf v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+811,I know .,pro:sub v .,ENG ENG,0
+812,decapitated !,part !,ENG,0
+813,we have come a long way por lo menos .,pro:sub v v det:art adj n L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ESP ESP ESP,1
+814,yeah but we were counting .,co conj pro:sub aux part .,ENG ENG ENG ENG ENG,0
+815,like Hare_Krishna .,conj n:prop .,ENG ENG,0
+816,Hare_Krishna sí .,n:prop co .,ENG ENG,0
+817,"and I had well my mantras and my stuff ""/.","coord pro:sub v adv det:poss n coord det:poss n +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+818,Hare_Krishna Hare_Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Hare Rama Rama Rama Hare Hare !,n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop n:prop !,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+819,qué significa eso ?,pro:int v pro:dem ?,ENG ENG ENG,0
+820,es una forma de bendecir al señor Krishna .,cop pro:dem v prep inf aprep co:voc n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+821,ahhah .,co .,ENG,0
+822,y agradecerle por la existencia .,coord inf prep det:art n .,ENG ENG ENG ENG ENG,0
+823,pero es bonito .,conj cop adj .,ENG ENG ENG,0
+824,eso se supone que te relaja .,pro:dem pro:refl v pro:rel pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+825,ahhah .,co .,ENG,0
+826,eh fue interesante .,co cop adj .,ENG ENG ENG,0
+827,ellos suelen meditar .,pro:sub v inf .,ENG ENG ENG,0
+828,ahhah sí sí sí .,co co co co .,ENG ENG ENG ENG,0
+829,meditar .,inf .,ENG,0
+830,y comer saludable .,coord inf adj .,ENG ENG ENG,0
+831,son personas sanas buenas .,cop n adj adj .,ENG ENG ENG ENG,0
+832,los monjes hacían eso .,det:art n v pro:dem .,ENG ENG ENG ENG,0
+833,hm .,co .,ENG,0
+834,hm .,co .,ENG,0
+835,sí .,co .,ENG,0
+836,hacían los vespers cada ...,v det:art L2 det:indef +...,ENG ENG ESP ENG,1
+837,sí .,co .,ENG,0
+838,estuve en otro grupo que llamaban Madame_Blavatsky_H_P_B .,aux prep pro:indef n pro:rel v n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+839,ahhah .,co .,ENG,0
+840,que era como de metafísica .,pro:rel cop adv prep n .,ENG ENG ENG ENG ENG,0
+841,estuve en uno que se llamaba El_Subuth .,aux prep det:art pro:rel pro:refl v n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+842,que era un poco extraño .,pro:rel cop det:art adv v .,ENG ENG ENG ENG ENG,0
+843,y estuve muy poco tiempo ahí porque yo visitaba mucho y no me gustaba y me iba .,coord cop adv adv n adv conj pro:sub v adv coord adv pro:obj v coord pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+844,ahhah .,co .,ENG,0
+845,a ver estuve en otro que se llamaba ...,aprep inf aux prep det:indef pro:rel pro:refl v +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+846,eh Rosacrucismo .,co n:prop .,ENG ENG,0
+847,mhm .,co .,ENG,0
+848,cómo le dicen en inglés ?,pro:int pro:ind v prep n ?,ENG ENG ENG ENG ENG,0
+849,no sé .,adv v .,ENG ENG,0
+850,no me acuerdo cómo se dice .,adv pro:obj v pro:int pro:refl v .,ENG ENG ENG ENG ENG ENG,0
+851,y qué otro estuve ?,coord pro:int det:indef aux ?,ENG ENG ENG ENG,0
+852,El_Cuarto_Camino .,n:prop .,ENG,0
+853,estuve en El_Camino .,aux prep n:prop .,ENG ENG ENG,0
+854,estuve en .,aux prep .,ENG ENG,0
+855,estuve también en este de //.,cop adv prep imp prep +//.,ENG ENG ENG ENG ENG,0
+856,que eso fue hace veinte años .,pro:rel pro:dem cop v det:num n .,ENG ENG ENG ENG ENG ENG,0
+857,fue hace como diez .,v v adv det:num .,ENG ENG ENG ENG,0
+858,estaba yo muy joven .,aux pro:sub adv adj .,ENG ENG ENG ENG,0
+859,ahhah .,co .,ENG,0
+860,en cómo se llama este ?,prep pro:int pro:refl v imp ?,ENG ENG ENG ENG ENG,0
+861,el de este negrito que tiene el lleno de pelo grande que hace magia .,det:art prep det:dem adj pro:rel v det:art adj prep n adj pro:rel v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+862,ay carajo !,co co !,ENG ENG,0
+863,cómo se llama ?,pro:int pro:refl v ?,ENG ENG ENG,0
+864,mm ...,co +...,ENG,0
+865,Satia_Saibaba .,n:prop .,ENG,0
+866,Saibaba es muy conocido en India .,n:prop cop adv part prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+867,es que en India hay más de mil religiones reconocidas .,cop pro:rel prep n:prop v adv prep n n re#part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+868,sí sí .,co co .,ENG ENG,0
+869,and then I just read that I wasn't able to find God or find inner peace .,coord adv:tem pro:sub adv v comp pro:sub cop adj inf v n:prop coord v adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+870,mhm .,co .,ENG,0
+871,so I just eventually stopped looking .,co pro:sub adv adv v part .,ENG ENG ENG ENG ENG ENG,0
+872,and I became a rebel .,coord pro:sub cop det:art n .,ENG ENG ENG ENG ENG,0
+873,and I just told /.,coord pro:sub adv v +/.,ENG ENG ENG ENG,0
+874,un rebelde sin causa .,det:art adj prep v .,ENG ENG ENG ENG,0
+875,"yeah like just told Jesus or whatever god or representation there was at that time in my mind ""/.","co prep adv v n:prop coord pro:int n coord n adv cop prep det:dem n prep det:poss n +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+876,mhm .,co .,ENG,0
+877,it's okay I'm just tired of looking for you .,pro:per adj pro:sub adv part prep part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+878,and I got nothing .,coord pro:sub v pro:indef .,ENG ENG ENG ENG,0
+879,I feel nothing .,pro:sub v pro:indef .,ENG ENG ENG,0
+880,I haven't got any more faith .,pro:sub aux part qn qn n .,ENG ENG ENG ENG ENG ENG,0
+881,so I'm just going to stop looking .,adv pro:sub adv part prep n part .,ENG ENG ENG ENG ENG ENG ENG,0
+882,if you want to see me just look for me .,conj pro:per v inf v pro:obj adv v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+883,so I'm not going to look for you .,adv pro:sub neg part inf v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+884,mhm .,co .,ENG,0
+885,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+886,then I became a atheist and then agnostic and plenty of stuff .,adv:tem pro:sub cop det:art n coord adv:tem adj coord n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+887,and then I came here to the US seven years ago .,coord adv:tem pro:sub v adv prep det:art n:prop det:num n post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+888,and attend like Christian meetings and Christian churches and stuff .,coord v conj n:prop n:gerund coord n:prop n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+889,protestante .,n .,ENG,0
+890,yeah protestante .,co n .,ENG ENG,0
+891,and at the end I just realized that I am just a Catholic person that wants to be better .,coord prep det:art n pro:sub adv v comp pro:sub cop adv det:art n:prop n pro:rel v inf cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+892,and I don't know I'm just trying to be a good man .,coord pro:sub mod v pro:sub adv part inf cop det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+893,un besito .,det:art n .,ENG ENG,0
+894,no no no un besito .,adv adv adv det:art n .,ENG ENG ENG ENG ENG,0
+895,no un poquito no un poquito no .,adv det:art pro:indef adv det:art pro:indef adv .,ENG ENG ENG ENG ENG ENG ENG,0
+896,ay !,co !,ENG,0
+897,okay un besito en la .,co det:art n prep det:art .,ENG ENG ENG ENG ENG,0
+898,así que regresasteis .,adv pro:rel v .,ENG ENG ENG,0
+899,regresasteis a la familia .,v aprep det:art n .,ENG ENG ENG ENG,0
+900,por lo menos entendemos o sea los católicos entendemos que esto es un proceso .,prep pro:obj adv v coord cop det:art n v pro:rel pro:dem cop det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+901,porque y nos tenemos que ayudar los unos a los otros .,conj coord pro:obj v pro:rel inf det:art pro:dem aprep det:art pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+902,a la meta que es la santidad .,aprep det:art n pro:rel cop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+903,pues eh Jesus nos dijo que este todos podíamos ser santos .,co co n:prop pro:obj v prep imp det:indef v n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+904,mhm .,co .,ENG,0
+905,y por eso es yo fui amada por él .,coord prep pro:dem cop pro:sub v part prep pro:sub .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+906,a hacer un apostolado de los The_Ravers .,aprep inf det:art part prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+907,ravers ?,n ?,ENG,0
+908,?,None,,0
+909,ravers ?,n ?,ENG,0
+910,no no tengo ni idea qué es eso .,adv adv v coord n pro:int cop pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+911,es es la gente joven que le gusta la música electrónica .,cop cop det:art n adj pro:rel pro:ind v det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+912,rave music ?,v n ?,ENG ENG,0
+913,sí .,co .,ENG,0
+914,música electrónica ?,n adj ?,ENG ENG,0
+915,sí tecno .,co adj .,ENG ENG,0
+916,eso no me gusta .,pro:dem adv pro:obj v .,ENG ENG ENG ENG,0
+917,este //.,det:dem +//.,ENG,0
+918,bueno no importa que no te guste .,co adv v pro:rel adv pro:obj v .,ENG ENG ENG ENG ENG ENG ENG,0
+919,pero como a mí me gusta //.,conj adv aprep pro:prep pro:obj v +//.,ENG ENG ENG ENG ENG ENG,0
+920,y como en verdad /.,coord adv prep co +/.,ENG ENG ENG ENG,0
+921,so like techno music ?,adv prep adj n ?,ENG ENG ENG ENG,0
+922,me encanta me /.,pro:obj v pro:obj +/.,ENG ENG ENG,0
+923,isn't that the one that people use to get stoned or get high with these ecstasies ?,cop adv det:art pro:indef pro:rel n v inf aux part coord v n prep det:dem n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+924,sí sí sí .,co co co .,ENG ENG ENG,0
+925,sí .,co .,ENG,0
+926,pero es que a mi me gustaba //.,conj cop pro:rel aprep det:pos pro:obj v +//.,ENG ENG ENG ENG ENG ENG ENG,0
+927,yo probé éxtasis a los veintiuno .,pro:sub v n aprep det:art det:num .,ENG ENG ENG ENG ENG ENG,0
+928,pero a mi me encantaba esa música ya de joven .,conj aprep det:pos pro:obj v det:dem adj adv prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+929,I have never tried ecstasies .,pro:sub v adv part n .,ENG ENG ENG ENG ENG,0
+930,a los /.,aprep det:art +/.,ENG ENG,0
+931,I just smoked marijuana for a couple of years .,pro:sub adv part n prep det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+932,a los dieciséis /.,aprep det:art det:num +/.,ENG ENG ENG,0
+933,a los dieciséis los diecisiete me yo oía esa música .,aprep det:art det:num det:art det:num pro:obj pro:sub v det:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+934,just minor stuff .,adv adj n .,ENG ENG ENG,0
+935,marijuana just .,n adv .,ENG ENG,0
+936,but you know what ?,conj pro:per v pro:int ?,ENG ENG ENG ENG,0
+937,bueno /.,co +/.,ENG,0
+938,what ?,pro:int ?,ENG,0
+939,I want to try sooner or later in my life at least once LSD .,pro:sub v inf v adj coord adv prep det:poss n prep n adv n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+940,uy !,co !,ENG,0
+941,at least once .,prep n adv .,ENG ENG ENG,0
+942,no te lo //.,adv pro:obj pro:obj +//.,ENG ENG ENG,0
+943,bueno es que como yo tengo mis issues .,co cop pro:rel adv pro:sub v det:pos L2 .,ENG ENG ENG ENG ENG ENG ENG ESP,1
+944,pues no te lo recomiendo .,co adv pro:obj pro:obj v .,ENG ENG ENG ENG ENG,0
+945,yo traté algo que era similar era LSA .,pro:sub v pro:dem pro:rel cop adj cop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+946,era unas semillas .,cop det:art n .,ENG ENG ENG,0
+947,se llamaban Hawaiian_Baby_Woodrose .,pro:refl v n:prop .,ENG ENG ENG,0
+948,y yo hice un té .,coord pro:sub v det:art n .,ENG ENG ENG ENG ENG,0
+949,se supone que eran con cinco semillas .,pro:refl v pro:rel cop prep det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+950,it was something natural ?,pro:per cop pro:indef adj ?,ENG ENG ENG ENG,0
+951,sí .,co .,ENG,0
+952,so then it's not LSD .,adv adv:tem pro:per neg n:prop .,ENG ENG ENG ENG ENG,0
+953,LSD is totally a chemical stuff .,n:prop cop adv det:art n n .,ENG ENG ENG ENG ENG ENG,0
+954,no esto es LSA .,adv pro:dem cop n:prop .,ENG ENG ENG ENG,0
+955,en vez de D es LSA .,prep n prep n:prop cop n:prop .,ENG ENG ENG ENG ENG ENG,0
+956,that has nothing to //.,pro:rel v pro:indef inf +//.,ENG ENG ENG ENG,0
+957,well LSD is made in a lab .,co n:prop aux part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+958,sí sí no es similar .,co co adv cop adj .,ENG ENG ENG ENG ENG,0
+959,no no no cállate .,adv adv adv imp .,ENG ENG ENG ENG,0
+960,no .,adv .,ENG,0
+961,yo he leído todo esto .,pro:sub aux part det:indef pro:dem .,ENG ENG ENG ENG ENG,0
+962,I /.,pro:sub +/.,ENG,0
+963,so it's some sort of seed that cause the same effect like LSD or something like that ?,co pro:per qn n prep n det:dem n det:art adj n co n:prop coord pro:indef prep pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+964,yes .,co .,ENG,0
+965,yes !,co !,ENG,0
+966,yes .,co .,ENG,0
+967,but they're some sort of mushrooms or something like that ?,conj pro:sub qn n prep n coord pro:indef prep pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+968,no no no no es una semilla se llama Hawaii /.,adv adv adv adv cop det:art n cop v n:prop +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+969,I might try something natural maybe .,pro:sub mod v pro:indef adj adv .,ENG ENG ENG ENG ENG ENG,0
+970,lo lo que lo que pasó fue .,pro:obj pro:obj pro:rel pro:obj pro:rel v v .,ENG ENG ENG ENG ENG ENG ENG,0
+971,bueno es que yo quiero que tú aprendas de mi experiencia .,co cop pro:rel pro:sub v pro:rel pro:sub v prep det:pos n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+972,este lo que pasó fue que /.,det:dem pro:obj pro:rel v v pro:rel +/.,ENG ENG ENG ENG ENG ENG,0
+973,I know about your experience .,pro:sub v prep det:poss n .,ENG ENG ENG ENG ENG,0
+974,but you know what ?,conj pro:per v pro:int ?,ENG ENG ENG ENG,0
+975,still //.,adv +//.,ENG,0
+976,I told you the other day .,pro:sub v pro:per det:art qn n .,ENG ENG ENG ENG ENG ENG,0
+977,sometimes life is like flat .,adv n cop co adj .,ENG ENG ENG ENG ENG,0
+978,like without I don't know intereses o intensidades o ...,co prep pro:sub mod v L2 L2 L2 L2 +...,ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+979,mhm .,co .,ENG,0
+980,sometimes just being an adult is a little boring .,adv adj n:gerund det:art n cop det:art adj n:gerund .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+981,yes I know .,co pro:sub v .,ENG ENG ENG,0
+982,and you can drink sometimes .,coord pro:per mod v adv .,ENG ENG ENG ENG ENG,0
+983,mhm .,co .,ENG,0
+984,and you feel different .,coord pro:per v adj .,ENG ENG ENG ENG,0
+985,could be nice to drink once in a while .,mod cop adj inf v adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+986,mhm .,co .,ENG,0
+987,you can smoke cigarettes which is stupid .,pro:per mod v n pro:rel cop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+988,mhm .,co .,ENG,0
+989,the worst thing that you can do .,det:art adj n pro:rel pro:per mod v .,ENG ENG ENG ENG ENG ENG ENG,0
+990,like Marlboro ones .,conj n:prop pro:indef .,ENG ENG ENG,0
+991,mhm .,co .,ENG,0
+992,you can smoke some marijuana .,pro:per mod v qn n .,ENG ENG ENG ENG ENG,0
+993,o Lucky_Strike .,coord n:prop .,ENG ENG,0
+994,that I used to smoke marijuana .,comp pro:sub v prep n n .,ENG ENG ENG ENG ENG ENG,0
+995,and for me it was great .,coord prep pro:obj pro:per cop adj .,ENG ENG ENG ENG ENG ENG,0
+996,mhm .,co .,ENG,0
+997,pero es que /.,conj cop pro:rel +/.,ENG ENG ENG,0
+998,and I experienced nothing wrong about that and nothing .,coord pro:sub v pro:indef adj prep pro:dem coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+999,but I never tried anything else .,conj pro:sub adv part pro:indef post .,ENG ENG ENG ENG ENG ENG,0
+1000,mhm .,co .,ENG,0
+1001,so lo que te estoy diciendo es que cuando yo fumé marijuana //.,co pro:obj pro:rel pro:obj aux ger cop pro:rel conj pro:sub v n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1002,yo sentí cosas que no sentí jamás de otra forma .,pro:sub v v pro:rel adv v adv prep det:indef v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1003,sí .,co .,ENG,0
+1004,so there wasn't for me any other way to feel what I felt ...,co pro:exist cop prep pro:obj qn qn adv inf v pro:int pro:sub v +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1005,no .,co .,ENG,0
+1006,through marijuana just with marijuana .,adj n adv prep n .,ENG ENG ENG ENG ENG,0
+1007,.,None,,0
+1008,I can experience what is love ...,pro:sub mod v pro:int cop v +...,ENG ENG ENG ENG ENG ENG,0
+1009,what it is to drink .,pro:int pro:per cop inf v .,ENG ENG ENG ENG ENG,0
+1010,different things .,adj n .,ENG ENG,0
+1011,but what marijuana made me feel nothing else would have made me feel .,conj pro:int n v pro:obj v pro:indef post mod aux part pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1012,mhm .,co .,ENG,0
+1013,you understand what I'm saying ?,pro:per v pro:int pro:sub part ?,ENG ENG ENG ENG ENG,0
+1014,yes completely understand .,co adv v .,ENG ENG ENG,0
+1015,yo no me arrepiento de haber fumado marijuana .,pro:sub adv pro:obj v prep inf part n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1016,and it's just marijuana for a couple of years .,coord pro:per adj n prep det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1017,mhm .,co .,ENG,0
+1018,so and I just stopped doing it .,adv coord pro:sub adv v part pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+1019,mhm .,co .,ENG,0
+1020,it was so easy to just not do it I just decided not to do it .,pro:per cop adv adj inf adj neg mod pro:per pro:sub adv part neg inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1021,and I stopped doing it .,coord pro:sub v part pro:per .,ENG ENG ENG ENG ENG,0
+1022,but still I know that there are some ways to feel things in life that just flat main basic emotions are not going to make you feel .,conj adv pro:sub v comp adv cop qn n inf v n prep n pro:rel adv adj adj adj n aux neg part inf v pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1023,just like that .,adv prep pro:dem .,ENG ENG ENG,0
+1024,because I might love someone /.,conj pro:sub mod v pro:indef +/.,ENG ENG ENG ENG ENG,0
+1025,ese ese ese es el espíritu santo .,det:dem det:dem det:dem cop det:art n n .,ENG ENG ENG ENG ENG ENG ENG,0
+1026,yeah the Holy_Spirit is nice but ah ...,co det:art n:prop cop adj conj co +...,ENG ENG ENG ENG ENG ENG ENG,0
+1027,no ese es el espíritu santo .,adv det:dem cop det:art n n .,ENG ENG ENG ENG ENG ENG,0
+1028,no I have never felt nothing close to the espíritu santo never /.,co pro:sub v adv v pro:indef adj prep det:art L2 L2 adv +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ENG,1
+1029,no porque tú no /.,adv conj pro:sub adv +/.,ENG ENG ENG ENG,0
+1030,I do not have faith .,pro:sub mod neg v n .,ENG ENG ENG ENG ENG,0
+1031,because /.,conj +/.,ENG,0
+1032,I was not raised to have faith .,pro:sub aux neg part inf v n .,ENG ENG ENG ENG ENG ENG ENG,0
+1033,sí pero /.,co conj +/.,ENG ENG,0
+1034,and I have looked for that .,coord pro:sub aux part prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+1035,and I wanted to have faith but ...,coord pro:sub v inf v n conj +...,ENG ENG ENG ENG ENG ENG ENG,0
+1036,mira tú necesitas catecismo /.,co pro:sub v n +/.,ENG ENG ENG ENG,0
+1037,I'm still a very nice person and I /.,pro:sub adv det:art adv adj n coord pro:sub +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1038,but you know what ?,conj pro:per v pro:int ?,ENG ENG ENG ENG,0
+1039,I am actually one of the //.,pro:sub cop adv pro:indef prep det:art +//.,ENG ENG ENG ENG ENG ENG,0
+1040,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1041,I consider myself a useful person a nice person that has been doing nice stuff for people all his life .,pro:sub v pro:refl det:art adj n det:art adj n pro:rel aux aux part adj n prep n adv det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1042,yeah .,co .,ENG,0
+1043,I always have been useful .,pro:sub adv v aux adj .,ENG ENG ENG ENG ENG,0
+1044,so I'm a good citizen .,adv pro:sub det:art adj n .,ENG ENG ENG ENG ENG,0
+1045,yeah .,co .,ENG,0
+1046,and maybe not really with a big faith .,coord adv neg adv prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1047,but I have been better than other people that have faith and has done bad stuff .,conj pro:sub aux aux adv prep qn n pro:rel v n coord aux part adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1048,sí pero imagínate si tú tuvieras fé .,co conj imp conj pro:sub v n .,ENG ENG ENG ENG ENG ENG ENG,0
+1049,.,None,,0
+1050,"con la buena persona que tú eres tienes que pedir a Dios ""/.","prep det:art adj n pro:rel pro:sub cop v pro:rel inf aprep n:prop +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1051,dame fé Dios .,imp n n:prop .,ENG ENG ENG,0
+1052,yo quiero creer en ti .,pro:sub v inf prep pro:prep .,ENG ENG ENG ENG ENG,0
+1053,yo creo que sí es cierto .,pro:sub v pro:rel co cop adj .,ENG ENG ENG ENG ENG ENG,0
+1054,si yo tuviera más fé sería una persona mejor tal vez más feliz pero bueno .,conj pro:sub v adv n cop det:art n adj adj n adv adj conj co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1055,uno .,det:art .,ENG,0
+1056,bueno lo que te estaba diciendo era lo siguiente este ...,co pro:obj pro:rel pro:obj aux ger cop pro:obj adj imp +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1057,ahhah .,co .,ENG,0
+1058,yo sé que ya no fumo nada ni hago nada .,pro:sub v pro:rel adv adv v pro:indef coord v pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1059,pero un día de estos me gustaría probar algo una sola vez .,conj det:art n prep det:dem pro:obj v inf pro:dem det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1060,mhm .,co .,ENG,0
+1061,just give a try once .,adv v det:art v adv .,ENG ENG ENG ENG ENG,0
+1062,and something that is going to make me feel something different and nice .,coord pro:indef pro:rel aux part inf v pro:obj v pro:indef adj coord adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1063,exciting .,part .,ENG,0
+1064,something //.,pro:indef +//.,ENG,0
+1065,I don't know an experience out of myself .,pro:sub mod v det:art n adv prep pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1066,something !,pro:indef !,ENG,0
+1067,and I have heard that LSD can make you feel like that .,coord pro:sub aux part comp n:prop mod v pro:per v prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1068,yeah yeah .,co co .,ENG ENG,0
+1069,yeah /.,co +/.,ENG,0
+1070,so just once maybe .,adv adj adv adv .,ENG ENG ENG ENG,0
+1071,no bueno es que /.,adv co cop pro:rel +/.,ENG ENG ENG ENG,0
+1072,and then keep on with my life .,coord adv:tem v adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+1073,es que tú sabes que yo tuve tan mala experiencia //.,cop pro:rel pro:sub v pro:rel pro:sub v adv adj n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1074,.,None,,0
+1075,yo te estoy cuidando por lo menos yo te estoy .,pro:sub pro:obj aux ger prep pro:obj adv pro:sub pro:obj aux .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1076,yo te estoy cuidando porque yo no ...,pro:sub pro:obj aux ger conj pro:sub adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+1077,yo sé pero yo tengo claro que solamente es una vez y ya .,pro:sub v conj pro:sub v co pro:rel adv cop det:art n coord adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1078,sí .,co .,ENG,0
+1079,pero lo /.,conj pro:obj +/.,ENG ENG,0
+1080,es lo que mucha gente dice no pero ...,cop pro:obj prep det:indef n v adv conj +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1081,pero tal vez no lo haga nunca tal vez .,conj adj n adv pro:obj v adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1082,I might never do it but ...,pro:sub mod adv v pro:per conj +...,ENG ENG ENG ENG ENG ENG,0
+1083,déjame hablar .,imp inf .,ENG ENG,0
+1084,lo que pasó fue que la primera vez que lo hice los nada más es cinco .,pro:obj pro:rel v v prep det:art adj:num n pro:rel pro:obj v pro:obj v adv cop det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1085,tú haces un té con cinco cinco semillas .,pro:sub v det:art n prep det:num det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1086,cinco qué ?,det:num pro:int ?,ENG ENG,0
+1087,cinco semillas .,det:num n .,ENG ENG,0
+1088,you grind them .,pro:per v pro:obj .,ENG ENG ENG,0
+1089,okay .,co .,ENG,0
+1090,las semillas esas Hawaiian_Baby_Woodrose .,det:art n det:dem n:prop .,ENG ENG ENG ENG,0
+1091,you grind them .,pro:per v pro:obj .,ENG ENG ENG,0

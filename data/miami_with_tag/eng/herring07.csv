@@ -1,0 +1,746 @@
+,sentence,pos,language,switch
+0,so the book is like you've read the book you don't wanna watch the movie .,co det:art n cop co pro:per v det:art n pro:per mod v v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1,like the end .,prep det:art n .,ENG ENG ENG,0
+2,but I like the movie .,conj pro:sub v det:art n .,ENG ENG ENG ENG ENG,0
+3,but when you read the book you say why they don't do that in the movie you know .,conj conj pro:per v det:art n pro:per v pro:int pro:sub mod v pro:dem prep det:art n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+4,yeah .,co .,ENG,0
+5,and at the end they put like ah como una inyección .,coord prep det:art n pro:sub v co co L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP,1
+6,se la ponen and like //.,pro:refl pro:obj v L2 L2 +//.,ENG ENG ENG ESP ESP,1
+7,él podía escoger o una inyección o tomarse unas pastillas o salir para la calle y fajarse contra todo el mundo .,pro:sub v inf coord det:art n coord inf v n coord inf prep det:art n coord inf co qn det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+8,he was like a murderer .,pro:sub cop prep det:art n .,ENG ENG ENG ENG ENG,0
+9,for them he was like a murderer .,prep pro:obj pro:sub cop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+10,a murder ?,det:art n ?,ENG ENG,0
+11,yeah como un asesino porque ya ellos tenían su comunidad ahí .,co adv det:art n conj adv pro:sub v det:poss n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+12,yeah .,co .,ENG,0
+13,you know .,pro:per v .,ENG ENG,0
+14,they were like living like normal //.,pro:sub cop co part conj n +//.,ENG ENG ENG ENG ENG ENG,0
+15,yeah but they're crazy they kill people like .,co conj pro:sub adj pro:sub v n prep .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+16,no they don't kill people .,co pro:sub mod v n .,ENG ENG ENG ENG ENG,0
+17,they don't kill //.,pro:sub mod v +//.,ENG ENG ENG,0
+18,ellos no mataban a su propia gente .,pro:sub adv v prepart det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+19,ellos mataban a la gente como nosotros .,pro:sub v prepart det:art n adv pro:sub .,ENG ENG ENG ENG ENG ENG ENG,0
+20,pero exactly that's killing people .,L2 adv pro:rel n:gerund n .,ESP ENG ENG ENG ENG,1
+21,because there were still some survivors left .,conj n cop adj qn n v .,ENG ENG ENG ENG ENG ENG ENG,0
+22,you know but ...,pro:per v conj +...,ENG ENG ENG,0
+23,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+24,I know they adapted .,pro:sub v pro:sub v .,ENG ENG ENG ENG,0
+25,adaptaron a la vida de ellos .,v prepart det:art n prep pro:sub .,ENG ENG ENG ENG ENG ENG,0
+26,yeah .,co .,ENG,0
+27,I got it .,pro:sub v pro:per .,ENG ENG ENG,0
+28,I wanna see it I wanna see it .,pro:sub v v pro:per pro:sub v co pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+29,have you seen the first one ?,v pro:per part det:art adj pro:indef ?,ENG ENG ENG ENG ENG ENG,0
+30,the one that came on the movie theater .,det:art pro:indef pro:rel v prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+31,the movie yeah yeah .,det:art n co co .,ENG ENG ENG ENG,0
+32,I wanna buy it .,pro:sub v v pro:per .,ENG ENG ENG ENG,0
+33,the special edition is the one that comes with the .,det:art adj n cop det:art pro:indef pro:rel v prep det:art .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+34,yeah .,co .,ENG,0
+35,it's like twenty twenty something bucks .,pro:per co det:num det:num pro:indef n .,ENG ENG ENG ENG ENG ENG,0
+36,I wanna see it .,pro:sub v v pro:per .,ENG ENG ENG ENG,0
+37,so yeah .,co co .,ENG ENG,0
+38,and .,coord .,ENG,0
+39,and in the book .,coord prep det:art n .,ENG ENG ENG ENG,0
+40,hm .,co .,ENG,0
+41,he drink the pills .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+42,ah it's like like you know .,co pro:per conj prep pro:per v .,ENG ENG ENG ENG ENG ENG,0
+43,como que te enfocan que se fue como que se va yendo así you_know .,adv pro:rel pro:obj v pro:rel pro:refl v adv pro:rel pro:refl co part adv L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+44,but in the book there is a girl that betrayed him .,conj prep det:art n pro:exist cop det:art n pro:rel v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+45,que se hace pasar por humano .,pro:rel pro:refl v inf prep n .,ENG ENG ENG ENG ENG ENG,0
+46,y no es humano .,coord adv cop n .,ENG ENG ENG ENG,0
+47,es de los demás tipos .,cop prep det:art adj n .,ENG ENG ENG ENG ENG,0
+48,oh really ?,co adv ?,ENG ENG,0
+49,yeah .,co .,ENG,0
+50,oh but .,co conj .,ENG ENG,0
+51,that's the cool part that they don't show you in the movie .,pro:dem det:art adj adj comp pro:sub mod v pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+52,yeah but they can't do that in the movie .,co conj pro:sub mod v pro:dem prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+53,why ?,pro:rel ?,ENG,0
+54,because they look like zombies .,conj pro:sub v co n .,ENG ENG ENG ENG ENG,0
+55,yeah .,co .,ENG,0
+56,and the other people look like normal people .,coord det:art qn n v conj adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+57,so like there's no way .,co co pro:exist qn n .,ENG ENG ENG ENG ENG,0
+58,que ella se puede pasar como humano si se parece como un zombie .,pro:rel pro:sub pro:refl v inf adv adj conj pro:refl v adv det:art L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+59,pero ella se estaba curando en la película ella se estaba curando .,conj pro:sub pro:refl aux part prep det:art n pro:sub pro:refl aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+60,remember he had that girl on the bed ?,v pro:sub v det:dem n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+61,that one se estaba curando .,det:dem pro:indef L2 L2 L2 .,ENG ENG ESP ESP ESP,1
+62,on the second ending they show you like the girl is like healthing .,prep det:art n n pro:sub v pro:per v det:art n cop co part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+63,cuando se la va a entregar le da un shot y se convierte de nuevo .,conj pro:refl pro:obj v prepart inf pro:ind v det:art L2 coord pro:refl v prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG,1
+64,dude you saw that the girl was breathing like like a lot .,n pro:per v comp det:art n aux part conj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+65,yeah .,co .,ENG,0
+66,ella después en el final estaba como más pasiva .,pro:sub adv prep det:art n cop adv adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+67,y el tipo le da un shot de otra no sé qué de las que tenía él .,coord det:art n pro:ind v det:art L2 prep qn adv v pro:int prep pro:obj pro:rel v pro:sub .,ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+68,y se pone monstruo de nuevo .,coord pro:refl v n prep adj .,ENG ENG ENG ENG ENG ENG,0
+69,yeah .,co .,ENG,0
+70,entonces they close the door and that's it .,L2 pro:sub v det:art n coord pro:dem pro:per .,ESP ENG ENG ENG ENG ENG ENG ENG,1
+71,damn .,n .,ENG,0
+72,but .,conj .,ENG,0
+73,I wanna see it .,pro:sub v v pro:per .,ENG ENG ENG ENG,0
+74,look at that over there .,v prep det:dem prep n .,ENG ENG ENG ENG ENG,0
+75,yeah .,co .,ENG,0
+76,oh my god bro .,co det:poss n n .,ENG ENG ENG ENG,0
+77,so none none none of the endings is like relative to the to the book .,adv pro:indef pro:indef pro:indef prep det:art n cop co adj prep det:art prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+78,right //.,co +//.,ENG,0
+79,yeah I heard that there's different versions of the movie and the book //.,co pro:sub v comp pro:exist adj n prep det:art n coord det:art n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+80,there's a old movie like I_Am_Legend is a remake .,pro:exist det:art adj n v n:prop cop det:art re#v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+81,yeah it's like they got like three movies .,co pro:per conj pro:sub v co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+82,yeah .,co .,ENG,0
+83,but I don't know why they can't do the movie by the book .,conj pro:sub mod v pro:int pro:sub mod v det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+84,they already got the book .,pro:sub adv v det:art n .,ENG ENG ENG ENG ENG,0
+85,sometimes they gotta change stuff you know .,adv:tem pro:sub mod v v pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+86,sometimes it can't all be the same .,adv:tem pro:per mod adv cop det:art adj .,ENG ENG ENG ENG ENG ENG ENG,0
+87,ah .,co .,ENG,0
+88,so you have to work at twelve ?,co pro:per aux inf v prep det:num ?,ENG ENG ENG ENG ENG ENG ENG,0
+89,yeah .,co .,ENG,0
+90,damn why so early ?,n pro:rel adv adj ?,ENG ENG ENG ENG,0
+91,because because they got a lot of clothes in .,conj conj pro:sub v det:art n prep n:pt adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+92,twelve till what ?,det:num n pro:int ?,ENG ENG ENG,0
+93,till six my .,v det:num co .,ENG ENG ENG,0
+94,ah .,co .,ENG,0
+95,I start like at twelve I'm working with .,pro:sub v prep prep det:num pro:sub part prep .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+96,so you're doing more hours ?,adv pro:per part qn n ?,ENG ENG ENG ENG ENG,0
+97,yeah but just for today .,co conj adv prep adv:tem .,ENG ENG ENG ENG ENG,0
+98,more hours for you bro .,qn n prep pro:per n .,ENG ENG ENG ENG ENG,0
+99,yeah I wish they give me at twelve every day .,co pro:sub v pro:sub v pro:obj prep det:num qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+100,Tom was telling me something about this show called Qué_Pasa_U_S_A .,n:prop aux part pro:obj pro:indef prep det:dem n v n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+101,have you seen it ?,v pro:per part pro:per ?,ENG ENG ENG ENG,0
+102,which one ?,pro:int pro:indef ?,ENG ENG,0
+103,Qué_Pasa_U_S_A .,n:prop .,ENG,0
+104,I dunno .,pro:sub mod v,ENG ENG,0
+105,bro el programa ese en el canal dos que la gente es una familia .,L2 det:art n det:dem prep det:art n det:num pro:rel det:art n cop det:art n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+106,y hablan inglés y español .,coord v n coord n .,ENG ENG ENG ENG ENG,0
+107,I have seen it .,pro:sub v part pro:per .,ENG ENG ENG ENG,0
+108,you seen that show ?,pro:per part pro:dem v ?,ENG ENG ENG ENG,0
+109,yeah but I wanna see more but I I don't know what channel it's in .,co conj pro:sub v co adv conj pro:sub pro:sub mod v pro:int n pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+110,es un programa viejo .,cop det:art n adj .,ENG ENG ENG ENG,0
+111,ese en el .,det:dem prep det:art .,ENG ENG ENG,0
+112,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+113,yeah .,co .,ENG,0
+114,it's it's like Cubans or something like that .,pro:per pro:per conj n:prop coord pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+115,uhhuh you Cubans .,co pro:per n:prop .,ENG ENG ENG,0
+116,yeah and they speak Spanish and English .,co coord pro:sub v n:prop coord n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+117,it's in channel two ?,pro:per prep n det:num ?,ENG ENG ENG ENG,0
+118,I dunno they give it like in the morning and like in the afternoon .,pro:sub mod v v pro:per v prep det:art n coord co prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+119,I'll check it out in in the online .,pro:sub v pro:per adv adv prep det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+120,yeah check it out .,co v pro:per adv .,ENG ENG ENG ENG,0
+121,Qué_Pasa_U_S_A se llama ?,n:prop L2 L2 ?,ENG ESP ESP,1
+122,Qué_Pasa_U_S_A ...,n:prop +...,ENG,0
+123,he was telling me .,pro:sub aux part pro:obj .,ENG ENG ENG ENG,0
+124,que quiere grabar el programa ese .,pro:rel v inf det:art n det:dem .,ENG ENG ENG ENG ENG ENG,0
+125,who this guy ?,pro:int det:dem n ?,ENG ENG ENG,0
+126,yeah .,co .,ENG,0
+127,he talk in Spanish ?,pro:sub n prep n:prop ?,ENG ENG ENG ENG,0
+128,a little bit he does .,det:art adj n pro:sub v .,ENG ENG ENG ENG ENG,0
+129,oh yeah ?,co co ?,ENG ENG,0
+130,yeah .,co .,ENG,0
+131,have you seen the Heroes yet ?,v pro:per part det:art n:prop adv:tem ?,ENG ENG ENG ENG ENG ENG,0
+132,I'm gonna see it today .,pro:sub part v pro:per adv:tem .,ENG ENG ENG ENG ENG,0
+133,when I go home now I'm gonna go see like two episodes .,conj pro:sub v adv adv:tem pro:sub part v co co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+134,yeah ?,co ?,ENG,0
+135,how was it ?,pro:int cop pro:per ?,ENG ENG ENG,0
+136,and the chapter nine bro it's awesome .,coord det:art n det:num n pro:per adj .,ENG ENG ENG ENG ENG ENG ENG,0
+137,you saw it ?,pro:per v pro:per ?,ENG ENG ENG,0
+138,yeah .,co .,ENG,0
+139,you saw it last night ?,pro:per v pro:per adj n ?,ENG ENG ENG ENG ENG,0
+140,no no I just got stuck on the chapter nine .,co co pro:sub adj v v prep det:art n det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+141,oh .,co .,ENG,0
+142,I gotta see ten and eleven but ...,pro:sub mod v det:num coord det:num conj +...,ENG ENG ENG ENG ENG ENG ENG,0
+143,eleven is the last one .,det:num cop det:art adj pro:indef .,ENG ENG ENG ENG ENG,0
+144,I don't know that's why because in the eleven is when they got the the strike thing .,pro:sub mod v pro:dem pro:int conj prep det:art det:num aux conj pro:sub v det:art det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+145,strikes writer ?,n n ?,ENG ENG,0
+146,yeah I I think that it just ended like right there like it ended because of the strike .,co pro:sub pro:sub v comp pro:per adv part co adv n prep pro:per v conj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+147,and now like they're gonna start it again /.,coord adv:tem conj pro:sub part v pro:per adv:tem +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+148,they yeah that's what I'm thinking but there is /.,pro:sub co pro:dem pro:int pro:sub part conj pro:exist cop +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+149,sorry .,co .,ENG,0
+150,like seven pictures you know the seven pictures that they found ?,co det:num n pro:per v det:art det:num n comp pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,and they just got like four of them right four of them .,coord pro:sub adv v co det:num prep pro:obj adv det:num prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+152,what do you mean pictures ?,pro:int mod pro:per adj n ?,ENG ENG ENG ENG ENG,0
+153,don't .,mod .,ENG,0
+154,Isaac Méndez the painter .,n:prop n:prop det:art n .,ENG ENG ENG ENG,0
+155,nah oh yeah yeah .,co co co co .,ENG ENG ENG ENG,0
+156,él pintó seven pictures antes de morirse .,pro:sub v L2 L2 adv prep inf .,ENG ENG ESP ESP ENG ENG ENG,1
+157,okay .,co .,ENG,0
+158,and they found the pictures .,coord pro:sub v det:art n .,ENG ENG ENG ENG ENG,0
+159,one of the pictures is is the guy of the Claire .,det:num prep det:art n cop cop det:art n prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+160,you saw that part ?,pro:per v comp n ?,ENG ENG ENG ENG,0
+161,the guy of the what ?,det:art n prep det:art pro:int ?,ENG ENG ENG ENG ENG,0
+162,that he's like .,comp pro:sub prep .,ENG ENG ENG,0
+163,ah como muerto que se ve como muerto con un tiro en el glass .,co adv part pro:rel pro:refl co adv part prep det:art n prep det:art L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+164,oh yeah yeah yeah .,co co co co .,ENG ENG ENG ENG,0
+165,that's the one .,pro:dem det:art pro:indef .,ENG ENG ENG,0
+166,the other one is the /.,det:art qn pro:indef cop det:art +/.,ENG ENG ENG ENG ENG,0
+167,damn I don't like that one .,n pro:sub mod v det:dem pro:indef .,ENG ENG ENG ENG ENG ENG,0
+168,which one ?,pro:int pro:indef ?,ENG ENG,0
+169,I don't want him to die .,pro:sub mod v pro:obj inf v .,ENG ENG ENG ENG ENG ENG,0
+170,no they gonna show you at the end of the chapter nine you gonna see .,co pro:sub part v pro:per prep det:art n prep det:art n det:num pro:per part co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+171,damn it can happen bro .,v pro:per mod v n .,ENG ENG ENG ENG ENG,0
+172,damn I gotta see it bro .,n pro:sub mod v pro:per n .,ENG ENG ENG ENG ENG ENG,0
+173,you gotta see it because it happens something that you see you see something that /.,pro:per mod v pro:per conj pro:per v pro:indef pro:rel pro:per v pro:per v pro:indef pro:rel +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+174,you wanna tell me but don't don't don't tell me .,pro:per v v pro:obj conj mod mod mod v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+175,I wanna tell you but I don't wanna tell you .,pro:sub v v pro:per conj pro:sub mod v v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+176,yeah yeah don't tell me don't tell me .,co co mod v pro:obj mod v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+177,you gonna see something that they can do with their abilities I mean with with that special ability .,pro:per part v pro:indef pro:rel pro:sub mod v prep det:poss n pro:sub v prep prep det:dem adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+178,that they can put it to another peoples .,comp pro:sub mod v pro:per prep qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+179,you know you're gonna see what happens in the chapter nine .,pro:per v pro:per part v pro:int v adv det:art n det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+180,that then you're gonna say what the fuck happened here .,pro:dem adv:tem pro:per part v pro:int det:art v part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+181,wow .,co .,ENG,0
+182,I dunno bro .,pro:sub mod v .,ENG ENG ENG,0
+183,I used to come to this movie theater so much .,pro:sub v inf v prep det:dem n n adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+184,huh ?,co ?,ENG,0
+185,is this the movies you come to ?,cop det:dem det:art n pro:per v prep ?,ENG ENG ENG ENG ENG ENG ENG,0
+186,no the Dolphin I go to the Dolphin .,qn det:art n:prop pro:sub v prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+187,because this one close like earlier .,conj det:dem pro:indef adj prep adv .,ENG ENG ENG ENG ENG ENG,0
+188,yeah it close earlier //.,co pro:per v adv +//.,ENG ENG ENG ENG,0
+189,it open /.,pro:per v +/.,ENG ENG,0
+190,that one is shorter ?,det:dem pro:indef cop adj ?,ENG ENG ENG ENG,0
+191,shorter yeah .,adj co .,ENG ENG,0
+192,yeah I want //.,co pro:sub v +//.,ENG ENG ENG,0
+193,actually I saw /.,adv pro:sub v +/.,ENG ENG ENG,0
+194,that's the one I wanna see .,pro:dem det:art pro:indef pro:sub v co .,ENG ENG ENG ENG ENG ENG,0
+195,I saw the yesterday .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+196,mhm .,co .,ENG,0
+197,oh it's awesome bro .,co pro:per adj n .,ENG ENG ENG ENG,0
+198,yeah I wanna see it .,co pro:sub v v pro:per .,ENG ENG ENG ENG ENG,0
+199,it looks like he works .,pro:per v conj pro:sub v .,ENG ENG ENG ENG ENG,0
+200,this guy I remember the face .,det:dem n pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG,0
+201,but it looks like one Spanish guy working on the movie .,conj pro:per v prep det:num n:prop n part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+202,you know who's in that movie ?,pro:per v pro:rel prep det:dem n ?,ENG ENG ENG ENG ENG ENG,0
+203,Ando you know Ando ?,n:prop pro:per v n:prop ?,ENG ENG ENG ENG,0
+204,oh yeah .,co co .,ENG ENG,0
+205,Ando from Heroes .,n:prop prep n:prop .,ENG ENG ENG,0
+206,I thought that was a Spanish guy but it was Ando the one that I saw .,pro:sub n comp cop det:art n:prop n conj pro:per cop n:prop det:art pro:indef pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+207,yeah .,co .,ENG,0
+208,I saw it but it //.,pro:sub v pro:per conj pro:per +//.,ENG ENG ENG ENG ENG,0
+209,you know like el perfil ?,pro:per v co L2 L2 ?,ENG ENG ENG ESP ESP,1
+210,yeah .,co .,ENG,0
+211,"y dije ""/.","coord v +""/.",ENG ENG,0
+212,that's Ando !,pro:dem n:prop !,ENG ENG,0
+213,.,None,,0
+214,but they didn't put it again so you know I was like that isn't Ando then .,conj pro:sub mod v pro:per adv:tem conj pro:per v pro:sub cop prep pro:dem cop n:prop adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+215,yeah .,co .,ENG,0
+216,él es modelo creo .,pro:sub cop n v .,ENG ENG ENG ENG,0
+217,really ?,adv ?,ENG,0
+218,yeah .,co .,ENG,0
+219,go to go to Wikipedia la enciclopedia online .,v inf v prep n:prop L2 L2 adj .,ENG ENG ENG ENG ENG ESP ESP ENG,1
+220,yeah Wikipedia .,co n:prop .,ENG ENG,0
+221,y pon el profile there .,coord imp det:art L2 L2 .,ENG ENG ENG ESP ESP,1
+222,sale él sale Micah .,v pro:sub v n:prop .,ENG ENG ENG ENG,0
+223,Micah ?,n:prop ?,ENG,0
+224,el chamaquito .,det:art n .,ENG ENG,0
+225,oh yeah yeah .,co co co .,ENG ENG ENG,0
+226,sale DL .,v n:prop .,ENG ENG,0
+227,sale //.,imp +//.,ENG,0
+228,quién más sale ?,pro:int adv v ?,ENG ENG ENG,0
+229,sale Nathan .,v n:prop .,ENG ENG,0
+230,Nathan ?,n:prop ?,ENG,0
+231,Nathan Per //.,n:prop n:prop +//.,ENG ENG,0
+232,yeah Nathan Petrelli .,co n:prop n:prop .,ENG ENG ENG,0
+233,sale Peter también .,v n:prop adv .,ENG ENG ENG,0
+234,sale el tipo este el hindú .,v det:art n cop det:art n .,ENG ENG ENG ENG ENG ENG,0
+235,they're all models ?,pro:sub adv n ?,ENG ENG ENG,0
+236,no .,adv .,ENG,0
+237,oh .,co .,ENG,0
+238,that guy Ando .,det:dem n n:prop .,ENG ENG ENG,0
+239,eh el hindú no me acuerdo qué era es él es from Chicago .,co det:art n adv pro:obj v pro:int cop cop pro:sub cop L2 n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG,1
+240,Suresh ?,n:prop ?,ENG,0
+241,Suresh yeah .,n:prop co .,ENG ENG,0
+242,Mohinder .,n:prop .,ENG,0
+243,and you're gonna see what happened with Suresh too .,coord pro:per part v pro:int v prep n:prop post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+244,yeah you're gonna say that it can't happen I don't know how he's changed you know .,co pro:per part v comp pro:per mod v pro:sub mod v pro:int pro:sub part pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+245,damn .,n .,ENG,0
+246,what point he's changed ?,det:int n pro:sub part ?,ENG ENG ENG ENG,0
+247,the cheerleader pisses me off bro .,det:art n v pro:obj prep n .,ENG ENG ENG ENG ENG ENG,0
+248,yeah .,co .,ENG,0
+249,she pisses me off .,pro:sub v pro:obj adv .,ENG ENG ENG ENG,0
+250,siempre está en los mismos esa .,adv cop prep det:art adj det:dem .,ENG ENG ENG ENG ENG ENG,0
+251,yeah everything is the same I wanna help people I wanna help people I wanna help people whee get out .,co pro:indef cop det:art adj pro:sub v v n pro:sub v v n pro:sub v v n co v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+252,yeah exactly .,co adv .,ENG ENG,0
+253,I don't wanna .,pro:sub mod v .,ENG ENG ENG,0
+254,yeah .,co .,ENG,0
+255,yeah .,co .,ENG,0
+256,and you saw her boyfriend ?,coord pro:per v det:poss n ?,ENG ENG ENG ENG ENG,0
+257,yeah he's pissing me off even more !,co pro:sub part pro:obj adv adv adv !,ENG ENG ENG ENG ENG ENG ENG,0
+258,.,None,,0
+259,stupid Superman guy .,adj n:prop n .,ENG ENG ENG,0
+260,thinks he's Superman and shit .,v pro:sub n:prop coord n .,ENG ENG ENG ENG ENG,0
+261,yeah I can fly you can heal I can fly you can heal that's it .,co pro:sub mod v pro:per mod v pro:sub mod v pro:per mod v pro:dem pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+262,yeah .,co .,ENG,0
+263,bro the only the interesting part that they do was when this girl the cheerleader this girl ?,n det:art qn det:art adj adj comp pro:sub v cop conj det:dem n det:art n det:dem n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+264,oh yeah yeah .,co co co .,ENG ENG ENG,0
+265,you saw that part .,pro:per v comp n .,ENG ENG ENG ENG,0
+266,que él la deja caer y ella se cae y .,pro:rel pro:sub pro:obj v inf coord pro:sub pro:refl v coord .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+267,did you see that part ?,mod pro:per v comp n ?,ENG ENG ENG ENG ENG,0
+268,oh when they were on the mountain ?,co conj pro:sub cop prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+269,wait what part was that ?,v pro:int n cop pro:dem ?,ENG ENG ENG ENG ENG,0
+270,no no no no hay una parte que la pesada la cheerleader pesada está tomando ...,adv adv adv adv v det:art n pro:rel det:art part det:art L2 part aux part +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG,1
+271,you didn't see that part ?,pro:per mod v det:dem n ?,ENG ENG ENG ENG ENG,0
+272,well is that episode six or seven ?,co cop comp n det:num coord det:num ?,ENG ENG ENG ENG ENG ENG ENG,0
+273,I don't really remember .,pro:sub mod adv v .,ENG ENG ENG ENG,0
+274,six seven or eight ?,det:num det:num coord det:num ?,ENG ENG ENG ENG,0
+275,because I haven't seen six I'm gonna see six today .,conj pro:sub aux part det:num pro:sub part v det:num adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+276,hay una parte que ella está tomando .,v det:art n prep pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG,0
+277,y ellos quieren como asustarla como algo un escarmiento .,coord pro:sub v pro:rel inf adv pro:indef det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+278,y entonces ellos planean algo .,coord adv pro:sub v pro:indef .,ENG ENG ENG ENG ENG,0
+279,y él se pone una máscara .,coord pro:sub pro:refl v det:art n .,ENG ENG ENG ENG ENG ENG,0
+280,y él la sube .,coord pro:sub pro:obj v .,ENG ENG ENG ENG,0
+281,y la deja caer .,coord pro:obj v inf .,ENG ENG ENG ENG,0
+282,y espera parecer un fantasma a ella tú sabes como para asustarla .,coord v inf det:art n prepart pro:sub pro:sub v adv prep inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+283,oh I haven't seen it .,co pro:sub aux part pro:per .,ENG ENG ENG ENG ENG,0
+284,y ella le dice que él viene la policía .,coord pro:sub pro:ind v pro:rel pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+285,y después viene Claire .,coord adv v n:prop .,ENG ENG ENG ENG,0
+286,y Claire está normal .,coord n:prop aux adj .,ENG ENG ENG ENG,0
+287,y después viene el muchacho .,coord adv v det:art n .,ENG ENG ENG ENG ENG,0
+288,y como que parecer la como que ella está loca .,coord adv pro:rel inf det:art adv pro:rel pro:sub cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+289,oh yeah yeah no I haven't seen it .,co co co co pro:sub aux part pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+290,I'll see it .,pro:sub v pro:per .,ENG ENG ENG,0
+291,that's the only part that you know like it's like funny .,pro:dem det:art qn adj comp pro:per v co pro:per conj adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+292,yeah .,co .,ENG,0
+293,pero you_know en la primera parte enseña más .,conj L2 prep det:art adj n v adv .,ENG ESP ENG ENG ENG ENG ENG ENG,1
+294,yeah and Claire doesn't do anything .,co coord n:prop mod v pro:indef .,ENG ENG ENG ENG ENG ENG,0
+295,she's just complaining all the time .,pro:sub adv part qn det:art n .,ENG ENG ENG ENG ENG ENG,0
+296,yeah en la primera parte enseña más /.,co prep det:art adj n v adv +/.,ENG ENG ENG ENG ENG ENG ENG,0
+297,and she's always mad at her father .,coord pro:sub adv adj prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+298,yeah .,co .,ENG,0
+299,and her father's just trying to like protect her .,coord det:poss n adv part inf v v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+300,ajá .,co .,ENG,0
+301,and what pisses me off is she doesn't listen to him .,coord pro:int n pro:obj prep cop pro:sub mod v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+302,you know .,pro:per v .,ENG ENG,0
+303,that's what happens the things in the chapter nine .,pro:dem pro:int v det:art n prep det:art n det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+304,doesn't listen to him .,mod v prep pro:obj .,ENG ENG ENG ENG,0
+305,no .,co .,ENG,0
+306,and .,coord .,ENG,0
+307,Hiro sees the who killed the father .,n:prop v det:art pro:rel v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+308,he sees ?,pro:sub v ?,ENG ENG,0
+309,yeah .,co .,ENG,0
+310,does Hiro come back ?,mod n:prop v adv ?,ENG ENG ENG ENG,0
+311,I want him to leave the past already .,pro:sub v pro:obj inf v det:art adj adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+312,yeah me too /.,co pro:obj adv +/.,ENG ENG ENG,0
+313,I want him to come back .,pro:sub v pro:obj inf v adv .,ENG ENG ENG ENG ENG ENG,0
+314,because he's it's everything on the that's what I'm telling everything in the same role .,conj pro:sub pro:per pro:indef prep det:art pro:dem pro:int pro:sub part pro:indef prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+315,yeah .,co .,ENG,0
+316,like Hiro's over he's over there on the sixty on the ...,co n:prop adv pro:sub prep n prep det:art det:num prep det:art +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+317,fifteen forty or something ?,det:num det:num coord pro:indef ?,ENG ENG ENG ENG,0
+318,yeah something like that .,co pro:indef prep pro:dem .,ENG ENG ENG ENG,0
+319,and they don't do anything .,coord pro:sub mod v pro:indef .,ENG ENG ENG ENG ENG,0
+320,with Kensei but he's coming back .,prep n:prop conj pro:sub part n .,ENG ENG ENG ENG ENG ENG,0
+321,did he come back already ?,mod pro:sub v adv adv ?,ENG ENG ENG ENG ENG,0
+322,yeah on chapter eight he comes back .,co prep n det:num pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG,0
+323,at the end of the chapter eight I think yeah .,prep det:art n prep det:art n det:num pro:sub v co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+324,I like what's going on with Peter though .,pro:sub v pro:int part adv prep n:prop adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+325,ah ?,co ?,ENG,0
+326,I well I'm interested in like the Peter story like what's going on with Peter .,pro:sub adv pro:sub part prep prep det:art n:prop n prep pro:int part adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+327,because like he saw the picture .,conj conj pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG,0
+328,he's like oh I gotta go .,pro:sub co co pro:sub mod v .,ENG ENG ENG ENG ENG ENG,0
+329,and then the girl's father /.,coord adv:tem det:art adj n +/.,ENG ENG ENG ENG ENG,0
+330,got killed by the girl with the //.,aux v prep det:art n prep det:art +//.,ENG ENG ENG ENG ENG ENG ENG,0
+331,yeah .,co .,ENG,0
+332,that girl's hot by the way .,det:dem n adj prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+333,on this season yeah the only one that I wanna know is you know .,prep det:dem n co det:art qn pro:indef pro:rel pro:sub v v aux pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+334,that season it was Hiro the one that I want /.,pro:dem v pro:per cop n:prop det:art pro:indef pro:rel pro:sub v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+335,yeah .,co .,ENG,0
+336,to be like you know like I want /.,inf cop prep pro:per v co pro:sub v +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+337,you want .,pro:per v .,ENG ENG,0
+338,to be seeing .,inf aux part .,ENG ENG ENG,0
+339,yeah .,co .,ENG,0
+340,because is the funny stuff the /.,conj cop det:art adj n det:art +/.,ENG ENG ENG ENG ENG ENG,0
+341,yeah yeah .,co co .,ENG ENG,0
+342,pero en ésta no está haciendo nada .,conj prep pro:dem adv imp part pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+343,nah .,co .,ENG,0
+344,so yeah it's what you're saying .,co co pro:per pro:int pro:per part .,ENG ENG ENG ENG ENG ENG,0
+345,maybe next season or something .,adv adj n coord pro:indef .,ENG ENG ENG ENG ENG,0
+346,Peter is the only one that you're interested about like .,n:prop cop det:art qn pro:indef pro:rel pro:per part adv prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+347,yeah .,co .,ENG,0
+348,Peter and Nathan porque en las en la .,n:prop L2 n:prop conj prep det:art prep det:art .,ENG ESP ENG ENG ENG ENG ENG ENG,1
+349,Nathan ?,n:prop ?,ENG,0
+350,en cuando ellos viran del pasado .,prep pro:rel pro:sub v prep part .,ENG ENG ENG ENG ENG ENG,0
+351,oh yeah .,co co .,ENG ENG,0
+352,cuando ellos te ponen la parte de four months ago .,conj pro:sub pro:obj v det:art n prep L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP,1
+353,oh no no no no no don't tell .,co co co co co co mod v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+354,no no no no I'm just gonna tell you this .,co co co co pro:sub adv part v pro:per pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+355,all right then .,qn n adv:tem .,ENG ENG ENG,0
+356,four months ago tú viste que Nathan se ve a veces con la cara quemada .,L2 L2 L2 pro:sub v pro:rel n:prop pro:refl v prepart n prep det:art n part .,ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+357,yeah .,co .,ENG,0
+358,es cuando ellos suben para arriba /.,cop pro:rel pro:sub v prep adv +/.,ENG ENG ENG ENG ENG ENG,0
+359,oh .,co .,ENG,0
+360,él lo empieza a quemar .,pro:sub pro:obj v prepart inf .,ENG ENG ENG ENG ENG,0
+361,y entonces después tú quieres saber cómo fue que se curó completo .,coord adv adv pro:sub v inf pro:int v pro:rel pro:refl v v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+362,oh .,co .,ENG,0
+363,porque después está completo curado you_know .,conj adv cop v part L2 .,ENG ENG ENG ENG ENG ESP,1
+364,yeah .,co .,ENG,0
+365,and they show you ?,coord pro:sub v pro:per ?,ENG ENG ENG ENG,0
+366,yeah they show you /.,co pro:sub v pro:per +/.,ENG ENG ENG ENG,0
+367,you know ?,pro:per v ?,ENG ENG,0
+368,what happens yeah .,pro:int v co .,ENG ENG ENG,0
+369,oh my god .,co det:poss n .,ENG ENG ENG,0
+370,on chapter nine .,prep n det:num .,ENG ENG ENG,0
+371,but that's what /.,conj pro:dem pro:int +/.,ENG ENG ENG,0
+372,and then Nicky's in like the hospital .,coord adv:tem adj adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+373,the she's another stupid one siempre lo mismo .,det:art pro:sub qn adj pro:indef L2 L2 L2 .,ENG ENG ENG ENG ENG ESP ESP ESP,1
+374,Nicky's always with ...,n:prop adv prep +...,ENG ENG ENG,0
+375,yeah and the black guy too .,co coord det:art n n adv .,ENG ENG ENG ENG ENG ENG,0
+376,what black guy ?,pro:int adj n ?,ENG ENG ENG,0
+377,the husband .,det:art n .,ENG ENG,0
+378,he's dead !,pro:sub adj !,ENG ENG,0
+379,no .,co .,ENG,0
+380,DL's dead .,n:prop adj .,ENG ENG,0
+381,no you gotta see that part too .,co pro:per mod v det:dem n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+382,oh really ?,co adv ?,ENG ENG,0
+383,he's dead but he isn't dead because Linderman .,pro:sub adj conj pro:sub cop adj conj n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+384,he's dead because Linderman killed him .,pro:sub adj conj n:prop v pro:obj .,ENG ENG ENG ENG ENG ENG,0
+385,no no he on later on on the chapter nine they gonna show you /.,co co pro:sub adv adv adv prep det:art n det:num pro:sub part v pro:per +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+386,oh my god .,co det:poss n .,ENG ENG ENG,0
+387,who kills him .,pro:int v pro:obj .,ENG ENG ENG,0
+388,he's dead but Linderman is is not the one that killed him .,pro:sub adj conj n:prop cop aux neg det:art pro:indef pro:rel v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+389,they go to a hospital and lo curan you know lo like /.,pro:sub v prep det:art n coord L2 L2 pro:per v L2 prep +/.,ENG ENG ENG ENG ENG ENG ESP ESP ENG ENG ESP ENG,1
+390,oh and then someone kills him ?,co coord adv:tem pro:indef v pro:obj ?,ENG ENG ENG ENG ENG ENG,0
+391,later on happens something with Jessica that he goes where Jessica is /.,adv adv v pro:indef prep n:prop pro:rel pro:sub v pro:int n:prop cop +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+392,don't tell me anything .,mod v pro:obj pro:indef .,ENG ENG ENG ENG,0
+393,and something happens .,coord pro:indef v .,ENG ENG ENG,0
+394,you know who I like too ?,pro:per v pro:int pro:sub v adv ?,ENG ENG ENG ENG ENG ENG,0
+395,I look I like Peter Petrelli Hiro this season not so much but I like Hiro and I like the cop .,pro:sub v pro:sub v n:prop n:prop n:prop det:dem n neg adv adv conj pro:sub v n:prop coord pro:sub co det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+396,I don't like the cop .,pro:sub mod v det:art n .,ENG ENG ENG ENG ENG,0
+397,I like the cop with Suresh taking care of the little girl trying to figure out like .,pro:sub v det:art n prep n:prop part n prep det:art adj n part inf v adv prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+398,they put the cop and Suresh a lot but they don't do anything .,pro:sub v det:art n coord n:prop det:art n conj pro:sub mod v pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+399,they just talk they just think .,pro:sub adv n pro:sub adv v .,ENG ENG ENG ENG ENG ENG,0
+400,well yeah don't you remember they went to go find the cop's father .,co co mod pro:per v pro:sub v inf v v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+401,and the father like he's the one that like with the power .,coord det:art n v pro:sub det:art pro:indef pro:rel co prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+402,yeah .,co .,ENG,0
+403,that he put them both fighting against each other .,comp pro:sub v pro:obj qn part prep qn qn .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+404,ajá .,co .,ENG,0
+405,remember ?,v ?,ENG,0
+406,yeah .,co .,ENG,0
+407,and they they didn't know .,coord pro:sub pro:sub mod v .,ENG ENG ENG ENG ENG,0
+408,he can put something on the head of the people .,pro:sub mod v pro:indef prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+409,yeah .,co .,ENG,0
+410,he can control the people .,pro:sub mod v det:art n .,ENG ENG ENG ENG ENG,0
+411,but .,conj .,ENG,0
+412,do you like the the Honduranean girl with the brother that are with Syler ?,mod pro:per v det:art det:art n:prop n prep det:art n pro:rel cop prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+413,kind of .,adj prep .,ENG ENG,0
+414,you like them ?,pro:per v pro:obj ?,ENG ENG ENG,0
+415,.,None,,0
+416,I like Syler .,pro:sub v n:prop .,ENG ENG ENG,0
+417,yeah that guy is ...,co pro:dem n cop +...,ENG ENG ENG ENG,0
+418,I like Syler .,pro:sub v n:prop .,ENG ENG ENG,0
+419,he's bad /.,pro:sub adj +/.,ENG ENG,0
+420,that guy is awesome man .,det:dem n cop adj n .,ENG ENG ENG ENG ENG,0
+421,you know but .,pro:per v conj .,ENG ENG ENG,0
+422,they haven't put Syler like later on .,pro:sub aux part n:prop v adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+423,they haven't put him /.,pro:sub aux v pro:obj +/.,ENG ENG ENG ENG,0
+424,they haven't put him ?,pro:sub aux v pro:obj ?,ENG ENG ENG ENG,0
+425,on any other chapters .,prep qn qn n .,ENG ENG ENG ENG,0
+426,really ?,adv ?,ENG,0
+427,no .,co .,ENG,0
+428,that's the thing about that I was telling you .,pro:dem det:art n adv pro:rel pro:sub aux part pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+429,I heard with chapter eleven has a lot to do with Syler like /.,pro:sub v prep n det:num v det:art n inf v prep n:prop prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+430,yeah .,co .,ENG,0
+431,he's in it a lot .,pro:sub prep pro:per det:art n .,ENG ENG ENG ENG ENG,0
+432,what I was telling you that they just put everything in one chapter .,pro:int pro:sub aux part pro:per comp pro:sub adv v pro:indef prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+433,on chapter nine is everything .,prep n det:num aux pro:indef .,ENG ENG ENG ENG ENG,0
+434,if you see like six seven and eight that's it .,conj pro:per v co det:num det:num coord det:num pro:dem pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+435,you don't have to see the rest of the chapters because everything is like the same thing .,pro:per mod v inf v det:art n prep det:art n conj pro:indef cop co det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+436,yeah .,co .,ENG,0
+437,you just gotta see six seven eight and nine .,pro:per adv mod v det:num det:num det:num coord det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+438,that's it with those four chapters you gonna see everything what happened on the rest of the chapters .,pro:dem pro:per prep det:dem det:num n pro:per part v pro:indef pro:int v prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+439,oh really ?,co adv ?,ENG ENG,0
+440,yeah .,co .,ENG,0
+441,.,None,,0
+442,why because they show you the future again ?,pro:int conj pro:sub v pro:per det:art n adv:tem ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+443,because chapter nine's is everything in chapter nine's is what happened /.,conj n det:num aux pro:indef prep n det:num cop pro:int v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+444,four months before like after the explosion ?,det:num n adv prep prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+445,yeah .,co .,ENG,0
+446,you know you gotta see like two or three chapters before chapter nine .,pro:per v pro:per mod v co det:num coord det:num n prep n det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+447,because you gotta see what happens with Peter .,conj pro:per mod v pro:int v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+448,how he gets there .,pro:int pro:sub v adv .,ENG ENG ENG ENG,0
+449,what happens with the girl that has got the flame everything .,pro:int v prep det:art n pro:rel aux part det:art n pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+450,yeah .,co .,ENG,0
+451,yeah .,co .,ENG,0
+452,we'll see .,pro:sub v .,ENG ENG,0
+453,hey have you heard about that raise that we're getting in August the dollar twenty ?,co v pro:per v prep det:dem n pro:rel pro:sub part prep n:prop det:art n det:num ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+454,oh .,co .,ENG,0
+455,supposedly with a new contract that went through .,adv prep det:art adj n pro:rel v adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+456,oh yeah but .,co co conj .,ENG ENG ENG,0
+457,and like /.,coord co +/.,ENG ENG,0
+458,yeah yeah I did .,co co pro:sub v .,ENG ENG ENG ENG,0
+459,we're getting a raise on the twentieth .,pro:sub part det:art n prep det:art adj .,ENG ENG ENG ENG ENG ENG ENG,0
+460,what time you got there ?,det:int n pro:per v adv ?,ENG ENG ENG ENG ENG,0
+461,eleven thirty four .,det:num det:num det:num .,ENG ENG ENG,0
+462,I heard about it last year that they're gonna change company .,pro:sub v prep pro:per adj n pro:rel pro:sub part v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+463,yeah I supposedly we're getting a dollar twenty raise in August .,co pro:sub adv pro:sub part det:art n det:num n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+464,we're gonna change ...,pro:sub part v +...,ENG ENG ENG,0
+465,they gonna change union and stuff and they gonna raise twice a year .,pro:sub part v n coord n coord pro:sub part v adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+466,I hope so .,pro:sub v conj .,ENG ENG ENG,0
+467,yeah .,co .,ENG,0
+468,damn that'd be awesome .,adj pro:rel cop adj .,ENG ENG ENG ENG,0
+469,do you like do you like Erik ?,mod pro:per v mod pro:per v n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+470,sometimes .,adv:tem .,ENG,0
+471,para mí es un pesado a_lot .,prep pro:prep cop det:art part L2 .,ENG ENG ENG ENG ENG ESP,1
+472,sometimes .,adv:tem .,ENG,0
+473,most of the time pesado but sometimes he could be cool .,qn prep det:art n L2 conj adv:tem pro:sub mod cop adj .,ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG,1
+474,yeah .,co .,ENG,0
+475,but I dunno he gets a little pesado sometimes .,conj pro:sub mod v v det:art adj L2 adv:tem .,ENG ENG ENG ENG ENG ENG ENG ESP ENG,1
+476,sometimes ay they still putting Jumper there .,adv:tem L2 pro:sub adv part n:prop adv .,ENG ESP ENG ENG ENG ENG ENG,1
+477,yeah you didn't see it ?,co pro:per mod v pro:per ?,ENG ENG ENG ENG ENG,0
+478,no .,co .,ENG,0
+479,it's good .,pro:per adj .,ENG ENG,0
+480,yeah ?,co ?,ENG,0
+481,which one is the other one that is the bottom ?,pro:int pro:indef cop det:art qn pro:indef pro:rel cop det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+482,Step_Up_Two .,n:prop .,ENG,0
+483,oh have you seen that one ?,co v pro:per part comp pro:indef ?,ENG ENG ENG ENG ENG ENG,0
+484,you know which one's good ?,pro:per v pro:int pro:indef adj ?,ENG ENG ENG ENG ENG,0
+485,Vantage_Point .,n:prop .,ENG,0
+486,oh yeah .,co co .,ENG ENG,0
+487,Vantage_Point yeah .,n:prop co .,ENG ENG,0
+488,I saw the trailer oh awesome .,pro:sub v det:art n co adj .,ENG ENG ENG ENG ENG ENG,0
+489,you see the movie in the point of views of everyone .,pro:per v det:art n prep det:art n prep n prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+490,yeah .,co .,ENG,0
+491,they show you the movie in the point of view of the cop .,pro:sub v pro:per det:art n prep det:art n prep n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+492,and then they go all the way back rewind .,coord adv:tem pro:sub v qn det:art n adv re#n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+493,show you everything that happened .,v pro:per pro:indef pro:rel v .,ENG ENG ENG ENG ENG,0
+494,.,None,,0
+495,but in the point of view of a guy filming with a camera like it's awesome .,conj prep det:art n prep n prep det:art n part prep det:art n v pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+496,but everything is happen with the cameras .,conj pro:indef cop v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+497,or everything happen with the point of view of /.,coord pro:indef v prep det:art n prep n prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+498,point of view normal .,n prep n n .,ENG ENG ENG ENG,0
+499,yeah but I saw /.,co conj pro:sub v +/.,ENG ENG ENG ENG,0
+500,but there's different people .,conj pro:exist adj n .,ENG ENG ENG ENG,0
+501,yo vi que el ...,pro:sub v pro:rel det:art +...,ENG ENG ENG ENG,0
+502,this guy had a camera like a like un periodista .,det:dem n v det:art n prep det:art co L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+503,yeah .,co .,ENG,0
+504,tenía una cámara .,v det:art n .,ENG ENG ENG,0
+505,y le quitaron la cámara .,coord pro:ind v det:art n .,ENG ENG ENG ENG ENG,0
+506,y lo chequeaban el video que cogieron /.,coord pro:obj v det:art n pro:rel v +/.,ENG ENG ENG ENG ENG ENG ENG,0
+507,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+508,but what you mean with the point of view of the cop ?,conj pro:int pro:per v prep det:art n prep n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+509,ellos te hacen que tú digas lo que pasó .,pro:sub pro:obj v pro:rel pro:sub v pro:obj pro:rel v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+510,no no like they show the beginning of the movie and then the big explosion happens /.,co co conj pro:sub v det:art n prep det:art n coord adv:tem det:art adj n v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+511,ajá .,co .,ENG,0
+512,no the president gets shot /.,qn det:art n v n +/.,ENG ENG ENG ENG ENG,0
+513,yeah .,co .,ENG,0
+514,and then a big explosion happens .,coord adv:tem det:art adj n v .,ENG ENG ENG ENG ENG ENG,0
+515,and then like they rewind .,coord adv:tem conj pro:sub re#n .,ENG ENG ENG ENG ENG,0
+516,and they like the security the bodyguard of the /.,coord pro:sub co det:art n det:art n prep det:art +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+517,the president ?,det:art n ?,ENG ENG,0
+518,of the president .,prep det:art n .,ENG ENG ENG,0
+519,they show like everything that happened from his point of view like what he was seeing .,pro:sub v prep pro:indef pro:rel v prep det:poss n prep n prep pro:int pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+520,and then from another person .,coord adv:tem prep qn n .,ENG ENG ENG ENG ENG,0
+521,mhm .,co .,ENG,0
+522,you have to see it .,pro:per v inf v pro:per .,ENG ENG ENG ENG ENG,0
+523,it's good it's good .,pro:per adj pro:per adj .,ENG ENG ENG ENG,0
+524,and then at the end they put you the point of view of /.,coord adv:tem prep det:art n pro:sub v pro:per det:art n prep n prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+525,you saw it already ?,pro:per v pro:per adv ?,ENG ENG ENG ENG,0
+526,of the killer .,prep det:art n .,ENG ENG ENG,0
+527,you saw it already ?,pro:per v pro:per adv ?,ENG ENG ENG ENG,0
+528,yeah .,co .,ENG,0
+529,oh don't tell me don't tell me I wanna see it .,co mod v pro:obj mod v pro:obj pro:sub v v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+530,no watch it .,qn n pro:per .,ENG ENG ENG,0
+531,you saw this one .,pro:per v det:dem pro:indef .,ENG ENG ENG ENG,0
+532,Ten_Thousand_B_C I wanna see .,n:prop pro:sub v co .,ENG ENG ENG ENG,0
+533,you know what I don't like on that movie ?,pro:per v pro:int pro:sub mod v prep det:dem n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+534,hm .,co .,ENG,0
+535,they talk in English .,pro:sub n prep n:prop .,ENG ENG ENG ENG,0
+536,they talk English ?,pro:sub v n:prop ?,ENG ENG ENG,0
+537,at the point of that movie nobody can know any language .,prep det:art n prep det:dem n pro:indef mod v qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+538,are you sure ?,cop pro:per adj ?,ENG ENG ENG,0
+539,yeah ten thousand BC .,co det:num det:num n:prop .,ENG ENG ENG ENG,0
+540,it's when the people live in caves and stuff like that .,pro:per conj det:art n v prep n coord n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+541,they don't live in //.,pro:sub mod v adv +//.,ENG ENG ENG ENG,0
+542,they don't even live in caves .,pro:sub mod v v prep n .,ENG ENG ENG ENG ENG ENG,0
+543,you don't know .,pro:per mod v .,ENG ENG ENG,0
+544,maybe they talk English and some //.,adv pro:sub v n:prop coord qn +//.,ENG ENG ENG ENG ENG ENG,0
+545,maybe they did talk English !,adv pro:sub mod v n:prop !,ENG ENG ENG ENG ENG,0
+546,no no I don't think so .,co co pro:sub mod v co .,ENG ENG ENG ENG ENG ENG,0
+547,I don't think so because /.,pro:sub mod v conj conj +/.,ENG ENG ENG ENG ENG,0
+548,you want it to be like Apocalypto /.,pro:per v pro:per inf aux co n:prop +/.,ENG ENG ENG ENG ENG ENG ENG,0
+549,yeah .,co .,ENG,0
+550,that they talk another language and /.,comp pro:sub v qn n coord +/.,ENG ENG ENG ENG ENG ENG,0
+551,yeah .,co .,ENG,0
+552,Apocalypto was good .,n:prop cop adj .,ENG ENG ENG,0
+553,I like that movie .,pro:sub v det:dem n .,ENG ENG ENG ENG,0
+554,awesome that movie was awesome .,adj comp n cop adj .,ENG ENG ENG ENG ENG,0
+555,Untraceable you saw it Untraceable already ?,n:prop pro:per v pro:per n:prop adv ?,ENG ENG ENG ENG ENG ENG,0
+556,.,None,,0
+557,oh I didn't see it man .,co pro:sub mod v pro:per v .,ENG ENG ENG ENG ENG ENG,0
+558,I missed it .,pro:sub v pro:per .,ENG ENG ENG,0
+559,I think that they took it off ?,pro:sub v comp pro:sub v pro:per adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+560,yeah they took it off .,co pro:sub v pro:per adv .,ENG ENG ENG ENG ENG,0
+561,it's coming out on d_v_d then .,pro:per part adv prep n adv:tem .,ENG ENG ENG ENG ENG ENG,0
+562,I saw The_Bank_Job .,pro:sub v n:prop .,ENG ENG ENG,0
+563,you saw it ?,pro:per v pro:per ?,ENG ENG ENG,0
+564,it's good ?,pro:per adj ?,ENG ENG,0
+565,The_Bank_Job's good yeah .,n:prop adj co .,ENG ENG ENG,0
+566,I wanna see it .,pro:sub v v pro:per .,ENG ENG ENG ENG,0
+567,I liked .,pro:sub v .,ENG ENG,0
+568,I have seen the trailers .,pro:sub aux part det:art n .,ENG ENG ENG ENG ENG,0
+569,and it's good .,coord pro:per adj .,ENG ENG ENG,0
+570,what about Incredible_Hulk ?,pro:int prep n:prop ?,ENG ENG ENG,0
+571,you saw the trailer ?,pro:per v det:art n ?,ENG ENG ENG ENG,0
+572,yeah .,co .,ENG,0
+573,you saw it ?,pro:per v pro:per ?,ENG ENG ENG,0
+574,what do you think good huh ?,pro:int mod pro:per v adj co ?,ENG ENG ENG ENG ENG ENG,0
+575,but I don't like the guy on the movie I don't like him .,conj pro:sub mod v det:art n prep det:art n pro:sub mod v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+576,I like him .,pro:sub v pro:obj .,ENG ENG ENG,0
+577,I like him better than the other guy .,pro:sub v pro:obj adv prep det:art qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+578,on that special movie I don't like him .,prep pro:dem adj n pro:sub mod v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+579,because that guy is too serious to be on that type of movie .,conj det:dem n cop adv adj inf cop prep det:dem n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+580,you think ?,pro:per v ?,ENG ENG,0
+581,but everyone loves Edward Norton .,conj pro:indef v n:prop n:prop .,ENG ENG ENG ENG ENG,0
+582,I like it how he works .,pro:sub v pro:per pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+583,yeah .,co .,ENG,0
+584,but he's all he's ...,conj pro:sub adv pro:sub +...,ENG ENG ENG ENG,0
+585,pero es demasiado serio para esa película .,conj cop adj adj prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+586,es como poner en esa película a Anthony Hopkins .,cop adv inf prep det:dem n prepart n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+587,Anthony Hopkins ?,n:prop n:prop ?,ENG ENG,0
+588,yeah !,co !,ENG,0
+589,you could do it !,pro:per mod mod pro:per !,ENG ENG ENG ENG,0
+590,nah son actores /.,co cop n +/.,ENG ENG ENG,0
+591,look if you're a good actor you could do anything .,v conj pro:per det:art adj n pro:per mod v pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+592,pero son muy serios para esas películas .,conj cop adv adj prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+593,look at The_Rock .,v prep n:prop .,ENG ENG ENG,0
+594,The_Rock started doing action movies and now they're putting him /.,n:prop v part n n coord adv:tem pro:sub part pro:obj +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+595,which one was The_Rock ?,pro:int pro:indef cop n:prop ?,ENG ENG ENG ENG,0
+596,el actor The_Rock ?,det:art n n:prop ?,ENG ENG ENG,0
+597,oh .,co .,ENG,0
+598,he does comedy //.,pro:sub v n +//.,ENG ENG ENG,0
+599,you know Vin Diesel ?,pro:per v n:prop n:prop ?,ENG ENG ENG ENG,0
+600,yeah .,co .,ENG,0
+601,he did a comedy .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+602,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+603,The_Pacifier .,n:prop .,ENG,0
+604,no the only one that I don't like from him is the /.,co det:art qn pro:indef pro:rel pro:sub mod v prep pro:obj cop det:art +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+605,that one that you said .,det:dem pro:indef pro:rel pro:per v .,ENG ENG ENG ENG ENG,0
+606,Strays I think it is the name of oh man .,n:prop pro:sub v pro:per cop det:art n prep co n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+607,Strays yeah .,n:prop co .,ENG ENG,0
+608,it was like stupid stupid you saw it ?,pro:per cop prep adj adj pro:per v pro:per ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+609,watched that movie ?,v comp n ?,ENG ENG ENG,0
+610,what Strays ?,pro:int n:prop ?,ENG ENG,0
+611,Strays .,n:prop .,ENG,0
+612,you told me it wasn't good .,pro:per v pro:obj pro:per cop adj .,ENG ENG ENG ENG ENG ENG,0
+613,don't even look //.,mod v n +//.,ENG ENG ENG,0
+614,and he they got like thousand movies on Blockbuster oye .,coord pro:sub pro:sub v co det:num n prep n:prop L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+615,like the same movie .,prep det:art adj n .,ENG ENG ENG ENG,0
+616,ajá .,co .,ENG,0
+617,like thousands .,prep n .,ENG ENG,0
+618,of what ?,prep pro:int ?,ENG ENG,0
+619,of Strays yeah .,prep n:prop co .,ENG ENG ENG,0
+620,of that one ?,prep det:dem pro:indef ?,ENG ENG ENG,0
+621,they got like a thousand just one wall for him .,pro:sub v co det:art det:num adv det:num n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+622,yesterday I saw Elizabeth_The_Golden_Age .,adv:tem pro:sub v n:prop .,ENG ENG ENG ENG,0
+623,I got it at home .,pro:sub v pro:per prep n .,ENG ENG ENG ENG ENG,0
+624,I saw it .,pro:sub v pro:per .,ENG ENG ENG,0
+625,is it good ?,aux pro:per adj ?,ENG ENG ENG,0
+626,it's good .,pro:per adj .,ENG ENG,0
+627,but I wanna /.,conj pro:sub v +/.,ENG ENG ENG,0
+628,did you see the first one ?,mod pro:per v det:art adj pro:indef ?,ENG ENG ENG ENG ENG ENG,0
+629,no .,co .,ENG,0
+630,no ?,co ?,ENG,0
+631,I wanna see the first one .,pro:sub v v det:art adj pro:indef .,ENG ENG ENG ENG ENG ENG,0
+632,oh damn .,co n .,ENG ENG,0
+633,but they don't got it in Spanish and my girl doesn't speak English .,conj pro:sub mod v pro:per prep n:prop coord det:poss n mod v n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+634,you should see the first one .,pro:per mod v det:art adj pro:indef .,ENG ENG ENG ENG ENG ENG,0
+635,I mean you don't have to see the first one to understand the second .,pro:sub v pro:per mod v inf v det:art adv det:num inf v det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+636,ajá .,co .,ENG,0
+637,but you know it's good to see the first one .,conj pro:per v pro:per adj inf v det:art adj pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+638,but it's good .,conj pro:per adj .,ENG ENG ENG,0
+639,part two has like more action .,n det:num aux prep qn n .,ENG ENG ENG ENG ENG ENG,0
+640,part one has no action .,n pro:indef v qn n .,ENG ENG ENG ENG ENG,0
+641,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+642,the part two has like some action towards the end .,det:art n det:num aux prep qn n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+643,but if you see part two before part one when you see part one I mean .,conj conj pro:per v n det:num prep n pro:indef conj pro:per v adj pro:indef pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+644,when you see part two before you see part one when you see part one you gonna know something that happen on part two that you don't wanna know ?,conj pro:per v n det:num conj pro:per co adj det:num conj pro:per co adj det:num pro:per part v pro:indef pro:rel v prep n det:num comp pro:per mod v v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+645,ah no not really .,co co neg adv .,ENG ENG ENG ENG,0
+646,no ?,co ?,ENG,0
+647,no .,co .,ENG,0
+648,but see it .,conj v pro:per .,ENG ENG ENG,0
+649,you can see part two and seeing part one ?,pro:per mod v n det:num coord part adj pro:indef ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+650,yeah yeah .,co co .,ENG ENG,0
+651,and nothing's gonna happen like /.,coord pro:indef part v co +/.,ENG ENG ENG ENG ENG,0
+652,it's just in part one they show you like how she becomes the queen .,pro:per adj prep n det:num pro:sub v pro:per v pro:int pro:sub cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+653,you know in part two she's already the queen .,pro:per v prep n det:num pro:sub adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+654,yeah .,co .,ENG,0
+655,but they don't have it on Spanish subtitles or anything like that .,conj pro:sub mod v pro:per prep n:prop sub#v coord pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+656,are you sure they don't have Spanish ?,cop pro:per adj pro:sub mod v n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+657,no they don't have it .,co pro:sub mod v pro:per .,ENG ENG ENG ENG ENG,0
+658,damn and you need subtitles because that movie is hard to understand .,n coord pro:per mod sub#v conj det:dem n cop adv inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+659,but in part two in England they're going to war against Spain .,conj prep n det:num prep n:prop pro:sub part prep n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+660,so every time they show Spain eh they're talking in Spanish .,adv qn n pro:sub v n:prop co pro:sub part prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+661,on the first one ?,prep det:art adj pro:indef ?,ENG ENG ENG ENG,0
+662,in the second one .,prep det:art adj det:num .,ENG ENG ENG ENG,0
+663,the second one ?,det:art adj det:num ?,ENG ENG ENG,0
+664,they talk a lot of Spanish in the second one .,pro:sub v det:art n prep n:prop prep det:art adj det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+665,I have seen like part of the movies .,pro:sub v part prep n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+666,because I wanna see like something what happen on you know like if it likes Perfume .,conj pro:sub v co prep pro:indef pro:int v prep pro:per v co conj pro:per v n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+667,you saw Perfume right ?,pro:per v n:prop co ?,ENG ENG ENG ENG,0
+668,yeah .,co .,ENG,0
+669,I wanna see .,pro:sub v co .,ENG ENG ENG,0
+670,si ellos se tienen como Perfume o si era como un tipo de comedy y eso .,conj pro:sub pro:refl v adv n:prop coord conj cop adv det:art n prep L2 coord pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG,1
+671,yeah you know .,co pro:per v .,ENG ENG ENG,0
+672,I think it's more older than Perfume .,pro:sub v pro:per adv adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+673,like la época .,co L2 L2 .,ENG ESP ESP,1
+674,ah .,co .,ENG,0
+675,era más vieja que Perfume yeah .,cop adv adj pro:rel n:prop co .,ENG ENG ENG ENG ENG ENG,0
+676,yeah ?,co ?,ENG,0
+677,vi la ese trabaja ese tipo de Shoot_Em_Up ?,v det:art det:dem v det:dem n prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+678,yeah yeah yeah Shoot_Em_Up .,co co co n:prop .,ENG ENG ENG ENG,0
+679,yeah that guy works there .,co pro:dem n v adv .,ENG ENG ENG ENG ENG,0
+680,Clive Owen .,n:prop n:prop .,ENG ENG,0
+681,which one /?,pro:int pro:indef +/?,ENG ENG,0
+682,have you seen Bad_Boys_Two ?,v pro:per part n:prop ?,ENG ENG ENG ENG,0
+683,yeah .,co .,ENG,0
+684,you know the bad guy in part two ?,pro:per v det:art adj n prep n det:num ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+685,.,None,,0
+686,el que el cubano que tiene pelo largo .,det:art pro:rel det:art adj pro:rel v n adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+687,oh yeah .,co co .,ENG ENG,0
+688,el malo .,det:art adj .,ENG ENG,0
+689,el que dice que le va a dar un millón de pesos al que lo saque de la cárcel .,det:art pro:rel v pro:rel pro:ind v prepart inf det:art det:num prep n prepart pro:rel pro:obj v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+690,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+691,el es el malo en The_Golden_Age .,det:art cop det:art adj prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+692,oh yeah ?,co co ?,ENG ENG,0
+693,el es rey de España el malo .,det:art cop n prep n:prop det:art adj .,ENG ENG ENG ENG ENG ENG ENG,0
+694,oh .,co .,ENG,0
+695,yeah .,co .,ENG,0
+696,el flaco .,det:art adj .,ENG ENG,0
+697,yeah .,co .,ENG,0
+698,en esa no es en la que /.,prep det:dem adv cop prep det:art pro:rel +/.,ENG ENG ENG ENG ENG ENG ENG,0
+699,that's why when the little girl's like daddy look at the dress .,pro:dem pro:int conj det:art adj n co n v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+700,and then he's like you're beautiful .,coord adv:tem pro:sub conj pro:per adj .,ENG ENG ENG ENG ENG ENG,0
+701,and his friend laughs .,coord det:poss n n .,ENG ENG ENG ENG,0
+702,and he's like .,coord pro:sub prep .,ENG ENG ENG,0
+703,no hagas caso él es un mamapinga .,adv v n pro:sub cop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+704,.,None,,0
+705,huh .,co .,ENG,0
+706,en esa no es en la que el destruyen toda la flota a España ?,prep det:dem adv cop prep det:art pro:rel det:art v qn det:art n prepart n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+707,when what ?,conj pro:int ?,ENG ENG,0
+708,que le destruyen toda la flota a España .,pro:rel pro:ind v qn det:art n prepart n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+709,yeah .,co .,ENG,0
+710,es en esa ?,cop prep det:dem ?,ENG ENG ENG,0
+711,que creo que es la la destrucción más grande que ha tenido España desde la guerra .,pro:rel v pro:rel cop det:art det:art n adv adj pro:rel aux part n:prop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+712,esa no es la que queman la gente viva porque son católicos o algo de eso ?,det:dem adv cop pro:obj pro:rel v det:art n co conj cop n coord pro:indef prep pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+713,yeah yeah that's it .,co co pro:dem pro:per .,ENG ENG ENG ENG,0
+714,que /.,pro:rel +/.,ENG,0
+715,but they don't show it .,conj pro:sub mod v pro:per .,ENG ENG ENG ENG ENG,0
+716,but yeah they talk about it .,conj co pro:sub v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+717,yeah .,co .,ENG,0
+718,eh eh esa clase de películas me confunden .,co co det:dem n prep n pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+719,pero like I watch them with my girlfriend and she explains .,L2 conj pro:sub v pro:obj prep det:poss n coord pro:sub v .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+720,yeah ?,co ?,ENG,0
+721,what's going on yeah .,pro:int part adv co .,ENG ENG ENG ENG,0
+722,she knows about it ?,pro:sub v prep pro:per ?,ENG ENG ENG ENG,0
+723,she's good with it .,pro:sub adj prep pro:per .,ENG ENG ENG ENG,0
+724,I have seen es es un era un documental .,pro:sub v part L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+725,de lo que pasó en realidad con this guy el que adivina el futuro .,prep pro:obj pro:rel v prep n prep L2 L2 det:art pro:rel v det:art n .,ENG ENG ENG ENG ENG ENG ENG ESP ESP ENG ENG ENG ENG ENG,1
+726,Nostradamus .,n:prop .,ENG,0
+727,who ?,pro:rel ?,ENG,0
+728,Nostradamus .,n:prop .,ENG,0
+729,Nostradamus .,n:prop .,ENG,0
+730,that ese documental estaba duro duro .,L2 det:dem n cop adj v .,ESP ENG ENG ENG ENG ENG,1
+731,Elizabeth goes to him to find out like what's gonna happen in the future .,n:prop v prep pro:obj inf v adv prep pro:int part v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+732,the what ?,det:art pro:int ?,ENG ENG,0
+733,Elizabeth .,n:prop .,ENG,0
+734,ajá .,co .,ENG,0
+735,ella va a Nostradamus .,pro:sub v prepart n:prop .,ENG ENG ENG ENG,0
+736,oh sí ?,co co ?,ENG ENG,0
+737,no sé si es Nostradamus pero un profeta .,adv v conj cop n:prop conj det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+738,ajá .,co .,ENG,0
+739,para que le diga lo que va a pasar en el futuro .,prep pro:rel pro:ind v pro:obj pro:rel v prepart inf prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+740,oh .,co .,ENG,0
+741,él le dice a un rey lo que le va a pasar .,pro:sub pro:ind v prepart det:art n pro:obj pro:rel pro:ind v prepart inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+742,y en realidad le pasa algo al rey .,coord prep n pro:ind v pro:indef prepart n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+743,y entonces es cuando la gente se pone .,coord adv cop pro:rel det:art n pro:refl v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+744,yeah .,co .,ENG,0

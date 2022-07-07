@@ -1,0 +1,2458 @@
+,sentence,pos,language,switch
+0,okay .,co .,ESP,0
+1,.,None,,0
+2,y ya tú les preguntaste a todos los contrincantes ?,coord adv pro:sub pro:ind v aprep det:indef det:art n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+3,.,None,,0
+4,no puedes hablar en otras palabras Ana .,adv v inf prep det:indef n n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+5,.,None,,0
+6,lo que dices no importa lo que digas .,pro:obj pro:rel v adv v pro:obj pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+7,.,None,,0
+8,Amparito .,n:prop .,ESP,0
+9,.,None,,0
+10,para para proteger la identidad .,prep prep inf det:art n .,ESP ESP ESP ESP ESP,0
+11,.,None,,0
+12,el nobel se llama Gabriela .,det:art n pro:refl v n:prop .,ESP ESP ESP ESP ESP,0
+13,.,None,,0
+14,y ya se acabó el pepperoni ?,coord adv pro:refl v det:art n ?,ESP ESP ESP ESP ESP ESP,0
+15,ya voló ?,adv v ?,ESP ESP,0
+16,oh !,co !,ESP,0
+17,.,None,,0
+18,y cuánto tiempo ando con la vaina esta ?,coord det:int n v prep det:art n imp ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+19,.,None,,0
+20,okay .,co .,ESP,0
+21,.,None,,0
+22,mhm mhm .,co co .,ESP ESP,0
+23,.,None,,0
+24,mm .,co .,ESP,0
+25,.,None,,0
+26,de un micrófono built in ?,prep det:art n L2 L2 ?,ESP ESP ESP ENG ENG,1
+27,.,None,,0
+28,mejor porque la vainita está colgando luego del .,adj conj det:art n aux ger adv prep .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+29,.,None,,0
+30,mhm .,co .,ESP,0
+31,.,None,,0
+32,ay qué chulo !,co pro:int adj !,ESP ESP ESP,0
+33,.,None,,0
+34,.,None,,0
+35,ay qué cosa más bella !,co pro:int v adv adj !,ESP ESP ESP ESP ESP,0
+36,.,None,,0
+37,found him .,v pro:obj .,ESP ESP,0
+38,me encanta lo wishy_wiper .,pro:obj v pro:obj L2 .,ESP ESP ESP ENG,1
+39,.,None,,0
+40,ah pues si no te sabes la canción te la tienen en ...,co co conj adv pro:obj v det:art n pro:obj pro:obj v prep +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+41,.,None,,0
+42,uhuh .,co .,ESP,0
+43,.,None,,0
+44,un c_d .,det:art n .,ESP ESP,0
+45,.,None,,0
+46,es cute .,cop L2 .,ESP ENG,1
+47,.,None,,0
+48,.,None,,0
+49,.,None,,0
+50,tráelo .,imp .,ESP,0
+51,.,None,,0
+52,cuál es el tuyo ?,pro:int cop det:art pro:pos ?,ESP ESP ESP ESP,0
+53,.,None,,0
+54,el mío el Centro_Gallego el tuyo el Capitolio y la ...,det:art pro:pos det:art n:prop det:art pro:pos det:art n:prop coord det:art +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+55,.,None,,0
+56,sí porque a veces lo único que tiene eh eh cuando hay problemas económicos que no se construye nada es que se salva la ciudad .,co conj aprep n pro:obj adj pro:rel v co co pro:rel v n adj pro:rel adv pro:refl v pro:indef cop pro:rel pro:refl v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+57,.,None,,0
+58,ah pero es qué frescura !,co conj cop pro:int n !,ESP ESP ESP ESP ESP,0
+59,.,None,,0
+60,yo en la caja negra yo creo que la boté .,pro:sub prep det:art n adj pro:sub v pro:rel pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+61,.,None,,0
+62,ah okay .,co co .,ESP ESP,0
+63,.,None,,0
+64,qué lindo está !,pro:int adj cop !,ESP ESP ESP,0
+65,tiene las asitas de la gente en la plaza .,v det:art n prep det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+66,qué lindo está !,pro:int adj cop !,ESP ESP ESP,0
+67,se puede colgar también .,pro:refl v inf adv .,ESP ESP ESP ESP,0
+68,.,None,,0
+69,tal vez lo cuelgue .,adj n pro:obj v .,ESP ESP ESP ESP,0
+70,.,None,,0
+71,que lo cuelgue ?,pro:rel pro:obj v ?,ESP ESP ESP,0
+72,porque así /.,conj adv +/.,ESP ESP,0
+73,.,None,,0
+74,sí todavía existe sí .,co adv v co .,ESP ESP ESP ESP,0
+75,.,None,,0
+76,sí existe todavía .,co v adv .,ESP ESP ESP,0
+77,.,None,,0
+78,bajo a colgar el mío .,v aprep inf det:art pro:pos .,ESP ESP ESP ESP ESP,0
+79,esta es mi caja entonces ?,det:dem cop det:pos n co ?,ESP ESP ESP ESP ESP,0
+80,.,None,,0
+81,entonces de Jesús_Javier debe ser /.,adv prep n:prop v inf +/.,ESP ESP ESP ESP ESP,0
+82,no sabemos .,adv v .,ESP ESP,0
+83,.,None,,0
+84,tú no conoces a tu hermano que todo lo inventa ?,pro:sub adv v aprep det:pos n pro:rel det:indef pro:obj v ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+85,.,None,,0
+86,qué bonito está !,pro:int adj cop !,ESP ESP ESP,0
+87,.,None,,0
+88,"ella me lo dijo ""/.","pro:sub pro:obj pro:obj v +""/.",ESP ESP ESP ESP,0
+89,ya yo sé .,adv pro:sub v .,ESP ESP ESP,0
+90,yo les voy a regalar a los niños a todos algo .,pro:sub pro:ind v aprep inf aprep det:art n aprep det:indef pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+91,y yo dije que es que ahora estará inventando /.,coord pro:sub v pro:rel cop pro:rel adv aux ger +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+92,.,None,,0
+93,"ella me dijo ""/.","pro:sub pro:obj v +""/.",ESP ESP ESP,0
+94,I'm fasting .,pro:sub part .,ESP ESP,0
+95,y yo no tengo bolsita .,coord pro:sub adv v n .,ESP ESP ESP ESP ESP,0
+96,la habré botado .,pro:obj aux part .,ESP ESP ESP,0
+97,.,None,,0
+98,el Centro_Gallego .,det:art n:prop .,ESP ESP,0
+99,.,None,,0
+100,ella hizo el comentario que ella le tenía .,pro:sub v det:art n pro:rel pro:sub pro:ind v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+101,.,None,,0
+102,se puede mover todos los juguetes de los hijos míos .,pro:refl v inf det:indef det:art n prep det:art n pro:pos .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+103,.,None,,0
+104,no sé /.,adv v +/.,ESP ESP,0
+105,.,None,,0
+106,en el Freedom_Tower eh tenían no una exhibición como un evento para el Freedom_Tower la torre esa donde venían todos los cubanos .,prep det:art n:prop co v adv pro:dem n adv det:art n prep det:art n:prop det:art n det:dem pro:rel v det:indef det:art adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+107,.,None,,0
+108,y si vayas a //.,coord conj v aprep +//.,ESP ESP ESP ESP,0
+109,creo que yo les mandé a ustedes un link .,v pro:rel pro:sub pro:ind v aprep pro:sub det:art L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+110,.,None,,0
+111,no !,adv !,ESP,0
+112,o me lo mandé a mí porque era un Miami_Herald article .,coord pro:obj pro:obj v aprep pro:prep conj cop det:art n:prop L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+113,que you can eh gente can record their experiences eh pasando por el Freedom_Tower que no sé qué .,pro:rel L2 L2 co n L2 L2 L2 L2 co ger prep det:art n:prop pro:rel adv v pro:int .,ESP ENG ENG ESP ESP ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+114,porque ahora el Freedom_Tower se lo regalaron a Miami_Day_College .,conj adv det:art n:prop pro:refl pro:obj v aprep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+115,y entonces ellos están haciendo actividades y eventos y eso de gente que pa ellos les habían dado ahí café Cocacola //.,coord adv pro:sub aux ger n coord n coord pro:dem prep n pro:rel co pro:sub pro:ind aux part adv n n:prop +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+116,no ni siquiera .,adv coord conj .,ESP ESP ESP,0
+117,entonces le daba spam .,adv pro:ind v L2 .,ESP ESP ESP ENG,1
+118,yo conozco varia gente .,pro:sub v imp n .,ESP ESP ESP ESP,0
+119,.,None,,0
+120,sí .,co .,ESP,0
+121,.,None,,0
+122,papi ?,n ?,ESP,0
+123,.,None,,0
+124,habrá que preguntarle porque no sabía eso yo .,v pro:rel inf conj adv v pro:dem pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+125,.,None,,0
+126,papi !,n !,ESP,0
+127,.,None,,0
+128,papi !,n !,ESP,0
+129,dice el Jesusito que cuando ustedes primero estaban aquí tú ibas al Freedom_Tower a coger cosas ?,v det:art n:prop pro:rel conj pro:sub adv cop adv pro:sub v aprep n:prop aprep inf v ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+130,.,None,,0
+131,se ha inventado ...,pro:refl aux part +...,ESP ESP ESP,0
+132,qué inventón !,pro:int n !,ESP ESP,0
+133,.,None,,0
+134,qué mentiroso !,pro:int adj !,ESP ESP,0
+135,.,None,,0
+136,bueno ve .,co co .,ESP ESP,0
+137,y preguntale porque dijo que nada que jamás .,coord imp conj v pro:rel v pro:rel adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+138,.,None,,0
+139,y grabarle .,coord inf .,ESP ESP,0
+140,mira que mi Jesusito inventa .,co pro:rel det:pos n:prop v .,ESP ESP ESP ESP ESP,0
+141,.,None,,0
+142,sí sí sí sí él debería escribir ser un fiction author porque te lo dice con tanta convicción que tú juras y perjuras que es verdad .,co co co co pro:sub v inf n det:art L2 L2 conj pro:obj pro:obj v prep det:indef n pro:rel pro:sub v coord v pro:rel cop co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+143,.,None,,0
+144,sí .,co .,ESP,0
+145,.,None,,0
+146,el te digo no lo pude resistir .,det:art pro:obj v adv pro:obj v inf .,ESP ESP ESP ESP ESP ESP ESP,0
+147,.,None,,0
+148,ah sí las banderas hay que ponerla un poquitico más .,co co det:art n v pro:rel inf det:art det:indef adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+149,ah las /.,co det:art +/.,ESP ESP,0
+150,.,None,,0
+151,sí .,co .,ESP,0
+152,no lo pude resistir cause they were too cute .,adv pro:obj v inf L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+153,it was too cute .,pro cop adv adj .,ESP ESP ESP ESP,0
+154,hay alguien todo ?,v pro:indef det:indef ?,ESP ESP ESP,0
+155,.,None,,0
+156,tiene unas patas un poco extrañas .,v det:art n det:art adv v .,ESP ESP ESP ESP ESP ESP,0
+157,.,None,,0
+158,es que es like //.,cop pro:rel cop L2 +//.,ESP ESP ESP ENG,1
+159,do you have to move them ?,mod pro v inf v pro:obj ?,ESP ESP ESP ESP ESP ESP,0
+160,or maybe they have specific spots ?,conj adv pro:sub v adj n ?,ESP ESP ESP ESP ESP ESP,0
+161,.,None,,0
+162,I ain't quite figured it out who goes where .,pro:sub aux adv v pro adv pro:wh v rel .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+163,maybe they do have specific spots .,adv pro:sub mod v adj n .,ESP ESP ESP ESP ESP ESP,0
+164,it seems kinda stupid porque el chiquito no va a saber quién le toca what .,L2 L2 L2 L2 conj det:art n adv v aprep inf pro:int pro:ind v L2 .,ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+165,.,None,,0
+166,but I don't know .,conj pro:sub mod v .,ESP ESP ESP ESP,0
+167,pero bueno they can stand on their own .,conj co L2 L2 L2 L2 L2 L2 .,ESP ESP ENG ENG ENG ENG ENG ENG,1
+168,they don't need to be in there .,pro:sub mod v inf cop prep pro:dem .,ESP ESP ESP ESP ESP ESP ESP,0
+169,.,None,,0
+170,I don't know .,pro:sub mod v .,ESP ESP ESP,0
+171,estaba too cute para hacer .,aux L2 L2 prep inf .,ESP ENG ENG ESP ESP,1
+172,me llamaban la atención las banderitas .,pro:obj v det:art n det:art n .,ESP ESP ESP ESP ESP ESP,0
+173,dígame !,imp !,ESP,0
+174,.,None,,0
+175,pero si me acaba de decir que no !,conj conj pro:obj v prep inf pro:rel adv !,ESP ESP ESP ESP ESP ESP ESP ESP,0
+176,.,None,,0
+177,pero si acaba de decir que no .,conj conj v prep inf pro:rel adv .,ESP ESP ESP ESP ESP ESP ESP,0
+178,.,None,,0
+179,y quién las iba a ir ..?,coord pro:int pro:obj v aprep inf +..?,ESP ESP ESP ESP ESP ESP,0
+180,.,None,,0
+181,oh !,co !,ESP,0
+182,.,None,,0
+183,si yo no me quejé .,conj pro:sub adv pro:obj v .,ESP ESP ESP ESP ESP,0
+184,no he dicho absolutamente nada .,adv aux part adv:adj v .,ESP ESP ESP ESP ESP,0
+185,.,None,,0
+186,okay .,co .,ESP,0
+187,.,None,,0
+188,no yo no trabajo hasta /.,adv pro:sub adv v prep +/.,ESP ESP ESP ESP ESP,0
+189,me voy de vacaciones .,pro:obj v prep n .,ESP ESP ESP ESP,0
+190,me voy una semana .,pro:obj v det:art n .,ESP ESP ESP ESP,0
+191,la oficina está cerrada mañana .,det:art n cop part adv .,ESP ESP ESP ESP ESP,0
+192,.,None,,0
+193,la oficina está cerrada mañana .,det:art n cop part adv .,ESP ESP ESP ESP ESP,0
+194,y vienes la semana que viene .,coord v det:art n pro:rel v .,ESP ESP ESP ESP ESP ESP,0
+195,.,None,,0
+196,está el veintiséis y el dos .,cop det:art det:num coord det:art det:num .,ESP ESP ESP ESP ESP ESP,0
+197,cierran la oficina mañana .,v det:art n adv .,ESP ESP ESP ESP,0
+198,y que yo me cogí el veinticuatro y /.,coord pro:rel pro:sub pro:obj v det:art det:num coord +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+199,.,None,,0
+200,.,None,,0
+201,I think we gotta wait //.,pro:sub v pro:sub mod:aux v +//.,ESP ESP ESP ESP ESP,0
+202,why don't we wait until //.,adv:wh mod pro:sub v prep +//.,ESP ESP ESP ESP ESP,0
+203,the is done eating .,det aux part part .,ESP ESP ESP ESP,0
+204,because I think it needs a little more cause you want it to cook !,conj pro:sub v pro v det adj qn n pro v pro prep n !,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+205,.,None,,0
+206,afuera .,adv .,ESP,0
+207,.,None,,0
+208,alright vamos a ver .,L2 v aprep inf .,ENG ESP ESP ESP,1
+209,déjame .,imp .,ESP,0
+210,quieres que te traiga de lo de afuera el jamón ?,v pro:rel pro:obj v prep pro:obj v adv det:art n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+211,.,None,,0
+212,vengan let's see .,v L2 L2 .,ESP ENG ENG,1
+213,vas a ver cómo está .,v aprep inf pro:int cop .,ESP ESP ESP ESP ESP,0
+214,.,None,,0
+215,look !,co !,ESP,0
+216,they all need to look like that .,pro:sub post v inf v prep pro:dem .,ESP ESP ESP ESP ESP ESP ESP,0
+217,so we gotta wait hasta que todos estén así .,L2 L2 L2 L2 prep pro:rel det:indef cop adv .,ENG ENG ENG ENG ESP ESP ESP ESP ESP,1
+218,you see how ?,pro v adv ?,ESP ESP ESP,0
+219,yeah wait until they're all like that okay ?,L2 L2 L2 L2 L2 L2 L2 co ?,ENG ENG ENG ENG ENG ENG ENG ESP,1
+220,they're getting there .,pro:sub part adv .,ESP ESP ESP,0
+221,.,None,,0
+222,están llegando muñeca .,aux ger n .,ESP ESP ESP,0
+223,.,None,,0
+224,this need to be like this one okay ?,L2 L2 L2 L2 L2 L2 L2 co ?,ENG ENG ENG ENG ENG ENG ENG ESP,1
+225,put it back in there .,v pro adv prep pro:dem .,ESP ESP ESP ESP ESP,0
+226,.,None,,0
+227,I know .,pro:sub v .,ESP ESP,0
+228,that one's ready .,rel pro:indef adj .,ESP ESP ESP,0
+229,but the other ones need to get ready too .,conj det qn det:num v inf v adj adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+230,.,None,,0
+231,yo sé muñeca .,pro:sub v n .,ESP ESP ESP,0
+232,pero no están listos .,conj adv cop adj .,ESP ESP ESP ESP,0
+233,.,None,,0
+234,qué quieres tomar ?,pro:int v inf ?,ESP ESP ESP,0
+235,no creo que haya orange soda mama .,adv v pro:rel v L2 n v .,ESP ESP ESP ESP ENG ESP ESP,1
+236,.,None,,0
+237,sweetie !,co !,ESP,0
+238,is there any orange soda ?,cop adv qn n n ?,ESP ESP ESP ESP ESP,0
+239,.,None,,0
+240,I don't think so .,pro:sub mod v co .,ESP ESP ESP ESP,0
+241,let's go look .,v v v .,ESP ESP ESP,0
+242,.,None,,0
+243,"dile ""/.","imp +""/.",ESP,0
+244,hello Jaime .,L2 n:prop .,ENG ESP,1
+245,ciérrame la puerta .,imp det:art n .,ESP ESP ESP,0
+246,Trishie !,n:prop !,ESP,0
+247,cierra la puerta !,v det:art n !,ESP ESP ESP,0
+248,.,None,,0
+249,aquí te dejamos de señor solera .,adv pro:obj v prep n adj .,ESP ESP ESP ESP ESP ESP,0
+250,.,None,,0
+251,dígame !,imp !,ESP,0
+252,.,None,,0
+253,yo no soy de aguacate si solitario y sin compromiso .,pro:sub adv cop prep n conj adj coord prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+254,.,None,,0
+255,aquí están .,adv cop .,ESP ESP,0
+256,.,None,,0
+257,oops !,co !,ESP,0
+258,Trisha !,n:prop !,ESP,0
+259,.,None,,0
+260,pick it up !,v pro adv !,ESP ESP ESP,0
+261,pick it up !,v pro adv !,ESP ESP ESP,0
+262,.,None,,0
+263,you don't want it ?,pro mod v pro ?,ESP ESP ESP ESP,0
+264,quieres un vasito Jack ?,v det:art n n:prop ?,ESP ESP ESP ESP,0
+265,.,None,,0
+266,oh !,co !,ESP,0
+267,okay .,co .,ESP,0
+268,okay ya no más papo .,co adv adv adv n .,ESP ESP ESP ESP ESP,0
+269,.,None,,0
+270,ah !,co !,ESP,0
+271,.,None,,0
+272,ah .,co .,ESP,0
+273,.,None,,0
+274,cuando acaban le digo que me caliento .,conj v pro:ind v pro:rel pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+275,cuando salga todo el mundo en la cocina .,conj v det:indef det:art n prep det:art v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+276,hay mucha gente en la cocina .,v det:indef n prep det:art v .,ESP ESP ESP ESP ESP ESP,0
+277,.,None,,0
+278,porque Jaime has a one track mind !,conj n:prop L2 L2 L2 L2 L2 !,ESP ESP ENG ENG ENG ENG ENG,1
+279,.,None,,0
+280,what ?,pro:wh ?,ESP,0
+281,.,None,,0
+282,oh !,co !,ESP,0
+283,yo creo que no hay muñequita .,pro:sub v pro:rel adv v n .,ESP ESP ESP ESP ESP ESP,0
+284,yo creo que se acabó todo lo //.,pro:sub v pro:rel pro:refl v pro:indef pro:obj +//.,ESP ESP ESP ESP ESP ESP ESP,0
+285,mira no hay .,co adv v .,ESP ESP ESP,0
+286,nada más que hay Sprite .,pro:indef adv pro:rel v n:prop .,ESP ESP ESP ESP ESP,0
+287,.,None,,0
+288,with ice or without ice ?,prep n coord prep n ?,ESP ESP ESP ESP ESP,0
+289,.,None,,0
+290,coge el cachú que tú quieras .,v det:art n pro:rel pro:sub v .,ESP ESP ESP ESP ESP ESP,0
+291,.,None,,0
+292,hay como tres de ellos que están bien congelados .,v adv det:num imp pro:sub pro:rel cop adv part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+293,.,None,,0
+294,y los otros .,coord det:art pro:indef .,ESP ESP ESP,0
+295,no entonces le dije que todos tienen que ser igual de duros .,adv adv pro:ind v pro:rel det:indef v pro:rel inf co prep adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+296,.,None,,0
+297,you like the bread Patrisha .,L2 L2 L2 L2 n:prop .,ENG ENG ENG ENG ESP,1
+298,you would like it .,pro mod v pro .,ESP ESP ESP ESP,0
+299,.,None,,0
+300,Tatiana me regaló esto .,n:prop pro:obj v pro:dem .,ESP ESP ESP ESP,0
+301,.,None,,0
+302,ella tiene una amiga que hace joyas .,pro:sub v det:art n pro:rel v n .,ESP ESP ESP ESP ESP ESP ESP,0
+303,y miras cerquita .,coord v n .,ESP ESP ESP,0
+304,y se abre con ...,coord pro:refl v prep +...,ESP ESP ESP ESP,0
+305,.,None,,0
+306,no .,adv .,ESP,0
+307,lo que tienes que ver es flight interval .,pro:obj pro:rel v pro:rel inf cop L2 L2 .,ESP ESP ESP ESP ESP ESP ENG ENG,1
+308,ah Patrisha !,co n:prop !,ESP ESP,0
+309,is flight interval cool ?,cop n n adj ?,ESP ESP ESP ESP,0
+310,.,None,,0
+311,it does .,pro mod .,ESP ESP,0
+312,it really does .,pro adv v .,ESP ESP ESP,0
+313,yo lo traté .,pro:sub pro:obj v .,ESP ESP ESP,0
+314,pero peso demasiado .,conj n adj .,ESP ESP ESP,0
+315,pero Tatiana que es más flaquita .,conj n:prop pro:rel cop adv adj .,ESP ESP ESP ESP ESP ESP,0
+316,.,None,,0
+317,y al /.,coord aprep +/.,ESP ESP,0
+318,.,None,,0
+319,ella fue al parque con algunas amistades .,pro:sub v aprep n prep det:indef n .,ESP ESP ESP ESP ESP ESP ESP,0
+320,y la tenía .,coord pro:obj v .,ESP ESP ESP,0
+321,y le encantó .,coord pro:ind v .,ESP ESP ESP,0
+322,entonces creo que lo el vuelo en el internet .,adv v pro:rel pro:obj det:art v prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+323,entonces Santa_Claus les trajo a los dos de ella .,co n:prop pro:ind v aprep det:art det:num prep pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+324,y entonces le dijo al hijo que como ella sabía que Santa_Claus le iba a traer eso .,coord adv pro:ind v aprep n prep adv pro:sub v pro:rel n:prop pro:ind v aprep inf pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+325,pero a ella le tocaba uno .,conj aprep pro:sub pro:ind v pro:dem .,ESP ESP ESP ESP ESP ESP,0
+326,pero el grande rubio mío ya le gustó .,conj det:art adj n pro:pos adv pro:ind v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+327,así que creo que voy a tener que ordenar uno para que tenga el chiquitico porque el chiquitico también va a querer .,adv pro:rel v pro:rel v aprep inf pro:rel inf pro:dem prep pro:rel v det:art n conj det:art n adv v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+328,y así tiene dos .,coord adv v det:num .,ESP ESP ESP ESP,0
+329,pero se ve chulísimo .,conj pro:refl v adj .,ESP ESP ESP ESP,0
+330,no está la cámara pa que los veas en acción comiquísimo .,adv cop det:art n co pro:rel pro:obj v prep n adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+331,.,None,,0
+332,se llama /.,pro:refl v +/.,ESP ESP,0
+333,.,None,,0
+334,eh Tatiana está un poco loquita .,co n:prop aux det:art adv adj .,ESP ESP ESP ESP ESP ESP,0
+335,.,None,,0
+336,cogió prestado el de .,v part det:art prep .,ESP ESP ESP ESP,0
+337,.,None,,0
+338,tengo uno más largo somewhere .,v pro:dem adv v L2 .,ESP ESP ESP ESP ENG,1
+339,ese no es muy largo .,det:dem adv cop adv v .,ESP ESP ESP ESP ESP,0
+340,.,None,,0
+341,creo que tengo ...,v pro:rel v +...,ESP ESP ESP,0
+342,.,None,,0
+343,.,None,,0
+344,.,None,,0
+345,mira .,co .,ESP,0
+346,there's you .,pro:dem pro .,ESP ESP,0
+347,.,None,,0
+348,eh la computadora de papi tiene espacio para chiquitito ?,co det:art n prep n v n prep n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+349,.,None,,0
+350,as long as you want .,prep adj prep pro v .,ESP ESP ESP ESP ESP,0
+351,.,None,,0
+352,a ver es cámara y video .,aprep inf cop n coord pfx .,ESP ESP ESP ESP ESP ESP,0
+353,.,None,,0
+354,as long as I want to .,prep adj conj pro:sub v prep .,ESP ESP ESP ESP ESP ESP,0
+355,.,None,,0
+356,muy bien .,adv adv .,ESP ESP,0
+357,.,None,,0
+358,go over there !,L2 L2 L2 !,ENG ENG ENG,0
+359,go see !,v v !,ESP ESP,0
+360,tía wants to see you .,n L2 L2 L2 L2 .,ESP ENG ENG ENG ENG,1
+361,.,None,,0
+362,la verdad ?,det:art n ?,ESP ESP,0
+363,si me está diciendo que le duelen las piernas .,conj pro:obj aux ger pro:rel pro:ind v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+364,pues claro .,co co .,ESP ESP,0
+365,.,None,,0
+366,tres hay tres .,det:num v det:num .,ESP ESP ESP,0
+367,voy a ver si les pido uno a los varones .,v aprep inf conj pro:ind v det:art aprep det:art adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+368,.,None,,0
+369,porque Jack todavía no es muy chiquito pa controlarlo pero de aquí a seis meses ...,conj n:prop adv adv cop adv adj co inf conj prep adv aprep det:num n +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+370,.,None,,0
+371,that's what it's called .,pro:dem adv pro part .,ESP ESP ESP ESP,0
+372,"el handle lo dice ""/.","det:art L2 pro:obj v +""/.",ESP ENG ESP ESP,1
+373,fly interval .,n n .,ESP ESP,0
+374,.,None,,0
+375,okay okay .,co co .,ESP ESP,0
+376,here we don't have the right house for it Sophy .,L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+377,.,None,,0
+378,si ya lo veo .,conj adv pro:obj v .,ESP ESP ESP ESP,0
+379,.,None,,0
+380,I know in a few !,pro:sub v prep det qn !,ESP ESP ESP ESP ESP,0
+381,.,None,,0
+382,now we go check .,adv pro:sub v n .,ESP ESP ESP ESP,0
+383,.,None,,0
+384,hang on ya va la tía tu Christmas show .,L2 L2 adv v det:art n det:pos n:prop:L2 L2 .,ENG ENG ESP ESP ESP ESP ESP ESP ENG,1
+385,.,None,,0
+386,qué es lo que yo venía a buscar ?,pro:int cop pro:obj pro:rel pro:sub v aprep inf ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+387,ah es lo .,co cop pro:obj .,ESP ESP ESP,0
+388,.,None,,0
+389,tú todavía estás en tu fase vegetariana ?,pro:sub adv cop prep det:pos n adj ?,ESP ESP ESP ESP ESP ESP ESP,0
+390,Miss_Jennie !,n:prop !,ESP,0
+391,.,None,,0
+392,todavía estás en la fase vegetariana o qué ?,adv cop prep det:art n adj coord pro:int ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+393,.,None,,0
+394,okay .,co .,ESP,0
+395,.,None,,0
+396,como una más que veo arroz y frijol en el negro ?,adv pro:dem adv pro:rel v n coord n prep det:art adj ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+397,.,None,,0
+398,y tú por qué tienes un ?,coord pro:sub prep pro:int v det:art ?,ESP ESP ESP ESP ESP ESP,0
+399,te quemaste ?,pro:obj v ?,ESP ESP,0
+400,.,None,,0
+401,sorry I didn't mean to make an issue .,co pro:sub mod adj inf v det n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+402,.,None,,0
+403,bueno ya aprenderás a no agarrar las cosas calientes en las manos .,co adv v aprep adv inf det:art n v prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+404,.,None,,0
+405,fuerte .,adj .,ESP,0
+406,.,None,,0
+407,anda entonces se merece que se haya quemado porque no prestó atención .,v adv pro:refl v pro:rel pro:refl v part conj adv v co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+408,.,None,,0
+409,Tom !,n:prop !,ESP,0
+410,you have to eat !,pro v inf v !,ESP ESP ESP ESP,0
+411,price .,n .,ESP,0
+412,.,None,,0
+413,Jack it's working .,n:prop L2 L2 .,ESP ENG ENG,1
+414,.,None,,0
+415,están limpios ?,cop adj ?,ESP ESP,0
+416,.,None,,0
+417,lava .,imp .,ESP,0
+418,.,None,,0
+419,not yet .,neg adv .,ESP ESP,0
+420,.,None,,0
+421,cómo no !,pro:int adv !,ESP ESP,0
+422,.,None,,0
+423,durmiendo lo más probable o viendo televisión en el couch disfrutando .,ger pro:obj adv adj coord ger n prep det:art L2 ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP,1
+424,.,None,,0
+425,no .,adv .,ESP,0
+426,.,None,,0
+427,no está en la casa .,adv cop prep det:art n .,ESP ESP ESP ESP ESP,0
+428,yo lo dejé en la casa antes de venir para acá .,pro:sub pro:obj v prep det:art n adv prep inf prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+429,.,None,,0
+430,sí pero chico pero estás ...,co conj n conj cop +...,ESP ESP ESP ESP ESP,0
+431,.,None,,0
+432,sí como //.,co adv +//.,ESP ESP,0
+433,.,None,,0
+434,bien .,adv .,ESP,0
+435,poco a poco .,adv aprep adv .,ESP ESP ESP,0
+436,.,None,,0
+437,eh abrió un negocio haciendo lo mismo más o menos su propio negocio para hacer lo mismo más o menos .,co v det:art n ger pro:obj adj adv coord adv det:pos adj v prep inf pro:obj adj adv coord adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+438,pero pasa que la compañía de él en realidad estaba basada en Houston //.,conj v pro:rel det:art n v pro:sub prep n cop part prep n:prop +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+439,that doesn't really ...,pro:dem mod adv +...,ESP ESP ESP,0
+440,between Houston and Austin .,L2 n:prop L2 n:prop .,ENG ESP ENG ESP,1
+441,eso no funciona muy ...,pro:dem adv v adv +...,ESP ESP ESP ESP,0
+442,no it wasn't necessarily a voluntary sell .,co pro cop adv det adj v .,ESP ESP ESP ESP ESP ESP ESP,0
+443,.,None,,0
+444,well it was .,co pro cop .,ESP ESP ESP,0
+445,pero //.,conj +//.,ESP,0
+446,.,None,,0
+447,it was the ...,pro cop det +...,ESP ESP ESP,0
+448,.,None,,0
+449,un tercio de la compañía .,det:art n prep det:art n .,ESP ESP ESP ESP ESP,0
+450,.,None,,0
+451,.,None,,0
+452,.,None,,0
+453,no tiene que pelearse con nadie .,adv v pro:rel inf prep pro:indef .,ESP ESP ESP ESP ESP ESP,0
+454,.,None,,0
+455,ay mm es que la compañía estaba convirtiéndose más bien en plumbing contractors .,co co cop pro:rel det:art n aux ger adv adv prep L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+456,.,None,,0
+457,y eso no le interesa .,coord pro:dem adv pro:ind v .,ESP ESP ESP ESP ESP,0
+458,you know él quiere hacer un poco más de diseño .,L2 L2 pro:sub v inf det:art adv adv prep v .,ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+459,no le importa construir .,adv pro:ind v inf .,ESP ESP ESP ESP,0
+460,pero un poco más de ...,conj det:art adv adv prep +...,ESP ESP ESP ESP ESP,0
+461,y como no era no tenía ningún control .,coord adv adv cop adv v det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+462,ellos hacían lo que les daba la real gana .,pro:sub v pro:obj pro:rel pro:ind v pro:obj re#v v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+463,pues bueno yo se lo diría que creo que cuando se mudaron a Austin .,co co pro:sub pro:refl pro:obj v pro:rel v pro:rel conj pro:refl v aprep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+464,the writing was on the roll you know .,L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+465,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+466,sí it's just for three years .,co L2 L2 L2 L2 L2 .,ESP ENG ENG ENG ENG ENG,1
+467,.,None,,0
+468,sí .,co .,ESP,0
+469,.,None,,0
+470,eh cuando se mudaron a los dos partners a Austin ...,co conj pro:refl v aprep det:art det:num L2 aprep n:prop +...,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+471,five more minutes and they'll be ready !,det:num adv n conj pro:sub cop adj !,ESP ESP ESP ESP ESP ESP ESP,0
+472,woohoo !,co !,ESP,0
+473,.,None,,0
+474,a nadie de la familia .,aprep pro:indef prep det:art n .,ESP ESP ESP ESP ESP,0
+475,.,None,,0
+476,dile qué hay en el congelador a tío .,imp pro:int v prep det:art n:v aprep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+477,what are we freezing ?,adv aux pro:sub part ?,ESP ESP ESP ESP,0
+478,.,None,,0
+479,estamos haciendo hielo .,aux ger v .,ESP ESP ESP,0
+480,para su hornito .,prep det:pos n .,ESP ESP ESP,0
+481,.,None,,0
+482,.,None,,0
+483,está haciéndolo .,aux ger .,ESP ESP,0
+484,está haciéndolo .,aux ger .,ESP ESP,0
+485,está haciéndolo .,aux ger .,ESP ESP,0
+486,está haciéndolo .,aux ger .,ESP ESP,0
+487,bien paciente .,adv n .,ESP ESP,0
+488,la viste cantando ?,pro:obj v ger ?,ESP ESP ESP,0
+489,.,None,,0
+490,qué ?,pro:int ?,ESP,0
+491,.,None,,0
+492,no hay de lata ?,adv v prep imp ?,ESP ESP ESP ESP,0
+493,.,None,,0
+494,no .,adv .,ESP,0
+495,yo abrí una ayer .,pro:sub v pro:dem adv .,ESP ESP ESP ESP,0
+496,.,None,,0
+497,?,None,,0
+498,.,None,,0
+499,tráelas .,imp .,ESP,0
+500,.,None,,0
+501,y el anillo de ahí me gusta !,coord det:art n prep adv pro:obj v !,ESP ESP ESP ESP ESP ESP ESP,0
+502,.,None,,0
+503,no cabía .,adv v .,ESP ESP,0
+504,pero le gustaba el equipo .,conj pro:ind v det:art v .,ESP ESP ESP ESP ESP,0
+505,.,None,,0
+506,mira !,co !,ESP,0
+507,estamos como //.,cop adv +//.,ESP ESP,0
+508,.,None,,0
+509,Enrique_Octavo .,n:prop .,ESP,0
+510,.,None,,0
+511,dios mío .,co pro:pos .,ESP ESP,0
+512,.,None,,0
+513,vamos peor .,v adv .,ESP ESP,0
+514,.,None,,0
+515,estamos peor que Enrique_Octavo .,cop adv pro:rel n:prop .,ESP ESP ESP ESP,0
+516,.,None,,0
+517,verdad viste ?,co v ?,ESP ESP,0
+518,.,None,,0
+519,eh dan el plante .,co v det:art v .,ESP ESP ESP ESP,0
+520,.,None,,0
+521,yo las vi en casa .,pro:sub pro:obj v prep imp .,ESP ESP ESP ESP ESP,0
+522,me invitaron a //.,pro:obj v aprep +//.,ESP ESP ESP,0
+523,han pero .,aux conj .,ESP ESP,0
+524,.,None,,0
+525,sí da lástima .,co v n .,ESP ESP ESP,0
+526,pero forget it .,conj L2 L2 .,ESP ENG ENG,1
+527,.,None,,0
+528,tenemos una fiesta en casa de alguien .,v det:art n prep imp prep pro:indef .,ESP ESP ESP ESP ESP ESP ESP,0
+529,y yo los vi .,coord pro:sub pro:obj v .,ESP ESP ESP ESP,0
+530,estaban todas like in little cups .,aux det:indef L2 L2 L2 L2 .,ESP ESP ENG ENG ENG ENG,1
+531,y yo ah ?,coord pro:sub co ?,ESP ESP ESP,0
+532,coño .,co .,ESP,0
+533,"una reunión pequeña cuando le agarra y dice ""/.","det:art n adj conj pro:ind v coord v +""/.",ESP ESP ESP ESP ESP ESP ESP ESP,0
+534,ay pero si son de plástico !,co conj conj cop prep adj !,ESP ESP ESP ESP ESP ESP,0
+535,.,None,,0
+536,.,None,,0
+537,.,None,,0
+538,estoy esperando que se libere el microondas .,aux ger pro:rel pro:refl v det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+539,.,None,,0
+540,no mama not yet .,adv v L2 L2 .,ESP ESP ENG ENG,1
+541,.,None,,0
+542,ah la pregunta sería si se pudiera usar cualquier hielo .,co pro:obj v cop conj pro:refl v inf det:indef v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+543,.,None,,0
+544,deja .,imp .,ESP,0
+545,.,None,,0
+546,en la cabeza .,prep det:art n .,ESP ESP ESP,0
+547,.,None,,0
+548,no se me ocurrió .,adv pro:refl pro:obj v .,ESP ESP ESP ESP,0
+549,.,None,,0
+550,traje una ...,v det:art +...,ESP ESP,0
+551,de qué son estas paletas ?,prep pro:int cop det:dem n ?,ESP ESP ESP ESP ESP,0
+552,.,None,,0
+553,I don't know .,pro:sub mod v .,ESP ESP ESP,0
+554,I have no idea .,pro:sub v qn n .,ESP ESP ESP ESP,0
+555,.,None,,0
+556,sí .,co .,ESP,0
+557,.,None,,0
+558,pero la cocacola_cero es prima hermana del concepto del diet_coke ?,conj pro:obj n cop adj n prep n prep L2 ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+559,.,None,,0
+560,pero es natural right ?,conj cop L2 L2 ?,ESP ESP ENG ENG,1
+561,gasito .,n .,ESP,0
+562,.,None,,0
+563,I don't know .,pro:sub mod v .,ESP ESP ESP,0
+564,that's relative .,pro:dem adj .,ESP ESP,0
+565,.,None,,0
+566,oh sí ?,co co ?,ESP ESP,0
+567,.,None,,0
+568,mira pero eso no se me había ocurrido .,co conj pro:dem adv pro:refl pro:obj aux part .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+569,.,None,,0
+570,es verdad .,cop co .,ESP ESP,0
+571,.,None,,0
+572,porque Pepsi que tiene algo parecido Pepsi_one .,conj n:prop pro:rel v pro:dem part n:prop:L2 .,ESP ESP ESP ESP ESP ESP ESP,0
+573,.,None,,0
+574,eh !,co !,ESP,0
+575,allá hay abierta .,adv v part .,ESP ESP ESP,0
+576,vaya !,co !,ESP,0
+577,.,None,,0
+578,tú me miraste así con cara de loca cuando yo traje la caja de crackers .,pro:sub pro:obj v adv prep n imp adj conj pro:sub v det:art n prep L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+579,.,None,,0
+580,ya creo se despertó todo el mundo .,adv v pro:refl v det:indef det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+581,.,None,,0
+582,Jack se despertó a las nueve Patrisha a las ocho y Thomas a las ocho y media .,n:prop pro:refl v aprep det:art det:num n:prop aprep det:art n coord n:prop aprep det:art n coord adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+583,.,None,,0
+584,yo estaba preguntando sobre los ingleses y Adolfo .,pro:sub aux ger prep det:art n coord n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+585,era la única pregunta .,cop det:art adj v .,ESP ESP ESP ESP,0
+586,.,None,,0
+587,sí porque en mi casa duerme hasta las diez si yo lo dejo .,co conj prep det:pos n v prep det:art det:num conj pro:sub pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+588,.,None,,0
+589,y ustedes están todavía en hora de ...,coord pro:sub cop adv prep n prep +...,ESP ESP ESP ESP ESP ESP ESP,0
+590,.,None,,0
+591,sí pero estaba cansado porque /.,co conj aux part conj +/.,ESP ESP ESP ESP ESP,0
+592,.,None,,0
+593,en el avión uno no se duerme .,prep det:art n pro:dem adv pro:refl v .,ESP ESP ESP ESP ESP ESP ESP,0
+594,.,None,,0
+595,en el avión uno no duerme .,prep det:art n pro:dem adv v .,ESP ESP ESP ESP ESP ESP,0
+596,.,None,,0
+597,lo leí en el periódico de hoy .,pro:obj v prep det:art n prep adv .,ESP ESP ESP ESP ESP ESP ESP,0
+598,cien vuelos en Chicago los cancelaron ayer .,det:num n prep n:prop pro:obj v adv .,ESP ESP ESP ESP ESP ESP ESP,0
+599,.,None,,0
+600,cien vuelos cancelaron en Chicago ayer .,det:num n v prep n:prop adv .,ESP ESP ESP ESP ESP ESP,0
+601,.,None,,0
+602,bueno durante el de ahora .,co adv det:art prep adv .,ESP ESP ESP ESP ESP,0
+603,y el día anterior habían cancelado quinientos .,coord det:art n adj aux part det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+604,.,None,,0
+605,y que había gente que ya llevaban dos días en el aeropuerto porque el primer vuelo no iba a ser sino hasta hasta julio hasta /.,coord pro:rel aux n pro:rel adv v det:num n prep det:art n conj det:art adv v adv v aprep inf conj prep prep n prep +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+606,.,None,,0
+607,por la nieve el frío el everything .,prep det:art n det:art adj det:art L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+608,.,None,,0
+609,y una vez que de que es delay .,coord pro:dem n pro:rel prep pro:rel cop L2 .,ESP ESP ESP ESP ESP ESP ESP ENG,1
+610,.,None,,0
+611,sí eran //.,co cop +//.,ESP ESP,0
+612,exacto yo creo que los vuelos pa el ...,co pro:sub v pro:rel pro:obj n co det:art +...,ESP ESP ESP ESP ESP ESP ESP ESP,0
+613,.,None,,0
+614,de frío a frío .,prep v aprep v .,ESP ESP ESP ESP,0
+615,.,None,,0
+616,tú venías de frío a calor .,pro:sub v prep v aprep n .,ESP ESP ESP ESP ESP ESP,0
+617,.,None,,0
+618,everybody else Chicago and everybody else .,L2 L2 n:prop L2 L2 L2 .,ENG ENG ESP ENG ENG ENG,1
+619,.,None,,0
+620,en nevó .,prep v .,ESP ESP,0
+621,.,None,,0
+622,tú está comiendo la mitad de un ..?,pro:sub aux ger det:art n prep det:art +..?,ESP ESP ESP ESP ESP ESP ESP,0
+623,.,None,,0
+624,pero ah es que se ve tan chiquitito como un plato chiquitico .,conj co cop pro:rel pro:refl co adv n adv det:art n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+625,ya se acabó el microondas ?,adv pro:refl v det:art n ?,ESP ESP ESP ESP ESP,0
+626,yo tengo derecho a utilizarlo ?,pro:sub v adj aprep inf ?,ESP ESP ESP ESP ESP,0
+627,.,None,,0
+628,rompí la //.,v det:art +//.,ESP ESP,0
+629,.,None,,0
+630,oigo ?,v ?,ESP,0
+631,ahí está .,adv cop .,ESP ESP,0
+632,.,None,,0
+633,porque todavía le tengo a la lucecita .,conj adv pro:ind v aprep det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+634,.,None,,0
+635,"el pobre que tenga que traducir la parcita cómo se llama Catalina va a decir ""/.","det:art co pro:rel v pro:rel inf det:art neo pro:int pro:refl v n:prop v aprep inf +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+636,.,None,,0
+637,Dios mío !,n:prop pro:pos !,ESP ESP,0
+638,.,None,,0
+639,demasiada gente hablando al mismo tiempo .,adj n ger aprep adj n .,ESP ESP ESP ESP ESP ESP,0
+640,.,None,,0
+641,gallega española .,n n .,ESP ESP,0
+642,.,None,,0
+643,bueno y a mí Beni me tomó tiempo a veces entenderle .,co coord aprep pro:prep n:prop pro:obj v n aprep n inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+644,ella me decía la pacha o algo así pacha .,pro:sub pro:obj v det:art neo coord pro:dem adv neo .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+645,era pacha ?,cop neo ?,ESP ESP,0
+646,.,None,,0
+647,"sí digo ""/.","co v +""/.",ESP ESP,0
+648,?,None,,0
+649,.,None,,0
+650,algo parecido a pacha el biberón !,pro:dem part aprep neo det:art n !,ESP ESP ESP ESP ESP ESP,0
+651,.,None,,0
+652,se le la pacha cuando es medio //.,pro:refl pro:ind pro:head neo pro:rel cop adj +//.,ESP ESP ESP ESP ESP ESP ESP,0
+653,se tomó la pacha como a las tres de la tarde .,pro:refl v det:art neo adv aprep det:art det:num prep det:art adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+654,"y yo dije ""/.","coord pro:sub v +""/.",ESP ESP ESP,0
+655,ah el biberón !,co det:art n !,ESP ESP ESP,0
+656,algo parecido a pacha no era pacha pero era algo así que no ...,pro:dem part aprep neo adv cop neo conj cop pro:dem adv pro:rel adv +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+657,sepa Dios lo que era !,v n:prop pro:obj pro:rel cop !,ESP ESP ESP ESP ESP,0
+658,"las primeras cuatro veces cuando lo dije ""/.","det:art adj:num det:num n conj pro:obj v +""/.",ESP ESP ESP ESP ESP ESP ESP,0
+659,qué me estará diciendo ?,pro:int pro:obj aux ger ?,ESP ESP ESP ESP,0
+660,.,None,,0
+661,esta grabando .,det:dem ger .,ESP ESP,0
+662,cuidado lo que dices .,co pro:obj pro:rel v .,ESP ESP ESP ESP,0
+663,.,None,,0
+664,ya .,adv .,ESP,0
+665,.,None,,0
+666,el Sprite .,det:art n:prop .,ESP ESP,0
+667,.,None,,0
+668,sí .,co .,ESP,0
+669,.,None,,0
+670,ah tanquearte !,co inf !,ESP ESP,0
+671,.,None,,0
+672,no .,adv .,ESP,0
+673,.,None,,0
+674,tanquear .,inf .,ESP,0
+675,.,None,,0
+676,no .,adv .,ESP,0
+677,.,None,,0
+678,pero Ana no es el carro .,conj n:prop adv cop det:art n .,ESP ESP ESP ESP ESP ESP,0
+679,.,None,,0
+680,vamos a tanquear tu carro tal vez .,v aprep inf det:pos n adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+681,.,None,,0
+682,pero vamos a tanquearte !,conj v aprep inf !,ESP ESP ESP ESP,0
+683,está peor que yo faxeo tú faxeas vosotros faxeáis no ?,cop adv pro:rel pro:sub v pro:sub v pro:sub v adv ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+684,.,None,,0
+685,yo no sabía eso .,pro:sub adv v pro:dem .,ESP ESP ESP ESP,0
+686,ustedes saben más que yo .,pro:sub v adv pro:rel pro:sub .,ESP ESP ESP ESP ESP,0
+687,dice el padre que la pasó muy bien .,v det:art n pro:rel pro:obj v adv adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+688,.,None,,0
+689,estuvieron rato de rato !,cop n prep n !,ESP ESP ESP ESP,0
+690,.,None,,0
+691,si ella te dijo que /.,conj pro:sub pro:obj v pro:rel +/.,ESP ESP ESP ESP ESP,0
+692,.,None,,0
+693,bueno acuérdate que él era el marinero .,co imp pro:rel pro:sub cop det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+694,era /.,cop +/.,ESP,0
+695,.,None,,0
+696,bueno o tal vez se hace el que no sabía la media papa .,co coord adj n pro:refl v det:art pro:rel adv v det:art n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+697,y sabe más de lo que //.,coord v adv prep pro:obj pro:rel +//.,ESP ESP ESP ESP ESP ESP,0
+698,.,None,,0
+699,no él no era un merchant marine ?,adv pro:sub adv cop det:art L2 L2 ?,ESP ESP ESP ESP ESP ENG ENG,1
+700,.,None,,0
+701,según Alba este está /.,prep n:prop imp cop +/.,ESP ESP ESP ESP,0
+702,.,None,,0
+703,ayer no los tiró a ustedes al cementerio porque bueno se incluía ella también .,adv adv pro:obj v aprep pro:sub aprep n conj co pro:refl v pro:sub adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+704,.,None,,0
+705,que ya estaban todas hechas un desastre .,pro:rel adv aux det:indef v det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+706,.,None,,0
+707,estos era muy guapo .,det:dem cop adv adj .,ESP ESP ESP ESP,0
+708,.,None,,0
+709,lo estoy defendiendo .,pro:obj aux ger .,ESP ESP ESP,0
+710,"dice Ana ""/.","v n:prop +""/.",ESP ESP,0
+711,no lo defiendas !,adv pro:obj v !,ESP ESP ESP,0
+712,verdad ?,co ?,ESP,0
+713,.,None,,0
+714,por cierto ahí hablando de dulces eh rompope ten de dieta en la nevera de fuera .,prep adj adv ger prep adj co n imp prep n prep det:art n prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+715,.,None,,0
+716,ay ya lo descubrieron !,co adv pro:obj v !,ESP ESP ESP ESP,0
+717,.,None,,0
+718,qué ?,pro:int ?,ESP,0
+719,.,None,,0
+720,qué horror !,pro:int n !,ESP ESP,0
+721,.,None,,0
+722,yo sé .,pro:sub v .,ESP ESP,0
+723,yo sé .,pro:sub v .,ESP ESP,0
+724,.,None,,0
+725,yo entendí lo que había habido .,pro:sub v pro:obj pro:rel aux part .,ESP ESP ESP ESP ESP ESP,0
+726,pero sigue siendo un sacrilegio .,conj v cop det:art n .,ESP ESP ESP ESP ESP,0
+727,.,None,,0
+728,a mí no me gustó mucho .,aprep pro:prep adv pro:obj v adv .,ESP ESP ESP ESP ESP ESP,0
+729,.,None,,0
+730,mira que son inteligentes .,co pro:rel cop adj .,ESP ESP ESP ESP,0
+731,.,None,,0
+732,eh ochenta tenedores /.,co n n +/.,ESP ESP ESP,0
+733,.,None,,0
+734,y cuarenta spoons .,coord det:num L2 .,ESP ESP ENG,1
+735,o sea que dan más tenedores que es lo que siempre hace falta más /.,coord cop pro:rel v adv n pro:rel cop pro:obj pro:rel adv v v adv +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+736,.,None,,0
+737,que es una caja de los otros plásticos .,pro:rel cop det:art n prep det:art pro:indef adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+738,qué tienes amor ?,pro:int v co:voc ?,ESP ESP ESP,0
+739,quieres que te traiga ?,v pro:rel pro:obj v ?,ESP ESP ESP ESP,0
+740,porque tengo una caja nueva .,conj v det:art n adj .,ESP ESP ESP ESP ESP,0
+741,.,None,,0
+742,que no quiero chica !,pro:rel adv v n !,ESP ESP ESP ESP,0
+743,.,None,,0
+744,mío !,pro:pos !,ESP,0
+745,.,None,,0
+746,el sin fondo !,det:art prep n !,ESP ESP ESP,0
+747,.,None,,0
+748,sí por mí también .,co prep pro:prep adv .,ESP ESP ESP ESP,0
+749,.,None,,0
+750,.,None,,0
+751,.,None,,0
+752,oh !,co !,ESP,0
+753,.,None,,0
+754,ellas que dice /.,pro:sub pro:rel v +/.,ESP ESP ESP,0
+755,.,None,,0
+756,ponche tres le dicen ellos .,imp det:num pro:ind v pro:sub .,ESP ESP ESP ESP ESP,0
+757,ella es de Trinidad .,pro:sub cop prep n:prop .,ESP ESP ESP ESP,0
+758,.,None,,0
+759,not me .,neg pro:obj .,ESP ESP,0
+760,.,None,,0
+761,creo que ella le echa leche evaporada leche condensada .,v pro:rel pro:sub pro:ind v n part n part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+762,no le echa huevo .,adv pro:ind v n .,ESP ESP ESP ESP,0
+763,.,None,,0
+764,creo que me dijo not very good ...,v pro:rel pro:obj v L2 L2 L2 +...,ESP ESP ESP ESP ENG ENG ENG,1
+765,.,None,,0
+766,tengo para hacer más .,v prep inf adv .,ESP ESP ESP ESP,0
+767,así que no ahí quedan .,adv pro:rel adv adv v .,ESP ESP ESP ESP ESP,0
+768,.,None,,0
+769,facilísimo .,adj .,ESP,0
+770,.,None,,0
+771,te pasas el día entero ordeñando la vaca .,pro:obj v det:art n adj ger det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+772,después //.,adv +//.,ESP,0
+773,no sé cómo /.,adv v co +/.,ESP ESP ESP,0
+774,.,None,,0
+775,azucareas el azúcar .,v det:art n .,ESP ESP ESP,0
+776,.,None,,0
+777,hay que mover pero bueno .,v pro:rel inf conj co .,ESP ESP ESP ESP ESP,0
+778,.,None,,0
+779,sí es crema de .,co cop n prep .,ESP ESP ESP ESP,0
+780,.,None,,0
+781,la que no la va a probar .,pro:obj pro:rel adv pro:obj v aprep inf .,ESP ESP ESP ESP ESP ESP ESP,0
+782,.,None,,0
+783,bueno para que lo combines con .,co prep pro:rel pro:obj v prep .,ESP ESP ESP ESP ESP ESP,0
+784,.,None,,0
+785,sí sí sí .,co co co .,ESP ESP ESP,0
+786,.,None,,0
+787,no le hagas caso .,adv pro:ind v v .,ESP ESP ESP ESP,0
+788,.,None,,0
+789,me hace falta otra botella pa hacer después más cuando se acabe una botella de vino .,pro:obj v imp det:indef n co inf adv adv conj pro:refl v det:art n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+790,.,None,,0
+791,okay no la botes .,co adv pro:obj v .,ESP ESP ESP ESP,0
+792,.,None,,0
+793,oye se lo dije .,co pro:refl pro:obj v .,ESP ESP ESP ESP,0
+794,pero ya tengo más .,conj adv v adv .,ESP ESP ESP ESP,0
+795,dos botellas .,det:num n .,ESP ESP,0
+796,.,None,,0
+797,me hace falta dos botellas .,pro:obj v v det:num n .,ESP ESP ESP ESP ESP,0
+798,.,None,,0
+799,después que hablaste mal de él .,adv pro:rel v adv v pro:sub .,ESP ESP ESP ESP ESP ESP,0
+800,.,None,,0
+801,ese el de ella .,det:dem det:art prep pro:sub .,ESP ESP ESP ESP,0
+802,.,None,,0
+803,.,None,,0
+804,.,None,,0
+805,yo creo que ...,pro:sub v pro:rel +...,ESP ESP ESP,0
+806,.,None,,0
+807,qué dices te vas al Amazonas ?,pro:int v pro:obj v aprep n:prop ?,ESP ESP ESP ESP ESP ESP,0
+808,.,None,,0
+809,y qué va a hacer a Ecuador ?,coord pro:int v aprep inf aprep n:prop ?,ESP ESP ESP ESP ESP ESP ESP,0
+810,.,None,,0
+811,y por qué Ecuador ?,coord prep pro:int n:prop ?,ESP ESP ESP ESP,0
+812,.,None,,0
+813,le voy a decir eso a la amiga mía .,pro:ind v aprep inf pro:dem aprep det:art n pro:pos .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+814,.,None,,0
+815,sí sí sí pero un poquitico más caliente .,co co co conj det:art det:indef adv v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+816,.,None,,0
+817,.,None,,0
+818,y le metió un puñete .,coord pro:ind v det:art n .,ESP ESP ESP ESP ESP,0
+819,.,None,,0
+820,esa gente del sur del Ecuador no se .,det:dem n prep n prep n:prop adv pro:refl .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+821,no saben lo que están hablando .,adv v pro:obj pro:rel aux ger .,ESP ESP ESP ESP ESP ESP,0
+822,.,None,,0
+823,y el cubano loco ese capaz de meter un tronco .,coord det:art adj adj det:dem adj prep inf det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+824,así que forget it .,adv prep L2 L2 .,ESP ESP ENG ENG,1
+825,.,None,,0
+826,pues el ...,co det:art +...,ESP ESP,0
+827,.,None,,0
+828,y cuánto tiempo estuvieron ustedes ?,coord det:int n aux pro:sub ?,ESP ESP ESP ESP ESP,0
+829,.,None,,0
+830,mira que me moría .,co pro:rel pro:obj v .,ESP ESP ESP ESP,0
+831,.,None,,0
+832,papi iba al Freedom_Tower a buscar la mantequilla .,n v aprep n:prop aprep inf det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+833,.,None,,0
+834,sí te creímos .,co pro:obj imp .,ESP ESP ESP,0
+835,pero tú echaste el cuento como nada más que tenía siete años de una manera que no captaba y papi llegó absolutamente loco como si lo hubiera insultado .,conj pro:sub v det:art v adv v adv pro:rel v det:num n prep pro:dem n pro:rel adv v coord n v adv:adj adj adv conj pro:obj v part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+836,.,None,,0
+837,do you see what I mean ?,mod pro v pro:wh pro:sub v ?,ESP ESP ESP ESP ESP ESP,0
+838,el spam a ellos les encanta .,det:art L2 aprep pro:sub pro:ind v .,ESP ENG ESP ESP ESP ESP,1
+839,.,None,,0
+840,no en la hill en el Hawaii en Polinesia todos esos les dan al .,adv prep det:art L2 prep det:art n:prop prep n:prop det:indef det:dem pro:ind v aprep .,ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+841,creo que ahora que lo dices en República_Dominicana les gusta el spam porque cuando llegaron los gringos con el spam y para esos es un delicatessen .,v pro:rel adv pro:rel pro:obj v prep n:prop pro:ind v det:art L2 conj pro:rel v det:art n prep det:art L2 coord prep det:dem cop det:art L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ENG,1
+842,.,None,,0
+843,ah pero el spam y el jamón de diablo era lo mismo .,co conj det:art L2 coord det:art n prep n cop pro:obj adj .,ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+844,.,None,,0
+845,no boten la botella pa poder hacer más .,adv v det:art n co inf inf adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+846,.,None,,0
+847,el Miami_Herald tenía el otro día un artículo sobre el Encanto .,det:art n:prop v det:art pro:indef n det:art n v det:art n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+848,que tienen toda una asociación de sus antiguos empleados del Encanto .,pro:rel v det:indef det:art n v co adj n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+849,.,None,,0
+850,y que se quemó qué es tres días antes que la invasión de ..?,coord pro:rel pro:refl v pro:int cop det:num n adv prep det:art n prep +..?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+851,.,None,,0
+852,sí ?,co ?,ESP,0
+853,.,None,,0
+854,tres cuatro días antes de ..?,det:num det:num n adv prep +..?,ESP ESP ESP ESP ESP,0
+855,.,None,,0
+856,ah .,co .,ESP,0
+857,.,None,,0
+858,la versión cubana de Harrods .,det:art n adj prep n:prop .,ESP ESP ESP ESP ESP,0
+859,.,None,,0
+860,entonces hay otra botella de vino ?,adv v det:indef n imp v ?,ESP ESP ESP ESP ESP ESP,0
+861,.,None,,0
+862,no importa .,adv v .,ESP ESP,0
+863,simplemente falta una botella de vino .,adv:adj v det:art n imp v .,ESP ESP ESP ESP ESP ESP,0
+864,.,None,,0
+865,no .,adv .,ESP,0
+866,yo la tengo así llena de vino y de todo lo que tú quieras .,pro:sub pro:obj v adv v prep v coord prep det:indef pro:obj pro:rel pro:sub v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+867,.,None,,0
+868,yo creo que el año pasado hicimos lo mismo .,pro:sub v pro:rel det:art n part v pro:obj adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+869,se quedaron afuera .,pro:refl v adv .,ESP ESP ESP,0
+870,.,None,,0
+871,el blanco .,det:art adj .,ESP ESP,0
+872,.,None,,0
+873,hay que echarle ...,v pro:rel inf +...,ESP ESP ESP,0
+874,.,None,,0
+875,le pusiste Oxiclean ?,pro:ind v n:prop ?,ESP ESP ESP,0
+876,.,None,,0
+877,que es lo que está sucio ?,pro:rel cop pro:obj pro:rel cop adj ?,ESP ESP ESP ESP ESP ESP,0
+878,.,None,,0
+879,pero lo dejaste con Oxiclean ?,conj pro:obj v prep n:prop ?,ESP ESP ESP ESP ESP,0
+880,.,None,,0
+881,un rato .,det:art n .,ESP ESP,0
+882,.,None,,0
+883,pero lo secaste en la secadora ?,conj pro:obj v prep det:art n:v ?,ESP ESP ESP ESP ESP ESP,0
+884,.,None,,0
+885,porque lo hubieras dejado mojado porque ya le /.,conj pro:obj v part part conj adv pro:ind +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+886,.,None,,0
+887,no vas a poder sacarlo .,adv v aprep inf inf .,ESP ESP ESP ESP ESP,0
+888,.,None,,0
+889,no .,adv .,ESP,0
+890,sacarlo !,inf !,ESP,0
+891,.,None,,0
+892,cuando tú secas /.,conj pro:sub v +/.,ESP ESP ESP,0
+893,.,None,,0
+894,si se deja mojado se puede seguir tratando de quitarlo .,conj pro:refl v part pro:refl v inf ger prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+895,.,None,,0
+896,cuando se seca en la secadora ya /.,conj pro:refl v prep det:art n:v adv +/.,ESP ESP ESP ESP ESP ESP ESP,0
+897,.,None,,0
+898,las manchas se quedan .,pro:obj v pro:refl v .,ESP ESP ESP ESP,0
+899,.,None,,0
+900,conmigo estaba ahí .,adv cop adv .,ESP ESP ESP,0
+901,yo tengo un mantel que era tuyo que estaba sentado ahí .,pro:sub v det:art n pro:rel cop pro:pos pro:rel aux part adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+902,.,None,,0
+903,lo van a tener que regañar .,pro:obj v aprep inf pro:rel inf .,ESP ESP ESP ESP ESP ESP,0
+904,.,None,,0
+905,la conversación está pico para abajo .,det:art n cop v prep adv .,ESP ESP ESP ESP ESP ESP,0
+906,.,None,,0
+907,está grabando .,aux ger .,ESP ESP,0
+908,.,None,,0
+909,"Catalina va a decir ""/.","n:prop v aprep inf +""/.",ESP ESP ESP ESP,0
+910,.,None,,0
+911,.,None,,0
+912,"el día que nos conozca va a decir ""/.","det:art n pro:rel pro:obj v v aprep inf +""/.",ESP ESP ESP ESP ESP ESP ESP ESP,0
+913,ajá tú eres !,co pro:sub cop !,ESP ESP ESP,0
+914,.,None,,0
+915,se lo llevan preguntado setenta y pico de años .,pro:refl pro:obj v part det:num coord v prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+916,.,None,,0
+917,es verdad .,cop co .,ESP ESP,0
+918,es verdad .,cop co .,ESP ESP,0
+919,.,None,,0
+920,una ahí una casa playa las Galápagos .,pro:dem adv pro:dem n n det:art n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+921,.,None,,0
+922,que escribir un libro .,pro:rel inf det:art v .,ESP ESP ESP ESP,0
+923,.,None,,0
+924,que es Jesusito pégale !,pro:rel cop n:prop imp !,ESP ESP ESP ESP,0
+925,pégale !,imp !,ESP,0
+926,.,None,,0
+927,con hermano y marido como tú quién necesita enemigos !,prep n coord n adv pro:sub pro:int v n !,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+928,.,None,,0
+929,pero qué va a ser ?,conj pro:int v aprep inf ?,ESP ESP ESP ESP ESP,0
+930,.,None,,0
+931,que se va con las focas de la isla de Galápagos ?,pro:rel pro:refl v prep det:art n prep det:art n prep n:prop ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+932,.,None,,0
+933,pero qué va a hacer al Ecuador ?,conj pro:int v aprep inf aprep n:prop ?,ESP ESP ESP ESP ESP ESP ESP,0
+934,.,None,,0
+935,va a contarlas una dos .,v aprep inf det:art det:num .,ESP ESP ESP ESP ESP,0
+936,.,None,,0
+937,pero se va al Amazonas del Ecuador ?,conj pro:refl v aprep n:prop prep n:prop ?,ESP ESP ESP ESP ESP ESP ESP,0
+938,.,None,,0
+939,tú conoces a un Bruno ecuatoriano que estudió aquí hace veinti pico de años ?,pro:sub v aprep det:art n:prop n pro:rel v adv v det:num v prep n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+940,.,None,,0
+941,del indio ?,prep n ?,ESP ESP,0
+942,era el indio ?,cop det:art n ?,ESP ESP ESP,0
+943,o era Bolivia ?,coord cop n:prop ?,ESP ESP ESP,0
+944,de Bolivia es el del indio .,prep n:prop cop det:art prep n .,ESP ESP ESP ESP ESP ESP,0
+945,.,None,,0
+946,oh verdad .,co co .,ESP ESP,0
+947,.,None,,0
+948,pero no era en ?,conj adv cop prep ?,ESP ESP ESP ESP,0
+949,.,None,,0
+950,bueno el cholo de Venezuela /.,co det:art n prep n:prop +/.,ESP ESP ESP ESP ESP,0
+951,.,None,,0
+952,el cholo de Venezuela estaba gufi .,det:art n prep n:prop cop adj .,ESP ESP ESP ESP ESP ESP,0
+953,.,None,,0
+954,esa es la desgracia .,det:dem cop pro:obj v .,ESP ESP ESP ESP,0
+955,.,None,,0
+956,"porque no pueden decir ""/.","conj adv v inf +""/.",ESP ESP ESP ESP,0
+957,no .,adv .,ESP,0
+958,porque ese se cogió .,conj det:dem pro:refl v .,ESP ESP ESP ESP,0
+959,.,None,,0
+960,estaba muy calladito .,cop adv part .,ESP ESP ESP,0
+961,.,None,,0
+962,qué está haciendo ahora ?,pro:int aux ger adv ?,ESP ESP ESP ESP,0
+963,.,None,,0
+964,oh !,co !,ESP,0
+965,.,None,,0
+966,ellos no se no de .,pro:sub adv pro:refl adv prep .,ESP ESP ESP ESP ESP,0
+967,.,None,,0
+968,sí ahí salió un artículo en el Miami_Herald de que ya las azucareras en Cuba no existen .,co adv v det:art n prep det:art n:prop prep pro:rel adv det:art adj prep n:prop adv v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+969,.,None,,0
+970,sí porque las azucareras en Cuba la /.,co conj pro:obj adj prep n:prop pro:obj +/.,ESP ESP ESP ESP ESP ESP ESP,0
+971,.,None,,0
+972,ya no quiere sacar si se produce azúcar .,adv adv v inf conj pro:refl v n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+973,.,None,,0
+974,sí bueno cuando se acuerde ya estará súper congelado .,co co conj pro:refl v adv cop n part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+975,.,None,,0
+976,los grandotes está afuera .,det:art adj cop adv .,ESP ESP ESP ESP,0
+977,pero están jugando .,conj aux ger .,ESP ESP ESP,0
+978,.,None,,0
+979,ah no están afuera ?,co adv cop adv ?,ESP ESP ESP ESP,0
+980,.,None,,0
+981,con Tom todos juntos .,prep n:prop pro:indef adj .,ESP ESP ESP ESP,0
+982,.,None,,0
+983,los cuatro chiquitos están allá .,det:art det:num n cop adv .,ESP ESP ESP ESP ESP,0
+984,.,None,,0
+985,la caja de .,det:art n prep .,ESP ESP ESP,0
+986,.,None,,0
+987,no hace falta .,adv v v .,ESP ESP ESP,0
+988,hay que llevarse uno de ellos para mi casa .,v pro:rel inf det:art imp pro:sub prep det:pos imp .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+989,.,None,,0
+990,bueno el cajón tiene otros juegos ahí .,co det:art n v pro:indef n adv .,ESP ESP ESP ESP ESP ESP ESP,0
+991,pero el Wii lo que en realidad es que nosotros no vamos a saber cuál controles le pertenece a quién .,conj det:art n:prop pro:obj pro:rel prep n cop pro:rel pro:sub adv v aprep inf pro:int n pro:ind v aprep pro:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+992,hay que ponerle un tape ustedes para lo o los tuyos o a los míos .,v pro:rel inf det:art L2 pro:sub prep pro:obj coord det:art pro:pos coord aprep det:art pro:pos .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+993,.,None,,0
+994,a los cables o algo .,aprep det:art n coord pro:dem .,ESP ESP ESP ESP ESP,0
+995,no que this makes a difference pero .,adv prep L2 L2 L2 L2 conj .,ESP ESP ENG ENG ENG ENG ESP,1
+996,.,None,,0
+997,ahora .,adv .,ESP,0
+998,lo el del Thomas no ha salido .,pro:obj det:art prep n:prop adv aux part .,ESP ESP ESP ESP ESP ESP ESP,0
+999,.,None,,0
+1000,"no yo le dije a Thomas ""/.","adv pro:sub pro:ind v aprep n:prop +""/.",ESP ESP ESP ESP ESP ESP,0
+1001,llévate el wii .,imp det:art L2 .,ESP ESP ENG,1
+1002,.,None,,0
+1003,lo que los controlers sí porque los controles pueden jugar cuatro golfos de esos .,pro:obj prep det:art L2 co conj pro:obj v v inf det:num n prep det:dem .,ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+1004,.,None,,0
+1005,para tener la diferencia .,prep inf det:art n .,ESP ESP ESP ESP,0
+1006,no el del de aquí el otro nos lo llevamos .,adv det:art prep prep adv det:art pro:indef pro:obj pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1007,pero a los controles ponerles masking_tape o algo a los de Tom pa saber a quién le pertenecen porque ya veo que él le puso el plastiquito .,conj aprep pro:obj v inf L2 coord pro:dem aprep det:art prep n:prop co inf aprep pro:int pro:ind v conj adv v pro:rel pro:sub pro:ind v det:art adj .,ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+1008,Thomas tiene plastiquito ?,n:prop v adj ?,ESP ESP ESP,0
+1009,.,None,,0
+1010,se los eliminó ?,pro:refl pro:obj v ?,ESP ESP ESP,0
+1011,o no le ha puesto plastiquito ?,coord adv pro:ind aux part adj ?,ESP ESP ESP ESP ESP ESP,0
+1012,no le gusta el plastiquito .,adv pro:ind v det:art adj .,ESP ESP ESP ESP ESP,0
+1013,porque los plastiquitos se los venden en diferentes colores .,conj det:art adj pro:refl pro:obj v prep adj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1014,.,None,,0
+1015,creo que vienen blanco en el Wii .,v pro:rel v adj prep det:art n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+1016,pero tú los puedes comprar rojo negro azul .,conj pro:sub pro:obj v inf adj adj adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1017,.,None,,0
+1018,no me acordaba de eso .,adv pro:obj v prep pro:dem .,ESP ESP ESP ESP ESP,0
+1019,.,None,,0
+1020,duran bastante .,v adv .,ESP ESP,0
+1021,.,None,,0
+1022,pero bueno la amiga tuya tiene cuatro .,conj co det:art n pro:pos v det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+1023,.,None,,0
+1024,cómo te conoce tu tía !,pro:int pro:obj v det:pos n !,ESP ESP ESP ESP ESP,0
+1025,a ver dónde están los chuches para hacerlos ?,aprep inf pro:int cop det:art n prep inf ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1026,.,None,,0
+1027,sí aquí está todo .,co adv cop det:indef .,ESP ESP ESP ESP,0
+1028,okay muñeca .,co n .,ESP ESP,0
+1029,.,None,,0
+1030,el ice está ready .,det:art L2 imp L2 .,ESP ENG ESP ENG,1
+1031,ven .,co .,ESP,0
+1032,ven .,co .,ESP,0
+1033,ven .,co .,ESP,0
+1034,vamos .,co .,ESP,0
+1035,.,None,,0
+1036,no porque aquí no lo vamos a hacer .,adv conj adv adv pro:obj v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1037,eso se hace en la cocina .,pro:dem pro:refl v prep det:art n .,ESP ESP ESP ESP ESP ESP,0
+1038,.,None,,0
+1039,yes pero le vamos a /.,L2 conj pro:ind v aprep +/.,ENG ESP ESP ESP ESP,1
+1040,.,None,,0
+1041,perfect !,adj !,ESP,0
+1042,.,None,,0
+1043,Tom do me a favor please .,n:prop L2 L2 L2 L2 L2 .,ESP ENG ENG ENG ENG ENG,1
+1044,.,None,,0
+1045,that's good .,pro:dem adj .,ESP ESP,0
+1046,that's still good .,pro:dem adv adj .,ESP ESP ESP,0
+1047,please do me a favor .,co mod pro:obj det n .,ESP ESP ESP ESP ESP,0
+1048,.,None,,0
+1049,take this .,v det .,ESP ESP,0
+1050,take it outside .,v pro adv .,ESP ESP ESP,0
+1051,well now I'm going to take .,adv adv pro:sub part inf v .,ESP ESP ESP ESP ESP ESP,0
+1052,and put her outside .,coord v pro:obj adv .,ESP ESP ESP ESP,0
+1053,.,None,,0
+1054,or you Adolfo you'll take these ?,L2 L2 n:prop L2 L2 L2 ?,ENG ENG ESP ENG ENG ENG,1
+1055,.,None,,0
+1056,that's it .,pro:dem pro .,ESP ESP,0
+1057,.,None,,0
+1058,outside refrigerator ?,L2 L2 ?,ENG ENG,0
+1059,.,None,,0
+1060,cierra la puerta muñeca .,v det:art n n .,ESP ESP ESP ESP,0
+1061,.,None,,0
+1062,alright where are the instructions ?,co rel cop det n ?,ESP ESP ESP ESP ESP,0
+1063,number one .,v pro:indef .,ESP ESP,0
+1064,.,None,,0
+1065,what !?,pro:wh +!?,ESP,0
+1066,.,None,,0
+1067,hay que ir a comprar el pescado .,v pro:rel inf aprep inf det:art part .,ESP ESP ESP ESP ESP ESP ESP,0
+1068,cuando ustedes quieran .,conj pro:sub imp .,ESP ESP ESP,0
+1069,.,None,,0
+1070,alright wait .,co co .,ESP ESP,0
+1071,wait .,co .,ESP,0
+1072,wait .,co .,ESP,0
+1073,instruction number one add ice to the oven .,n n det:num v n prep det n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1074,remove .,v .,ESP,0
+1075,alright pour of mix into measuring cup .,co v prep n prep n:gerund n .,ESP ESP ESP ESP ESP ESP ESP,0
+1076,that's the mix .,pro:dem det n .,ESP ESP ESP,0
+1077,cinco more frosting cupcake mix .,det:num L2 L2 L2 L2 .,ESP ENG ENG ENG ENG,1
+1078,okay you want a vanilla or strawberry ?,co L2 L2 L2 L2 L2 L2 ?,ESP ENG ENG ENG ENG ENG ENG,1
+1079,.,None,,0
+1080,strawberry .,n .,ESP,0
+1081,.,None,,0
+1082,okay and we need three of these .,co L2 L2 L2 L2 L2 L2 .,ESP ENG ENG ENG ENG ENG ENG,1
+1083,alright Patrisha come stir !,L2 n:prop L2 L2 !,ENG ESP ENG ENG,1
+1084,.,None,,0
+1085,stir .,v .,ESP,0
+1086,.,None,,0
+1087,stir away .,v adv .,ESP ESP,0
+1088,.,None,,0
+1089,then we're gonna put it on here .,adv:tem pro:sub part v pro prep pro:dem .,ESP ESP ESP ESP ESP ESP ESP,0
+1090,.,None,,0
+1091,the whole .,det n .,ESP ESP,0
+1092,.,None,,0
+1093,yeah we're gonna make sure we put all of it in .,co pro:sub part v adv pro:sub v qn prep pro adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1094,.,None,,0
+1095,.,None,,0
+1096,alright hang on bring me the ...,co v adv v pro:obj det +...,ESP ESP ESP ESP ESP ESP,0
+1097,alright there we goes .,co adv pro:sub v .,ESP ESP ESP ESP,0
+1098,.,None,,0
+1099,yeah ?,co ?,ESP,0
+1100,.,None,,0
+1101,alright now we're gonna put it in here .,co adv pro:sub part v pro prep pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1102,one .,pro:indef .,ESP,0
+1103,.,None,,0
+1104,alright ten minutes .,co det:num n .,ESP ESP ESP,0
+1105,so want a try ?,co v det v ?,ESP ESP ESP ESP,0
+1106,.,None,,0
+1107,no .,adv .,ESP,0
+1108,.,None,,0
+1109,ya voy .,adv v .,ESP ESP,0
+1110,ya voy .,adv v .,ESP ESP,0
+1111,ya voy .,adv v .,ESP ESP,0
+1112,ah !,co !,ESP,0
+1113,y por qué no manda a que venga la hija a buscarlo ?,coord prep pro:int adv v aprep pro:rel v det:art n aprep inf ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1114,.,None,,0
+1115,si le interesa .,conj pro:ind v .,ESP ESP ESP,0
+1116,si no les espera .,conj adv pro:ind v .,ESP ESP ESP ESP,0
+1117,alright Patrisha .,L2 n:prop .,ENG ESP,1
+1118,.,None,,0
+1119,when it rings it'll all be done .,conj pro v pro adv aux part .,ESP ESP ESP ESP ESP ESP ESP,0
+1120,.,None,,0
+1121,cuidado !,co !,ESP,0
+1122,Tom !,n:prop !,ESP,0
+1123,.,None,,0
+1124,make sure que no hay nada en el camino de tu abuelo !,L2 L2 pro:rel adv v v prep det:art n prep det:pos n !,ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+1125,alright .,co .,ESP,0
+1126,.,None,,0
+1127,y por qué no se empezó si estaba repleto ?,coord prep pro:int adv pro:refl v conj cop adj ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1128,.,None,,0
+1129,no esto no está lavado .,adv pro:dem adv cop part .,ESP ESP ESP ESP ESP,0
+1130,no te asustes .,adv pro:obj v .,ESP ESP ESP,0
+1131,.,None,,0
+1132,okay .,co .,ESP,0
+1133,.,None,,0
+1134,alright ?,co ?,ESP,0
+1135,or we're not ready yet ?,conj pro:sub neg v adv ?,ESP ESP ESP ESP ESP,0
+1136,.,None,,0
+1137,qué bichito ?,pro:int n ?,ESP ESP,0
+1138,.,None,,0
+1139,oh el famoso .,co det:art adj .,ESP ESP ESP,0
+1140,.,None,,0
+1141,todo está sucio .,det:indef cop adj .,ESP ESP ESP,0
+1142,.,None,,0
+1143,yo tengo que traer mi dominó también para que porque si hay dos tipos de domino player ?,pro:sub v pro:rel inf det:pos v adv prep pro:rel conj conj v det:num n prep L2 L2 ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+1144,.,None,,0
+1145,Tom do you think you can turn the volume down on that annoying thing ?,n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 ?,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+1146,.,None,,0
+1147,well ya estoy cansado de oír el .,L2 adv cop part prep inf det:art .,ENG ESP ESP ESP ESP ESP ESP,1
+1148,ah shit !,co L2 !,ESP ENG,1
+1149,.,None,,0
+1150,no .,adv .,ESP,0
+1151,ché la rompió una copa .,n pro:obj v det:art n .,ESP ESP ESP ESP ESP,0
+1152,.,None,,0
+1153,ya no me invitan más a la casa .,adv adv pro:obj v adv aprep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1154,.,None,,0
+1155,una copa .,det:art n .,ESP ESP,0
+1156,.,None,,0
+1157,tienes otras .,v det:indef .,ESP ESP,0
+1158,.,None,,0
+1159,ya aquí no cabe más nada .,adv adv adv v adv v .,ESP ESP ESP ESP ESP ESP,0
+1160,sí porque después no veo dónde se rompope .,co conj adv adv v pro:int pro:refl n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1161,que no se recicle .,pro:rel adv pro:refl v .,ESP ESP ESP ESP,0
+1162,.,None,,0
+1163,el corcho del señor que no se recicle .,det:art n prep co:voc pro:rel adv pro:refl v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1164,Silvio tú tienes cara que tú vienes a lavar platos verdad ?,n:prop pro:sub v adj pro:rel pro:sub v aprep inf n co ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1165,.,None,,0
+1166,he has that look on his face .,pro:sub aux adv v prep pro:poss:det n .,ESP ESP ESP ESP ESP ESP ESP,0
+1167,.,None,,0
+1168,la rompí .,pro:obj v .,ESP ESP,0
+1169,.,None,,0
+1170,so ?,co ?,ESP,0
+1171,.,None,,0
+1172,yo la rompí .,pro:sub pro:obj v .,ESP ESP ESP,0
+1173,.,None,,0
+1174,lávalo tú .,imp pro:sub .,ESP ESP,0
+1175,.,None,,0
+1176,dile /.,imp +/.,ESP,0
+1177,.,None,,0
+1178,dile a tu /.,imp aprep det:pos +/.,ESP ESP ESP,0
+1179,.,None,,0
+1180,oye Catalina vamos a tener que hablar con Catalina .,v n:prop v aprep inf pro:rel inf prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1181,salud !,n !,ESP,0
+1182,oye yo puedo decir que ahí abajo caben cosas .,co pro:sub v inf pro:rel adv adv v v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1183,.,None,,0
+1184,está demasiado empty .,cop adj L2 .,ESP ESP ENG,1
+1185,.,None,,0
+1186,qué necesitas eh que abran campo ?,pro:int v co pro:rel v n ?,ESP ESP ESP ESP ESP ESP,0
+1187,.,None,,0
+1188,Tomasito !,n:prop !,ESP,0
+1189,.,None,,0
+1190,te vas a la reciclable por favore .,pro:obj v aprep det:art adj prep L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+1191,.,None,,0
+1192,papi !,n !,ESP,0
+1193,.,None,,0
+1194,no seas tan particular .,adv cop adv L2 .,ESP ESP ESP ENG,1
+1195,here take .,adv v .,ESP ESP,0
+1196,take .,v .,ESP,0
+1197,take .,v .,ESP,0
+1198,work !,n !,ESP,0
+1199,aquí todo el mundo se la pasa trabajando y tú ?,adv det:indef det:art n pro:refl pro:obj v ger coord pro:sub ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1200,.,None,,0
+1201,here don't drop the bottle !,adv mod v det n !,ESP ESP ESP ESP ESP,0
+1202,que se rompe .,pro:rel pro:refl v .,ESP ESP ESP,0
+1203,.,None,,0
+1204,okay .,co .,ESP,0
+1205,.,None,,0
+1206,ay si //.,co conj +//.,ESP ESP,0
+1207,.,None,,0
+1208,qué fue gordo ?,pro:int cop adj ?,ESP ESP ESP,0
+1209,.,None,,0
+1210,more jugo dile a Carla que te dé more jugo .,L2 n imp aprep n:prop pro:rel pro:obj imp imp n .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+1211,.,None,,0
+1212,you wanna a piece of cheese ?,pro v det n prep n ?,ESP ESP ESP ESP ESP ESP,0
+1213,.,None,,0
+1214,no ?,adv ?,ESP,0
+1215,.,None,,0
+1216,no queda .,adv v .,ESP ESP,0
+1217,aquí tengo tu jugo .,adv v det:pos n .,ESP ESP ESP ESP,0
+1218,.,None,,0
+1219,Jack !,n:prop !,ESP,0
+1220,el jugo se toma aquí .,det:art n pro:refl v adv .,ESP ESP ESP ESP ESP,0
+1221,don't sit on the couch .,mod v prep det n .,ESP ESP ESP ESP ESP,0
+1222,.,None,,0
+1223,sit on the floor .,v prep det n .,ESP ESP ESP ESP,0
+1224,you can sit on the chair .,pro mod v prep det n .,ESP ESP ESP ESP ESP ESP,0
+1225,.,None,,0
+1226,sweetheart no quiero que .,L2 adv v pro:rel .,ENG ESP ESP ESP,1
+1227,.,None,,0
+1228,I might have to bring my domino .,pro:sub mod v inf v pro:poss:det n .,ESP ESP ESP ESP ESP ESP ESP,0
+1229,.,None,,0
+1230,you know where they go .,pro v adv:wh pro:sub v .,ESP ESP ESP ESP ESP,0
+1231,.,None,,0
+1232,ah esa es la tapa de .,co det:dem cop pro:obj v prep .,ESP ESP ESP ESP ESP ESP,0
+1233,.,None,,0
+1234,here .,adv .,ESP,0
+1235,.,None,,0
+1236,el yogur asumo yo que es de tu marido .,det:art n v pro:sub pro:rel cop prep det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1237,.,None,,0
+1238,you know sometimes you get like that too Tom .,L2 L2 L2 L2 L2 L2 L2 L2 n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+1239,.,None,,0
+1240,.,None,,0
+1241,.,None,,0
+1242,yeah I'm full of cupcake not for me .,co pro:sub adv prep n neg prep pro:obj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1243,.,None,,0
+1244,oh please !,co L2 !,ESP ENG,1
+1245,she might care with you .,pro:sub mod v prep pro .,ESP ESP ESP ESP ESP,0
+1246,.,None,,0
+1247,a ver .,aprep inf .,ESP ESP,0
+1248,ah estas son /.,co det:dem cop +/.,ESP ESP ESP,0
+1249,.,None,,0
+1250,eh Trisha !,co n:prop !,ESP ESP,0
+1251,.,None,,0
+1252,come here mama !,L2 L2 v !,ENG ENG ESP,1
+1253,.,None,,0
+1254,ah verdad .,co co .,ESP ESP,0
+1255,.,None,,0
+1256,did you count them ?,v pro v pro:obj ?,ESP ESP ESP ESP,0
+1257,.,None,,0
+1258,ay pobre esclavo .,co co n .,ESP ESP ESP,0
+1259,.,None,,0
+1260,cuántas más sillas hacen falta ?,pro:int adv n v v ?,ESP ESP ESP ESP ESP,0
+1261,para traer las negras de afuera .,prep inf det:art adj prep adv .,ESP ESP ESP ESP ESP ESP,0
+1262,.,None,,0
+1263,you're playing right Tom ?,L2 L2 L2 n:prop ?,ENG ENG ENG ESP,1
+1264,.,None,,0
+1265,huh ?,co ?,ESP,0
+1266,.,None,,0
+1267,no !,adv !,ESP,0
+1268,domino .,L2 .,ENG,0
+1269,.,None,,0
+1270,what !?,pro:wh +!?,ESP,0
+1271,eh !,co !,ESP,0
+1272,what ?,pro:wh ?,ESP,0
+1273,.,None,,0
+1274,!,None,,0
+1275,what is wrong ?,pro:wh cop adj ?,ESP ESP ESP,0
+1276,.,None,,0
+1277,relax .,v .,ESP,0
+1278,there is no reason to get upset .,pro:exist cop qn n inf v n .,ESP ESP ESP ESP ESP ESP ESP,0
+1279,there is no reason to cry okay ?,L2 L2 L2 L2 L2 L2 co ?,ENG ENG ENG ENG ENG ENG ESP,1
+1280,okay ?,co ?,ESP,0
+1281,now hold on .,adv v adv .,ESP ESP ESP,0
+1282,I will protect you .,pro:sub mod v pro .,ESP ESP ESP ESP,0
+1283,?,None,,0
+1284,that's kinda .,pro:dem adv .,ESP ESP,0
+1285,relax .,v .,ESP,0
+1286,relax .,v .,ESP,0
+1287,oye Jaime tú empezaste un yogur que no lo quisiste acabar ?,v n:prop pro:sub v det:art n pro:rel adv pro:obj v inf ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1288,.,None,,0
+1289,oh !,co !,ESP,0
+1290,vamos tráeme la silla papi .,co imp det:art n n .,ESP ESP ESP ESP ESP,0
+1291,.,None,,0
+1292,I take one .,pro:sub v pro:indef .,ESP ESP ESP,0
+1293,you take the other one .,pro v det qn pro:indef .,ESP ESP ESP ESP ESP,0
+1294,.,None,,0
+1295,.,None,,0
+1296,where is your blanky ?,L2 L2 L2 L2 ?,ENG ENG ENG ENG,0
+1297,.,None,,0
+1298,I don't know .,pro:sub mod v .,ESP ESP ESP,0
+1299,mira tu blanky está aquí papo .,co det:pos L2 cop adv n .,ESP ESP ENG ESP ESP ESP,1
+1300,.,None,,0
+1301,mira aquí tu blanky .,co adv det:pos L2 .,ESP ESP ESP ENG,1
+1302,.,None,,0
+1303,Silvio Tom y Carla .,n:prop n:prop coord n:prop .,ESP ESP ESP ESP,0
+1304,.,None,,0
+1305,cuántos somos ?,pro:int cop ?,ESP ESP,0
+1306,.,None,,0
+1307,nosotros hemos hecho diez los que salimos a jugar como siete piezas or something like that .,pro:sub aux part det:num det:art pro:rel v aprep inf adv det:num n L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+1308,porque ocho piezas dice cuánto ?,conj n n v det:int ?,ESP ESP ESP ESP ESP,0
+1309,.,None,,0
+1310,too many .,adv qn .,ESP ESP,0
+1311,we can do eight .,pro:sub mod v det:num .,ESP ESP ESP ESP,0
+1312,da igual eight en .,v co L2 prep .,ESP ESP ENG ESP,1
+1313,.,None,,0
+1314,so you see ?,co pro v ?,ESP ESP ESP,0
+1315,we've done that in la playa .,L2 L2 L2 L2 det:art n .,ENG ENG ENG ENG ESP ESP,1
+1316,.,None,,0
+1317,you eight .,pro det:num .,ESP ESP,0
+1318,I'll be helping the .,pro:sub cop part det .,ESP ESP ESP ESP,0
+1319,.,None,,0
+1320,ocho .,det:num .,ESP,0
+1321,.,None,,0
+1322,ocho .,det:num .,ESP,0
+1323,.,None,,0
+1324,aún cuando somos ocho once nos demasiado .,adv conj cop det:num det:num pro:obj adj .,ESP ESP ESP ESP ESP ESP ESP,0
+1325,.,None,,0
+1326,o sea ocho .,coord cop det:num .,ESP ESP ESP,0
+1327,.,None,,0
+1328,sí .,co .,ESP,0
+1329,.,None,,0
+1330,okay .,co .,ESP,0
+1331,eh .,co .,ESP,0
+1332,.,None,,0
+1333,como se diga eso en español .,adv pro:refl v pro:dem prep adj .,ESP ESP ESP ESP ESP ESP,0
+1334,.,None,,0
+1335,no hay cama para tanta gente !,adv v n prep det:indef n !,ESP ESP ESP ESP ESP ESP,0
+1336,señora tiene aspirinas ?,n v n ?,ESP ESP ESP,0
+1337,.,None,,0
+1338,.,None,,0
+1339,señora tiene aspirinas //.,n v n +//.,ESP ESP ESP,0
+1340,oye pero ustedes no se //.,v conj pro:sub adv pro:refl +//.,ESP ESP ESP ESP ESP,0
+1341,eh moviendo pieza .,co ger n .,ESP ESP ESP,0
+1342,.,None,,0
+1343,deme ocho a ver cuantas //.,imp n aprep inf det:indef +//.,ESP ESP ESP ESP ESP,0
+1344,.,None,,0
+1345,siete .,det:num .,ESP,0
+1346,a ver cuánto queda en el yard .,aprep inf det:int v prep det:art L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+1347,.,None,,0
+1348,Tom coge tus siete .,n:prop v det:pos det:num .,ESP ESP ESP ESP,0
+1349,.,None,,0
+1350,no that's fine .,co pro:dem adj .,ESP ESP ESP,0
+1351,.,None,,0
+1352,no fíjate cuánto queda en el yard .,adv imp det:int v prep det:art L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+1353,siete .,det:num .,ESP,0
+1354,.,None,,0
+1355,ya tiene su siete .,adv v det:pos det:num .,ESP ESP ESP ESP,0
+1356,.,None,,0
+1357,ah no .,co adv .,ESP ESP,0
+1358,no es tan malo .,adv cop adv adj .,ESP ESP ESP ESP,0
+1359,.,None,,0
+1360,.,None,,0
+1361,.,None,,0
+1362,ahí queda eso .,adv v pro:dem .,ESP ESP ESP,0
+1363,.,None,,0
+1364,mándame unas cuantas para allá .,imp v det:indef prep adv .,ESP ESP ESP ESP ESP,0
+1365,.,None,,0
+1366,eso no es doña !,pro:dem adv cop n !,ESP ESP ESP ESP,0
+1367,.,None,,0
+1368,el dado es el de gris .,det:art part cop det:art prep adj .,ESP ESP ESP ESP ESP ESP,0
+1369,.,None,,0
+1370,gris .,adj .,ESP,0
+1371,.,None,,0
+1372,le está hablando con el que no reconoce colores .,pro:ind aux ger prep det:art pro:rel adv re#v v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1373,.,None,,0
+1374,yo no tengo .,pro:sub adv v .,ESP ESP ESP,0
+1375,.,None,,0
+1376,ciudades ?,n ?,ESP,0
+1377,no .,adv .,ESP,0
+1378,.,None,,0
+1379,sí .,co .,ESP,0
+1380,.,None,,0
+1381,clockwise .,L2 .,ENG,0
+1382,.,None,,0
+1383,no no that's right .,co co pro:dem adv .,ESP ESP ESP ESP,0
+1384,we .,pro:sub .,ESP,0
+1385,.,None,,0
+1386,ay dios mío .,co co pro:pos .,ESP ESP ESP,0
+1387,.,None,,0
+1388,como el reloj .,adv det:art n .,ESP ESP ESP,0
+1389,.,None,,0
+1390,dale juega !,imp v !,ESP ESP,0
+1391,.,None,,0
+1392,everybody gets it .,pro:indef v pro .,ESP ESP ESP,0
+1393,si este es el doce .,conj imp cop det:art det:num .,ESP ESP ESP ESP ESP,0
+1394,uno dos tres cuatro /.,det:art det:num det:num det:num +/.,ESP ESP ESP ESP,0
+1395,.,None,,0
+1396,pégale .,imp .,ESP,0
+1397,.,None,,0
+1398,pégale .,imp .,ESP,0
+1399,.,None,,0
+1400,pégale pégale .,imp imp .,ESP ESP,0
+1401,.,None,,0
+1402,no tienes ?,adv v ?,ESP ESP,0
+1403,.,None,,0
+1404,no él no puede .,adv pro:sub adv v .,ESP ESP ESP ESP,0
+1405,las cuatro no puede .,det:art det:num adv v .,ESP ESP ESP ESP,0
+1406,.,None,,0
+1407,no .,adv .,ESP,0
+1408,Carla está down .,n:prop aux L2 .,ESP ESP ENG,1
+1409,.,None,,0
+1410,oh .,co .,ESP,0
+1411,.,None,,0
+1412,hay un espacio para ella .,v det:art n prep pro:sub .,ESP ESP ESP ESP ESP,0
+1413,.,None,,0
+1414,hay un espacio para ella .,v det:art n prep pro:sub .,ESP ESP ESP ESP ESP,0
+1415,.,None,,0
+1416,ay dios mío .,co co pro:pos .,ESP ESP ESP,0
+1417,.,None,,0
+1418,oh yeah .,co L2 .,ESP ENG,1
+1419,okay ese le paso al Thomas .,co det:dem pro:ind v aprep n:prop .,ESP ESP ESP ESP ESP ESP,0
+1420,pasa tu pieza para acá para doña Angy .,imp det:pos n prep adv prep n n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1421,para que la gente sepa dónde tú vas .,prep pro:rel det:art n v pro:int pro:sub v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1422,.,None,,0
+1423,que hay unos cuántos individuos aquí //.,pro:rel v pro:dem pro:int n adv +//.,ESP ESP ESP ESP ESP ESP,0
+1424,.,None,,0
+1425,que no saben lo que están haciendo .,pro:rel adv v pro:obj pro:rel aux ger .,ESP ESP ESP ESP ESP ESP ESP,0
+1426,.,None,,0
+1427,exactamente .,adv:adj .,ESP,0
+1428,y entonces forman un desastre .,coord adv v det:art n .,ESP ESP ESP ESP ESP,0
+1429,.,None,,0
+1430,pero esta es la primera vez que tú juegas !,conj imp cop det:art adj:num n pro:rel pro:sub v !,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1431,.,None,,0
+1432,mío .,pro:pos .,ESP,0
+1433,.,None,,0
+1434,ajá .,co .,ESP,0
+1435,este porque es //.,imp conj cop +//.,ESP ESP ESP,0
+1436,you're fresh .,pro adj .,ESP ESP,0
+1437,.,None,,0
+1438,you're fresh from England .,pro adj prep n:prop .,ESP ESP ESP ESP,0
+1439,si no no se te perdona .,conj adv adv pro:refl pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+1440,.,None,,0
+1441,no .,adv .,ESP,0
+1442,.,None,,0
+1443,no se dió cuenta .,adv pro:refl v co .,ESP ESP ESP ESP,0
+1444,.,None,,0
+1445,Carla y ...,n:prop coord +...,ESP ESP,0
+1446,.,None,,0
+1447,no !,adv !,ESP,0
+1448,.,None,,0
+1449,has he ever played before ?,aux pro:sub adv part adv ?,ESP ESP ESP ESP ESP,0
+1450,.,None,,0
+1451,sí !,co !,ESP,0
+1452,.,None,,0
+1453,.,None,,0
+1454,.,None,,0
+1455,Carla tú puedes jugar en la tuya o en la de Tom .,n:prop pro:sub v inf prep det:art pro:pos coord prep det:art prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1456,.,None,,0
+1457,de ella .,prep pro:sub .,ESP ESP,0
+1458,.,None,,0
+1459,okay can we take your garbage de la mesa ?,co mod pro:sub v pro:poss:det n L2 L2 L2 ?,ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+1460,pánfilo .,n .,ESP,0
+1461,.,None,,0
+1462,era .,cop .,ESP,0
+1463,.,None,,0
+1464,.,None,,0
+1465,.,None,,0
+1466,yes .,L2 .,ENG,0
+1467,.,None,,0
+1468,oh no ha jugado ?,co adv aux part ?,ESP ESP ESP ESP,0
+1469,.,None,,0
+1470,oh yo pensé que había jugado .,co pro:sub v pro:rel aux part .,ESP ESP ESP ESP ESP ESP,0
+1471,.,None,,0
+1472,ah .,co .,ESP,0
+1473,oh .,co .,ESP,0
+1474,.,None,,0
+1475,then you gotta take one from the .,adv:tem pro mod:aux v det:num prep det .,ESP ESP ESP ESP ESP ESP ESP,0
+1476,.,None,,0
+1477,and then you're down if you don't have it .,conj adv:tem pro adv conj pro mod v pro .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1478,.,None,,0
+1479,y después /.,coord adv +/.,ESP ESP,0
+1480,.,None,,0
+1481,oh que suerte !,co pro:rel n !,ESP ESP ESP,0
+1482,.,None,,0
+1483,okay now you pay .,co L2 L2 L2 .,ESP ENG ENG ENG,1
+1484,.,None,,0
+1485,no .,adv .,ESP,0
+1486,.,None,,0
+1487,nadie está down .,pro:indef imp L2 .,ESP ESP ENG,1
+1488,.,None,,0
+1489,!,None,,0
+1490,.,None,,0
+1491,oye el timer tuyo no funciona ?,v det:art L2 pro:pos adv v ?,ESP ESP ENG ESP ESP ESP,1
+1492,.,None,,0
+1493,oh !,co !,ESP,0
+1494,.,None,,0
+1495,nadie me dijo a mí nada !,pro:indef pro:obj v aprep pro:prep v !,ESP ESP ESP ESP ESP ESP,0
+1496,.,None,,0
+1497,Trisha !,n:prop !,ESP,0
+1498,.,None,,0
+1499,I think so .,pro:sub v co .,ESP ESP ESP,0
+1500,what do you think ?,pro:wh mod pro v ?,ESP ESP ESP ESP,0
+1501,.,None,,0
+1502,I think they're ready .,pro:sub v pro:sub adj .,ESP ESP ESP ESP,0
+1503,.,None,,0
+1504,they rang .,pro:sub v .,ESP ESP,0
+1505,debemos ver las instrucciones .,v inf det:art n .,ESP ESP ESP ESP,0
+1506,I think it needs a little more time .,pro:sub v pro v det adj qn n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1507,espera few more minutes okay ?,imp L2 L2 L2 co ?,ESP ENG ENG ENG ESP,1
+1508,.,None,,0
+1509,and then we make a frosty okay ?,conj adv:tem pro:sub v det adj adj ?,ESP ESP ESP ESP ESP ESP ESP,0
+1510,.,None,,0
+1511,come in .,v adv .,ESP ESP,0
+1512,.,None,,0
+1513,sí pero están un poco softy .,co conj cop det:art adv L2 .,ESP ESP ESP ESP ESP ENG,1
+1514,.,None,,0
+1515,pero I don't know .,conj n:prop:L2 L2 L2 .,ESP ESP ENG ENG,1
+1516,.,None,,0
+1517,quién está down ?,pro:int cop L2 ?,ESP ESP ENG,1
+1518,.,None,,0
+1519,.,None,,0
+1520,esta pobre pieza aquí mírala .,imp adj n adv imp .,ESP ESP ESP ESP ESP,0
+1521,.,None,,0
+1522,hay que lavarla .,v pro:rel inf .,ESP ESP ESP,0
+1523,está //.,cop +//.,ESP,0
+1524,sucia .,adj .,ESP,0
+1525,.,None,,0
+1526,está sucia !,cop adj !,ESP ESP,0
+1527,.,None,,0
+1528,.,None,,0
+1529,no .,adv .,ESP,0
+1530,.,None,,0
+1531,.,None,,0
+1532,doña Carla estás down ?,n n:prop cop L2 ?,ESP ESP ESP ENG,1
+1533,.,None,,0
+1534,.,None,,0
+1535,.,None,,0
+1536,están entretenidos con la vaina .,aux part prep det:art n .,ESP ESP ESP ESP ESP,0
+1537,.,None,,0
+1538,Carla está down .,n:prop aux L2 .,ESP ESP ENG,1
+1539,.,None,,0
+1540,qué estás poniendo tú ?,pro:int aux ger pro:sub ?,ESP ESP ESP ESP,0
+1541,.,None,,0
+1542,over there !,prep pro:dem !,ESP ESP,0
+1543,you told me /.,pro v pro:obj +/.,ESP ESP ESP,0
+1544,.,None,,0
+1545,.,None,,0
+1546,.,None,,0
+1547,sorry Catalina .,L2 n:prop .,ENG ESP,1
+1548,.,None,,0
+1549,put it over there .,v pro prep pro:dem .,ESP ESP ESP ESP,0
+1550,.,None,,0
+1551,consulting .,part .,ESP,0
+1552,it's called consulting .,pro part part .,ESP ESP ESP,0
+1553,.,None,,0
+1554,that's fine .,pro:dem adj .,ESP ESP,0
+1555,.,None,,0
+1556,no soples .,adv v .,ESP ESP,0
+1557,no los ayudes .,adv pro:obj v .,ESP ESP ESP,0
+1558,.,None,,0
+1559,silenciosamente .,adv:adj .,ESP,0
+1560,.,None,,0
+1561,yeah yeah .,co co .,ESP ESP,0
+1562,.,None,,0
+1563,yeah yeah .,co co .,ESP ESP,0
+1564,.,None,,0
+1565,sí en el parlamento son escandalosos .,co prep det:art n cop adj .,ESP ESP ESP ESP ESP ESP,0
+1566,.,None,,0
+1567,Silvio eh .,n:prop co .,ESP ESP,0
+1568,.,None,,0
+1569,donde siempre tenemos el delay .,pro:rel adv v det:art L2 .,ESP ESP ESP ESP ENG,1
+1570,.,None,,0
+1571,yo .,pro:sub .,ESP,0
+1572,.,None,,0
+1573,y tú .,coord pro:sub .,ESP ESP,0
+1574,.,None,,0
+1575,double checking double checking .,adv part adv part .,ESP ESP ESP ESP,0
+1576,.,None,,0
+1577,no le ha hecho falta .,adv pro:ind aux part v .,ESP ESP ESP ESP ESP,0
+1578,.,None,,0
+1579,y mira Silvio .,coord co n:prop .,ESP ESP ESP,0
+1580,y esa pieza ni la puso él .,coord det:dem n coord pro:obj v pro:sub .,ESP ESP ESP ESP ESP ESP ESP,0
+1581,.,None,,0
+1582,ah sí la puso .,co co pro:obj v .,ESP ESP ESP ESP,0
+1583,.,None,,0
+1584,y Christine .,coord n:prop .,ESP ESP,0
+1585,el mismo delay .,det:art adj L2 .,ESP ESP ENG,1
+1586,el slogan siempre es allá .,det:art n adv cop adv .,ESP ESP ESP ESP ESP,0
+1587,y es far .,coord cop L2 .,ESP ESP ENG,1
+1588,.,None,,0
+1589,dale Tom .,imp n:prop .,ESP ESP,0
+1590,you can play .,pro mod v .,ESP ESP ESP,0
+1591,.,None,,0
+1592,Tom la quitó .,n:prop pro:obj v .,ESP ESP ESP,0
+1593,y la volvió a poner .,coord pro:obj v aprep inf .,ESP ESP ESP ESP ESP,0
+1594,.,None,,0
+1595,el tres el siete y el once .,det:art det:num det:art det:num coord det:art det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+1596,.,None,,0
+1597,anda consult over there .,co L2 L2 L2 .,ESP ENG ENG ENG,1
+1598,y fíjate en lo que tienen .,coord imp prep pro:obj pro:rel v .,ESP ESP ESP ESP ESP ESP,0
+1599,.,None,,0
+1600,nada más que Christine .,pro:indef adv pro:rel n:prop .,ESP ESP ESP ESP,0
+1601,.,None,,0
+1602,no tiene dos .,adv v det:num .,ESP ESP ESP,0
+1603,.,None,,0
+1604,Jaime_Miguel tiene una también .,n:prop v pro:dem adv .,ESP ESP ESP ESP,0
+1605,.,None,,0
+1606,it's over here .,pro prep pro:dem .,ESP ESP ESP,0
+1607,.,None,,0
+1608,to where ?,prep adv:wh ?,ESP ESP,0
+1609,.,None,,0
+1610,oh .,co .,ESP,0
+1611,.,None,,0
+1612,y regresas a la pieza que no tiene ella .,coord v aprep det:art n pro:rel adv v pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1613,.,None,,0
+1614,a menos que tengas un dos .,aprep adv pro:rel v det:art det:num .,ESP ESP ESP ESP ESP ESP,0
+1615,.,None,,0
+1616,tú .,pro:sub .,ESP,0
+1617,.,None,,0
+1618,roba .,imp .,ESP,0
+1619,.,None,,0
+1620,eso sí .,pro:dem co .,ESP ESP,0
+1621,how convenient .,adv:wh adj .,ESP ESP,0
+1622,.,None,,0
+1623,esa es tuya !,det:dem cop pro:pos !,ESP ESP ESP,0
+1624,.,None,,0
+1625,no esa es tu línea .,adv det:dem cop det:pos n .,ESP ESP ESP ESP ESP,0
+1626,.,None,,0
+1627,no .,adv .,ESP,0
+1628,.,None,,0
+1629,no nada que yo tenga .,adv v pro:rel pro:sub v .,ESP ESP ESP ESP ESP,0
+1630,.,None,,0
+1631,well it ain't my fault .,co pro aux pro:poss:det n .,ESP ESP ESP ESP ESP,0
+1632,.,None,,0
+1633,I'm down .,pro:sub adv .,ESP ESP,0
+1634,.,None,,0
+1635,porque esas son las reglas .,conj det:dem cop det:art n .,ESP ESP ESP ESP ESP,0
+1636,.,None,,0
+1637,te robo una pieza ...,pro:obj v det:art n +...,ESP ESP ESP ESP,0
+1638,y entonces estás down .,coord adv aux L2 .,ESP ESP ESP ENG,1
+1639,.,None,,0
+1640,no !,adv !,ESP,0
+1641,.,None,,0
+1642,no .,adv .,ESP,0
+1643,.,None,,0
+1644,then it was a good move .,adv:tem pro cop det adj n .,ESP ESP ESP ESP ESP ESP,0
+1645,.,None,,0
+1646,.,None,,0
+1647,.,None,,0
+1648,Jenn ?,n:prop ?,ESP,0
+1649,.,None,,0
+1650,ah !,co !,ESP,0
+1651,.,None,,0
+1652,.,None,,0
+1653,.,None,,0
+1654,diez veinte .,det:num det:num .,ESP ESP,0
+1655,.,None,,0
+1656,quién está escribiendo ?,pro:int aux ger ?,ESP ESP ESP,0
+1657,.,None,,0
+1658,.,None,,0
+1659,.,None,,0
+1660,y más vale que pongas otra ele porque no vas a saber cuál ele es el que estás apuntando .,coord adv co pro:rel v det:indef co conj adv v aprep inf pro:int co cop det:art pro:rel aux ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1661,.,None,,0
+1662,ay Trisha .,co n:prop .,ESP ESP,0
+1663,.,None,,0
+1664,yes they're ready .,co pro:sub adj .,ESP ESP ESP,0
+1665,you wanna make the frost thing ?,pro v v det n n ?,ESP ESP ESP ESP ESP ESP,0
+1666,.,None,,0
+1667,all right .,qn n .,ESP ESP,0
+1668,.,None,,0
+1669,yeah let's make the frost thing .,co v v det n n .,ESP ESP ESP ESP ESP ESP,0
+1670,and see if it works .,conj v conj pro v .,ESP ESP ESP ESP ESP,0
+1671,.,None,,0
+1672,what ?,L2 ?,ENG,0
+1673,thirty five .,det:num det:num .,ESP ESP,0
+1674,yo se lo dije al hijo mío .,pro:sub pro:refl pro:obj v aprep n pro:pos .,ESP ESP ESP ESP ESP ESP ESP,0
+1675,one strawberry or vanilla frosty .,det:num n coord n adj .,ESP ESP ESP ESP ESP,0
+1676,.,None,,0
+1677,all right .,qn n .,ESP ESP,0
+1678,strawberry it is .,n pro cop .,ESP ESP ESP,0
+1679,.,None,,0
+1680,I forgot what the instructions say .,pro:sub v pro:wh det n v .,ESP ESP ESP ESP ESP ESP,0
+1681,men !,L2 !,ENG,0
+1682,.,None,,0
+1683,yo dejé mis instrucciones ...,pro:sub v det:pos n +...,ESP ESP ESP ESP,0
+1684,.,None,,0
+1685,ah what happened to ...,co pro:wh v inf +...,ESP ESP ESP ESP,0
+1686,.,None,,0
+1687,no esa no es .,adv det:dem adv cop .,ESP ESP ESP ESP,0
+1688,.,None,,0
+1689,the kitchen instructions .,det n n .,ESP ESP ESP,0
+1690,.,None,,0
+1691,ve !,co !,ESP,0
+1692,.,None,,0
+1693,okay .,co .,ESP,0
+1694,right now we're going to take them out .,adv adv pro:sub part inf v pro:obj adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1695,.,None,,0
+1696,right Trisha this //.,L2 n:prop L2 +//.,ENG ESP ENG,1
+1697,.,None,,0
+1698,get them out .,v pro:obj adv .,ESP ESP ESP,0
+1699,look at that !,v prep pro:dem !,ESP ESP ESP,0
+1700,.,None,,0
+1701,look and they //.,v conj pro:sub +//.,ESP ESP ESP,0
+1702,ah !,co !,ESP,0
+1703,.,None,,0
+1704,.,None,,0
+1705,.,None,,0
+1706,y entonces ?,coord adv ?,ESP ESP,0
+1707,.,None,,0
+1708,spread on .,v adv .,ESP ESP,0
+1709,.,None,,0
+1710,no .,adv .,ESP,0
+1711,.,None,,0
+1712,yes .,L2 .,ENG,0
+1713,.,None,,0
+1714,mhm .,co .,ESP,0
+1715,.,None,,0
+1716,who is gonna eat the other cupcake ?,pro:wh cop part v det qn n ?,ESP ESP ESP ESP ESP ESP ESP,0
+1717,.,None,,0
+1718,you want a cupcake Jack ?,L2 L2 L2 L2 n:prop ?,ENG ENG ENG ENG ESP,1
+1719,.,None,,0
+1720,you have you gotta show tu tía .,L2 L2 L2 L2 L2 det:pos n .,ENG ENG ENG ENG ENG ESP ESP,1
+1721,.,None,,0
+1722,sure .,L2 .,ENG,0
+1723,here you are .,adv pro cop .,ESP ESP ESP,0
+1724,ya estamos .,adv cop .,ESP ESP,0
+1725,.,None,,0
+1726,no esta bien .,adv imp adv .,ESP ESP ESP,0
+1727,.,None,,0
+1728,sí ?,co ?,ESP,0
+1729,Trisha come show Carla .,n:prop L2 L2 n:prop .,ESP ENG ENG ESP,1
+1730,.,None,,0
+1731,está .,cop .,ESP,0
+1732,.,None,,0
+1733,okay .,co .,ESP,0
+1734,.,None,,0
+1735,lo malo de siete piececitas es que no hay muchas opciones .,pro:obj adj prep det:num n cop pro:rel adv v det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1736,.,None,,0
+1737,sí .,co .,ESP,0
+1738,.,None,,0
+1739,un diez .,det:art det:num .,ESP ESP,0
+1740,.,None,,0
+1741,mira mira .,co co .,ESP ESP,0
+1742,.,None,,0
+1743,it's still alive .,pro adv adj .,ESP ESP ESP,0
+1744,.,None,,0
+1745,Carla quiere ver .,n:prop v inf .,ESP ESP ESP,0
+1746,.,None,,0
+1747,one for you and one for Jack ?,L2 L2 L2 L2 L2 L2 n:prop ?,ENG ENG ENG ENG ENG ENG ESP,1
+1748,.,None,,0
+1749,okay .,co .,ESP,0
+1750,.,None,,0
+1751,que dijo precioso .,pro:rel v adj .,ESP ESP ESP,0
+1752,.,None,,0
+1753,algo sangriento .,pro:dem adj .,ESP ESP,0
+1754,.,None,,0
+1755,quién le toca ?,pro:int pro:ind v ?,ESP ESP ESP,0
+1756,.,None,,0
+1757,Jenny Jenny y Jaime_Miguel .,n:prop n:prop coord n:prop .,ESP ESP ESP ESP,0
+1758,.,None,,0
+1759,yes it is .,co pro cop .,ESP ESP ESP,0
+1760,.,None,,0
+1761,put the flyer on the kitchen .,v det n prep det n .,ESP ESP ESP ESP ESP ESP,0
+1762,.,None,,0
+1763,preparando los regalitos de .,ger det:art n prep .,ESP ESP ESP ESP,0
+1764,.,None,,0
+1765,Rebeca para la fiesta .,n:prop prep det:art n .,ESP ESP ESP ESP,0
+1766,.,None,,0
+1767,.,None,,0
+1768,seis y cuatro .,det:num coord det:num .,ESP ESP ESP,0
+1769,.,None,,0
+1770,over here .,prep pro:dem .,ESP ESP,0
+1771,stars .,L2 .,ENG,0
+1772,.,None,,0
+1773,si movieras el Star_wars .,conj v det:art n:prop .,ESP ESP ESP ESP,0
+1774,.,None,,0
+1775,no estás pidiendo las mías .,adv aux ger det:art pro:pos .,ESP ESP ESP ESP ESP,0
+1776,.,None,,0
+1777,ahora vas a dejar a Catalina curiosa .,adv v aprep inf aprep n:prop adj .,ESP ESP ESP ESP ESP ESP ESP,0
+1778,qué será el dicho en Puerto_Rico .,pro:int cop det:art part prep n:prop .,ESP ESP ESP ESP ESP ESP,0
+1779,.,None,,0
+1780,tú no les estás hablando eh !,pro:sub adv pro:ind aux ger co !,ESP ESP ESP ESP ESP ESP,0
+1781,.,None,,0
+1782,sí .,co .,ESP,0
+1783,.,None,,0
+1784,usted mismo .,pro:sub adj .,ESP ESP,0
+1785,.,None,,0
+1786,perdonen ustedes .,imp pro:sub .,ESP ESP,0
+1787,.,None,,0
+1788,tiene que poner esa .,v pro:rel inf det:dem .,ESP ESP ESP ESP,0
+1789,.,None,,0
+1790,too bad .,adv adj .,ESP ESP,0
+1791,no !,adv !,ESP,0
+1792,.,None,,0
+1793,.,None,,0
+1794,.,None,,0
+1795,.,None,,0
+1796,.,None,,0
+1797,tú die .,pro:sub L2 .,ESP ENG,1
+1798,you're down .,pro adv .,ESP ESP,0
+1799,.,None,,0
+1800,no !,adv !,ESP,0
+1801,.,None,,0
+1802,el pobre Silvio .,det:art co:voc n:prop .,ESP ESP ESP,0
+1803,.,None,,0
+1804,"él dice Silvio ""/.","pro:sub v n:prop +""/.",ESP ESP ESP,0
+1805,dios mío pero qué escándalo .,co pro:pos conj pro:int n .,ESP ESP ESP ESP ESP,0
+1806,I can't take it .,pro:sub mod v pro .,ESP ESP ESP ESP,0
+1807,.,None,,0
+1808,y te vas a ir seis meses al Ecuador .,coord pro:obj v aprep inf det:num n aprep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1809,.,None,,0
+1810,good luck .,adj n .,ESP ESP,0
+1811,si tu crees que eso es más silencioso que los cubanos .,conj det:pos v pro:rel pro:dem cop adv adj pro:rel det:art adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1812,.,None,,0
+1813,oh where are you pointing at ?,co L2 L2 L2 L2 L2 ?,ESP ENG ENG ENG ENG ENG,1
+1814,.,None,,0
+1815,a ver a ver a ver a ver a ver a ver a ver a ver a ver a ver .,aprep inf aprep inf aprep inf aprep inf aprep inf aprep inf aprep inf aprep inf aprep inf aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1816,.,None,,0
+1817,yo .,pro:sub .,ESP,0
+1818,.,None,,0
+1819,oye cómo han tirado chuches en ese .,co pro:int aux part n prep det:dem .,ESP ESP ESP ESP ESP ESP ESP,0
+1820,.,None,,0
+1821,oh !,co !,ESP,0
+1822,.,None,,0
+1823,esto esta vaina se cierra .,pro:dem imp n pro:refl v .,ESP ESP ESP ESP ESP,0
+1824,.,None,,0
+1825,y eso tira los cohetes .,coord pro:dem v det:art n .,ESP ESP ESP ESP ESP,0
+1826,.,None,,0
+1827,Carla ya se va .,n:prop adv pro:refl v .,ESP ESP ESP ESP,0
+1828,.,None,,0
+1829,esto es parte del yard ?,pro:dem cop v prep L2 ?,ESP ESP ESP ESP ENG,1
+1830,.,None,,0
+1831,ah lo sabía .,co pro:obj v .,ESP ESP ESP,0
+1832,.,None,,0
+1833,play ?,n ?,ESP,0
+1834,.,None,,0
+1835,slow .,adv .,ESP,0
+1836,.,None,,0
+1837,no .,adv .,ESP,0
+1838,.,None,,0
+1839,no .,L2 .,ENG,0
+1840,.,None,,0
+1841,no porque a mí no me conviene ayudarte .,adv conj aprep pro:prep adv pro:obj v inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1842,.,None,,0
+1843,you were looking at my fichas .,L2 L2 L2 L2 L2 n .,ENG ENG ENG ENG ENG ESP,1
+1844,you should know .,pro mod v .,ESP ESP ESP,0
+1845,.,None,,0
+1846,viste que es Jenny .,v pro:rel cop n:prop .,ESP ESP ESP ESP,0
+1847,.,None,,0
+1848,tú eres su mamá su hermano o su primo .,pro:sub cop det:pos n det:pos n coord det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1849,.,None,,0
+1850,move your things !,v pro:poss:det n !,ESP ESP ESP,0
+1851,.,None,,0
+1852,no you've got to stuff .,co pro part inf v .,ESP ESP ESP ESP ESP,0
+1853,.,None,,0
+1854,sí ese es de Christie .,co det:dem cop prep n:prop .,ESP ESP ESP ESP ESP,0
+1855,.,None,,0
+1856,alguien te jugó .,pro:indef pro:obj v .,ESP ESP ESP,0
+1857,.,None,,0
+1858,esta es de mami .,det:dem cop prep n .,ESP ESP ESP ESP,0
+1859,alguien te la jugó .,pro:indef pro:obj pro:obj v .,ESP ESP ESP ESP,0
+1860,.,None,,0
+1861,no !,adv !,ESP,0
+1862,.,None,,0
+1863,esta es de Christine .,det:dem cop prep n:prop .,ESP ESP ESP ESP,0
+1864,.,None,,0
+1865,y despreocupate de Christine .,coord imp prep n:prop .,ESP ESP ESP ESP,0
+1866,.,None,,0
+1867,yeah seis tres y uno .,L2 det:num det:num coord pro:dem .,ENG ESP ESP ESP ESP,1
+1868,.,None,,0
+1869,hombre .,co .,ESP,0
+1870,.,None,,0
+1871,exacto .,co .,ESP,0
+1872,.,None,,0
+1873,.,None,,0
+1874,.,None,,0
+1875,porque nada más que hay siete fichitas así que no hay mucho plan .,conj v adv pro:rel v det:num n adv pro:rel adv v adv n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1876,.,None,,0
+1877,no cuando hay más fichas en tus manos pues es más fácil hacer un //.,adv conj v adv n prep det:pos n co cop adv adj inf det:art +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1878,you know .,pro v .,ESP ESP,0
+1879,.,None,,0
+1880,dos y dos son ocho y ocho dieciséis .,det:num coord det:num cop n coord det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1881,.,None,,0
+1882,lija la tablita .,v det:art n .,ESP ESP ESP,0
+1883,ya yo la lijé .,adv pro:sub pro:obj v .,ESP ESP ESP ESP,0
+1884,.,None,,0
+1885,.,None,,0
+1886,.,None,,0
+1887,oh .,co .,ESP,0
+1888,.,None,,0
+1889,no me confundas .,adv pro:obj v .,ESP ESP ESP,0
+1890,.,None,,0
+1891,I'm down .,pro:sub adv .,ESP ESP,0
+1892,.,None,,0
+1893,esa no la tenía .,det:dem adv pro:obj v .,ESP ESP ESP ESP,0
+1894,no te preocupes .,adv pro:obj v .,ESP ESP ESP,0
+1895,yo ahora tengo dos piezas .,pro:sub adv v det:num n .,ESP ESP ESP ESP ESP,0
+1896,es un poco difícil .,cop det:art adv adj .,ESP ESP ESP ESP,0
+1897,es que con tan pocas piececitas .,cop pro:rel prep adv det:indef n .,ESP ESP ESP ESP ESP ESP,0
+1898,.,None,,0
+1899,sir gash your turn .,n n pro:poss:det n .,ESP ESP ESP ESP,0
+1900,.,None,,0
+1901,moi .,L2 .,ENG,0
+1902,.,None,,0
+1903,para dar su aire de ...,prep inf det:pos co prep +...,ESP ESP ESP ESP ESP,0
+1904,.,None,,0
+1905,Magoo .,n:prop .,ESP,0
+1906,.,None,,0
+1907,is my mama //.,L2 L2 v +//.,ENG ENG ESP,1
+1908,ah ya tú jugaste .,co adv pro:sub v .,ESP ESP ESP ESP,0
+1909,.,None,,0
+1910,le toca a Silvio .,pro:ind v aprep n:prop .,ESP ESP ESP ESP,0
+1911,.,None,,0
+1912,roba otra vez .,imp det:indef n .,ESP ESP ESP,0
+1913,.,None,,0
+1914,wewewewe .,on .,ESP,0
+1915,.,None,,0
+1916,sí thank you .,co L2 L2 .,ESP ENG ENG,1
+1917,.,None,,0
+1918,.,None,,0
+1919,.,None,,0
+1920,no .,adv .,ESP,0
+1921,.,None,,0
+1922,no tú jugaste //.,adv pro:sub v +//.,ESP ESP ESP,0
+1923,ah sí verdad .,co co co .,ESP ESP ESP,0
+1924,él también está .,pro:sub adv cop .,ESP ESP ESP,0
+1925,.,None,,0
+1926,.,None,,0
+1927,.,None,,0
+1928,no existe .,adv v .,ESP ESP,0
+1929,.,None,,0
+1930,porque juegan todos los downs .,conj v det:indef det:art L2 .,ESP ESP ESP ESP ENG,1
+1931,.,None,,0
+1932,este tipo de juego necesita los downs porque no hay manera de /.,det:dem n prep v v det:art L2 conj adv v n prep +/.,ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+1933,.,None,,0
+1934,el trenecito mío .,det:art n pro:pos .,ESP ESP ESP,0
+1935,el mío que tiene los trenecitos .,det:art pro:pos pro:rel v det:art n .,ESP ESP ESP ESP ESP ESP,0
+1936,.,None,,0
+1937,no te veo de mother .,adv pro:obj v prep L2 .,ESP ESP ESP ESP ENG,1
+1938,.,None,,0
+1939,roba otra vez .,imp det:indef n .,ESP ESP ESP,0
+1940,.,None,,0
+1941,doce .,det:num .,ESP,0
+1942,.,None,,0
+1943,tres y ocho .,det:num coord det:num .,ESP ESP ESP,0
+1944,.,None,,0
+1945,y ocho otra vez .,coord det:num det:indef n .,ESP ESP ESP ESP,0
+1946,.,None,,0
+1947,y cuatro y una pila de ochos y blancos .,coord det:num coord pro:dem n prep n coord adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1948,.,None,,0
+1949,ahí está .,adv cop .,ESP ESP,0
+1950,.,None,,0
+1951,donde va toda la gente .,pro:rel v det:indef det:art n .,ESP ESP ESP ESP ESP,0
+1952,.,None,,0
+1953,aquí .,adv .,ESP,0
+1954,.,None,,0
+1955,aquí o aquí .,adv coord adv .,ESP ESP ESP,0
+1956,.,None,,0
+1957,about you .,L2 L2 .,ENG ENG,0
+1958,.,None,,0
+1959,.,None,,0
+1960,.,None,,0
+1961,aquí estás down .,adv aux L2 .,ESP ESP ENG,1
+1962,.,None,,0
+1963,no eso no .,adv pro:dem adv .,ESP ESP ESP,0
+1964,.,None,,0
+1965,momento momento .,n n .,ESP ESP,0
+1966,.,None,,0
+1967,porque no tengo más nada que jugar .,conj adv v adv v pro:rel inf .,ESP ESP ESP ESP ESP ESP ESP,0
+1968,.,None,,0
+1969,bueno es tu .,co cop det:pos .,ESP ESP ESP,0
+1970,.,None,,0
+1971,Jaime_Miguel nada más .,n:prop v adv .,ESP ESP ESP,0
+1972,.,None,,0
+1973,uno .,det:art .,ESP,0
+1974,that's it .,pro:dem pro .,ESP ESP,0
+1975,.,None,,0
+1976,yo no estoy down .,pro:sub adv cop L2 .,ESP ESP ESP ENG,1
+1977,.,None,,0
+1978,sí .,co .,ESP,0
+1979,.,None,,0
+1980,claro que no .,co pro:rel adv .,ESP ESP ESP,0
+1981,.,None,,0
+1982,.,None,,0
+1983,.,None,,0
+1984,no you can put it here .,co pro mod v pro adv .,ESP ESP ESP ESP ESP ESP,0
+1985,.,None,,0
+1986,fichas .,n .,ESP,0
+1987,.,None,,0
+1988,.,None,,0
+1989,Chus ...,n:prop +...,ESP,0
+1990,.,None,,0
+1991,y Mateo viejo también .,coord n:prop adj adv .,ESP ESP ESP ESP,0
+1992,.,None,,0
+1993,eh !,co !,ESP,0
+1994,mira aquí hello !,co adv L2 !,ESP ESP ENG,1
+1995,.,None,,0
+1996,mío .,pro:pos .,ESP,0
+1997,.,None,,0
+1998,por qué tú crees que le decíamos Mister_Magoo .,prep pro:int pro:sub v pro:rel pro:ind v n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+1999,.,None,,0
+2000,sí .,co .,ESP,0
+2001,.,None,,0
+2002,más nadie .,adv pro:indef .,ESP ESP,0
+2003,cinco .,det:num .,ESP,0
+2004,.,None,,0
+2005,nueve y tres .,det:num coord det:num .,ESP ESP ESP,0
+2006,.,None,,0
+2007,sí .,co .,ESP,0
+2008,.,None,,0
+2009,tu abuelo está hablando .,det:pos n imp ger .,ESP ESP ESP ESP,0
+2010,se fue .,pro:refl v .,ESP ESP,0
+2011,.,None,,0
+2012,diecinueve era ella .,det:num cop pro:sub .,ESP ESP ESP,0
+2013,.,None,,0
+2014,no importa .,adv v .,ESP ESP,0
+2015,.,None,,0
+2016,tú vas a tener el mismo .,pro:sub v aprep inf det:art adj .,ESP ESP ESP ESP ESP ESP,0
+2017,aquí /.,adv +/.,ESP,0
+2018,.,None,,0
+2019,no that's the only time .,adv L2 L2 L2 L2 .,ESP ENG ENG ENG ENG,1
+2020,.,None,,0
+2021,that you don't need the .,rel pro mod v det .,ESP ESP ESP ESP ESP,0
+2022,.,None,,0
+2023,it's the last play .,pro det adj n .,ESP ESP ESP ESP,0
+2024,.,None,,0
+2025,Beth veinte .,n:prop det:num .,ESP ESP,0
+2026,.,None,,0
+2027,oye !,co !,ESP,0
+2028,.,None,,0
+2029,tu sobrino ...,det:pos n +...,ESP ESP,0
+2030,.,None,,0
+2031,y donde está la otra ?,coord pro:rel cop det:art det:indef ?,ESP ESP ESP ESP ESP,0
+2032,.,None,,0
+2033,enséñaselo a tu abuela //.,imp pro:clit det:pos n +//.,ESP ESP ESP ESP,0
+2034,que ella quiere ver el juego .,pro:rel pro:sub v inf det:art v .,ESP ESP ESP ESP ESP ESP,0
+2035,.,None,,0
+2036,.,None,,0
+2037,.,None,,0
+2038,yo veo a Silvio bien mal .,pro:sub v aprep n:prop adv adv .,ESP ESP ESP ESP ESP ESP,0
+2039,.,None,,0
+2040,yo soy vaga ...,pro:sub cop v +...,ESP ESP ESP,0
+2041,y yo subo para no tener que pensar .,coord pro:sub v prep adv inf pro:rel inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2042,.,None,,0
+2043,.,None,,0
+2044,.,None,,0
+2045,I'm usually working so I don't need to be doing that .,pro:sub adv n:gerund adv pro:sub mod v inf aux part rel .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2046,.,None,,0
+2047,no está muy limpia .,adv cop adv v .,ESP ESP ESP ESP,0
+2048,.,None,,0
+2049,.,None,,0
+2050,.,None,,0
+2051,y tiene una media que se cogió .,coord v det:art adj pro:rel pro:refl v .,ESP ESP ESP ESP ESP ESP ESP,0
+2052,.,None,,0
+2053,quién puso esto ?,pro:int v pro:dem ?,ESP ESP ESP,0
+2054,.,None,,0
+2055,dios mío ...,co pro:pos +...,ESP ESP,0
+2056,.,None,,0
+2057,entonces ...,adv +...,ESP,0
+2058,.,None,,0
+2059,.,None,,0
+2060,.,None,,0
+2061,el coño de su .,det:art co prep det:pos .,ESP ESP ESP ESP,0
+2062,.,None,,0
+2063,.,None,,0
+2064,los españoles que son tan bien hablados ...,det:art adj pro:rel cop adv adv part +...,ESP ESP ESP ESP ESP ESP ESP,0
+2065,.,None,,0
+2066,Lucy ...,n:prop +...,ESP,0
+2067,.,None,,0
+2068,sí .,co .,ESP,0
+2069,.,None,,0
+2070,Jenny is down .,n:prop L2 L2 .,ESP ENG ENG,1
+2071,.,None,,0
+2072,don't do that .,mod v pro:dem .,ESP ESP ESP,0
+2073,.,None,,0
+2074,you know .,pro v .,ESP ESP,0
+2075,.,None,,0
+2076,no .,adv .,ESP,0
+2077,.,None,,0
+2078,I don't have anything below a ten !,pro:sub mod v pro:indef prep det det:num !,ESP ESP ESP ESP ESP ESP ESP,0
+2079,.,None,,0
+2080,look !,co !,ESP,0
+2081,.,None,,0
+2082,oh yeah .,co co .,ESP ESP,0
+2083,.,None,,0
+2084,ni cuatro ?,coord det:num ?,ESP ESP,0
+2085,.,None,,0
+2086,no el acuerdo es que la última vez que lo fuiste a ayudar //.,adv det:art n cop pro:rel pro:obj adj n pro:rel pro:obj v aprep inf +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2087,te dijo que no quería ayuda .,pro:obj v pro:rel adv v v .,ESP ESP ESP ESP ESP ESP,0
+2088,.,None,,0
+2089,deja .,imp .,ESP,0
+2090,.,None,,0
+2091,déjalo .,imp .,ESP,0
+2092,déjalo .,imp .,ESP,0
+2093,.,None,,0
+2094,Jaime .,n:prop .,ESP,0
+2095,.,None,,0
+2096,.,None,,0
+2097,.,None,,0
+2098,big spender aren't you ?,adj n aux pro ?,ESP ESP ESP ESP,0
+2099,.,None,,0
+2100,ni siete ni seis ?,coord det:num coord det:num ?,ESP ESP ESP ESP,0
+2101,.,None,,0
+2102,un diez ...,det:art det:num +...,ESP ESP,0
+2103,mira un diez .,co det:art det:num .,ESP ESP ESP,0
+2104,.,None,,0
+2105,.,None,,0
+2106,.,None,,0
+2107,mira un diez aquí .,co det:art det:num adv .,ESP ESP ESP ESP,0
+2108,no mentira no pongas ningún diez //.,adv n adv v det:indef det:num +//.,ESP ESP ESP ESP ESP ESP,0
+2109,yo tengo diez .,pro:sub v det:num .,ESP ESP ESP,0
+2110,.,None,,0
+2111,sí .,co .,ESP,0
+2112,.,None,,0
+2113,la vieja tiene muchos puntos .,det:art adj v det:indef n .,ESP ESP ESP ESP ESP,0
+2114,.,None,,0
+2115,adónde va toda la gente ?,pro:int v det:indef det:art n ?,ESP ESP ESP ESP ESP,0
+2116,.,None,,0
+2117,.,None,,0
+2118,ya ya no más .,adv adv adv adv .,ESP ESP ESP ESP,0
+2119,.,None,,0
+2120,enough .,adv .,ESP,0
+2121,.,None,,0
+2122,Thomas y Lucy .,n:prop coord n:prop .,ESP ESP ESP,0
+2123,.,None,,0
+2124,que no ...,pro:rel adv +...,ESP ESP,0
+2125,I really don't appreciate this .,pro:sub adv mod v det .,ESP ESP ESP ESP ESP,0
+2126,.,None,,0
+2127,Thomas at seven .,n:prop prep det:num .,ESP ESP ESP,0
+2128,.,None,,0
+2129,I think Ana .,pro:sub v n:prop .,ESP ESP ESP,0
+2130,yo no fui .,pro:sub adv v .,ESP ESP ESP,0
+2131,fue .,v .,ESP,0
+2132,pégale pégale .,imp imp .,ESP ESP,0
+2133,.,None,,0
+2134,y ahora que hago después de esta porquería .,coord adv pro:rel v adv prep det:dem n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2135,.,None,,0
+2136,se demora media hora con /.,pro:refl v n n prep +/.,ESP ESP ESP ESP ESP,0
+2137,.,None,,0
+2138,oye todo el mundo está trabado ?,v det:indef det:art n aux part ?,ESP ESP ESP ESP ESP ESP,0
+2139,.,None,,0
+2140,siete cinco diez diez y diez .,det:num det:num det:num det:num coord det:num .,ESP ESP ESP ESP ESP ESP,0
+2141,.,None,,0
+2142,.,None,,0
+2143,.,None,,0
+2144,Silvio .,n:prop .,ESP,0
+2145,.,None,,0
+2146,a lo que va toda la gente .,aprep pro:obj pro:rel v det:indef det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+2147,.,None,,0
+2148,.,None,,0
+2149,.,None,,0
+2150,tuya ?,pro:pos ?,ESP,0
+2151,.,None,,0
+2152,oh .,co .,ESP,0
+2153,.,None,,0
+2154,verdad .,co .,ESP,0
+2155,.,None,,0
+2156,that's why we have you in the game .,pro:dem adv:wh pro:sub v pro prep det n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2157,so that you can keep us .,co pro:dem pro mod v pro:obj .,ESP ESP ESP ESP ESP ESP,0
+2158,Thomas .,n:prop .,ESP,0
+2159,.,None,,0
+2160,la verdad es que siempre hay el mismo delay .,det:art co cop pro:rel adv v det:art adj L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+2161,.,None,,0
+2162,okay .,co .,ESP,0
+2163,.,None,,0
+2164,no .,adv .,ESP,0
+2165,.,None,,0
+2166,oye you are as ugly as me .,co L2 L2 L2 L2 L2 L2 .,ESP ENG ENG ENG ENG ENG ENG,1
+2167,.,None,,0
+2168,you are worse //.,pro cop adj +//.,ESP ESP ESP,0
+2169,you have a pattern .,pro v det n .,ESP ESP ESP ESP,0
+2170,.,None,,0
+2171,.,None,,0
+2172,.,None,,0
+2173,oh ahí tienes el dos .,co adv v det:art det:num .,ESP ESP ESP ESP ESP,0
+2174,you are worse than I am //.,pro cop adj prep pro:sub cop +//.,ESP ESP ESP ESP ESP ESP,0
+2175,.,None,,0
+2176,if it's possible .,conj pro adj .,ESP ESP ESP,0
+2177,.,None,,0
+2178,"voy a decir ""/.","v aprep inf +""/.",ESP ESP ESP,0
+2179,puedes poner una y ?,v inf pro:dem coord ?,ESP ESP ESP ESP,0
+2180,.,None,,0
+2181,juega juega juega !,v v v !,ESP ESP ESP,0
+2182,.,None,,0
+2183,pero caballero ...,conj n +...,ESP ESP,0
+2184,.,None,,0
+2185,estás igual que Silvio .,aux co pro:rel n:prop .,ESP ESP ESP ESP,0
+2186,.,None,,0
+2187,estás igual que Silvio que no puede pensar .,aux co pro:rel n:prop pro:rel adv v inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2188,.,None,,0
+2189,no .,adv .,ESP,0
+2190,.,None,,0
+2191,.,None,,0
+2192,.,None,,0
+2193,who cares ?,rel v ?,ESP ESP,0
+2194,.,None,,0
+2195,seis y doce .,det:num coord det:num .,ESP ESP ESP,0
+2196,.,None,,0
+2197,no importa que individuos .,adv v pro:rel n .,ESP ESP ESP ESP,0
+2198,.,None,,0
+2199,excuse you .,v pro .,ESP ESP,0
+2200,.,None,,0
+2201,mira nos callamos por ti .,co pro:obj v prep pro:prep .,ESP ESP ESP ESP ESP,0
+2202,.,None,,0
+2203,y te demoras .,coord pro:obj v .,ESP ESP ESP,0
+2204,.,None,,0
+2205,y me pones esa porquería .,coord pro:obj v det:dem n .,ESP ESP ESP ESP ESP,0
+2206,.,None,,0
+2207,cuatro .,det:num .,ESP,0
+2208,.,None,,0
+2209,oh not down either .,co neg v adv .,ESP ESP ESP ESP,0
+2210,.,None,,0
+2211,el único que está down mira ya //.,det:art adj pro:rel cop L2 co adv +//.,ESP ESP ESP ESP ENG ESP ESP,1
+2212,blanco ...,adj +...,ESP,0
+2213,.,None,,0
+2214,y once .,coord det:num .,ESP ESP,0
+2215,.,None,,0
+2216,pues es buena gente .,co cop adj n .,ESP ESP ESP ESP,0
+2217,.,None,,0
+2218,pues es buena gente .,co cop adj n .,ESP ESP ESP ESP,0
+2219,.,None,,0
+2220,pero yo hay que play //.,conj pro:sub v pro:rel L2 +//.,ESP ESP ESP ESP ENG,1
+2221,voy a ser buena gente .,v aprep inf adj n .,ESP ESP ESP ESP ESP,0
+2222,.,None,,0
+2223,así que no te pongas pesada .,adv pro:rel adv pro:obj v part .,ESP ESP ESP ESP ESP ESP,0
+2224,.,None,,0
+2225,eh hace rato está sufriendo .,co v n imp ger .,ESP ESP ESP ESP ESP,0
+2226,.,None,,0
+2227,sí .,co .,ESP,0
+2228,.,None,,0
+2229,yo decía y a tu madre //.,pro:sub v coord aprep det:pos n +//.,ESP ESP ESP ESP ESP ESP,0
+2230,tu no empezabas ?,det:pos adv v ?,ESP ESP ESP,0
+2231,.,None,,0
+2232,like mine is any better ?,prep n aux qn adj ?,ESP ESP ESP ESP ESP,0
+2233,.,None,,0
+2234,mira al silencioso //.,v aprep adj +//.,ESP ESP ESP,0
+2235,y nada más tiene dos fichas .,coord v adv v det:num n .,ESP ESP ESP ESP ESP ESP,0
+2236,.,None,,0
+2237,el silencioso me acaba de tirar una mirada fulminante .,det:art adj pro:obj v prep inf det:art n adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2238,.,None,,0
+2239,.,None,,0
+2240,.,None,,0
+2241,.,None,,0
+2242,.,None,,0
+2243,Thomas .,n:prop .,ESP,0
+2244,.,None,,0
+2245,sí .,co .,ESP,0
+2246,.,None,,0
+2247,dígame .,imp .,ESP,0
+2248,.,None,,0
+2249,sí el silencioso .,co det:art adj .,ESP ESP ESP,0
+2250,.,None,,0
+2251,you have four .,pro v det:num .,ESP ESP ESP,0
+2252,.,None,,0
+2253,four .,det:num .,ESP,0
+2254,.,None,,0
+2255,dime Jack .,imp n:prop .,ESP ESP,0
+2256,.,None,,0
+2257,yes you could have a banana .,co pro mod v det n .,ESP ESP ESP ESP ESP ESP,0
+2258,dale una banana a tu hermano .,imp det:art n aprep det:pos n .,ESP ESP ESP ESP ESP ESP,0
+2259,.,None,,0
+2260,sí dale .,co imp .,ESP ESP,0
+2261,.,None,,0
+2262,dale .,imp .,ESP,0
+2263,.,None,,0
+2264,fue sin querer muñeca .,v prep inf n .,ESP ESP ESP ESP,0
+2265,.,None,,0
+2266,go over there .,v prep pro:dem .,ESP ESP ESP,0
+2267,get away from these chairs .,aux adv prep det n .,ESP ESP ESP ESP ESP,0
+2268,.,None,,0
+2269,dale un little banana .,imp det:art L2 L2 .,ESP ESP ENG ENG,1
+2270,.,None,,0
+2271,ya ?,adv ?,ESP,0
+2272,.,None,,0
+2273,I don't know if there's any .,pro:sub mod v conj pro:exist qn .,ESP ESP ESP ESP ESP ESP,0
+2274,ve y fíjate .,co coord imp .,ESP ESP ESP,0
+2275,.,None,,0
+2276,soy la única cabezona de la casa .,cop det:art adj n prep det:art imp .,ESP ESP ESP ESP ESP ESP ESP,0
+2277,.,None,,0
+2278,lo demás son todos están asequibles .,pro:obj adj cop det:indef cop adj .,ESP ESP ESP ESP ESP ESP,0
+2279,.,None,,0
+2280,Richie .,n:prop .,ESP,0
+2281,Richie .,n:prop .,ESP,0
+2282,.,None,,0
+2283,sweetheart sweetheart there is none .,co co pro:exist cop pro:indef .,ESP ESP ESP ESP ESP,0
+2284,.,None,,0
+2285,ate them all .,v pro:obj post .,ESP ESP ESP,0
+2286,we need to buy some more .,pro:sub v inf v qn pro:indef .,ESP ESP ESP ESP ESP ESP,0
+2287,do you want this one ?,mod pro v det pro:indef ?,ESP ESP ESP ESP ESP,0
+2288,.,None,,0
+2289,I know what there is none .,pro:sub v pro:wh pro:exist cop pro:indef .,ESP ESP ESP ESP ESP ESP,0
+2290,so do you want this one ?,adv v pro v det pro:indef ?,ESP ESP ESP ESP ESP ESP,0
+2291,.,None,,0
+2292,you want this one ?,pro v det pro:indef ?,ESP ESP ESP ESP,0
+2293,yes ?,co ?,ESP,0
+2294,.,None,,0
+2295,yes or not ?,co coord neg ?,ESP ESP ESP,0
+2296,sí .,co .,ESP,0
+2297,.,None,,0
+2298,do you want a cut ?,mod pro v det n ?,ESP ESP ESP ESP ESP,0
+2299,.,None,,0
+2300,how do you want me to cut it ?,adv:wh mod pro v pro:obj inf v pro ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2301,.,None,,0
+2302,cut it like that in half ?,v pro prep pro:dem prep n ?,ESP ESP ESP ESP ESP ESP,0
+2303,.,None,,0
+2304,that's the size of a little banana right there .,pro:dem det n prep det adj n adv adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2305,.,None,,0
+2306,estás buscando ?,aux ger ?,ESP ESP,0
+2307,.,None,,0
+2308,Thomas .,n:prop .,ESP,0
+2309,do you have anything to play ?,mod pro v pro:indef inf v ?,ESP ESP ESP ESP ESP ESP,0
+2310,.,None,,0
+2311,these are down ?,pro:dem cop adv ?,ESP ESP ESP,0
+2312,.,None,,0
+2313,eso las come sin ningún problema .,pro:dem pro:obj v prep det:indef n .,ESP ESP ESP ESP ESP ESP,0
+2314,.,None,,0
+2315,eso es only un castigo exacto .,pro:dem cop L2 det:art v co .,ESP ESP ENG ESP ESP ESP,1
+2316,.,None,,0
+2317,I don't like your other hand .,pro:sub mod v pro:poss:det qn n .,ESP ESP ESP ESP ESP ESP,0
+2318,.,None,,0
+2319,is the only thing you have to play ?,cop det qn n pro v prep n ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2320,.,None,,0
+2321,do you have something else to play ?,mod pro v pro:indef post prep n ?,ESP ESP ESP ESP ESP ESP ESP,0
+2322,.,None,,0
+2323,roba .,imp .,ESP,0
+2324,.,None,,0
+2325,ay que rico .,co pro:rel adj .,ESP ESP ESP,0
+2326,.,None,,0
+2327,cuantas fichas tú tienes ?,det:indef n pro:sub v ?,ESP ESP ESP ESP,0
+2328,.,None,,0
+2329,todavía está ?,adv cop ?,ESP ESP,0
+2330,.,None,,0
+2331,dale apurado .,imp part .,ESP ESP,0
+2332,.,None,,0
+2333,sí tiene el siete .,co v det:art det:num .,ESP ESP ESP ESP,0
+2334,.,None,,0
+2335,cuenta .,co .,ESP,0
+2336,cuenta .,co .,ESP,0
+2337,.,None,,0
+2338,veintidós .,det:num .,ESP,0
+2339,.,None,,0
+2340,treinta y ...,det:num coord +...,ESP ESP,0
+2341,thirty forty yup .,det:num det:num co .,ESP ESP ESP,0
+2342,fifty yup .,det:num co .,ESP ESP,0
+2343,.,None,,0
+2344,ella quiere ver cual es el score .,pro:sub v inf pro:rel cop det:art L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+2345,para ver si se va a ganadora ...,prep inf conj pro:refl v aprep n +...,ESP ESP ESP ESP ESP ESP ESP,0
+2346,o si se va a perdedora .,coord conj pro:refl v aprep n:v .,ESP ESP ESP ESP ESP ESP,0
+2347,.,None,,0
+2348,Lucy es el tercero .,n:prop cop det:art adj:num .,ESP ESP ESP ESP,0
+2349,.,None,,0
+2350,sí se os sigue hasta el cero .,co pro:refl pro:obj v prep det:art det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+2351,.,None,,0
+2352,por en medio de abajo ?,prep prep adj prep adv ?,ESP ESP ESP ESP ESP,0
+2353,.,None,,0
+2354,no pero tengo dos horas de ir y media .,adv conj v det:num n prep inf coord adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2355,tengo de ocho y veinticinco .,v prep n coord det:num .,ESP ESP ESP ESP ESP,0
+2356,.,None,,0
+2357,oh these are yours .,co pro:dem cop pro:poss .,ESP ESP ESP ESP,0
+2358,.,None,,0
+2359,el nueve .,det:art det:num .,ESP ESP,0
+2360,.,None,,0
+2361,él ya .,pro:sub adv .,ESP ESP,0
+2362,.,None,,0
+2363,calma pueblo .,n n .,ESP ESP,0
+2364,.,None,,0
+2365,calma pueblo .,n n .,ESP ESP,0
+2366,.,None,,0
+2367,el número popular es el nueve .,det:art n adj cop det:art det:num .,ESP ESP ESP ESP ESP ESP,0
+2368,.,None,,0
+2369,este de Galicia nunca ha salido .,det:dem prep n:prop adv aux part .,ESP ESP ESP ESP ESP ESP,0
+2370,.,None,,0
+2371,Thomas .,n:prop .,ESP,0
+2372,.,None,,0
+2373,.,None,,0
+2374,.,None,,0
+2375,mira gracias mami .,co n n .,ESP ESP ESP,0
+2376,.,None,,0
+2377,really ?,adv ?,ESP,0
+2378,.,None,,0
+2379,Jenny y Thomas .,n:prop coord n:prop .,ESP ESP ESP,0
+2380,.,None,,0
+2381,sí .,co .,ESP,0
+2382,.,None,,0
+2383,ocho seis o tu propio seis .,det:num det:num coord det:pos adj det:num .,ESP ESP ESP ESP ESP ESP,0
+2384,.,None,,0
+2385,digo perdón .,v co .,ESP ESP,0
+2386,.,None,,0
+2387,usted es el cinco .,pro:sub cop det:art det:num .,ESP ESP ESP ESP,0
+2388,.,None,,0
+2389,no .,adv .,ESP,0
+2390,.,None,,0
+2391,yo no sé si se hace //.,pro:sub adv v conj pro:refl v +//.,ESP ESP ESP ESP ESP ESP,0
+2392,o de verdad es tan torpe .,coord prep co cop adv adj .,ESP ESP ESP ESP ESP ESP,0
+2393,.,None,,0
+2394,yo espero .,pro:sub v .,ESP ESP,0
+2395,porque yo pensé que sería un poquitito más de brain .,conj pro:sub v pro:rel cop det:art det:indef adv prep L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+2396,.,None,,0
+2397,Thomas .,n:prop .,ESP,0
+2398,.,None,,0
+2399,no no no .,adv adv adv .,ESP ESP ESP,0
+2400,.,None,,0
+2401,no cariño .,adv co:voc .,ESP ESP,0
+2402,.,None,,0
+2403,do you get more points out ?,mod pro v qn n adv ?,ESP ESP ESP ESP ESP ESP,0
+2404,.,None,,0
+2405,la pobre Jenny .,det:art co:voc n:prop .,ESP ESP ESP,0
+2406,.,None,,0
+2407,nada y le saca un ocho .,imp coord pro:ind v det:art n .,ESP ESP ESP ESP ESP ESP,0
+2408,tiene un nueve .,v det:art det:num .,ESP ESP ESP,0
+2409,.,None,,0
+2410,a ver que viene una aquí .,aprep inf pro:rel v pro:dem adv .,ESP ESP ESP ESP ESP ESP,0
+2411,.,None,,0
+2412,cinco .,det:num .,ESP,0
+2413,.,None,,0
+2414,se necesita pero no está dado .,pro:refl v conj adv cop part .,ESP ESP ESP ESP ESP ESP,0
+2415,.,None,,0
+2416,por ahí tiene que haber un nueve rumbeando .,prep adv v pro:rel inf det:art det:num ger .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2417,.,None,,0
+2418,no hay un ocho ?,adv v det:art det:num ?,ESP ESP ESP ESP,0
+2419,tú no tienes un ocho ?,pro:sub adv v det:art det:num ?,ESP ESP ESP ESP ESP,0
+2420,.,None,,0
+2421,hasta mañana .,prep adv .,ESP ESP,0
+2422,.,None,,0
+2423,tienes una pila de cantantes en esta mesa .,v det:art n prep n prep det:dem n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2424,.,None,,0
+2425,blanco .,adj .,ESP,0
+2426,.,None,,0
+2427,ya cállate !,adv imp !,ESP ESP,0
+2428,.,None,,0
+2429,no Thomas y Jaime .,adv n:prop coord n:prop .,ESP ESP ESP ESP,0
+2430,.,None,,0
+2431,cantando !,ger !,ESP,0
+2432,.,None,,0
+2433,Tom veintiuno .,n:prop det:num .,ESP ESP,0
+2434,.,None,,0
+2435,treinta y tres .,det:num coord det:num .,ESP ESP ESP,0
+2436,.,None,,0
+2437,diecisiete .,det:num .,ESP,0
+2438,.,None,,0
+2439,Silvio se lo está ganando .,n:prop pro:refl pro:obj aux ger .,ESP ESP ESP ESP ESP,0
+2440,.,None,,0
+2441,por qué tanto rato a Silvio ?,prep pro:int adj n aprep n:prop ?,ESP ESP ESP ESP ESP ESP,0
+2442,.,None,,0
+2443,okay .,co .,ESP,0
+2444,.,None,,0
+2445,oh .,co .,ESP,0
+2446,.,None,,0
+2447,Tom you are a little bit of a messy eater .,n:prop pro cop det adj n prep det adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2448,.,None,,0
+2449,pero si en una fiesta cogió setenta y nueve puntos !,conj conj prep pro:dem n v det:num coord det:num n !,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2450,.,None,,0
+2451,para fuera .,prep adv .,ESP ESP,0
+2452,.,None,,0
+2453,pues si no aquí hay muchos no cabemos .,co conj adv adv v det:indef adv v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+2454,.,None,,0
+2455,oye !,co !,ESP,0
+2456,.,None,,0

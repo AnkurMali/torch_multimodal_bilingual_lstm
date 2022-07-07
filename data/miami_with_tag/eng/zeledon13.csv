@@ -1,0 +1,1437 @@
+,sentence,pos,language,switch
+0,so the goat escaped through a bigger hole in my fence right .,co det:art n v prep det:art adj n prep det:poss n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1,.,None,,0
+2,and mind you my grandfather used to walk that goat every morning around the neighborhood like if it was a dog .,coord v pro:per det:poss grand#n v inf v det:dem n qn n prep det:art n prep conj pro:per cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+3,ah .,co .,ENG,0
+4,so our next door neighbor had a dog right .,co det:poss adj n n v det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+5,and whenever the neighbor would let the dog out .,coord pro:rel det:art n mod v det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+6,and he was like putting his work stuff away .,coord pro:sub cop co part det:poss n n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,and then so in when the dog .,coord adv:tem adv prep conj det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+8,he closed the door .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+9,and he left for work .,coord pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+10,he didn't see the goat go in .,pro:sub mod v det:art n v adv .,ENG ENG ENG ENG ENG ENG ENG,0
+11,so my grandfather wakes up like at ten .,adv det:poss grand#n n adv prep prep det:num .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+12,and he is looking for the goat frantic .,coord pro:sub aux part prep det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+13,"and he's screaming around the neighborhood ""/.","coord pro:sub part prep det:art n +""/.",ENG ENG ENG ENG ENG ENG,0
+14,Tete Tete where are you ?,n:prop n:prop pro:rel cop pro:per ?,ENG ENG ENG ENG ENG,0
+15,like that like frantic .,prep pro:dem prep adj .,ENG ENG ENG ENG,0
+16,so somehow some way he looks inside of the neighbor's house .,adv adv qn n pro:sub v adv prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+17,uhuh .,co .,ENG,0
+18,and there's the goat with the dog running around eating all the furniture pooping everywhere .,coord pro:exist det:art n prep det:art n part adv part qn det:art n part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+19,that's crazy .,pro:dem adj .,ENG ENG,0
+20,we had to call our neighbors .,pro:sub v inf v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+21,we had to help them clean everything .,pro:sub v inf v pro:obj v pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+22,we had to help them do all the furniture .,pro:sub v inf v pro:obj v qn det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+23,it was just oh god .,pro:per cop adv co n .,ENG ENG ENG ENG ENG,0
+24,Tete .,n:prop .,ENG,0
+25,Tete where are you ?,n:prop pro:rel cop pro:per ?,ENG ENG ENG ENG,0
+26,ay .,co .,ENG,0
+27,so do you have a funny story ?,adv v pro:per v det:art adj n ?,ENG ENG ENG ENG ENG ENG ENG,0
+28,you have super good stories .,pro:per v adj adj n .,ENG ENG ENG ENG ENG,0
+29,and I love how you tell them .,coord pro:sub v pro:int pro:per v pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+30,oh yeah yeah .,co co co .,ENG ENG ENG,0
+31,my family's just crazy .,det:poss adj adj adj .,ENG ENG ENG ENG,0
+32,do anything crazy .,v pro:indef adj .,ENG ENG ENG,0
+33,oh my mom has a patch on her eye .,co det:poss n v det:art n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+34,why ?,pro:rel ?,ENG,0
+35,I told you .,pro:sub v pro:per .,ENG ENG ENG,0
+36,she's got shit corneas .,pro:sub part n n .,ENG ENG ENG ENG,0
+37,she used to have contacts .,pro:sub v inf v n .,ENG ENG ENG ENG ENG,0
+38,mind you the contacts are /.,v pro:per det:art n cop +/.,ENG ENG ENG ENG ENG,0
+39,uhuh oh I did that .,co co pro:sub v comp .,ENG ENG ENG ENG ENG,0
+40,I did that .,pro:sub v comp .,ENG ENG ENG,0
+41,the contacts are purely for show .,det:art n cop adv prep n .,ENG ENG ENG ENG ENG ENG,0
+42,hah .,co .,ENG,0
+43,like for color .,co prep n .,ENG ENG ENG,0
+44,she had colored contacts on .,pro:sub v part n adv .,ENG ENG ENG ENG ENG,0
+45,.,None,,0
+46,I mean she doesn't have perfect vision .,pro:sub v pro:sub mod v adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+47,but they have no prescription on it .,conj pro:sub v qn n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+48,uhuh .,co .,ENG,0
+49,and so she scratched her cornea really bad to the point that they had to do surgery .,coord co pro:sub v det:poss n adv adj prep det:art n pro:rel pro:sub v inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+50,this was like ten years ago .,pro:dem cop co det:num n post .,ENG ENG ENG ENG ENG ENG,0
+51,so whatever she had like stitches and all that stuff .,adv pro:int pro:sub v co v coord qn pro:dem v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+52,and apparently my mom has really bad allergies .,coord adv det:poss n aux adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+53,and she loves to like scratch her eye .,coord pro:sub v prep co v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+54,you understand what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+55,uhuh .,co .,ENG,0
+56,so she actually ended up scratching opening up stitches that she had from super long time ago that I guess never healed right .,co pro:sub adv v adv part part adv n pro:rel pro:sub v prep adj adj n post pro:rel pro:sub v adv part co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+57,scratching it .,part pro:per .,ENG ENG,0
+58,oh that's crazy .,co pro:dem adj .,ENG ENG ENG,0
+59,so now you have to look at her .,co adv pro:per v inf v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+60,she looks like a pirate .,pro:sub v conj det:art n .,ENG ENG ENG ENG ENG,0
+61,she has a patch /.,pro:sub v det:art n +/.,ENG ENG ENG ENG,0
+62,.,None,,0
+63,on one eye .,prep det:num n .,ENG ENG ENG,0
+64,you know what I mean .,pro:per v pro:int pro:sub v .,ENG ENG ENG ENG ENG,0
+65,and like she's walking around .,coord conj pro:sub part adv .,ENG ENG ENG ENG ENG,0
+66,and she wants you to like feel bad for her .,coord pro:sub v pro:per inf v v adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+67,"because she's like ""/.","conj pro:sub prep +""/.",ENG ENG ENG,0
+68,I don't feel good .,pro:sub mod v adj .,ENG ENG ENG ENG,0
+69,.,None,,0
+70,.,None,,0
+71,but I was like tell her .,conj pro:sub cop prep v pro:obj .,ENG ENG ENG ENG ENG ENG,0
+72,.,None,,0
+73,like yesterday /.,conj adv:tem +/.,ENG ENG,0
+74,how how are your brothers ?,pro:int pro:rel cop det:poss n ?,ENG ENG ENG ENG ENG,0
+75,that's what I was about to tell you .,pro:dem pro:int pro:sub cop adv inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+76,Almí's a Almí's a snitch .,adj det:art adj det:art v .,ENG ENG ENG ENG ENG,0
+77,yesterday he wanted to use my computer .,adv:tem pro:sub v inf v det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+78,but like I get really moody .,conj conj pro:sub v adv adj .,ENG ENG ENG ENG ENG ENG,0
+79,like when I get home and like I'm tired .,co conj pro:sub v adv coord co pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+80,and like all I wanna do is be on my computer .,coord co pro:indef pro:sub v v cop cop prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+81,like whether I'm playing Snood or on Facebook or like googling random stuff .,co conj pro:sub part n:prop coord prep n:prop coord co part adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+82,uhuh .,co .,ENG,0
+83,so /.,co +/.,ENG,0
+84,Snood .,n:prop .,ENG,0
+85,so he comes in .,co pro:sub v adv .,ENG ENG ENG ENG,0
+86,and he's like //.,coord pro:sub prep +//.,ENG ENG ENG,0
+87,they love to like use my computer .,pro:sub v prep co v det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+88,.,None,,0
+89,mind you we have another computer in the house .,v pro:per pro:sub v qn n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+90,but my computer is the only one that's hooked up to a printer .,conj det:poss n cop det:art qn det:num pro:rel part adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+91,"so he's like ""/.","co pro:sub prep +""/.",ENG ENG ENG,0
+92,oh I gotta print something out .,co pro:sub mod v pro:indef adv .,ENG ENG ENG ENG ENG ENG,0
+93,he doesn't have to print out anything .,pro:sub mod v inf v adv pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+94,.,None,,0
+95,he wants to go check Sports_net like ...,pro:sub v inf v n n:prop prep +...,ENG ENG ENG ENG ENG ENG ENG,0
+96,yeah .,co .,ENG,0
+97,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+98,like it's a fantasy football .,conj pro:per det:art n n .,ENG ENG ENG ENG ENG,0
+99,and so whatever I locked the door so that he can't come in my room .,coord adv pro:int pro:sub v det:art n adv comp pro:sub mod v adv det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+100,because he loves to come in there .,conj pro:sub v inf v prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+101,and then he's like snitching on me .,coord adv:tem pro:sub v part prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+102,"he's like ""/.","pro:sub prep +""/.",ENG ENG,0
+103,mom she won't let me use the computer .,n pro:sub mod v pro:obj v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+104,and I have to do something for school .,coord pro:sub v inf v pro:indef prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+105,so there comes my mom with her patch on her eye .,adv adv v det:poss n prep det:poss n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+106,.,None,,0
+107,feel bad for them oh oh pobrecito .,v adj prep pro:obj co co L2 .,ENG ENG ENG ENG ENG ENG ESP,1
+108,.,None,,0
+109,they love your brothers ?,pro:sub v det:poss n ?,ENG ENG ENG ENG,0
+110,who my mom ?,pro:rel det:poss n ?,ENG ENG ENG,0
+111,yeah .,co .,ENG,0
+112,no my mom kind of forgets they exist .,qn det:poss n n prep v pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+113,they're always at my grandma's house .,pro:sub adv prep det:poss grand#adj n .,ENG ENG ENG ENG ENG ENG,0
+114,.,None,,0
+115,yeah they don't live with us so .,co pro:sub mod v prep pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG,0
+116,why ?,pro:rel ?,ENG,0
+117,.,None,,0
+118,yeah they're always at abuela's house .,co pro:sub adv prep L2 n .,ENG ENG ENG ENG ESP ENG,1
+119,?,None,,0
+120,yeah .,co .,ENG,0
+121,like they don't really like my house .,conj pro:sub mod adv co det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+122,so who lives at your house ?,adv pro:rel v prep det:poss n ?,ENG ENG ENG ENG ENG ENG,0
+123,you your mom and Larry ?,pro:per det:poss n coord n:prop ?,ENG ENG ENG ENG ENG,0
+124,no !,co !,ENG,0
+125,me my mom Larry which is my step dad Larry's brother who came from Cuba with his girlfriend who //.,pro:obj det:poss n n:prop pro:rel cop co n n adj n pro:rel v prep n:prop prep det:poss n pro:rel +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+126,his mistress who she's had for thirteen years .,det:poss n pro:rel pro:sub part prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+127,yeah .,co .,ENG,0
+128,is this the story you told to miss Smith ?,cop pro:dem det:art n pro:per v prep n n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+129,no this is a true story .,qn pro:dem cop det:art n n .,ENG ENG ENG ENG ENG ENG,0
+130,.,None,,0
+131,this isn't even /.,pro:dem cop adv +/.,ENG ENG ENG,0
+132,this is like new people .,pro:dem cop co adj n .,ENG ENG ENG ENG ENG,0
+133,.,None,,0
+134,this is like new people that I didn't even know existed .,pro:dem cop co adj n pro:rel pro:sub mod adv v part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+135,this is one of like Larry's //.,pro:dem cop pro:indef prep co adj +//.,ENG ENG ENG ENG ENG ENG,0
+136,remember I told you Larry has like five brothers .,v pro:sub v pro:per n:prop aux co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+137,uhuh .,co .,ENG,0
+138,this is one of his five brothers .,pro:dem cop pro:indef prep det:poss det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+139,with his mistress .,prep det:poss n .,ENG ENG ENG,0
+140,with his mistress .,prep det:poss n .,ENG ENG ENG,0
+141,he left his wife and his two kids in Cuba .,pro:sub v det:poss n coord det:poss det:num n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+142,.,None,,0
+143,and they're both living at my house .,coord pro:sub qn part prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+144,and then on top of everything Larry's dad is living at my house .,coord adv:tem adv n prep pro:indef adj n aux part prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+145,because he just got separated from his girlfriend .,conj pro:sub adv v v prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+146,like here in Miami when he came from Cuba he started hanging out with this lady .,conj adv prep n:prop conj pro:sub v prep n:prop pro:sub v part adv prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+147,then her son came from Cuba .,adv:tem det:poss n v prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+148,and then he's the one who's forming problems between Larry's and the girlfriend .,coord adv:tem pro:sub det:art det:num pro:rel part n prep adj coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+149,so Larry's dad got fed up and moved out .,adv adj n aux part adv coord v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+150,but now he's not even home half the time .,conj adv pro:sub neg adj n n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,because he's still with her .,conj pro:sub adv prep pro:obj .,ENG ENG ENG ENG ENG,0
+152,but now they're in a dating stage .,conj adv pro:sub prep det:art n:gerund n .,ENG ENG ENG ENG ENG ENG ENG,0
+153,ah .,co .,ENG,0
+154,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+155,they're in a dating .,pro:sub prep det:art n:gerund .,ENG ENG ENG ENG,0
+156,.,None,,0
+157,they're getting to know each other .,pro:sub part inf v qn qn .,ENG ENG ENG ENG ENG ENG,0
+158,they're getting to know each other .,pro:sub part inf v qn qn .,ENG ENG ENG ENG ENG ENG,0
+159,and then that's how it is .,coord adv:tem pro:dem pro:int pro:per cop .,ENG ENG ENG ENG ENG ENG,0
+160,it's ridiculous .,pro:per adj .,ENG ENG,0
+161,so your house is crazy .,co det:poss n cop adj .,ENG ENG ENG ENG ENG,0
+162,oh my house is /.,co det:poss n cop +/.,ENG ENG ENG ENG,0
+163,how many bedrooms do you have ?,pro:int qn n v pro:per v ?,ENG ENG ENG ENG ENG ENG,0
+164,I have three .,pro:sub v det:num .,ENG ENG ENG,0
+165,which is my mom's that was split down the middle because it used to be two .,pro:rel cop det:poss adj pro:dem cop n prep det:art adj conj pro:per v inf cop det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+166,mine .,pro:poss .,ENG,0
+167,and then like the garage which is like a big room .,coord adv:tem conj det:art n pro:rel cop co det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+168,but they like they remade everything .,conj pro:sub v pro:sub re#v pro:indef .,ENG ENG ENG ENG ENG ENG,0
+169,oh yeah no no no .,co co co co co .,ENG ENG ENG ENG ENG,0
+170,my brothers don't sleep in the same room because they can't stand each other breathing .,det:poss n mod v prep det:art adj n conj pro:sub mod v qn qn n:gerund .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+171,mhm .,co .,ENG,0
+172,they both breathe too loud .,pro:sub post v adv adj .,ENG ENG ENG ENG ENG,0
+173,that's what they say .,pro:dem pro:int pro:sub v .,ENG ENG ENG ENG,0
+174,they breathe too loud .,pro:sub v adv adj .,ENG ENG ENG ENG,0
+175,so we have one brother who sleeps in there .,co pro:sub v det:num n pro:rel v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+176,oh and they don't even have furniture .,co coord pro:sub mod adv v n .,ENG ENG ENG ENG ENG ENG ENG,0
+177,because since we redid that entire room we were gonna redo furniture .,conj conj pro:sub re#v det:dem adj n pro:sub aux part re#v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+178,like give them furniture .,co v pro:obj n .,ENG ENG ENG ENG,0
+179,but then now they decided to put back up the wall in my mom's room so one of them can have that one .,conj adv:tem adv pro:sub v inf v adj adv det:art n prep det:poss adj n adv det:num prep pro:obj mod aux det:dem pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+180,and the other one can have the other one .,coord det:art qn pro:indef mod v det:art qn pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+181,and the other one can have the other one .,coord det:art qn pro:indef mod v det:art qn pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+182,and then I have another room that Larry has like his work stuff in there .,coord adv:tem pro:sub v qn n pro:rel n:prop aux prep det:poss n n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+183,and then ...,coord adv:tem +...,ENG ENG,0
+184,like whatever .,prep pro:int .,ENG ENG,0
+185,so we didn't never get them finished thinking that we were gonna put up a wall .,co pro:sub mod adv v pro:obj v part comp pro:sub aux part part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+186,but we never put up the wall .,conj pro:sub adv v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+187,so now Oliver sleeps on a mattress in the garage .,co adv n:prop v prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+188,sleeps on a mattress in my mom's room with my mom and Larry .,v prep det:art n prep det:poss adj n prep det:poss n coord n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+189,Ana and Lexi sleep on another mattress in like where the t_v room .,n:prop coord n:prop n prep qn n adv prep pro:int det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+190,and Paco which is Larry's dad sleeps on a .,coord n:prop pro:rel cop adj n n prep det:art .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+191,.,None,,0
+192,.,None,,0
+193,on a cot .,prep det:art n .,ENG ENG ENG,0
+194,on a cot outside like in the sala .,prep det:art n adv prep prep det:art L2 .,ENG ENG ENG ENG ENG ENG ENG ESP,1
+195,outside ?,adv ?,ENG,0
+196,not outside .,neg adv .,ENG ENG,0
+197,like outside in like the formal sala you know that like it's only for show .,prep adv prep prep det:art adj L2 pro:per v adv conj pro:per adv prep n .,ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+198,like you're not allowed to sit in it .,conj pro:per neg part inf v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+199,you know what I'm talking about .,pro:per v pro:int pro:sub part adv .,ENG ENG ENG ENG ENG ENG,0
+200,.,None,,0
+201,yeah .,co .,ENG,0
+202,it's like furniture that like it's like fifty years old .,pro:per co n pro:rel conj pro:per co det:num n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+203,nobody can sit on it .,pro:indef mod v prep pro:per .,ENG ENG ENG ENG ENG,0
+204,can I ask you something ?,mod pro:sub v pro:per pro:indef ?,ENG ENG ENG ENG ENG,0
+205,in your oven //.,prep det:poss n +//.,ENG ENG ENG,0
+206,this is super random .,pro:dem cop adj n .,ENG ENG ENG ENG,0
+207,do you keep pots in your oven ?,mod pro:per v n prep det:poss n ?,ENG ENG ENG ENG ENG ENG ENG,0
+208,yes !,co !,ENG,0
+209,full of like oil .,adj prep co n .,ENG ENG ENG ENG,0
+210,that's super Cuban .,pro:dem adj n:prop .,ENG ENG ENG,0
+211,full of aceite .,adj prep L2 .,ENG ENG ESP,1
+212,everyone I've asked today no one does that .,pro:indef pro:sub part adv:tem qn pro:indef mod pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+213,oh my god my mom loves /.,co det:poss n det:poss n n +/.,ENG ENG ENG ENG ENG ENG,0
+214,that is super Cuban .,pro:dem cop adj n:prop .,ENG ENG ENG ENG,0
+215,my mom fries stuff and then she puts it in the oven .,det:poss n v n coord adv:tem pro:sub v pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+216,like she doesn't let the /.,conj pro:sub mod v det:art +/.,ENG ENG ENG ENG ENG,0
+217,that's very Cuban .,pro:rel adv n:prop .,ENG ENG ENG,0
+218,she doesn't even let the the oil like ...,pro:sub mod adv v det:art det:art n prep +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+219,to cool cool .,inf v adj .,ENG ENG ENG,0
+220,cool .,adj .,ENG,0
+221,she just puts it in the oven .,pro:sub adv v pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+222,that's very Cuban .,pro:rel adv n:prop .,ENG ENG ENG,0
+223,like for me to bake a cake I have to take out like twenty pots .,co prep pro:obj inf v det:art n pro:sub v inf v adv co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+224,.,None,,0
+225,no and /.,co coord +/.,ENG ENG,0
+226,the top of my horno's like like topped like stacked .,det:art n prep det:poss L2 co co part co v .,ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG,1
+227,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+228,mom this is /.,n pro:dem cop +/.,ENG ENG ENG,0
+229,no but not only that you also have pans in like the pans like what you cook on in there .,co conj neg adv pro:rel pro:per adv v n prep prep det:art n prep pro:int pro:per v adv prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+230,yeah .,co .,ENG,0
+231,you do have it in there ?,pro:per v v pro:per prep n ?,ENG ENG ENG ENG ENG ENG,0
+232,so you have to take out like twenty things .,co pro:per v inf v adv co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+233,yes .,co .,ENG,0
+234,okay .,co .,ENG,0
+235,and then finally get the one you want .,coord adv:tem adv v det:art pro:indef pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+236,"everyone's like ""/.","adj prep +""/.",ENG ENG,0
+237,no .,co .,ENG,0
+238,that's a very Cuban thing .,pro:dem det:art adv n:prop n .,ENG ENG ENG ENG ENG,0
+239,and then after you have to wait for everything to cool or if you're gonna be able to put everything back in again .,coord adv:tem conj pro:per v inf v prep pro:indef inf adj coord comp pro:per part cop adj inf v pro:indef adj adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+240,yes .,co .,ENG,0
+241,so you have that .,co pro:per v pro:dem .,ENG ENG ENG ENG,0
+242,I have that .,pro:sub v pro:dem .,ENG ENG ENG,0
+243,and at my grandma's house too .,coord prep det:poss grand#adj n adv .,ENG ENG ENG ENG ENG ENG,0
+244,a lot of people don't do that .,det:art n prep n mod v pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+245,.,None,,0
+246,it's very Cuban .,pro:per adv n:prop .,ENG ENG ENG,0
+247,it's very Cuban .,pro:per adv n:prop .,ENG ENG ENG,0
+248,no that's like do you cook with Mazola ?,co pro:dem conj v pro:per v prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+249,yeah .,co .,ENG,0
+250,.,None,,0
+251,come on .,v adv .,ENG ENG,0
+252,people use like olive oil .,n v co adj n .,ENG ENG ENG ENG ENG,0
+253,no no no .,co co co .,ENG ENG ENG,0
+254,Mazola .,n:prop .,ENG,0
+255,we use Mazola .,pro:sub v n:prop .,ENG ENG ENG,0
+256,or that yellow powder that you put in like ...,coord adv n n comp pro:per v adv prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+257,my family puts it on everything on like chicken soup everything .,det:poss n v pro:per prep pro:indef prep co n n pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+258,and it has like a hen on it .,coord pro:per aux prep det:art n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+259,oh yeah it's chicken broth .,co co pro:per n n .,ENG ENG ENG ENG ENG,0
+260,but like powdered chicken broth ?,conj co v n n ?,ENG ENG ENG ENG ENG,0
+261,yeah it's like a little cube .,co pro:per conj det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+262,yeah .,co .,ENG,0
+263,yeah little //.,co adj +//.,ENG ENG,0
+264,it's /.,pro:per +/.,ENG,0
+265,it's a good flavor .,pro:per det:art adj n .,ENG ENG ENG ENG,0
+266,yeah .,co .,ENG,0
+267,like chicken flavor .,co n n .,ENG ENG ENG,0
+268,that's very Cuban too .,pro:rel adv n:prop post .,ENG ENG ENG ENG,0
+269,my mom loves it .,det:poss n v pro:per .,ENG ENG ENG ENG,0
+270,"she always tells me ""/.","pro:sub adv v pro:obj +""/.",ENG ENG ENG ENG,0
+271,los cubitos de pollo .,det:art n prep n .,ENG ENG ENG ENG,0
+272,yeah .,co .,ENG,0
+273,but it's chicken broth .,conj pro:per n n .,ENG ENG ENG ENG,0
+274,that's funny .,pro:dem adj .,ENG ENG,0
+275,and how's everything with your mom ?,coord pro:rel pro:indef prep det:poss n ?,ENG ENG ENG ENG ENG ENG,0
+276,she's good .,pro:sub adj .,ENG ENG,0
+277,.,None,,0
+278,how's your mom ?,pro:int det:poss n ?,ENG ENG ENG,0
+279,she's there .,pro:sub adv .,ENG ENG,0
+280,how's your brother ?,pro:int det:poss n ?,ENG ENG ENG,0
+281,bratty .,adj .,ENG,0
+282,.,None,,0
+283,bratty .,adj .,ENG,0
+284,brattier than .,adj prep .,ENG ENG,0
+285,what school does he go to ?,pro:int n mod pro:sub v prep ?,ENG ENG ENG ENG ENG ENG,0
+286,Westwood_christian .,n:prop .,ENG,0
+287,oh .,co .,ENG,0
+288,how come he didn't go to like Columbus ?,pro:int v pro:sub mod v inf v n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+289,.,None,,0
+290,he went for a year .,pro:sub v prep det:art n .,ENG ENG ENG ENG ENG,0
+291,but then he didn't want to .,conj adv:tem pro:sub mod v prep .,ENG ENG ENG ENG ENG ENG,0
+292,he didn't like ?,pro:sub mod co ?,ENG ENG ENG,0
+293,and then when we started going to this church like all his friends went to Westwood .,coord adv:tem conj pro:sub v part prep det:dem n prep qn det:poss n v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+294,so then he wanted to go to Westwood .,adv adv:tem pro:sub v inf v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+295,you go to church ?,pro:per v prep n ?,ENG ENG ENG ENG,0
+296,every Sunday ?,qn n:prop ?,ENG ENG,0
+297,mhm .,co .,ENG,0
+298,and Wednesdays and Fridays .,coord n:prop coord n:prop .,ENG ENG ENG ENG,0
+299,.,None,,0
+300,exactly like that .,adv prep pro:dem .,ENG ENG ENG,0
+301,ahhah .,co .,ENG,0
+302,have you been back to Lourdes ?,v pro:per cop adv prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+303,no .,co .,ENG,0
+304,I went once .,pro:sub v adv .,ENG ENG ENG,0
+305,we went once .,pro:sub v adv .,ENG ENG ENG,0
+306,and we were running amok .,coord pro:sub aux part adv .,ENG ENG ENG ENG ENG,0
+307,we even went to Walgreens .,pro:sub adv v prep n:prop .,ENG ENG ENG ENG ENG,0
+308,and got like masks .,coord v co v .,ENG ENG ENG ENG,0
+309,and it was right around Hallowe'en so we were like running around like scaring the crap out of people .,coord pro:per cop adv prep n:prop conj pro:sub cop co part adv prep n:gerund det:art n adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+310,I was in a Blues_brothers mask .,pro:sub cop prep det:art n:prop n .,ENG ENG ENG ENG ENG ENG,0
+311,ay you guys .,L2 pro:per n .,ESP ENG ENG,1
+312,I was looking at the pictures the other day of when you guys were like you and Vanessa the big Cuban like ladies with the big buds .,pro:sub aux part prep det:art n det:art qn n prep conj pro:per n cop co pro:per coord n:prop det:art adj n:prop prep n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+313,and the thing .,coord det:art n .,ENG ENG ENG,0
+314,oh .,co .,ENG,0
+315,oh my god .,co det:poss n .,ENG ENG ENG,0
+316,the sumo wrestlers .,det:art n n .,ENG ENG ENG,0
+317,those guys are always above and beyond .,det:dem n cop adv adv coord adv .,ENG ENG ENG ENG ENG ENG ENG,0
+318,did you see Darla's pictures ?,mod pro:per v adj n ?,ENG ENG ENG ENG ENG,0
+319,it's like intense sumo wrestling .,pro:per conj adj n part .,ENG ENG ENG ENG ENG,0
+320,it's like a full harness .,pro:per conj det:art adj v .,ENG ENG ENG ENG ENG,0
+321,like they even have the little hat with the bun .,conj pro:sub adv v det:art adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+322,.,None,,0
+323,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+324,like no it's like a game .,co qn pro:per conj det:art n .,ENG ENG ENG ENG ENG ENG,0
+325,like you go somewhere /.,prep pro:per v adv +/.,ENG ENG ENG ENG,0
+326,and you hit each other .,coord pro:per v qn qn .,ENG ENG ENG ENG ENG,0
+327,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+328,.,None,,0
+329,vamos ahí .,v adv .,ENG ENG,0
+330,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+331,look at it .,v prep pro:per .,ENG ENG ENG,0
+332,look at her ...,v prep pro:obj +...,ENG ENG ENG,0
+333,Darla who ?,n:prop pro:rel ?,ENG ENG,0
+334,.,None,,0
+335,we're not like friends anymore .,pro:sub neg prep n adv .,ENG ENG ENG ENG ENG,0
+336,oh my god that girl's so funny .,co det:poss n pro:rel n adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+337,no she //.,co pro:sub +//.,ENG ENG,0
+338,okay .,co .,ENG,0
+339,look .,co .,ENG,0
+340,I have called her the last month for real like six times .,pro:sub v part pro:obj det:art adj n prep adj co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+341,and you know how like when people like ignore your call you know ?,coord pro:per v pro:int v pro:int n v v det:poss n pro:per v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+342,.,None,,0
+343,it rings the whole time so I know she gets it .,pro:per v det:art adj n co pro:sub v pro:sub v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+344,so then I don't like when people play like dumb with me .,co adv:tem pro:sub mod v pro:rel n n co adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+345,okay ?,co ?,ENG,0
+346,and I'm like kind of bitter about this .,coord pro:sub co adj prep adj prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+347,then I know I shouldn't be .,adv:tem pro:sub v pro:sub mod cop .,ENG ENG ENG ENG ENG ENG,0
+348,but whatever .,conj pro:int .,ENG ENG,0
+349,kind of bitter about it .,n prep adj prep pro:per .,ENG ENG ENG ENG ENG,0
+350,she I_med me .,pro:sub n:prop pro:obj .,ENG ENG ENG,0
+351,"and she's like ""/.","coord pro:sub prep +""/.",ENG ENG ENG,0
+352,oh are you alive ?,co aux pro:per adj ?,ENG ENG ENG ENG,0
+353,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+354,Darla ...,n:prop +...,ENG,0
+355,"like I'm like ""/.","conj pro:sub prep +""/.",ENG ENG ENG,0
+356,no .,co .,ENG,0
+357,be like look I'm sorry .,cop prep co pro:sub adj .,ENG ENG ENG ENG ENG,0
+358,you know .,pro:per v .,ENG ENG,0
+359,I had a lot of stuff to do .,pro:sub v det:art n prep n inf v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+360,but don't be like where are you .,conj mod cop prep pro:int cop pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+361,you're lost .,pro:per part .,ENG ENG,0
+362,like if ...,co conj +...,ENG ENG,0
+363,I hate that .,pro:sub v pro:dem .,ENG ENG ENG,0
+364,I hate that .,pro:sub v pro:dem .,ENG ENG ENG,0
+365,so then I was like about to go off on her .,co adv:tem pro:sub cop co adv inf v adv prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+366,"and I was like ""/.","coord pro:sub cop prep +""/.",ENG ENG ENG ENG,0
+367,like I've called you six times .,co pro:sub part pro:per det:num n .,ENG ENG ENG ENG ENG ENG,0
+368,but I have to go .,conj pro:sub v inf v .,ENG ENG ENG ENG ENG,0
+369,good_night .,co .,ENG,0
+370,and then I got off .,coord adv:tem pro:sub v adv .,ENG ENG ENG ENG ENG,0
+371,no don't play stupid with me .,co mod v adj prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+372,no .,co .,ENG,0
+373,I hate that .,pro:sub v pro:dem .,ENG ENG ENG,0
+374,what is that .,pro:int cop pro:dem .,ENG ENG ENG,0
+375,I hate that .,pro:sub v pro:dem .,ENG ENG ENG,0
+376,I hate that .,pro:sub v pro:dem .,ENG ENG ENG,0
+377,where are you ?,pro:int cop pro:per ?,ENG ENG ENG,0
+378,you're lost .,pro:per part .,ENG ENG,0
+379,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+380,great .,adj .,ENG,0
+381,.,None,,0
+382,I hate that .,pro:sub v pro:dem .,ENG ENG ENG,0
+383,I know you don't like talking about it .,pro:sub v pro:per mod v part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+384,but you know who I always talk to now ?,conj pro:per v pro:int pro:sub adv n inf adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+385,Sara .,n:prop .,ENG,0
+386,crazy .,adj .,ENG,0
+387,.,None,,0
+388,like obviously she's like number one .,prep adv pro:sub prep n pro:indef .,ENG ENG ENG ENG ENG ENG,0
+389,like like super excited .,co co adj part .,ENG ENG ENG ENG,0
+390,more like super against each other .,adv prep adj prep qn qn .,ENG ENG ENG ENG ENG ENG,0
+391,and she's coming this weekend .,coord pro:sub part det:dem n .,ENG ENG ENG ENG ENG,0
+392,.,None,,0
+393,she called me up .,pro:sub v pro:obj adv .,ENG ENG ENG ENG,0
+394,not called me up .,neg part pro:obj adv .,ENG ENG ENG ENG,0
+395,she messaged me .,pro:sub v pro:obj .,ENG ENG ENG,0
+396,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+397,hey whatever I wanna come down .,co pro:int pro:sub v v adv .,ENG ENG ENG ENG ENG ENG,0
+398,I wanna see you .,pro:sub v v pro:per .,ENG ENG ENG ENG,0
+399,.,None,,0
+400,she wants to she wants me to go to like Amanda Harding's house .,pro:sub v prep pro:sub v pro:obj inf v inf v n:prop adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+401,mind you I don't even think Amanda Harding likes her .,v pro:per pro:sub mod adv v n:prop n:prop v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+402,yeah I think she hates us .,co pro:sub v pro:sub v pro:obj .,ENG ENG ENG ENG ENG ENG,0
+403,but no I think that she hates us by association .,conj co pro:sub v comp pro:sub v pro:obj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+404,"but I'm sure Sara's told her like ""/.","conj pro:sub adj adj v pro:obj prep +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+405,oh no like whatever .,co co v pro:int .,ENG ENG ENG ENG,0
+406,.,None,,0
+407,yeah she's the one that was with .,co pro:sub det:art pro:indef pro:rel cop prep .,ENG ENG ENG ENG ENG ENG ENG,0
+408,.,None,,0
+409,yeah .,co .,ENG,0
+410,but you know who's really nice ?,conj pro:per v pro:rel adv adj ?,ENG ENG ENG ENG ENG ENG,0
+411,Ana .,n:prop .,ENG,0
+412,dud but I just saw /.,n conj pro:sub adv n +/.,ENG ENG ENG ENG ENG,0
+413,and her sister Anita .,coord det:poss n n:prop .,ENG ENG ENG ENG,0
+414,.,None,,0
+415,I just got an email because I'm like logged into this class .,pro:sub adv v det:art n conj pro:sub co v prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+416,you have to log into the Herald .,pro:per v prep n prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+417,.,None,,0
+418,who Sara ?,pro:rel n:prop ?,ENG ENG,0
+419,Sara's mom .,adj n .,ENG ENG,0
+420,oh yeah .,co co .,ENG ENG,0
+421,what is that ?,pro:int cop pro:dem ?,ENG ENG ENG,0
+422,over Robert she lost her job .,adv n:prop pro:sub v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+423,she has three kids .,pro:sub v det:num n .,ENG ENG ENG ENG,0
+424,she has four .,pro:sub v det:num .,ENG ENG ENG,0
+425,but Sara ...,conj n:prop +...,ENG ENG,0
+426,.,None,,0
+427,she is .,pro:sub cop .,ENG ENG,0
+428,she is .,pro:sub cop .,ENG ENG,0
+429,yeah but she lost her duties .,co conj pro:sub v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+430,that's crazy .,pro:dem adj .,ENG ENG,0
+431,over Robert .,adv n:prop .,ENG ENG,0
+432,wait but didn't she get a new job ?,v conj mod pro:sub v det:art adj n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+433,.,None,,0
+434,she supposedly .,pro:sub adv .,ENG ENG,0
+435,I guess when her and Robert were like back together again .,pro:sub n pro:rel det:poss coord n:prop cop co adj adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+436,her mom ...,det:poss n +...,ENG ENG,0
+437,I know she got a new job .,pro:sub v pro:sub v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+438,her mom /.,det:poss n +/.,ENG ENG,0
+439,she got reassigned somewhere .,pro:sub v re#part n .,ENG ENG ENG ENG,0
+440,Robert supposedly like choked her .,n:prop adv co v pro:obj .,ENG ENG ENG ENG ENG,0
+441,oh yeah .,co co .,ENG ENG,0
+442,so she pulled out a gun .,co pro:sub v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+443,what is she doing ?,pro:int cop pro:sub part ?,ENG ENG ENG ENG,0
+444,Robert hello .,n:prop n .,ENG ENG,0
+445,.,None,,0
+446,no it's not even .,co pro:per neg adv .,ENG ENG ENG ENG,0
+447,it's that Robert lost his //.,pro:per comp n:prop v det:poss +//.,ENG ENG ENG ENG ENG,0
+448,it's that all these people are like insane .,pro:per comp qn det:dem n cop co in#adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+449,and I hate finding out about them .,coord pro:sub v part adv prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+450,.,None,,0
+451,and I always like //.,coord pro:sub adv co +//.,ENG ENG ENG ENG,0
+452,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+453,.,None,,0
+454,do you talk to her still ?,mod pro:per v prep pro:obj adv ?,ENG ENG ENG ENG ENG ENG,0
+455,she called me once before she left .,pro:sub v pro:obj adv conj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+456,oh yeah ?,co co ?,ENG ENG,0
+457,did you hear about the eye story ?,mod pro:per v prep det:art n n ?,ENG ENG ENG ENG ENG ENG ENG,0
+458,.,None,,0
+459,yeah ?,co ?,ENG,0
+460,Sara called me once before she left .,n:prop v pro:obj adv conj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+461,I don't hate talking about it .,pro:sub mod v part prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+462,but ...,conj +...,ENG,0
+463,we're just not friends .,pro:sub adv neg n .,ENG ENG ENG ENG,0
+464,here's the thing .,pro:exist det:art n .,ENG ENG ENG,0
+465,.,None,,0
+466,at the end of the day I think she has some of a heart .,prep det:art n prep det:art n pro:sub v pro:sub aux qn prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+467,okay because she's done a lot of messed up things like the whole thing with Brenda Paltro .,co conj pro:sub part det:art n prep part adv n prep det:art adj n prep n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+468,that she /.,comp pro:sub +/.,ENG ENG,0
+469,yeah but how is Brenda even talking to her ?,co conj pro:int cop n:prop adv part prep pro:obj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+470,yeah that's what I'm saying .,co pro:dem pro:int pro:sub part .,ENG ENG ENG ENG ENG,0
+471,Sara realized that she had messed up the next day .,n:prop v comp pro:sub aux part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+472,because she was belligerent .,conj pro:sub cop adj .,ENG ENG ENG ENG,0
+473,so she realized that she had messed up the next day .,co pro:sub v comp pro:sub aux part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+474,called her up .,v det:poss adv .,ENG ENG ENG,0
+475,"and said like ""/.","coord v prep +""/.",ENG ENG ENG,0
+476,sorry look .,co co .,ENG ENG,0
+477,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+478,I was messed up .,pro:sub aux part adv .,ENG ENG ENG ENG,0
+479,whatever I said things I didn't mean or whatever .,pro:int pro:sub v n pro:sub mod adj coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+480,and once you talk about it it's okay .,coord conj pro:per v prep pro:per pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+481,like the whole thing with Katrina .,prep det:art adj n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+482,yeah but I don't like Sara wanted to come to my house .,co conj pro:sub mod v n:prop v inf v prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+483,did you hear what she said about Katrina ?,mod pro:per v pro:int pro:sub v prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+484,did she ?,mod pro:sub ?,ENG ENG,0
+485,wait .,co .,ENG,0
+486,did you hear what she said to Katrina ?,mod pro:per v pro:int pro:sub v prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+487,no .,co .,ENG,0
+488,okay Katrina poked her on Facebook .,co n:prop v pro:obj prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+489,which was immature .,pro:rel cop adj .,ENG ENG ENG,0
+490,that's not her business .,pro:dem neg det:poss n .,ENG ENG ENG ENG,0
+491,why'd she poke her ?,pro:int pro:sub v pro:obj ?,ENG ENG ENG ENG,0
+492,because she's stupid .,conj pro:sub adj .,ENG ENG ENG,0
+493,just because you know to /.,adv conj pro:per v prep +/.,ENG ENG ENG ENG ENG,0
+494,to mess around ?,inf v adv ?,ENG ENG ENG,0
+495,yeah to mess around .,co prep n adv .,ENG ENG ENG ENG,0
+496,it's childish .,pro:per adj .,ENG ENG,0
+497,whatever .,pro:int .,ENG,0
+498,and Sara wrote her back this nasty message .,coord n:prop v det:poss n det:dem adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+499,like destroyed her life .,co v det:poss n .,ENG ENG ENG ENG,0
+500,no yeah .,co co .,ENG ENG,0
+501,this really //.,pro:dem adv +//.,ENG ENG,0
+502,you know Sara .,pro:per v n:prop .,ENG ENG ENG,0
+503,okay when you mess with Sara she goes after you your family anybody you've ever been with .,co conj pro:per v prep n:prop pro:sub v prep pro:per det:poss n pro:indef pro:per adv cop prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+504,yeah but she's crazy .,co conj pro:sub adj .,ENG ENG ENG ENG,0
+505,and like anybody .,coord v pro:indef .,ENG ENG ENG,0
+506,.,None,,0
+507,so you know what she told her ?,co pro:per v pro:int pro:sub v pro:obj ?,ENG ENG ENG ENG ENG ENG ENG,0
+508,the kids you don't have .,det:art n pro:per mod v .,ENG ENG ENG ENG ENG,0
+509,she told her .,pro:sub v pro:obj .,ENG ENG ENG,0
+510,she's like flat out .,pro:sub co adj adv .,ENG ENG ENG ENG,0
+511,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+512,look .,co .,ENG,0
+513,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+514,I don't care to be your friend .,pro:sub mod v inf cop det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+515,I don't know why you know what I mean you consider you know what I mean you try messing with me .,pro:sub mod v pro:int pro:per v pro:int pro:sub v pro:per v pro:per v pro:int pro:sub v pro:per v part prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+516,and when I talked to her after she told me that a lot of it had to do with the reason why she was so angry is because when you guys were in a fight Katrina got involved .,coord conj pro:sub v inf pro:obj conj pro:sub v pro:obj comp det:art n prep pro:per v inf v prep det:art n pro:rel pro:sub cop adv adj aux conj conj pro:per n cop prep det:art n n:prop aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+517,did she ever get involved ?,mod pro:sub adv v part ?,ENG ENG ENG ENG ENG,0
+518,I don't remember .,pro:sub mod v .,ENG ENG ENG,0
+519,something that Katrina got involved with you with like a situation between you guys .,pro:indef pro:rel n:prop aux part prep pro:per prep co det:art n prep pro:per n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+520,and then you know what she writes at the end of the message ?,coord adv:tem pro:per v pro:int pro:sub v prep det:art n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+521,"she goes ""/.","pro:sub v +""/.",ENG ENG,0
+522,I hope that your father is looking down on you .,pro:sub v comp det:poss n aux part adv prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+523,Sara ?,n:prop ?,ENG,0
+524,like because her dad's dead .,co conj det:poss adj adj .,ENG ENG ENG ENG ENG,0
+525,and yeah .,coord co .,ENG ENG,0
+526,and then like whatever .,coord adv:tem v pro:int .,ENG ENG ENG ENG,0
+527,like everybody was outraged that she had said such a thing .,prep pro:indef aux part comp pro:sub v v qn det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+528,I didn't know Katrina's dad died .,pro:sub mod v adj n v .,ENG ENG ENG ENG ENG ENG,0
+529,when did he die ?,conj mod pro:sub v ?,ENG ENG ENG ENG,0
+530,oh like a long time ago .,co prep det:art adj n post .,ENG ENG ENG ENG ENG ENG,0
+531,when we were younger .,conj pro:sub cop adj .,ENG ENG ENG ENG,0
+532,but Katrina's mom remarried no ?,conj adj n re#part co ?,ENG ENG ENG ENG ENG,0
+533,no .,co .,ENG,0
+534,I don't think so .,pro:sub mod v co .,ENG ENG ENG ENG,0
+535,I don't know Katrina's life .,pro:sub mod v adj n .,ENG ENG ENG ENG ENG,0
+536,oh my god I don't know it .,co det:poss n pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+537,and then /.,coord adv:tem +/.,ENG ENG,0
+538,I didn't know Katrina's dad died .,pro:sub mod v adj n v .,ENG ENG ENG ENG ENG ENG,0
+539,and then she talked about that .,coord adv:tem pro:sub v prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+540,so all this stuff .,adv qn det:dem n .,ENG ENG ENG ENG,0
+541,"and then everybody was like ""/.","coord adv:tem pro:indef cop prep +""/.",ENG ENG ENG ENG ENG,0
+542,oh what is that ?,co pro:int cop pro:dem ?,ENG ENG ENG ENG,0
+543,she has no heart .,pro:sub v qn n .,ENG ENG ENG ENG,0
+544,all this stuff .,qn det:dem n .,ENG ENG ENG,0
+545,and like when I talked to Sara about it .,coord co conj pro:sub v prep n:prop prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+546,because I talk to Sara about everything flat out like the vacuum cleaner story in the apartment the turning on and off of the chime the comment about lesbians .,conj pro:sub v prep n:prop prep pro:indef adj adv prep det:art n n n prep det:art n det:art n:gerund adv coord adv prep det:art n det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+547,ay but she's frikking crazy .,L2 conj pro:sub adj adj .,ESP ENG ENG ENG ENG,1
+548,like all that stuff I talk to her about .,prep qn pro:dem v pro:sub v prep pro:obj prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+549,and she was telling me that the whole thing with Katrina is she felt bad after having said something .,coord pro:sub aux part pro:obj comp det:art adj n prep n:prop cop pro:sub v adj conj part v pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+550,but she knew that if she hadn't said something so powerful Katrina would have probably written back to that comment .,conj pro:sub v adv conj pro:sub aux part pro:indef conj adj n:prop mod aux adv part adj prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+551,and then it would have just started this whole thing .,coord adv:tem pro:per mod aux adv v det:dem adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+552,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+553,I wanted to say something to her that she knew I meant business .,pro:sub v inf v pro:indef inf pro:obj comp pro:sub v pro:sub v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+554,and that I want nothing to do with her .,coord comp pro:sub v pro:indef inf v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+555,you understand what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+556,okay .,co .,ENG,0
+557,look .,co .,ENG,0
+558,I need to say something .,pro:sub v inf v pro:indef .,ENG ENG ENG ENG ENG,0
+559,so you know what that reminds me of ?,co pro:per v pro:int adv v pro:obj prep ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+560,like the like Elena thing .,prep det:art co n:prop n .,ENG ENG ENG ENG ENG,0
+561,"when they were like ""/.","conj pro:sub cop co +""/.",ENG ENG ENG ENG,0
+562,I don't think we should be friends .,pro:sub mod v pro:sub mod cop n .,ENG ENG ENG ENG ENG ENG ENG,0
+563,I think we should take a break .,pro:sub v pro:sub mod v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+564,like how old are we ?,prep pro:int adj cop pro:sub ?,ENG ENG ENG ENG ENG,0
+565,we're super immature .,pro:sub adj adj .,ENG ENG ENG,0
+566,"okay like that whole thing of like ""/.","co co adv adj n prep co +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+567,oh I needed to tell her dead father .,co pro:sub v inf v det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+568,oh bro .,co n .,ENG ENG,0
+569,like what is that ?,prep pro:int cop pro:dem ?,ENG ENG ENG ENG,0
+570,yo bro .,co n .,ENG ENG,0
+571,she's ...,pro:sub +...,ENG,0
+572,ay pobre I think she's very like like .,L2 L2 pro:sub v pro:sub adv co prep .,ESP ESP ENG ENG ENG ENG ENG ENG,1
+573,but like she's like result of her like like family .,conj conj pro:sub co n prep pro:obj prep co n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+574,she is .,pro:sub cop .,ENG ENG,0
+575,I think for real for real I think Sara has like like issues .,pro:sub v prep adj prep adj pro:sub v n:prop aux prep prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+576,because dude I remember like when she was like living with me oh my god the nights that she would cheat on Paul .,conj n pro:sub v prep pro:int pro:sub cop prep n:gerund prep pro:obj co det:poss n det:art n pro:rel pro:sub mod v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+577,and then call him crying .,coord adv:tem v pro:obj part .,ENG ENG ENG ENG ENG,0
+578,and this whole thing .,coord det:dem adj n .,ENG ENG ENG ENG,0
+579,she wanted to go see .,pro:sub v inf v v .,ENG ENG ENG ENG ENG,0
+580,oh you know how many times she's cheated on ?,co pro:per v pro:int qn n pro:sub part adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+581,but but okay .,conj conj co .,ENG ENG ENG,0
+582,but how ?,conj pro:rel ?,ENG ENG,0
+583,like where in someone's right mind ...,prep pro:int prep adj n n +...,ENG ENG ENG ENG ENG ENG,0
+584,but she //.,conj pro:sub +//.,ENG ENG,0
+585,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+586,but see like /.,conj v prep +/.,ENG ENG ENG,0
+587,.,None,,0
+588,but what is that dude ?,conj pro:int cop comp n ?,ENG ENG ENG ENG ENG,0
+589,but what is that ?,conj pro:int cop pro:dem ?,ENG ENG ENG ENG,0
+590,like today she was texting .,conj adv:tem pro:sub aux part .,ENG ENG ENG ENG ENG,0
+591,again .,adv .,ENG,0
+592,like does she like asking for forgiveness twenty six times like a month ?,co v pro:sub v part prep n det:num det:num n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+593,and like I don't get /.,coord conj pro:sub mod v +/.,ENG ENG ENG ENG ENG,0
+594,.,None,,0
+595,I don't get why you like feel like like you're caught .,pro:sub mod v pro:int pro:per v v prep conj pro:per part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+596,.,None,,0
+597,her leaving to Tallahassee was like a big deal .,det:poss part prep n:prop cop co det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+598,it caused like a lot more problems than she .,pro:per v prep det:art n adv n prep pro:sub .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+599,oh no here's the thing .,co co pro:exist det:art n .,ENG ENG ENG ENG ENG,0
+600,when I found out okay /.,conj pro:sub v prep co +/.,ENG ENG ENG ENG ENG,0
+601,and where's she going after her T_c_c dude ?,coord pro:rel pro:sub part prep pro:obj n:prop n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+602,okay to F_s_u .,co prep n:prop .,ENG ENG ENG,0
+603,yeah right .,co co .,ENG ENG,0
+604,she's getting in ?,pro:sub part adv ?,ENG ENG ENG,0
+605,when I found out that she had left to Tallahassee without telling her mom anything and all this stuff .,conj pro:sub v adv comp pro:sub aux part prep n:prop prep n:gerund det:poss n pro:indef coord qn det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+606,that's crazy .,pro:dem adj .,ENG ENG,0
+607,and it had just happened that thing with my mom .,coord pro:per aux adv part comp n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+608,so when I went to Tallahassee I look at her .,co conj pro:sub v prep n:prop pro:sub v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+609,"and I'm like ""/.","coord pro:sub prep +""/.",ENG ENG ENG,0
+610,Sara you can't do that .,n:prop pro:per mod v pro:dem .,ENG ENG ENG ENG ENG,0
+611,because at the end of the day that's your mom .,conj prep det:art n prep det:art n pro:rel det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+612,and I guess like something clicked in her head .,coord pro:sub v prep pro:indef v prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+613,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+614,that's the thing .,pro:dem det:art n .,ENG ENG ENG,0
+615,that's the reason why me and Sara //.,pro:dem det:art n pro:rel pro:obj coord n:prop +//.,ENG ENG ENG ENG ENG ENG ENG,0
+616,"Ana's always like ""/.","adj adv co +""/.",ENG ENG ENG,0
+617,I don't understand how you're friends with her .,pro:sub mod v pro:rel pro:per n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+618,all this stuff .,qn det:dem n .,ENG ENG ENG,0
+619,the girl's shady .,det:art adj adj .,ENG ENG ENG,0
+620,she's done a whole bunch of shady things .,pro:sub part det:art adj n prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+621,yeah but the one person that I can talk to //.,co conj det:art det:num n pro:rel pro:sub mod v prep +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+622,like obviously I have Veronica .,prep adv pro:sub v n:prop .,ENG ENG ENG ENG ENG,0
+623,and I have Vanessa and stuff .,coord pro:sub v n:prop coord n .,ENG ENG ENG ENG ENG ENG,0
+624,but like Ana and them they judge me all the time .,conj v n:prop coord pro:obj pro:sub v pro:obj adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+625,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+626,maybe not to my face .,adv neg prep det:poss n .,ENG ENG ENG ENG ENG,0
+627,but they do .,conj pro:sub v .,ENG ENG ENG,0
+628,and Vanessa I think to an extent judge me too .,coord n:prop pro:sub v prep det:art n v pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+629,because we're different .,conj pro:sub adj .,ENG ENG ENG,0
+630,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+631,mhm .,co .,ENG,0
+632,but me and Veronica are very similar .,conj pro:obj coord n:prop cop adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+633,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+634,yeah hers is just her dad .,co pro:poss cop adv det:poss n .,ENG ENG ENG ENG ENG ENG,0
+635,and mines is my mom .,coord v cop det:poss n .,ENG ENG ENG ENG ENG,0
+636,so what happens is that Sara's that type of person that I can go to Sara .,adv pro:int v cop comp n:prop det:dem n prep n pro:rel pro:sub mod v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+637,and I can tell her anything .,coord pro:sub mod v pro:obj pro:indef .,ENG ENG ENG ENG ENG ENG,0
+638,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+639,and I know she's not gonna judge me .,coord pro:sub v pro:sub neg part v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+640,why ?,pro:rel ?,ENG,0
+641,because she's done pretty messed up things in her life .,conj pro:sub part adv part adv n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+642,and she's had a pretty messed up family too .,coord pro:sub part det:art adj v adv n post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+643,so it's not //.,adv pro:per neg +//.,ENG ENG ENG,0
+644,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+645,it's not like ...,pro:per neg prep +...,ENG ENG ENG,0
+646,.,None,,0
+647,yeah she's no one to judge me .,co pro:sub co det:num inf v pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+648,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+649,and on top of everything when I tell her //.,coord prep n prep pro:indef conj pro:sub v pro:obj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+650,I can talk to Veronia as much as I can .,pro:sub mod v prep n:prop adv adv prep pro:sub mod .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+651,and try to tell her things about my mom .,coord v inf v det:poss n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+652,but at the end of the day she has a mom who's great .,conj prep det:art n prep det:art n pro:sub v det:art n pro:rel adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+653,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+654,mhm .,co .,ENG,0
+655,who's there for her .,pro:int adv prep pro:obj .,ENG ENG ENG ENG,0
+656,and all that stuff .,coord qn pro:dem v .,ENG ENG ENG ENG,0
+657,so /.,co +/.,ENG,0
+658,.,None,,0
+659,yeah .,co .,ENG,0
+660,with Veronica it's different .,prep n:prop pro:per adj .,ENG ENG ENG ENG,0
+661,because at the end of the day I have the dad .,conj prep det:art n prep det:art n pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+662,and she doesn't have the dad .,coord pro:sub mod v det:art n .,ENG ENG ENG ENG ENG ENG,0
+663,do you understand what I mean ?,mod pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG,0
+664,but with Sara it's the same issue .,conj prep n:prop pro:per det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+665,it's the moms .,pro:per det:art n .,ENG ENG ENG,0
+666,although her mom maybe more crazy than mine .,conj det:poss n adv adv adj prep pro:poss .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+667,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+668,to a certain extent .,prep det:art adj n .,ENG ENG ENG ENG,0
+669,because my mom's crazy .,conj det:poss adj adj .,ENG ENG ENG ENG,0
+670,more crazy in a certain point .,adv adj prep det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+671,and her mom is more crazy .,coord det:poss n cop adv adj .,ENG ENG ENG ENG ENG ENG,0
+672,it's different yeah yeah .,pro:per adj co co .,ENG ENG ENG ENG,0
+673,and another point ...,coord qn n +...,ENG ENG ENG,0
+674,so that's why .,co pro:rel pro:rel .,ENG ENG ENG,0
+675,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+676,I talk to her .,pro:sub v prep pro:obj .,ENG ENG ENG ENG,0
+677,so when I talked to her about that whole thing I think it kinda clicked in her head .,co conj pro:sub v prep pro:obj prep det:dem adj n pro:sub v pro:per adv part prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+678,and her and her mom were good for a //.,coord det:poss coord det:poss n cop adj prep det:art +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+679,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+680,after the Tallahassee her mom even took her up .,prep det:art n:prop det:poss n adv v det:poss adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+681,they don't talk like her and her mom ?,pro:sub mod v co pro:obj coord det:poss n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+682,and stayed there .,coord v adv .,ENG ENG ENG,0
+683,I'm not sure how their relationship is right now .,pro:sub neg adj pro:int det:poss n cop adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+684,when I go see her I think I'm gonna do it .,conj pro:sub v v pro:obj pro:sub v pro:sub part v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+685,.,None,,0
+686,yeah .,co .,ENG,0
+687,oh after that whole thing with Robert .,co conj det:dem adj n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+688,and that he got arrested because of violence with //.,coord comp pro:sub aux part conj prep n prep +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+689,remember that day we called her ?,v comp n pro:sub v pro:obj ?,ENG ENG ENG ENG ENG ENG,0
+690,with the new wife .,prep det:art adj n .,ENG ENG ENG ENG,0
+691,there was like a whole issue .,pro:exist cop prep det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+692,yeah yeah I know .,co co pro:sub v .,ENG ENG ENG ENG,0
+693,I got the email .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+694,yeah .,co .,ENG,0
+695,it's crazy .,pro:per adj .,ENG ENG,0
+696,there was a whole issue or whatever .,pro:exist cop det:art adj n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG,0
+697,and then I think that ...,coord adv:tem pro:sub v pro:dem +...,ENG ENG ENG ENG ENG,0
+698,from the Harold .,prep det:art n:prop .,ENG ENG ENG,0
+699,what do you mean you get ?,pro:int mod pro:per v pro:per v ?,ENG ENG ENG ENG ENG ENG,0
+700,like /.,prep +/.,ENG,0
+701,I'm subscribed to the Harold online .,pro:sub part prep det:art n:prop adj .,ENG ENG ENG ENG ENG ENG,0
+702,oh .,co .,ENG,0
+703,I have to in my classes for my technology class .,pro:sub v prep prep det:poss n prep det:poss n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+704,I know but /.,pro:sub v conj +/.,ENG ENG ENG,0
+705,so it sends me the paper online .,co pro:per v pro:obj det:art n adj .,ENG ENG ENG ENG ENG ENG ENG,0
+706,like instead of having the paper .,prep adv prep n:gerund det:art n .,ENG ENG ENG ENG ENG ENG,0
+707,oh so you read it ?,co conj pro:per v pro:per ?,ENG ENG ENG ENG ENG,0
+708,well it's like headlines .,co pro:per conj n .,ENG ENG ENG ENG,0
+709,I get all the articles .,pro:sub v qn det:art n .,ENG ENG ENG ENG ENG,0
+710,all separate ?,adv adj ?,ENG ENG,0
+711,.,None,,0
+712,oh so your /.,co co det:poss +/.,ENG ENG ENG,0
+713,it's like I get every section separate .,pro:per conj pro:sub v qn n adj .,ENG ENG ENG ENG ENG ENG ENG,0
+714,because I only signed up for the ones I wanted .,conj pro:sub adv part adv prep det:art det:num pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+715,and then one of them had to do like business .,coord adv:tem det:num prep pro:obj v inf v co n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+716,and whatever .,coord pro:int .,ENG ENG,0
+717,I don't even know which one they're under .,pro:sub mod adv v pro:int pro:indef pro:sub adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+718,but yeah I got those .,conj co pro:sub v pro:dem .,ENG ENG ENG ENG ENG,0
+719,yeah so ...,co co +...,ENG ENG,0
+720,it's just retarded .,pro:per adv part .,ENG ENG ENG,0
+721,she called me when she left .,pro:sub v pro:obj conj pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+722,but I don't think she was like okay .,conj pro:sub mod v pro:sub cop prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+723,because well that day was like crazy .,conj n det:dem n cop prep adj .,ENG ENG ENG ENG ENG ENG ENG,0
+724,and I was at my house .,coord pro:sub cop prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+725,and I had just gone on this retreat .,coord pro:sub aux adv part prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+726,and I was showing her the video of like my group whatever .,coord pro:sub aux part pro:obj det:art n prep co det:poss n pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+727,"and then she's like ""/.","coord adv:tem pro:sub prep +""/.",ENG ENG ENG ENG,0
+728,.,None,,0
+729,I didn't have //.,pro:sub mod v +//.,ENG ENG ENG,0
+730,she got a new number .,pro:sub v det:art adj v .,ENG ENG ENG ENG ENG,0
+731,I didn't have it saved .,pro:sub mod v pro:per v .,ENG ENG ENG ENG ENG,0
+732,.,None,,0
+733,"then she's like ""/.","adv:tem pro:sub prep +""/.",ENG ENG ENG,0
+734,?,None,,0
+735,"and I was like ""/.","coord pro:sub cop prep +""/.",ENG ENG ENG ENG,0
+736,.,None,,0
+737,oh my god .,co det:poss n .,ENG ENG ENG,0
+738,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+739,yeah .,co .,ENG,0
+740,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+741,hey it's Sara .,co pro:per n:prop .,ENG ENG ENG,0
+742,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+743,hey Sara .,co n:prop .,ENG ENG,0
+744,it was weird .,pro:per cop adj .,ENG ENG ENG,0
+745,I hadn't said her name in like months .,pro:sub aux part det:poss n adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+746,and then she's like of course super defensive .,coord adv:tem pro:sub co prep n adj adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+747,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+748,look if you can't talk to me it's fine .,v conj pro:per mod v prep pro:obj pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+749,I'm like .,pro:sub prep .,ENG ENG,0
+750,.,None,,0
+751,like hey .,co co .,ENG ENG,0
+752,what's up ?,pro:int adv ?,ENG ENG,0
+753,you know ?,pro:per v ?,ENG ENG,0
+754,"then she's like ""/.","adv:tem pro:sub prep +""/.",ENG ENG ENG,0
+755,look .,co .,ENG,0
+756,I just wanted to call .,pro:sub adv part inf v .,ENG ENG ENG ENG ENG,0
+757,.,None,,0
+758,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+759,I just wanted to call to apologize .,pro:sub adv part inf v inf v .,ENG ENG ENG ENG ENG ENG ENG,0
+760,and all this stuff .,coord qn det:dem n .,ENG ENG ENG ENG,0
+761,we had a great friendship .,pro:sub v det:art adj n .,ENG ENG ENG ENG ENG,0
+762,but I don't think it should have ended the way it did .,conj pro:sub mod v pro:per mod aux part det:art n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+763,.,None,,0
+764,you remember everything she did right ?,pro:per v pro:indef pro:sub v co ?,ENG ENG ENG ENG ENG ENG,0
+765,yeah .,co .,ENG,0
+766,okay .,co .,ENG,0
+767,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+768,I don't think it should have ended the way it did .,pro:sub mod v pro:per mod aux part det:art n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+769,it's just you know like I was mad at you .,pro:per adj pro:per v conj pro:sub cop adj prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+770,and I was like ...,coord pro:sub cop prep +...,ENG ENG ENG ENG,0
+771,yeah you shoulda been the one mad at her .,co pro:per mod cop det:art det:num adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+772,what ?,pro:int ?,ENG,0
+773,yeah .,co .,ENG,0
+774,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+775,but you know like I don't know like .,conj pro:per v conj pro:sub mod v prep .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+776,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+777,I have a lot of your stuff .,pro:sub v det:art n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+778,oh that's another thing .,co pro:dem qn n .,ENG ENG ENG ENG,0
+779,she had a lot of my stuff .,pro:sub v det:art n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+780,right ?,co ?,ENG,0
+781,so she told Janet that she was gonna throw them in the middle of the Lourdes parking lot .,co pro:sub v n:prop pro:rel pro:sub aux part v pro:obj prep det:art n prep det:art n:prop part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+782,.,None,,0
+783,which would have been like beyond .,pro:rel mod aux aux co prep .,ENG ENG ENG ENG ENG ENG,0
+784,"but Janet was like ""/.","conj n:prop cop prep +""/.",ENG ENG ENG ENG,0
+785,no don't do that .,co mod v pro:dem .,ENG ENG ENG ENG,0
+786,give me some of it .,v pro:obj pro:indef prep pro:per .,ENG ENG ENG ENG ENG,0
+787,so Janet didn't want //.,co n:prop mod v +//.,ENG ENG ENG ENG,0
+788,like she took my Betsey Johnson purse .,conj pro:sub v co n:prop n:prop n .,ENG ENG ENG ENG ENG ENG ENG,0
+789,and she never gave it back .,coord pro:sub adv v pro:per adv .,ENG ENG ENG ENG ENG ENG,0
+790,wow .,co .,ENG,0
+791,whatever .,pro:int .,ENG,0
+792,which it doesn't even matter .,pro:rel pro:per mod v v .,ENG ENG ENG ENG ENG,0
+793,because that's something materialistic .,conj pro:dem pro:indef adj .,ENG ENG ENG ENG,0
+794,but ...,conj +...,ENG,0
+795,oh were you in my class the day she came to take a book from my class ?,co aux pro:per prep det:poss n det:art n pro:sub v inf v det:art n prep det:poss n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+796,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+797,give me my book .,v pro:obj det:poss n .,ENG ENG ENG ENG,0
+798,oh I heard of that .,co pro:sub v prep pro:dem .,ENG ENG ENG ENG ENG,0
+799,I heard that .,pro:sub v comp .,ENG ENG ENG,0
+800,okay whatever .,co pro:int .,ENG ENG,0
+801,that day I went upstairs .,det:dem n pro:sub v adv .,ENG ENG ENG ENG ENG,0
+802,and I shouldn't have done it .,coord pro:sub mod v part pro:per .,ENG ENG ENG ENG ENG ENG,0
+803,now that I think about it .,adv pro:rel pro:sub v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+804,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+805,bro I like lowered like under her level .,n pro:sub v part co adv det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+806,I was like .,pro:sub cop prep .,ENG ENG ENG,0
+807,I was like .,pro:sub cop prep .,ENG ENG ENG,0
+808,"I was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+809,here's your book .,pro:exist det:poss n .,ENG ENG ENG,0
+810,but you owe me the Dartmouth trip .,conj pro:per v pro:obj det:art n:prop n .,ENG ENG ENG ENG ENG ENG ENG,0
+811,.,None,,0
+812,and I was like .,coord pro:sub cop prep .,ENG ENG ENG ENG,0
+813,well I even like regret that then .,co pro:sub adv conj n pro:rel adv:tem .,ENG ENG ENG ENG ENG ENG ENG,0
+814,oh I remember that .,co pro:sub v comp .,ENG ENG ENG ENG,0
+815,that was like stupid of me .,pro:dem cop prep adj prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+816,that was huge controversy .,pro:dem cop adj n .,ENG ENG ENG ENG,0
+817,but so stupid .,conj adv adj .,ENG ENG ENG,0
+818,whatever .,pro:int .,ENG,0
+819,"and then I told her like ""/.","coord adv:tem pro:sub v pro:obj prep +""/.",ENG ENG ENG ENG ENG ENG,0
+820,shut up .,v adv .,ENG ENG,0
+821,and the whole thing .,coord det:art adj n .,ENG ENG ENG ENG,0
+822,"and then that day that she called me she's like ""/.","coord adv:tem comp n pro:rel pro:sub v pro:obj pro:sub prep +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+823,like I know you guys did a lot for me .,conj pro:sub v pro:per n v det:art n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+824,and you guys were really there for me like a bad time .,coord pro:per n cop adv adv prep pro:obj prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+825,"and I was like ""/.","coord pro:sub cop prep +""/.",ENG ENG ENG ENG,0
+826,okay Sara .,co n:prop .,ENG ENG,0
+827,"then she's like ""/.","adv:tem pro:sub prep +""/.",ENG ENG ENG,0
+828,look .,co .,ENG,0
+829,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+830,I was thinking like maybe before I leave can we go to lunch ?,pro:sub aux part conj adv prep pro:sub v mod pro:sub v prep n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+831,"I was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+832,look .,co .,ENG,0
+833,I was super nice after .,pro:sub cop adj adj adv:tem .,ENG ENG ENG ENG ENG,0
+834,she called like six times .,pro:sub part co det:num n .,ENG ENG ENG ENG ENG,0
+835,because she thought that I was like kidding .,conj pro:sub v comp pro:sub cop co part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+836,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+837,Sara look .,n:prop v .,ENG ENG,0
+838,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+839,I really have nothing against you .,pro:sub adv v pro:indef prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+840,"whatever I'm like ""/.","pro:int pro:sub prep +""/.",ENG ENG ENG,0
+841,I really hope everything's going good .,pro:sub adv v pro:indef part adj .,ENG ENG ENG ENG ENG ENG,0
+842,and that you have like a safe time in Tallahassee .,coord comp pro:per v prep det:art n n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+843,but like I don't like wanna go eat with you .,conj conj pro:sub mod v v v v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+844,yeah .,co .,ENG,0
+845,"I was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+846,I don't like really like wanna see you .,pro:sub mod v adv v v co pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+847,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+848,nothing against you whatever .,pro:indef prep pro:per pro:int .,ENG ENG ENG ENG,0
+849,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+850,I just don't think anything good would come out of it .,pro:sub adv mod v pro:indef adj mod v adv prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+851,you know ?,pro:per v ?,ENG ENG,0
+852,"and I'm like ""/.","coord pro:sub prep +""/.",ENG ENG ENG,0
+853,I don't even wanna look back on the past whatever .,pro:sub mod adv v cop adv prep det:art adj pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+854,"and she's like ""/.","coord pro:sub prep +""/.",ENG ENG ENG,0
+855,okay but can I like go to your house and drop off your stuff ?,co conj mod pro:sub v v prep det:poss n coord n prep det:poss n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+856,"I was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+857,look Sara .,v n:prop .,ENG ENG,0
+858,"I was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+859,really ?,adv ?,ENG,0
+860,"I was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+861,I don't like want //.,pro:sub mod v v +//.,ENG ENG ENG ENG,0
+862,"I was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+863,I don't want like to for real like keep my stuff .,pro:sub mod v co prep prep adj prep v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+864,I was like .,pro:sub cop prep .,ENG ENG ENG,0
+865,like at first I told her .,co prep adj pro:sub v pro:obj .,ENG ENG ENG ENG ENG ENG,0
+866,I was like .,pro:sub cop prep .,ENG ENG ENG,0
+867,at first I was mad .,prep adj pro:sub cop adj .,ENG ENG ENG ENG ENG,0
+868,because bro I spent money on my Betsey Johnson .,conj n pro:sub v n prep det:poss n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+869,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+870,like .,prep .,ENG,0
+871,my money tree isn't that full at the moment .,det:poss n n cop det:dem adj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+872,I was like .,pro:sub cop prep .,ENG ENG ENG,0
+873,but then I realized like that's very materialistic .,conj adv:tem pro:sub part co pro:rel adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+874,and like it shouldn't be like I need to see you because I need this whatever .,coord v pro:per mod aux co pro:sub v inf v pro:per conj pro:sub v det:dem pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+875,and I was like .,coord pro:sub cop prep .,ENG ENG ENG ENG,0
+876,and on top of that like I doubt that my mother wants her like anywhere near my house .,coord prep n prep pro:dem conj pro:sub v comp det:poss n v pro:obj v adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+877,anywhere near your house .,adv prep det:poss n .,ENG ENG ENG ENG,0
+878,you know ?,pro:per v ?,ENG ENG,0
+879,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+880,no I wouldn't go if your mom was there .,co pro:sub mod v comp det:poss n cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+881,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+882,okay Sara .,co n:prop .,ENG ENG,0
+883,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+884,well I'm gonna let you go .,co pro:sub part v pro:per v .,ENG ENG ENG ENG ENG ENG,0
+885,but have a good time in Tallahassee whatever .,conj v det:art adj n prep n:prop pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+886,call me if anything .,v pro:obj conj pro:indef .,ENG ENG ENG ENG,0
+887,I hang up .,pro:sub v adv .,ENG ENG ENG,0
+888,"and then I tell Elena ""/.","coord adv:tem pro:sub v n:prop +""/.",ENG ENG ENG ENG ENG,0
+889,.,None,,0
+890,I used to know this girl .,pro:sub v inf v det:dem n .,ENG ENG ENG ENG ENG ENG,0
+891,and she'll call back .,coord pro:sub v adv .,ENG ENG ENG ENG,0
+892,and it was like !,coord pro:per cop prep !,ENG ENG ENG ENG,0
+893,and of course she knew I was by the phone .,coord prep n pro:sub v pro:sub cop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+894,"so I was like ""/.","co pro:sub cop prep +""/.",ENG ENG ENG ENG,0
+895,yeah Sara .,co n:prop .,ENG ENG,0
+896,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+897,I feel like like we're never gonna talk .,pro:sub v prep conj pro:sub adv part v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+898,"and I'm like ""/.","coord pro:sub prep +""/.",ENG ENG ENG,0
+899,Sara is everything okay ?,n:prop cop pro:indef adj ?,ENG ENG ENG ENG,0
+900,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+901,yeah I just wanted to like ask you for forgiveness .,co pro:sub adv part inf v v pro:per prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+902,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+903,Sara like I forgave you .,n:prop conj pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+904,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+905,for real .,prep adj .,ENG ENG,0
+906,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+907,I forgave you .,pro:sub v pro:per .,ENG ENG ENG,0
+908,and you know I'm sorry if I did anything to you that could have offended you for real .,coord pro:per v pro:sub adj conj pro:sub mod pro:indef inf pro:per adv mod aux part pro:per prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+909,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+910,I don't want any hard feelings .,pro:sub mod v qn adj n:gerund .,ENG ENG ENG ENG ENG ENG,0
+911,I already forgave you .,pro:sub adv v pro:per .,ENG ENG ENG ENG,0
+912,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+913,okay are you sure ?,co aux pro:per adj ?,ENG ENG ENG ENG,0
+914,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+915,yeah .,co .,ENG,0
+916,I'm sure .,pro:sub adj .,ENG ENG,0
+917,I was really made .,pro:sub aux adv part .,ENG ENG ENG ENG,0
+918,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+919,Sara stop for real .,n:prop n prep adj .,ENG ENG ENG ENG,0
+920,I forgave you .,pro:sub v pro:per .,ENG ENG ENG,0
+921,"and she's like ""/.","coord pro:sub prep +""/.",ENG ENG ENG,0
+922,okay .,co .,ENG,0
+923,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+924,well know that you always have a place in Tallahassee whatever .,co v comp pro:per adv v det:art n prep n:prop pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+925,yeah like I'm gonna go sleep over with Sara .,co conj pro:sub part v v adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+926,Derek's house .,adj n .,ENG ENG,0
+927,that's like how I feel with .,pro:dem conj pro:int pro:sub v prep .,ENG ENG ENG ENG ENG ENG,0
+928,"and then she's like ""/.","coord adv:tem pro:sub prep +""/.",ENG ENG ENG ENG,0
+929,okay .,co .,ENG,0
+930,then she calls .,adv:tem pro:sub v .,ENG ENG ENG,0
+931,"and then I'm like ""/.","coord adv:tem pro:sub prep +""/.",ENG ENG ENG ENG,0
+932,but I'm letting you go for real .,conj pro:sub part pro:per v prep adj .,ENG ENG ENG ENG ENG ENG ENG,0
+933,okay ?,co ?,ENG,0
+934,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+935,good luck with everything .,adj n prep pro:indef .,ENG ENG ENG ENG,0
+936,I'm here if anything .,pro:sub adv conj pro:indef .,ENG ENG ENG ENG,0
+937,I hang up .,pro:sub v adv .,ENG ENG ENG,0
+938,she calls again .,pro:sub v adv .,ENG ENG ENG,0
+939,it's like I feel like I'm never gonna see you .,pro:per conj pro:sub v conj pro:sub adv part v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+940,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+941,Sara never say never .,n:prop adv v adv .,ENG ENG ENG ENG,0
+942,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+943,.,None,,0
+944,.,None,,0
+945,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+946,well I love you .,co pro:sub v pro:per .,ENG ENG ENG ENG,0
+947,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+948,bye Sara .,co n:prop .,ENG ENG,0
+949,what am I gonna say ?,pro:int cop pro:sub part v ?,ENG ENG ENG ENG ENG,0
+950,I love you too ?,pro:sub v pro:per adv ?,ENG ENG ENG ENG,0
+951,yeah .,co .,ENG,0
+952,.,None,,0
+953,but then I hear like then that's the stuff that I'm like you know like .,conj adv:tem pro:sub v prep adv:tem pro:dem det:art n pro:rel pro:sub prep pro:per v prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+954,then Julie calls me .,adv:tem n:prop v pro:obj .,ENG ENG ENG ENG,0
+955,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+956,Sara was at my house today .,n:prop cop prep det:poss n adv:tem .,ENG ENG ENG ENG ENG ENG,0
+957,"Larry is like ""/.","n:prop cop co +""/.",ENG ENG ENG,0
+958,oh Melanie that girl that was your best friend ?,co n:prop adv n pro:rel cop det:poss adj n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+959,she like laughed .,pro:sub v part .,ENG ENG ENG,0
+960,I'm like you know .,pro:sub prep pro:per v .,ENG ENG ENG ENG,0
+961,oh yeah .,co co .,ENG ENG,0
+962,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+963,why do you like why make the effort of calling to like say all this crap if you're gonna turn around and like ...,pro:int mod pro:per v pro:rel v det:art n prep n:gerund inf co co adv det:dem n comp pro:per part v adv coord co +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+964,laugh about it .,n prep pro:per .,ENG ENG ENG,0
+965,yeah .,co .,ENG,0
+966,it's like stupid .,pro:per conj adj .,ENG ENG ENG,0
+967,but no I don't want her like remotely like ...,conj co pro:sub mod v pro:obj prep adv prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+968,.,None,,0
+969,.,None,,0
+970,that's like how I feel about .,pro:dem conj pro:int pro:sub v adv .,ENG ENG ENG ENG ENG ENG,0
+971,.,None,,0
+972,Sara's like kinda like really loose in the head .,adj co adv co adv adj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+973,sometimes it like upsets me like of how much like time like my family and stuff like spent .,adv pro:per v v pro:obj prep prep pro:int adv conj n prep det:poss n coord n prep v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+974,and I know you shouldn't regret that .,coord pro:sub v pro:per mod v pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+975,you know ?,pro:per v ?,ENG ENG,0
+976,but it's just like oh it's like .,conj pro:per adj co co pro:per conj .,ENG ENG ENG ENG ENG ENG ENG,0
+977,yeah .,co .,ENG,0
+978,.,None,,0
+979,.,None,,0
+980,.,None,,0
+981,.,None,,0
+982,bro all the fights I had with my mom for real it was like okay .,n qn det:art n pro:sub v prep det:poss n prep adj pro:per cop prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+983,for what .,prep pro:int .,ENG ENG,0
+984,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+985,like it's like whoa I put my family through hell .,co pro:per co co pro:sub v det:poss n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+986,the day of my birthday we were driving her to Fort_lauderdale .,det:art n prep det:poss n pro:sub aux part pro:obj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+987,you know my mom paid for her S_a_t .,pro:per v det:poss n v prep pro:obj n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+988,like just things that I don't regret doing .,prep adv n pro:rel pro:sub mod v part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+989,but I'm like .,conj pro:sub prep .,ENG ENG ENG,0
+990,yeah why'd you do it .,co pro:rel pro:per v pro:per .,ENG ENG ENG ENG ENG,0
+991,yeah .,co .,ENG,0
+992,whatever .,pro:int .,ENG,0
+993,she was a good friend at one point in time .,pro:sub cop det:art adj n prep det:num n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+994,.,None,,0
+995,yeah for like a few months .,co prep co det:art qn n .,ENG ENG ENG ENG ENG ENG,0
+996,and you felt bad for her .,coord pro:per v adj prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+997,.,None,,0
+998,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+999,you thought whatever .,pro:per v pro:int .,ENG ENG ENG,0
+1000,.,None,,0
+1001,yeah but at the end bro it was like weak .,co conj prep det:art n n pro:per cop prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1002,crazy how like like all the things she was saying .,adj pro:rel v prep qn det:art n pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1003,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+1004,who you talking to ?,pro:int pro:per part inf ?,ENG ENG ENG ENG,0
+1005,who are you talking to ?,pro:int aux pro:per part inf ?,ENG ENG ENG ENG ENG,0
+1006,is there anybody there ?,cop adv pro:indef adv ?,ENG ENG ENG ENG,0
+1007,no .,co .,ENG,0
+1008,oh .,co .,ENG,0
+1009,at the end like everything she would do and all the things she would say .,prep det:art n prep pro:indef pro:sub mod v coord qn det:art n pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1010,and like the malicia .,coord co det:art L2 .,ENG ENG ENG ESP,1
+1011,and the stuff she would tell like .,coord det:art n pro:sub mod v prep .,ENG ENG ENG ENG ENG ENG ENG,0
+1012,Julie's like half my brain okay .,n:prop prep n det:poss n adj .,ENG ENG ENG ENG ENG ENG,0
+1013,like Julie is like I talk to her every day twice a day whatever .,prep n:prop cop co pro:sub v inf pro:obj qn n adv det:art n pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1014,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+1015,what do you //.,pro:int mod pro:per +//.,ENG ENG ENG,0
+1016,"Sara's like ""/.","n:prop prep +""/.",ENG ENG,0
+1017,what are you doing ?,pro:int aux pro:per part ?,ENG ENG ENG ENG,0
+1018,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+1019,what you forgot .,pro:int pro:per v .,ENG ENG ENG,0
+1020,like ...,prep +...,ENG,0
+1021,all the times .,qn det:art n .,ENG ENG ENG,0
+1022,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1023,it's just weird .,pro:per adj adj .,ENG ENG ENG,0
+1024,it felt like very like /.,pro:per v conj adv co +/.,ENG ENG ENG ENG ENG,0
+1025,it's like my sister says .,pro:per co det:poss n v .,ENG ENG ENG ENG ENG,0
+1026,like bipolar .,prep adj .,ENG ENG,0
+1027,I forgive .,pro:sub v .,ENG ENG,0
+1028,but I never forget .,conj pro:sub adv v .,ENG ENG ENG ENG,0
+1029,so you can forgive Sara .,co pro:per mod v n:prop .,ENG ENG ENG ENG ENG,0
+1030,but you never forget everything that happened .,conj pro:per adv v pro:indef pro:rel v .,ENG ENG ENG ENG ENG ENG ENG,0
+1031,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+1032,look at this ring .,v prep det:dem n .,ENG ENG ENG ENG,0
+1033,it turned my finger blue .,pro:per v det:poss n adj .,ENG ENG ENG ENG ENG,0
+1034,like it looks like my tattoo .,conj pro:per v prep det:poss v .,ENG ENG ENG ENG ENG ENG,0
+1035,yeah .,co .,ENG,0
+1036,but I like it so much .,conj pro:sub v pro:per adv adv .,ENG ENG ENG ENG ENG ENG,0
+1037,but she told that .,conj pro:sub v comp .,ENG ENG ENG ENG,0
+1038,when she called to apologize for hurting her .,conj pro:sub v inf v prep n:gerund pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1039,"she was like ""/.","pro:sub cop prep +""/.",ENG ENG ENG,0
+1040,oh I'm just bitter because you chose Melanie's friendship over mine .,co pro:sub adv adj conj pro:per v adj n adv pro:poss .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1041,okay one Mel and I are like ...,co det:num n:prop coord pro:sub cop prep +...,ENG ENG ENG ENG ENG ENG ENG,0
+1042,.,None,,0
+1043,.,None,,0
+1044,"was like ""/.","cop prep +""/.",ENG ENG,0
+1045,oh okay Sara .,co co n:prop .,ENG ENG ENG,0
+1046,wait .,co .,ENG,0
+1047,you know why we call /.,pro:per v pro:int pro:sub v +/.,ENG ENG ENG ENG ENG,0
+1048,"she's like ""/.","pro:sub prep +""/.",ENG ENG,0
+1049,that's why you're .,pro:rel pro:rel pro:per .,ENG ENG ENG,0
+1050,and that's like drama central .,coord pro:dem co n adj .,ENG ENG ENG ENG ENG,0
+1051,you know why we call Bonnie Guite right ?,pro:per v pro:int pro:sub v n:prop n:prop co ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1052,it's making fun of you guys .,pro:per n:gerund adj prep pro:per n .,ENG ENG ENG ENG ENG ENG,0
+1053,for real ?,prep adj ?,ENG ENG,0
+1054,yes because you guys talk like little muffin like .,co conj pro:per n n prep adj n prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1055,no it's Bonnie .,co pro:per n:prop .,ENG ENG ENG,0
+1056,it's Bonnie .,pro:per n:prop .,ENG ENG,0
+1057,and so then like we love to have you /.,coord adv adv:tem conj pro:sub v inf v pro:per +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1058,.,None,,0
+1059,from flavor of love yeah .,prep n prep n co .,ENG ENG ENG ENG ENG,0
+1060,yeah so whatever .,co co pro:int .,ENG ENG ENG,0
+1061,we always thought it was super funny how you guys called her Guite .,pro:sub adv v pro:per cop adj adj pro:int pro:per n v pro:obj n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1062,but her name has nothing to do with Guite .,conj det:poss n aux pro:indef inf v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1063,so then Bonnie who really is Guite we just started calling her Guite .,adv adv:tem n:prop pro:rel adv cop n:prop pro:sub adv v part det:poss n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1064,and then like it stuck .,coord adv:tem v pro:per v .,ENG ENG ENG ENG ENG,0
+1065,I mean at the beginning it was like to make fun .,pro:sub v prep det:art n pro:per cop co inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1066,but now just like I like it .,conj adv adj co pro:sub v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+1067,like I like her .,conj pro:sub v pro:obj .,ENG ENG ENG ENG,0
+1068,"whenever she calls me I'm like ""/.","pro:rel pro:sub v pro:obj pro:sub prep +""/.",ENG ENG ENG ENG ENG ENG,0
+1069,Aaron .,n:prop .,ENG,0
+1070,.,None,,0
+1071,I used to hate Guite .,pro:sub v inf v n:prop .,ENG ENG ENG ENG ENG,0
+1072,.,None,,0
+1073,.,None,,0
+1074,Guite .,n:prop .,ENG,0
+1075,.,None,,0
+1076,no no no you smell like ...,co co co pro:per n prep +...,ENG ENG ENG ENG ENG ENG,0
+1077,.,None,,0
+1078,.,None,,0
+1079,you smell like that pot I put in my oven .,pro:per v prep pro:dem n pro:sub v prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1080,I'm disgusting .,pro:sub part .,ENG ENG,0
+1081,I can't wait to shower .,pro:sub mod v prep n .,ENG ENG ENG ENG ENG,0
+1082,ay used to live in the corner .,L2 v inf v prep det:art n .,ESP ENG ENG ENG ENG ENG ENG,1
+1083,.,None,,0
+1084,en la esquina .,prep det:art n .,ENG ENG ENG,0
+1085,like Senior_skit the other day .,conj n:prop det:art qn n .,ENG ENG ENG ENG ENG,0
+1086,.,None,,0
+1087,we were watching Senior_skit .,pro:sub aux part n:prop .,ENG ENG ENG ENG,0
+1088,ay .,co .,ENG,0
+1089,.,None,,0
+1090,what ...,pro:int +...,ENG,0
+1091,it's a very Cuban thing .,pro:per det:art adv n:prop n .,ENG ENG ENG ENG ENG,0
+1092,do you put pots in the oven ?,mod pro:per v n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+1093,.,None,,0
+1094,yeah .,co .,ENG,0
+1095,oh that's the worst .,co pro:dem det:art adj .,ENG ENG ENG ENG,0
+1096,the second you go to bake cookies you have to like unload .,det:art n pro:per v inf v n pro:per v inf v un#v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1097,yeah .,co .,ENG,0
+1098,everything .,pro:indef .,ENG,0
+1099,it's like twenty .,pro:per co det:num .,ENG ENG ENG,0
+1100,ay cuidado con el aceite .,co co prep det:art n .,ENG ENG ENG ENG ENG,0
+1101,and you're like ...,coord pro:per prep +...,ENG ENG ENG,0
+1102,yeah like cuidado con el aceite .,co co L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP,1
+1103,Susana .,n:prop .,ENG,0
+1104,Susana .,n:prop .,ENG,0
+1105,.,None,,0
+1106,we don't do crazy stuff like that .,pro:sub mod v adj n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+1107,.,None,,0
+1108,but Sara's here for like good ?,conj n:prop adv prep co adj ?,ENG ENG ENG ENG ENG ENG,0
+1109,.,None,,0
+1110,no no no no no .,co co co co co .,ENG ENG ENG ENG ENG,0
+1111,okay Sara had told me that she didn't know if she was gonna stay in Tallahassee because her grandparents were paying for it .,co n:prop aux part pro:obj comp pro:sub mod v comp pro:sub aux part v prep n:prop conj det:poss grand#n aux part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1112,but they couldn't pay for it .,conj pro:sub mod v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+1113,because Sara doesn't have bright future .,conj n:prop mod v adj n .,ENG ENG ENG ENG ENG ENG,0
+1114,she doesn't have .,pro:sub mod v .,ENG ENG ENG,0
+1115,she yeah first Robert was paying for it .,pro:sub co adv n:prop aux part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1116,when Robert started paying for it he wasn't even paying for his kids .,conj n:prop v part prep pro:per pro:sub aux adv part prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1117,that was crazy .,pro:dem cop adj .,ENG ENG ENG,0
+1118,I think Robert did it out of spite .,pro:sub v n:prop mod pro:per adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1119,.,None,,0
+1120,for everything .,prep pro:indef .,ENG ENG,0
+1121,I think Robert did it out of spite .,pro:sub v n:prop mod pro:per adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1122,and then /.,coord adv:tem +/.,ENG ENG,0
+1123,bro Carry takes that to court Robert's broke .,n n:prop v comp prep n adj adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1124,she had to ...,pro:sub v prep +...,ENG ENG ENG,0
+1125,she had told me that ...,pro:sub aux part pro:obj pro:rel +...,ENG ENG ENG ENG ENG,0
+1126,yeah but what here dude .,co conj pro:int adv n .,ENG ENG ENG ENG ENG,0
+1127,that her grandparents weren't gonna pay for it anymore .,comp det:poss grand#n aux part v prep pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1128,and she was gonna have to figure out what to do .,coord pro:sub aux part v inf v adv pro:int inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1129,but from what I heard she's already planning to move in with all these people or whatever .,conj prep pro:int pro:sub v pro:sub adv part inf v adv prep qn det:dem n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1130,yeah yeah .,co co .,ENG ENG,0
+1131,but /.,conj +/.,ENG,0
+1132,why would she be planning a move if ...,pro:int mod pro:sub aux part det:art n conj +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1133,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1134,but whose paying for the rent ?,conj pro:int part prep det:art n ?,ENG ENG ENG ENG ENG ENG,0
+1135,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1136,maybe finally she /.,adv adv pro:sub +/.,ENG ENG ENG,0
+1137,maybe she's not paying for it .,adv pro:sub neg part prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+1138,maybe she's /.,adv pro:sub +/.,ENG ENG,0
+1139,maybe she doesn't have to pay for the rent .,adv pro:sub mod v inf v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1140,.,None,,0
+1141,maybe she doesn't have to pay .,adv pro:sub mod v prep n .,ENG ENG ENG ENG ENG ENG,0
+1142,.,None,,0
+1143,or maybe maybe her like Cathy .,coord adv adv det:poss v n:prop .,ENG ENG ENG ENG ENG ENG,0
+1144,Cathy like breeds out of her butt .,n:prop prep n adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+1145,"maybe what she told Cathy was ""/.","adv pro:int pro:sub v n:prop cop +""/.",ENG ENG ENG ENG ENG ENG,0
+1146,oh I'll move in into your room .,co pro:sub v adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+1147,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1148,and like we'll just share a room .,coord co pro:sub adj v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+1149,but you pay for the rent or whatever .,conj pro:per v prep det:art n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1150,.,None,,0
+1151,yeah either way she always stays with Derek .,co adv adv pro:sub adv v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1152,yeah but whose paying for T_c_c ?,co conj pro:int part prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+1153,she had originally said she was taking out loan .,pro:sub v adv v pro:sub aux part prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1154,.,None,,0
+1155,but I don't believe she ever took out loan .,conj pro:sub mod v pro:sub adv v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1156,oh my god .,co det:poss n .,ENG ENG ENG,0
+1157,do you know what I mean ?,mod pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG,0
+1158,first of all if you're taking out loans in your undergraduate .,adv prep qn comp pro:per part adv n prep det:poss adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1159,if you're taking out loans in your undergraduate there's a problem .,comp pro:per part adv n prep det:poss adj pro:exist det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1160,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1161,because that's /.,conj pro:dem +/.,ENG ENG,0
+1162,yeah but what is she gonna be ?,co conj pro:int cop pro:sub part cop ?,ENG ENG ENG ENG ENG ENG ENG,0
+1163,if you're gonna be a doctor I'd be like whatever bro .,comp pro:per part cop det:art n pro:sub cop prep pro:int n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1164,oh !,co !,ENG,0
+1165,no .,co .,ENG,0
+1166,take them all out .,v pro:obj post adv .,ENG ENG ENG ENG,0
+1167,now she says /.,adv pro:sub v +/.,ENG ENG ENG,0
+1168,you're paying them all back .,pro:per part pro:obj post adv .,ENG ENG ENG ENG ENG,0
+1169,now she says she wants to be now she says she wants to be a cop .,adv pro:sub v pro:sub v inf cop adv pro:sub v pro:sub v inf cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1170,because we were talking when me and her we started talking about the whole and the whole controversy and the rooms and all that stuff ...,conj pro:sub aux part conj pro:obj coord det:poss pro:sub v part prep det:art adj coord det:art adj n coord det:art n coord qn det:dem n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1171,do her friends like ?,v det:poss n prep ?,ENG ENG ENG ENG,0
+1172,do her friends what ?,v det:poss n pro:int ?,ENG ENG ENG ENG,0
+1173,no no .,co co .,ENG ENG,0
+1174,no that's just ...,co pro:dem adv +...,ENG ENG ENG,0
+1175,that's like the biggest thing I heard .,pro:dem conj det:art adj n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+1176,here's the thing .,pro:exist det:art n .,ENG ENG ENG,0
+1177,when that was given to them like that nickname by Lucy was given to them then they took it to a whole another level .,conj pro:rel aux part prep pro:obj prep pro:dem n prep n:prop aux part prep pro:obj adv:tem pro:sub v pro:per prep det:art n qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1178,here's the thing .,pro:exist det:art n .,ENG ENG ENG,0
+1179,if you get called something and you know it's not true and you think it's so funny that that person even thought about it /.,conj pro:per v part pro:indef coord pro:per v pro:per neg n coord pro:per v pro:per adv adj det:dem det:dem n adv n prep pro:per +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1180,you drop it .,pro:per v pro:per .,ENG ENG ENG,0
+1181,you know hello .,pro:per v n .,ENG ENG ENG,0
+1182,I don't drop it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+1183,remember what she called me ?,v pro:int pro:sub v pro:obj ?,ENG ENG ENG ENG ENG,0
+1184,that was crazy .,pro:dem cop adj .,ENG ENG ENG,0
+1185,I don't drop it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+1186,.,None,,0
+1187,oh I don't know about that .,co pro:sub mod v prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+1188,I don't think that story's like that wrong .,pro:sub mod v adv n v det:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1189,according to her no .,part prep det:poss co .,ENG ENG ENG ENG,0
+1190,I don't think that maybe she did it .,pro:sub mod v comp adv pro:sub mod pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1191,but I think there's something behind that .,conj pro:sub v pro:exist pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+1192,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1193,dude you can't get that out of nowhere .,n pro:per mod v adv adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1194,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1195,I mean whether Lucy said it //.,pro:sub v comp n:prop v pro:per +//.,ENG ENG ENG ENG ENG ENG,0
+1196,Lucy said it because //.,n:prop v pro:per conj +//.,ENG ENG ENG ENG,0
+1197,I mean there was something there .,pro:sub v adv cop pro:indef adv .,ENG ENG ENG ENG ENG ENG,0
+1198,like that they kissed or whatever whatever .,v adv pro:sub v coord pro:int pro:int .,ENG ENG ENG ENG ENG ENG ENG,0
+1199,yeah but their pictures are gross .,co conj det:poss n cop adj .,ENG ENG ENG ENG ENG ENG,0
+1200,have you seen the pictures ?,v pro:per part det:art n ?,ENG ENG ENG ENG ENG,0
+1201,that's what I'm telling you .,pro:dem pro:int pro:sub part pro:per .,ENG ENG ENG ENG ENG,0
+1202,the pictures now attribute to the fact that Lucy said what she said .,det:art n adv v prep det:art n pro:rel n:prop v pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1203,they're just taking the joke to a whole another level .,pro:sub adv part det:art n prep det:art n qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1204,that's what happened with the whole dyke thing .,pro:dem pro:int v prep det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1205,mhm I dunno .,co pro:sub mod v,ENG ENG ENG,0
+1206,and .,coord .,ENG,0
+1207,but I would almost drop it .,conj pro:sub mod adv v pro:per .,ENG ENG ENG ENG ENG ENG,0
+1208,that's what I kept telling Sara .,pro:dem pro:int pro:sub v part n:prop .,ENG ENG ENG ENG ENG ENG,0
+1209,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+1210,just drop it already .,adv v pro:per adv .,ENG ENG ENG ENG,0
+1211,she's like /.,pro:sub prep +/.,ENG ENG,0
+1212,oh she's .,co pro:sub .,ENG ENG,0
+1213,yeah that's what I kept telling her .,co pro:dem pro:int pro:sub v part pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+1214,but whatever .,conj pro:int .,ENG ENG,0
+1215,oh well the whole cop thing .,co n det:art adj n n .,ENG ENG ENG ENG ENG ENG,0
+1216,she was telling me that //.,pro:sub aux part pro:obj pro:rel +//.,ENG ENG ENG ENG ENG,0
+1217,and you know that Sara's very .,coord pro:per v adv n:prop adv .,ENG ENG ENG ENG ENG ENG,0
+1218,she was telling me that she feels like breaking face in .,pro:sub aux part pro:obj pro:rel pro:sub v prep n:gerund n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1219,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1220,but the reason why she doesn't do it is because she already has a violence on her record .,conj det:art n pro:rel pro:sub mod v pro:per cop conj pro:sub adv v det:art n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1221,that's one .,pro:dem pro:indef .,ENG ENG,0
+1222,oh my god .,co det:poss n .,ENG ENG ENG,0
+1223,and two //.,coord det:num +//.,ENG ENG,0
+1224,who is she ?,pro:int cop pro:sub ?,ENG ENG ENG,0
+1225,yeah that she already has violence on her record .,co pro:rel pro:sub adv v n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1226,and two she doesn't want that you know what I mean anymore because the violence from before was from what we were sophomores .,coord det:num pro:sub mod v comp pro:per v pro:int pro:sub v adv conj det:art n prep adv cop prep pro:int pro:sub cop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1227,so that's like expunged the minute you turn eighteen .,co pro:dem co v det:art n pro:per v det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1228,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1229,.,None,,0
+1230,it's expunged ?,pro:per part ?,ENG ENG,0
+1231,yeah it's expunged .,co pro:per part .,ENG ENG ENG,0
+1232,so whatever .,adv pro:int .,ENG ENG,0
+1233,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1234,and like now she says that she wants to go in to like the police force and whatever .,coord v adv pro:sub v comp pro:sub v inf v adv inf prep det:art n n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1235,and she wants to do it .,coord pro:sub v inf v pro:per .,ENG ENG ENG ENG ENG ENG,0
+1236,to police force .,prep n n .,ENG ENG ENG,0
+1237,I think you have to /.,pro:sub v pro:per v prep +/.,ENG ENG ENG ENG ENG,0
+1238,and don't you have to start off like an explorer or something crazy like that ?,coord mod pro:per v inf v adv prep det:art n coord pro:indef adj prep pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1239,I think maybe that maybe like you should major in like law studies .,pro:sub v adv adv adv co pro:per mod adj adv co n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1240,or something like that .,coord pro:indef prep pro:dem .,ENG ENG ENG ENG,0
+1241,or like criminal justice .,coord co adj n .,ENG ENG ENG ENG,0
+1242,yeah but isn't T_c_c only two years ?,co conj cop n:prop qn det:num n ?,ENG ENG ENG ENG ENG ENG ENG,0
+1243,and then later on you become /.,coord adv:tem adv prep pro:per part +/.,ENG ENG ENG ENG ENG ENG,0
+1244,.,None,,0
+1245,T_c_c is two years .,n:prop cop det:num n .,ENG ENG ENG ENG,0
+1246,it's a community college .,pro:per det:art n n .,ENG ENG ENG ENG,0
+1247,I mean you could be in a community college for four years .,pro:sub v pro:per mod cop prep det:art n n prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1248,but it's your first sixty credits .,conj pro:per det:poss adj det:num n .,ENG ENG ENG ENG ENG ENG,0
+1249,you don't need college .,pro:per mod v n .,ENG ENG ENG ENG,0
+1250,yeah but where is she going ?,co conj pro:int cop pro:sub part ?,ENG ENG ENG ENG ENG ENG,0
+1251,.,None,,0
+1252,yeah .,co .,ENG,0
+1253,but where is she going ?,conj pro:int cop pro:sub part ?,ENG ENG ENG ENG ENG,0
+1254,she goes right now to T_c_c if she even goes to school .,pro:sub v adv adv prep n:prop conj pro:sub adv v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1255,I don't really know Sara's academic career .,pro:sub mod adv v adj adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+1256,yeah but I'm saying where is she going after ?,co conj pro:sub part pro:int cop pro:sub n:gerund adv:tem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1257,does she have grades F_s_u ?,mod pro:sub v v n:prop ?,ENG ENG ENG ENG ENG,0
+1258,.,None,,0
+1259,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1260,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1261,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1262,.,None,,0
+1263,I'll talk to her about it .,pro:sub v prep pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+1264,see what she wants to do or whatever .,v pro:int pro:sub v inf v coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1265,.,None,,0
+1266,well she coulda done so good here .,co pro:sub mod part adv adj adv .,ENG ENG ENG ENG ENG ENG ENG,0
+1267,the coach was like Sara .,det:art n cop co n:prop .,ENG ENG ENG ENG ENG,0
+1268,oh she coulda been an excellent runner .,co pro:sub mod cop det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+1269,they would have paid for everything .,pro:sub mod aux part prep pro:indef .,ENG ENG ENG ENG ENG ENG,0
+1270,they coulda had a full ...,pro:sub mod v det:art adj +...,ENG ENG ENG ENG ENG,0
+1271,you don't get it .,pro:per mod v pro:per .,ENG ENG ENG ENG,0
+1272,right .,co .,ENG,0
+1273,but //.,conj +//.,ENG,0
+1274,she just said it .,pro:sub adv v pro:per .,ENG ENG ENG ENG,0
+1275,all she needed was ten more points .,pro:indef pro:sub v cop det:num adv n .,ENG ENG ENG ENG ENG ENG ENG,0
+1276,ten more points on her S_a_ts .,det:num adv n prep pro:obj n:prop .,ENG ENG ENG ENG ENG ENG,0
+1277,you know what that is ?,pro:per v pro:int adv cop ?,ENG ENG ENG ENG ENG,0
+1278,it's like dot your I on your name .,pro:per conj n det:poss pro:sub prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1279,give me a break .,v pro:obj det:art n .,ENG ENG ENG ENG,0
+1280,it's like cross your fingers .,pro:per conj v det:poss n .,ENG ENG ENG ENG ENG,0
+1281,you'll get it .,pro:per v pro:per .,ENG ENG ENG,0
+1282,you know ?,pro:per v ?,ENG ENG,0
+1283,ten points dude .,det:num n n .,ENG ENG ENG,0
+1284,ten points .,det:num n .,ENG ENG,0
+1285,yeah but usually like they help you .,co conj adv co pro:sub v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+1286,if like your scores are low they still help you get in .,conj prep det:poss n cop n pro:sub adv v pro:per v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1287,but hers weren't like she needed to improve them .,conj pro:poss cop conj pro:sub v inf v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1288,like there wasn't anything the coach could do whatever .,conj adv cop pro:indef det:art n mod v pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1289,but he told her .,conj pro:sub v pro:obj .,ENG ENG ENG ENG,0
+1290,"he's like ""/.","pro:sub prep +""/.",ENG ENG,0
+1291,improve them .,v pro:obj .,ENG ENG,0
+1292,I can give you dorm .,pro:sub mod v pro:per n .,ENG ENG ENG ENG ENG,0
+1293,I can give you //.,pro:sub mod v pro:per +//.,ENG ENG ENG ENG,0
+1294,you know because if she filed ...,pro:per v conj conj pro:sub v +...,ENG ENG ENG ENG ENG ENG,0
+1295,I told her .,pro:sub v pro:obj .,ENG ENG ENG,0
+1296,you know how many times I told her about ?,pro:per v pro:int qn n pro:sub v pro:obj prep ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1297,.,None,,0
+1298,and at this time her grandparents had custody of her .,coord prep det:dem n det:poss grand#n v n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1299,which means she would have had to have put her grandparents' information .,pro:rel v pro:sub mod v v inf v v pro:obj grand#adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1300,they're two retired people .,pro:sub det:num part n .,ENG ENG ENG ENG,0
+1301,okay ?,co ?,ENG,0
+1302,that get paid off of like Medicare or whatever .,pro:rel aux part adv prep co n:prop coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1303,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1304,social security .,adj n .,ENG ENG,0
+1305,that's crazy .,pro:dem adj .,ENG ENG,0
+1306,so you know how much money she would have gotten ?,co pro:per v pro:int qn n pro:sub mod aux part ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1307,her grandparents must make like what twenty thousand ?,det:poss grand#n mod v prep pro:int det:num det:num ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1308,bro she threw that all away .,n pro:sub v adv adv adv .,ENG ENG ENG ENG ENG ENG,0
+1309,but you know what ?,conj pro:per v pro:int ?,ENG ENG ENG ENG,0
+1310,she threw everything away .,pro:sub v pro:indef adv .,ENG ENG ENG ENG,0
+1311,when we stopped being friends that's when she left to T_c_c .,conj pro:sub v part n pro:rel conj pro:sub v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1312,but I told her /.,conj pro:sub v pro:obj +/.,ENG ENG ENG ENG,0
+1313,for real .,prep adj .,ENG ENG,0
+1314,when we stopped being friends she was coming with me .,conj pro:sub v part n pro:sub aux part prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1315,I took her to all the coaches like every time the coach wanted to eat with her she didn't want him to know that she didn't have a car .,pro:sub v pro:obj prep qn det:art n prep qn n det:art n v inf v prep pro:obj pro:sub mod v pro:obj inf v comp pro:sub mod v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1316,would take her .,mod v pro:obj .,ENG ENG ENG,0
+1317,you know ?,pro:per v ?,ENG ENG,0
+1318,whatever .,pro:int .,ENG,0
+1319,I took her to seriously like ten dinners .,pro:sub v pro:obj inf adv co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1320,maybe like four .,adv co det:num .,ENG ENG ENG,0
+1321,I took her to whatever .,pro:sub v pro:obj prep pro:int .,ENG ENG ENG ENG ENG,0
+1322,the coach was like super on her .,det:art n cop prep adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+1323,he called her every day .,pro:sub v pro:obj qn n .,ENG ENG ENG ENG ENG,0
+1324,all this stuff .,qn det:dem n .,ENG ENG ENG,0
+1325,the second we stopped being friends she was like .,det:art adv pro:sub v part n pro:sub cop prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1326,oh she thought everything was like this /.,co pro:sub v pro:indef cop prep pro:dem +/.,ENG ENG ENG ENG ENG ENG ENG,0
+1327,.,None,,0
+1328,Cathy got into F_s_u because of me .,n:prop v prep n:prop conj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+1329,okay ?,co ?,ENG,0
+1330,but doesn't Cathy go there for free ?,conj mod n:prop v adv prep adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+1331,because ...,conj +...,ENG,0
+1332,yeah .,co .,ENG,0
+1333,listen .,v .,ENG,0
+1334,she got in for free because of me .,pro:sub v prep prep adj conj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1335,because you told her right about the thing ?,conj pro:per v pro:obj adv prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1336,the care program .,det:art n n .,ENG ENG ENG,0
+1337,okay ?,co ?,ENG,0
+1338,because we were sitting in Art class .,conj pro:sub aux part prep n:prop n .,ENG ENG ENG ENG ENG ENG ENG,0
+1339,Cathy had no thought of even going to Tallahassee .,n:prop v qn v prep adv part prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1340,okay ?,co ?,ENG,0
+1341,and I was talking to my who was great okay .,coord pro:sub aux part prep det:poss pro:rel cop adj adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1342,who she knew since the minute my sister left that school that that's where I wanted to go .,pro:int pro:sub v prep det:art n det:poss n v det:dem n pro:rel pro:dem pro:int pro:sub v inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1343,mhm .,co .,ENG,0
+1344,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1345,miss Thomas who was great .,n n:prop pro:rel cop adj .,ENG ENG ENG ENG ENG,0
+1346,she would call Esther everyday .,pro:sub mod v n:prop adj .,ENG ENG ENG ENG ENG,0
+1347,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1348,"and then she told me ""/.","coord adv:tem pro:sub v pro:obj +""/.",ENG ENG ENG ENG ENG,0
+1349,look there's a loophole .,co pro:exist det:art n .,ENG ENG ENG ENG,0
+1350,your grades aren't that well .,det:poss n cop adv adv .,ENG ENG ENG ENG ENG,0
+1351,which mind you I brought up my grades senior year like ridiculous .,pro:rel v pro:per pro:sub v adv det:poss n adj n prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1352,I graduated with a three point eight from Lourdes .,pro:sub v prep det:art det:num n det:num prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1353,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1354,why ?,pro:rel ?,ENG,0
+1355,because I was just lazy .,conj pro:sub cop adj adj .,ENG ENG ENG ENG ENG,0
+1356,if I put my mind to it I can do it .,conj pro:sub v det:poss n prep pro:per pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1357,mhm .,co .,ENG,0
+1358,because I'm not stupid .,conj pro:sub neg adj .,ENG ENG ENG ENG,0
+1359,I'm lazy .,pro:sub adj .,ENG ENG,0
+1360,and so what happened was that she had told me about the care system whatever and all this stuff .,coord adv pro:int v cop pro:rel pro:sub aux part pro:obj prep det:art n n pro:int coord qn det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1361,and it was if your parents made under a certain amount of money .,coord pro:per cop comp det:poss n part prep det:art adj n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1362,mine's happened because my mom was divorced .,n part conj det:poss n aux part .,ENG ENG ENG ENG ENG ENG ENG,0
+1363,whatever it was all the money issue .,pro:int pro:per cop adv det:art n n .,ENG ENG ENG ENG ENG ENG ENG,0
+1364,and you know how like Cathy isn't that well off ?,coord pro:per v pro:int v n:prop cop pro:dem adv adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1365,mhm .,co .,ENG,0
+1366,and like they have a business but like /.,coord co pro:sub v det:art n conj prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1367,they have like flimsy jobs yeah yeah .,pro:sub v prep adj n co co .,ENG ENG ENG ENG ENG ENG ENG,0
+1368,but like yeah .,conj co co .,ENG ENG ENG,0
+1369,but like it's like going down .,conj conj pro:per co part adv .,ENG ENG ENG ENG ENG ENG,0
+1370,and whatever all this stuff .,coord pro:int qn det:dem n .,ENG ENG ENG ENG ENG,0
+1371,like Lucy was always talking to us about how her parents were helping out with Cathy and all that stuff .,conj n:prop aux adv part prep pro:obj adv pro:rel det:poss n aux part adv prep n:prop coord qn pro:dem v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1372,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+1373,and I told her about it .,coord pro:sub v pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+1374,"and she's like ""/.","coord pro:sub prep +""/.",ENG ENG ENG,0
+1375,oh okay I'm gonna go ask my counselor .,co co pro:sub part v v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1376,because her counselor didn't care .,conj det:poss n mod v .,ENG ENG ENG ENG ENG,0
+1377,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1378,like if she didn't get in ...,co conj pro:sub mod v adv +...,ENG ENG ENG ENG ENG ENG,0
+1379,yeah .,co .,ENG,0
+1380,and then so she went to her counselor .,coord adv:tem conj pro:sub v prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1381,she got that thing .,pro:sub v det:dem n .,ENG ENG ENG ENG,0
+1382,she wrote the great essay .,pro:sub v det:art adj n .,ENG ENG ENG ENG ENG,0
+1383,all this stuff .,qn det:dem n .,ENG ENG ENG,0
+1384,she got in .,pro:sub v adv .,ENG ENG ENG,0
+1385,.,None,,0
+1386,yeah but Cathy and Lucy haven't been friends for a long time .,co conj n:prop coord n:prop aux cop n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1387,the thing is is that when you have a friendship for such a long time Lucy was always the dominant one .,det:art n cop cop pro:dem conj pro:per v det:art n prep qn det:art adj n n:prop cop adv det:art adj pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1388,and Cathy was always the one that just followed along whatever Lucy said .,coord n:prop cop adv det:art pro:indef pro:rel adv part prep pro:int n:prop v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1389,and so what happened was that that Lucy would kind of like not mistreat Cathy but she would kinda like take Cathy for granted .,coord adv pro:int v cop pro:dem comp n:prop mod n prep co neg mis#v n:prop conj pro:sub mod adv co v n:prop prep part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1390,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+1391,and like tell her things .,coord co v det:poss n .,ENG ENG ENG ENG ENG,0
+1392,and then and what happened was then Cathy became close to Esther who is more or less like her .,coord adv:tem coord pro:int v aux adv:tem n:prop cop adj prep n:prop pro:rel cop adv coord adj co pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1393,because Esther is a person who follows .,conj n:prop cop det:art n pro:rel v .,ENG ENG ENG ENG ENG ENG ENG,0
+1394,she she you know what I mean ?,pro:sub pro:sub pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG,0
+1395,you tell her what to do and she does it .,pro:per v pro:obj pro:int inf v coord pro:sub mod pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1396,so they became friends .,co pro:sub cop n .,ENG ENG ENG ENG,0
+1397,and then when Lucy saw that Esther and Cathy were getting close together she /.,coord adv:tem conj n:prop v comp n:prop coord n:prop aux part adj adv pro:sub +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1398,well Lucy had her phases .,co n:prop v det:poss n .,ENG ENG ENG ENG ENG,0
+1399,oh she had her phase .,co pro:sub v det:poss n .,ENG ENG ENG ENG ENG,0
+1400,I remember /.,pro:sub v +/.,ENG ENG,0
+1401,Lucy had the craziest moments .,n:prop v det:art adj n .,ENG ENG ENG ENG ENG,0
+1402,oh yeah .,co co .,ENG ENG,0
+1403,I remember /.,pro:sub v +/.,ENG ENG,0
+1404,do you remember when it was like //.,mod pro:per v conj pro:per cop prep +//.,ENG ENG ENG ENG ENG ENG ENG,0
+1405,I remember when there was like a point that it was like people are like scared of Lucy .,pro:sub v conj adv cop prep det:art n pro:rel pro:per cop prep n cop co v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1406,like no one wanted to talk to her .,co qn pro:indef v prep n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1407,she was that scary .,pro:sub cop det:dem adj .,ENG ENG ENG ENG,0
+1408,when we went on retreat .,conj pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+1409,because she was that .,conj pro:sub cop pro:dem .,ENG ENG ENG ENG,0
+1410,when we went on retreat .,conj pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+1411,first of all she treated Mark like crap .,adv prep pro:indef pro:sub v n:prop prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1412,okay because I remember distinctly a game /.,co conj pro:sub v adv det:art n +/.,ENG ENG ENG ENG ENG ENG ENG,0
+1413,is she better now ?,cop pro:sub adv adv ?,ENG ENG ENG ENG,0
+1414,yeah .,co .,ENG,0
+1415,a game here //.,det:art n adv +//.,ENG ENG ENG,0
+1416,I'll tell you right now story .,pro:sub v pro:per adv adv n .,ENG ENG ENG ENG ENG ENG,0
+1417,mhm .,co .,ENG,0
+1418,I remember distinctly a game here at F_i_u Columbus versus something that she was screaming at Mark like if Mark was her kid .,pro:sub v adv det:art n adv prep n:prop n:prop prep pro:indef pro:rel pro:sub aux part prep n:prop v conj n:prop cop det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1419,screaming at him .,part prep pro:obj .,ENG ENG ENG,0
+1420,telling him all these things like ...,part pro:obj adv det:dem n prep +...,ENG ENG ENG ENG ENG ENG,0
+1421,people thought she was crazy .,n v pro:sub cop adj .,ENG ENG ENG ENG ENG,0
+1422,.,None,,0
+1423,like all //.,prep pro:indef +//.,ENG ENG,0
+1424,Lucy I mean Esther Bonnie and Tiffany were ready to drop that friendship .,n:prop pro:sub v n:prop n:prop coord n:prop cop adj inf v det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1425,okay ?,co ?,ENG,0
+1426,so the point /.,co det:art n +/.,ENG ENG ENG,0
+1427,.,None,,0
+1428,oh .,co .,ENG,0
+1429,then we went on encounter .,adv:tem pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+1430,oh she was insane .,co pro:sub cop in#adj .,ENG ENG ENG ENG,0
+1431,okay ?,co ?,ENG,0
+1432,I went on encounter junior year in hopes of becoming a .,pro:sub v prep n adj n prep n prep part det:art .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1433,and senior year I could like I could be one of the talks .,coord adj n pro:sub mod conj pro:sub mod cop pro:indef prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1434,uhuh .,co .,ENG,0
+1435,wait .,co .,ENG,0

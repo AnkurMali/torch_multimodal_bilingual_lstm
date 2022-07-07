@@ -1,0 +1,644 @@
+,sentence,pos,language,switch
+0,es en la primera vez que lo tocaron en mil ochocientos seis .,cop prep det:art adj:num n pro:rel pro:obj v prep det:num det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1,uhuh .,co .,ESP,0
+2,se oyó y ninguno le gustó .,pro:refl v coord det:indef pro:ind v .,ESP ESP ESP ESP ESP ESP,0
+3,sí .,co .,ESP,0
+4,y ah y lo tocaron entre otras piezas .,coord co coord pro:obj v prep det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+5,como él tenía esa costumbre de tener tanto material para tocar .,adv pro:sub v det:dem n prep inf det:indef n prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+6,y entonces después dice .,coord adv adv v .,ESP ESP ESP ESP,0
+7,el el con siempre ha venido a largo tiempo .,det:art det:art prep adv aux part aprep v n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+8,después de su primera creación empezó a estabilizarse cuando ya tenía trece años Joseph Joachim .,adv prep det:pos adj:num n v aprep inf pro:rel adv v det:num n n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+9,era una persona que conocía Beethoven .,cop det:art n pro:rel v n:prop .,ESP ESP ESP ESP ESP ESP,0
+10,que Beethoven conocía .,pro:rel n:prop v .,ESP ESP ESP,0
+11,en memoria a ...,prep n aprep +...,ESP ESP ESP,0
+12,o lo tocó de memoria en Londres por primera vez en mil ochocientos cuarenta y cuatro .,coord pro:obj v prep n prep n:prop prep adj:num n prep det:num det:num det:num coord det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+13,y Mendelssohn estaba ahí .,coord n:prop cop adv .,ESP ESP ESP ESP,0
+14,el la composición es increíblemente asociada a Joachim porque la tocó ahí primero la primera vez .,det:art det:art n cop adv:adj part aprep n:prop conj pro:obj v adv adv pro:obj adj:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+15,pero Huberman Adolf Busch Szigeti Milstein Hogan Hermann y otros y y no menos .,conj n:prop n:prop n:prop n:prop n:prop n:prop n:prop coord det:indef coord coord adv adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+16,pero de todas maneras es el concierto más difícil de tocar .,conj prep det:indef n cop det:art n adv adj prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+17,Bueno ese ese según según ese escritor .,n:prop det:dem det:dem prep prep det:dem n .,ESP ESP ESP ESP ESP ESP ESP,0
+18,.,None,,0
+19,pero hay otros escritores que han dado opiniones //.,conj v pro:indef n pro:rel aux part n +//.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+20,lo que sucede es esto .,pro:obj pro:rel v cop pro:dem .,ESP ESP ESP ESP ESP,0
+21,era que muchos de esas Beethoven puso una música diferente a la de su tiempo .,cop prep det:indef prep det:dem n:prop v det:art n adj aprep det:art prep det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+22,y él rompió el ritmo la o las impresiones .,coord pro:sub v det:art n pro:obj coord pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+23,él salió de lo clásico a lo romántico .,pro:sub v prep pro:obj adj aprep pro:obj adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+24,él fue el primer romántico .,pro:sub v det:art adv adj .,ESP ESP ESP ESP ESP,0
+25,y muchas de sus especialmente en su período en su del medio segundo período de composición .,coord det:indef prep co adv prep det:pos n prep det:pos prep n adj:num n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+26,él empezó a crear cosas diferentes a lo que Mozart y Haydn habían hecho anteriormente .,pro:sub v aprep inf n adj aprep pro:obj pro:rel n:prop coord n:prop aux part adv:adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+27,y él empezó a crear cosas románticas él .,coord pro:sub v aprep inf n adj pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+28,por eso se le considera a él el primer romántico .,prep pro:dem pro:refl pro:ind v aprep pro:sub det:art adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+29,porque /.,conj +/.,ESP,0
+30,y nada de romántico tiene la cara esa de ese hombre .,coord v prep adj v det:art n det:dem prep det:dem co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+31,.,None,,0
+32,pero y recuerda que ya a ese momento empezó él empezó a estar tener problema con el oído .,conj coord v pro:rel adv aprep det:dem n v pro:sub v aprep inf inf n prep det:art part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+33,que él empezó a ensordecer o a tener que ya no podía escuchar bien las cosas .,pro:rel pro:sub v aprep inf coord aprep inf pro:rel adv adv v inf adv pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+34,claro a lo último las composiciones del tercer período de su /.,co aprep pro:obj adj det:art n prep adj:num n prep det:pos +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+35,ellos dicen aquí que el caso de que abre con una como un tímpano .,pro:sub v adv pro:rel det:art v prep pro:rel v prep pro:dem adv det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+36,a ha creado muchas preguntas particularmente vistas en contraste con el liricismo .,aprep aux part det:indef n adv:adj v prep n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+37,pero vamos a ver qué dice el //.,conj v aprep inf pro:int v det:art +//.,ESP ESP ESP ESP ESP ESP ESP,0
+38,dónde está el otro ?,pro:int cop det:art pro:indef ?,ESP ESP ESP ESP,0
+39,aquí está aquí está .,adv cop adv cop .,ESP ESP ESP ESP,0
+40,okay .,co .,ESP,0
+41,la persona que escribe esas notas le pagan harto dinero .,det:art n pro:rel v det:dem v pro:ind v adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+42,sí buey .,co n .,ESP ESP,0
+43,para decir palabras que suenan bien .,prep inf n pro:rel v adv .,ESP ESP ESP ESP ESP ESP,0
+44,y no bueno tienen que ser ciertas por lo mayor .,coord adv co v pro:rel inf adj prep pro:obj adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+45,él empezó a trabajar en los primeros años towards the end .,pro:sub v aprep inf prep det:art adj:num n L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+46,a tu a .,aprep det:pos aprep .,ESP ESP ESP,0
+47,en Bonn .,prep n:prop .,ESP ESP,0
+48,en mil ochocientos seis fue cuando él compuso el concierto para .,prep det:num det:num det:num v pro:rel pro:sub v det:art n imp .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+49,no .,adv .,ESP,0
+50,aquí dice mil setecientos noventa y dos al noventa al noventa y dos .,adv v n n det:num coord det:num aprep det:num aprep det:num coord det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+51,sí pero eso es en términos generales cuando él empezó .,co conj pro:dem cop prep n adj pro:rel pro:sub v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+52,yo no sé .,pro:sub adv v .,ESP ESP ESP,0
+53,pero eso es lo que dice aquí .,conj pro:dem cop pro:obj pro:rel v adv .,ESP ESP ESP ESP ESP ESP ESP,0
+54,eh pero solamente escribió doscientos cincuenta y nueve barras del primero movimiento .,co conj adv v det:num det:num coord det:num v prep adv n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+55,el concierto en D ha sido compuesto como quince años .,det:art n prep n:prop v cop adj pro:rel det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+56,fue compuesto quince años más tarde que sería mil ochocientos ...,cop adj det:num n adv adv pro:rel cop det:num det:num +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+57,seis .,det:num .,ESP,0
+58,por eso .,prep pro:dem .,ESP ESP,0
+59,sí más o menos .,co adv coord adv .,ESP ESP ESP ESP,0
+60,de mil setecientos noventa y uno a mil ochocientos seis quince años .,prep n n det:num coord pro:dem aprep det:num det:num det:num det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+61,sí .,co .,ESP,0
+62,okay .,co .,ESP,0
+63,en el otoño de mil ochocientos seis Franz Clement quien era el jefe y conductor de la orquesta de teatro de Wien en Wein_der_Viena .,prep det:art n imp det:num det:num det:num n:prop n:prop pro:rel cop det:art n coord n prep det:art n prep n prep n:prop prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+64,mil ochocientos dos hasta mil ochocientos once .,det:num det:num det:num prep det:num det:num det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+65,concerto para clemencia para un clemente primo .,n prep n prep det:art adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+66,violino e editorio al teatro de Viena .,L2 coord L2 aprep n prep n:prop .,ENG ESP ENG ESP ESP ESP ESP,1
+67,escribió Beethoven en sus llaman aquí macaronic .,v n:prop prep co v adv L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+68,forma a la cabeza de la composición .,v aprep det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+69,pero no dicen /.,conj adv v +/.,ESP ESP ESP,0
+70,el primer movimiento en particular es remarcable .,det:art adv n prep adj cop adj .,ESP ESP ESP ESP ESP ESP ESP,0
+71,la poca bravura yo no sé yo lo creo muy más eh que no le falta nada .,det:art det:indef n pro:sub adv v pro:sub pro:obj v adv adv co pro:rel adv pro:ind v v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+72,sí .,co .,ESP,0
+73,y que thereby matching the style of Clement's piano .,L2 L2 adv part det n prep n:prop n .,ENG ENG ESP ESP ESP ESP ESP ESP ESP,1
+74,y tengo que seguir en español .,coord v pro:rel inf prep adj .,ESP ESP ESP ESP ESP ESP,0
+75,lo que pasa es que estoy traduciendo de una página a la otra .,pro:obj pro:rel v cop pro:rel aux ger prep det:art n aprep det:art det:indef .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+76,sí bueno aún aquí aquí dice también de su principio cuando él la primera vez que él recibió mucha crítica .,co co adv adv adv v adv prep det:pos n pro:rel pro:sub pro:obj adj:num n pro:rel pro:sub v det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+77,para mí francamente cuando yo lo pongo las primeras cinco notas lo que yo recuerdo es Mozart .,prep pro:prep adv:adj conj pro:sub pro:obj v det:art adj:num det:num v pro:obj pro:rel pro:sub v cop n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+78,sí porque tenía la influencia de Mozart él /.,co conj v det:art n prep n:prop pro:sub +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+79,.,None,,0
+80,en un momento oscuro yo puedo o equivocarme si es Mozart o es Beethoven .,prep det:art n adj pro:sub v coord inf conj cop n:prop coord cop n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+81,y //.,coord +//.,ESP,0
+82,y él claro el el piano era su instrumento favorito .,coord pro:sub co det:art det:art n cop det:pos n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+83,pero el violín llegó a ser su segundo instrumento .,conj det:art n v aprep inf det:pos adj:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+84,pero cuando él componía muchas muchas piezas de lo que cuando él estaba más serio en cuanto a composición era cuando componía los cuartetos para instrumentos de cuerda .,conj pro:rel pro:sub v det:indef det:indef n prep pro:obj prep pro:rel pro:sub cop adv adj prep det:indef aprep n cop conj v det:art n prep n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+85,ahí y en las sinfonías .,adv coord prep det:art n .,ESP ESP ESP ESP ESP,0
+86,conciertos y las sinfonías .,n coord det:art n .,ESP ESP ESP ESP,0
+87,en las sinfonías especialmente y en los cuartetos de cuerdas .,prep det:art n adv coord prep det:art n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+88,yo he visto a este señor muchas veces pero .,pro:sub v v aprep det:dem co:voc det:indef n conj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+89,quién a ?,pro:int aprep ?,ESP ESP,0
+90,a Itzhak Perlman .,aprep n:prop n:prop .,ESP ESP ESP,0
+91,Itzhak Perlman ?,n:prop n:prop ?,ESP ESP,0
+92,sí .,co .,ESP,0
+93,pero .,conj .,ESP,0
+94,tú sabes que él es tiene malas piernas pues es decir ?,pro:sub v pro:rel pro:sub cop v adj n co cop inf ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+95,él tuvo polio .,pro:sub v n .,ESP ESP ESP,0
+96,polio sí pero .,n co conj .,ESP ESP ESP,0
+97,y él tiene él ha venido aquí muchas veces .,coord pro:sub v pro:sub aux part adv det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+98,pero nunca me ha y tiene familia aquí también en Miami .,conj adv pro:obj aux coord v n adv adv prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+99,uhuh .,co .,ESP,0
+100,pero él nació en .,conj pro:sub v prep .,ESP ESP ESP ESP,0
+101,él nació en Israel .,pro:sub v prep n:prop .,ESP ESP ESP ESP,0
+102,en Israel .,prep n:prop .,ESP ESP,0
+103,sí .,co .,ESP,0
+104,Daniel Barenboim también nació en Israel .,n:prop n:prop adv v prep n:prop .,ESP ESP ESP ESP ESP ESP,0
+105,mhm .,co .,ESP,0
+106,pero se las ha encontrado bien aquí .,conj pro:refl pro:obj aux part adv adv .,ESP ESP ESP ESP ESP ESP ESP,0
+107,no pero él vino de bastante pequeño porque lo trajeron para que fuera a .,adv conj pro:sub v prep adv adj conj pro:obj v prep pro:rel adv aprep .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+108,cómo es a ?,pro:int cop aprep ?,ESP ESP ESP,0
+109,Daniel Barenboim ?,n:prop n:prop ?,ESP ESP,0
+110,este Itzhak Perlman .,det:dem n:prop n:prop .,ESP ESP ESP,0
+111,oh .,co .,ESP,0
+112,para que fuera al hospital ?,prep pro:rel adv aprep n ?,ESP ESP ESP ESP ESP,0
+113,no no para que fuera a al conservatorio de en Nueva_York .,adv adv prep pro:rel adv aprep aprep n v prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+114,se llama .,pro:refl v .,ESP ESP,0
+115,cómo es que se llama eso ?,pro:int cop pro:rel pro:refl v pro:dem ?,ESP ESP ESP ESP ESP ESP,0
+116,ajá .,co .,ESP,0
+117,tiene un nombre especial .,v det:art n adj .,ESP ESP ESP ESP,0
+118,sí de ahí es donde han salido la mayoría de los buenos violinistas yeah .,co prep adv cop pro:rel aux part det:art n prep det:art adj n co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+119,esos niños de la familia Brown donde todos cinco hijos están tocando .,det:dem n prep det:art n n:prop pro:rel det:indef det:num n aux ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+120,el del piano ?,det:art prep n ?,ESP ESP ESP,0
+121,uhuh .,co .,ESP,0
+122,sí .,co .,ESP,0
+123,ellos están ahí ahora .,pro:sub cop adv adv .,ESP ESP ESP ESP,0
+124,ahí también ?,adv adv ?,ESP ESP,0
+125,sí mhm .,co co .,ESP ESP,0
+126,esto es fantástico como tocan ellos .,pro:dem cop co adv v pro:sub .,ESP ESP ESP ESP ESP ESP,0
+127,tener cinco personas que tocan tan ...,inf det:num n pro:rel v adv +...,ESP ESP ESP ESP ESP ESP,0
+128,tan bien el piano y .,adv adv det:art n coord .,ESP ESP ESP ESP ESP,0
+129,tan fantásticamente .,adv adv:adj .,ESP ESP,0
+130,y que lo toquen al mismo tiempo .,coord pro:rel pro:obj v aprep adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+131,varias composiciones según los c_ds que yo tengo .,v n prep det:art n pro:rel pro:sub v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+132,uno de los Cds ellos han tocado varias composiciones todos cinco al mismo tiempo .,det:art prep det:art n:prop:L2 pro:sub aux part v n det:indef det:num aprep adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+133,fantástico .,co .,ESP,0
+134,cierta mezcla .,adj v .,ESP ESP,0
+135,sí sí .,co co .,ESP ESP,0
+136,saben lo que tiene .,v pro:obj pro:rel v .,ESP ESP ESP ESP,0
+137,uno tiene /.,det:art v +/.,ESP ESP,0
+138,aquí no debe estar .,adv adv v inf .,ESP ESP ESP ESP,0
+139,uno toca el bajo .,det:art v det:art adj .,ESP ESP ESP ESP,0
+140,otro toca la melodía .,det:indef v det:art n .,ESP ESP ESP ESP,0
+141,otro toca otras cosas más es decir /.,det:indef imp det:indef v adv cop inf +/.,ESP ESP ESP ESP ESP ESP ESP,0
+142,algunas partes o especiales y .,det:indef v coord adj coord .,ESP ESP ESP ESP ESP,0
+143,el chiquito no estaba tocando originalmente .,det:art n adv aux ger adv:adj .,ESP ESP ESP ESP ESP ESP,0
+144,cuando lo pusieron la primera vez en Sesenta_Minutos /.,conj pro:obj v det:art adj:num n prep n:prop +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+145,el chiquito no estaba solamente los dos muchachos y las dos muchachas .,det:art n adv cop adv det:art det:num n coord det:art det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+146,lo .,pro:obj .,ESP,0
+147,pero son tres muchachas y dos muchachos .,conj cop det:num n coord det:num n .,ESP ESP ESP ESP ESP ESP ESP,0
+148,son tres muchachas .,cop det:num n .,ESP ESP ESP,0
+149,bueno yo sé que el menor es un niño .,co pro:sub v pro:rel det:art adj cop det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+150,no no bueno no .,adv adv co adv .,ESP ESP ESP ESP,0
+151,yo no sé .,pro:sub adv v .,ESP ESP ESP,0
+152,no /.,adv +/.,ESP,0
+153,pero ahora todos parecen de a /.,conj adv det:indef v prep aprep +/.,ESP ESP ESP ESP ESP ESP,0
+154,todos .,det:indef .,ESP,0
+155,sí .,co .,ESP,0
+156,no el menor se ve menor todavía .,adv det:art adj pro:refl v adj adv .,ESP ESP ESP ESP ESP ESP ESP,0
+157,pero todos .,conj det:indef .,ESP ESP,0
+158,y la madre empezó a enseñarles a los tres años .,coord det:art n v aprep inf aprep det:art det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+159,ah yo tengo que llamar a Lisa porque le dije que el piano no es un juguete .,co pro:sub v pro:rel inf aprep n:prop conj pro:ind v pro:rel det:art n adv cop det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+160,y qué pasa ?,coord pro:int v ?,ESP ESP ESP,0
+161,que no está .,pro:rel adv cop .,ESP ESP ESP,0
+162,no está qué ?,adv cop pro:int ?,ESP ESP ESP,0
+163,no está aprendiendo ?,adv aux ger ?,ESP ESP ESP,0
+164,el el niño .,det:art det:art n .,ESP ESP ESP,0
+165,no está tomando clases todavía .,adv aux ger n adv .,ESP ESP ESP ESP ESP,0
+166,"y y no es una cosa para que alguien diga ""/.","coord coord adv cop det:art v prep pro:rel pro:indef v +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+167,ay que lindo y que bueno que le mandan un piano .,co pro:rel adj coord pro:rel co pro:rel pro:ind v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+168,es una cosa para estudiar .,cop det:art imp prep inf .,ESP ESP ESP ESP ESP,0
+169,y cuando yo le hablo a Juan_Pablo se pone bien serio .,coord conj pro:sub pro:ind v aprep n:prop pro:refl v adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+170,dice que no .,v pro:rel adv .,ESP ESP ESP,0
+171,pero a él sí le gusta esa /.,conj aprep pro:sub co pro:ind v det:dem +/.,ESP ESP ESP ESP ESP ESP ESP,0
+172,no entiendes .,adv v .,ESP ESP,0
+173,sí .,co .,ESP,0
+174,pero él no tiene ninguno que le diga cómo es que suena cierta nota .,conj pro:sub adv v det:indef pro:rel pro:ind v pro:int cop pro:rel v adj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+175,sí sí eso es lo que pasa ahí .,co co pro:dem cop pro:obj pro:rel v adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+176,y Lisa quedó en buscarle al maestro .,coord n:prop v prep inf aprep n .,ESP ESP ESP ESP ESP ESP ESP,0
+177,y después que la maestra en el edificio no quería porque ella toca en la sinfónica .,coord adv prep det:art n prep det:art n adv v conj pro:sub v prep det:art adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+178,y yo no sé qué .,coord pro:sub adv v pro:int .,ESP ESP ESP ESP ESP,0
+179,ella no tiene tiempo para eso .,pro:sub adv v n prep pro:dem .,ESP ESP ESP ESP ESP ESP,0
+180,ella no tiene tiempo para eso .,pro:sub adv v n prep pro:dem .,ESP ESP ESP ESP ESP ESP,0
+181,pero hay maestros en el colegio .,conj v n prep det:art n .,ESP ESP ESP ESP ESP ESP,0
+182,él está yendo a un colegio adventista .,pro:sub aux ger aprep det:art n n .,ESP ESP ESP ESP ESP ESP ESP,0
+183,está yendo a un colegio adventista ?,aux ger aprep det:art n n ?,ESP ESP ESP ESP ESP ESP,0
+184,costándole los ojos de la cara pero .,ger det:art n prep det:art n conj .,ESP ESP ESP ESP ESP ESP ESP,0
+185,quién lo está pagando ?,pro:int pro:obj aux ger ?,ESP ESP ESP ESP,0
+186,la mamá la ?,det:art n det:art ?,ESP ESP ESP,0
+187,yo no sé .,pro:sub adv v .,ESP ESP ESP,0
+188,la mamá del muchacho ?,det:art n prep n ?,ESP ESP ESP ESP,0
+189,no sé .,adv v .,ESP ESP,0
+190,la mamá del muchacho .,det:art n prep n .,ESP ESP ESP ESP,0
+191,la mamá es Lisa .,det:art n cop n:prop .,ESP ESP ESP ESP,0
+192,del padre .,prep n .,ESP ESP,0
+193,no sé .,adv v .,ESP ESP,0
+194,la mamá del padre de él .,det:art n prep n v pro:sub .,ESP ESP ESP ESP ESP ESP,0
+195,no no sé .,adv adv v .,ESP ESP ESP,0
+196,ella ella trabaja en otro colegio .,pro:sub pro:sub v prep pro:indef n .,ESP ESP ESP ESP ESP ESP,0
+197,pero el colegio que ella trabaja no es adventista .,conj det:art n pro:rel pro:sub v adv cop n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+198,mhm .,co .,ESP,0
+199,y pero sí le gusta él le gustan las canciones y los .,coord conj co pro:ind v pro:sub pro:ind v det:art n coord pro:obj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+200,no él me dijo que le gusta el colegio .,adv pro:sub pro:obj v pro:rel pro:ind v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+201,está fascinado con el colegio porque nunca antes ha entrado en ese //.,aux part prep det:art n conj adv adv aux part prep det:dem +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+202,en esa clase de de colegio .,prep det:dem n v prep n .,ESP ESP ESP ESP ESP ESP,0
+203,yo creo que él va a escuela sabática .,pro:sub v pro:rel pro:sub v aprep n adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+204,escuela no con //.,n adv prep +//.,ESP ESP ESP,0
+205,no es lo mismo que la escuela .,adv cop pro:obj adj pro:rel det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+206,pero en colegio adventista no he estado anteriormente .,conj prep n n adv aux part adv:adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+207,escuela porque él todavía está muy pequeño para coger al colegio .,n conj pro:sub adv cop adv adj prep inf aprep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+208,escuela te refieres .,n pro:obj v .,ESP ESP ESP,0
+209,no lo sé .,adv pro:obj v .,ESP ESP ESP,0
+210,escuela tiene que ser una escuela .,n v pro:rel inf det:art n .,ESP ESP ESP ESP ESP ESP,0
+211,escuela escuelita .,n n .,ESP ESP,0
+212,y a y sale desde bien temprano .,coord aprep coord v prep adv adj .,ESP ESP ESP ESP ESP ESP ESP,0
+213,y llega bien tarde .,coord v adv adv .,ESP ESP ESP ESP,0
+214,pero sí sí le gusta //.,conj co co pro:ind v +//.,ESP ESP ESP ESP ESP,0
+215,cuando yo hablé con él la última vez estaba encantado de las //.,conj pro:sub v prep pro:sub pro:obj adj n aux part prep det:art +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+216,y dice que sí lo toca .,coord v pro:rel co pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+217,y según /.,coord prep +/.,ESP ESP,0
+218,cuándo tú hablaste con él ?,pro:int pro:sub v prep pro:sub ?,ESP ESP ESP ESP ESP,0
+219,hace como dos meses dos o tres meses .,v adv det:num n det:num coord det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+220,en su casa ?,prep det:pos imp ?,ESP ESP ESP,0
+221,sí bueno no él estaba donde Steven .,co co adv pro:sub aux pro:rel n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+222,y y estaban ahí entonces lo pusieron en el teléfono .,coord coord cop adv adv pro:obj v prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+223,ah .,co .,ESP,0
+224,y .,coord .,ESP,0
+225,porque a él le fascina hablar por teléfono .,conj aprep pro:sub pro:ind v inf prep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+226,sí ?,co ?,ESP,0
+227,cuando suena el teléfono él dice yo quiero hablar con mi tía .,conj v det:art n pro:sub v pro:sub v inf prep det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+228,sí él me estaba diciendo de que sí le gustaba la música esa .,co pro:sub pro:obj aux ger prep pro:rel co pro:ind v det:art n det:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+229,pero no toda esa es lo /.,conj adv det:indef det:dem cop pro:obj +/.,ESP ESP ESP ESP ESP ESP,0
+230,y Lisa ?,coord n:prop ?,ESP ESP,0
+231,según Lisa dice que le él se sienta .,prep n:prop v pro:rel pro:ind pro:sub pro:refl v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+232,y se empieza a poner un disco tras otro uno tras otro uno tras otro .,coord pro:refl v aprep inf det:art n prep pro:indef det:art prep pro:indef det:art prep pro:indef .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+233,ella nunca me dijo eso .,pro:sub adv pro:obj v pro:dem .,ESP ESP ESP ESP ESP,0
+234,sí según ellos .,co prep pro:sub .,ESP ESP ESP,0
+235,"y yo le dije "".","coord pro:sub pro:ind v +"".",ESP ESP ESP ESP,0
+236,Lisa eso debo ser lo último que él oye por la noche .,n:prop pro:dem v inf pro:obj adj pro:rel pro:sub v prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+237,no de esas basuras y esas novelas que tú estás oyendo .,adv prep det:dem n coord det:dem n pro:rel pro:sub aux ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+238,sí .,co .,ESP,0
+239,pero tú no puedes controlar eso desde aquí .,conj pro:sub adv v inf pro:dem prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+240,eso lo controla ella allá .,pro:dem pro:obj v pro:sub adv .,ESP ESP ESP ESP ESP,0
+241,bueno lo estoy yo estoy controlando a ella desde aquí .,co pro:obj aux pro:sub aux ger aprep pro:sub prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+242,ella lo tiene que controlar desde allá .,pro:sub pro:obj v pro:rel inf prep adv .,ESP ESP ESP ESP ESP ESP ESP,0
+243,eso sí que le han sacado plata a a esa canción Time_to_say_goodbye .,pro:dem co pro:rel pro:ind aux part n aprep aprep det:dem n n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+244,mhm .,co .,ESP,0
+245,yo creo que la tienen en todo disco de toda clase para todo el mundo .,pro:sub v pro:rel pro:obj v prep pro:indef n prep det:indef n v det:indef det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+246,ese Paul Potts y la persona de Inglaterra .,det:dem n:prop n:prop coord det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+247,yo no lo conozco .,pro:sub adv pro:obj v .,ESP ESP ESP ESP,0
+248,él es de Inglaterra ?,pro:sub cop prep n:prop ?,ESP ESP ESP ESP,0
+249,sí .,co .,ESP,0
+250,y cantó en uno de sus programas cómo .,coord v prep det:art prep det:pos n co .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+251,es algo similar a America .,cop pro:dem adj aprep n:prop:L2 .,ESP ESP ESP ESP ESP,0
+252,es el mismo señor que lo //.,cop det:art adj co:voc pro:rel pro:obj +//.,ESP ESP ESP ESP ESP ESP,0
+253,America que ?,n:prop:L2 pro:rel ?,ESP ESP,0
+254,Americas_Idol .,n:prop .,ESP,0
+255,ah ah ídolo americano .,co co n n .,ESP ESP ESP ESP,0
+256,sí .,co .,ESP,0
+257,pero allá no le llaman ídolo americano .,conj adv adv pro:ind v n n .,ESP ESP ESP ESP ESP ESP ESP,0
+258,ellos lo llaman /.,pro:sub pro:obj v +/.,ESP ESP ESP,0
+259,sí claro en cada lugar ponen un nombre distinto .,co co prep det:indef n v det:art n adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+260,algo que resuene más .,pro:dem pro:rel re#v adv .,ESP ESP ESP ESP,0
+261,yo no sé cómo es que lo llaman allá .,pro:sub adv v pro:int cop pro:rel pro:obj v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+262,pero es una cosa distinta .,conj cop det:art imp adj .,ESP ESP ESP ESP ESP,0
+263,y me parece raro que ese majadero del hombre ese no ha podido decirle vamos a buscar una canción para ti .,coord pro:obj v adj pro:rel det:dem n prep co det:dem adv aux part inf v aprep inf det:art n prep pro:prep .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+264,para quién ?,prep pro:int ?,ESP ESP,0
+265,para que sea la canción de él .,prep pro:rel cop det:art n v pro:sub .,ESP ESP ESP ESP ESP ESP ESP,0
+266,así sea nueva .,adv cop adj .,ESP ESP ESP,0
+267,o sea vieja .,coord cop adj .,ESP ESP ESP,0
+268,pero que sea algo nuevo .,conj pro:rel cop pro:dem adj .,ESP ESP ESP ESP ESP,0
+269,quién a quién al cantante ?,pro:int aprep pro:int aprep n ?,ESP ESP ESP ESP ESP,0
+270,Potts .,n:prop .,ESP,0
+271,él está cantando Nessun_Dorma en todas partes donde va .,pro:sub aux ger n:prop prep det:indef v pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+272,cantó para la reina de Inglaterra la semana pasada .,v prep det:art v prep n:prop det:art n part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+273,mhm .,co .,ESP,0
+274,no la semana antepasada o en enero .,adv det:art n adj coord prep n .,ESP ESP ESP ESP ESP ESP ESP,0
+275,y entonces estaba en ABC la semana pasada .,coord adv cop prep n:prop det:art n part .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+276,y cantó la misma canción otra vez .,coord v det:art adj n det:indef n .,ESP ESP ESP ESP ESP ESP ESP,0
+277,mhm .,co .,ESP,0
+278,Nessun_Dorma es la canción con la cual se clasifica .,n:prop cop det:art n prep det:art pro:rel pro:refl v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+279,que se que se identifica a Paverotti .,pro:rel pro:refl pro:rel pro:refl v aprep n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+280,ah Pavorotti .,co n:prop .,ESP ESP,0
+281,no tenía que coger esa .,adv v pro:rel inf det:dem .,ESP ESP ESP ESP ESP,0
+282,sí .,co .,ESP,0
+283,yo no estoy diciendo que sí tal vez él canta esa más que cualquiera otra .,pro:sub adv aux ger pro:rel co adj n pro:sub v det:dem adv pro:rel pro:indef det:indef .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+284,mhm .,co .,ESP,0
+285,pero una persona que canta tan bien así muy bien podrían prepararlo con una canción así ya sea ...,conj det:art n pro:rel v adv adv adv adv adv v inf prep pro:dem n adv adv cop +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+286,qué orquesta .,pro:int n .,ESP ESP,0
+287,cómo es que se dice ?,pro:int cop pro:rel pro:refl v ?,ESP ESP ESP ESP ESP,0
+288,It's_Been_a_Day ?,n:prop ?,ESP,0
+289,esa eh que canta el el cuarteto ese de hombres .,det:dem co pro:rel v det:art det:art n det:dem prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+290,ah sí sí sí .,co co co co .,ESP ESP ESP ESP,0
+291,cualquiera de esa canción no tenía que ser clásica nada .,pro:indef prep det:dem n adv v pro:rel inf adj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+292,no pero es es que él //.,adv conj cop cop pro:rel pro:sub +//.,ESP ESP ESP ESP ESP ESP,0
+293,por ejemplo Pavarotti se hizo famoso con esa canción pues será porque lo hacía tan bien .,prep n n:prop pro:refl v adj prep det:dem n co cop conj pro:obj v adv adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+294,y entonces muchas personas están tratando de imitar a Pavarotti y a ver si se identifica //.,coord adv det:indef n aux ger prep inf aprep n:prop coord aprep inf conj pro:refl v +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+295,bueno ahora Pavarotti ya murió así que /.,co adv n:prop adv v adv pro:rel +/.,ESP ESP ESP ESP ESP ESP ESP,0
+296,entonces la otra canción que tiene es Time_to_Say_Goodbye .,adv det:art det:indef n pro:rel v cop n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+297,esa ya tiene su dueño .,det:dem adv v det:pos n .,ESP ESP ESP ESP ESP,0
+298,él no puede estar cantando esa tantas veces .,pro:sub adv v inf ger det:dem det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+299,sí pero bueno ese .,co conj co det:dem .,ESP ESP ESP ESP,0
+300,yo voy a tener que escribirle una noticia a Paul .,pro:sub v aprep inf prep inf det:art n aprep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+301,entonces tiene creo que Ave_María /.,adv v v pro:rel n:prop +/.,ESP ESP ESP ESP ESP,0
+302,eso es tu opinión .,pro:dem cop det:pos n .,ESP ESP ESP ESP,0
+303,no todo el mundo está diciendo eso que no tiene una canción de sí mismo .,adv det:indef det:art n aux ger pro:dem pro:rel adv v det:art n v co adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+304,una canción que lo identifica a él .,det:art n pro:rel pro:obj v aprep pro:sub .,ESP ESP ESP ESP ESP ESP ESP,0
+305,sí .,co .,ESP,0
+306,mhm .,co .,ESP,0
+307,y va a tener que ir a un dentista también porque tiene esos dientes encaramados uno encima de los otros .,coord v aprep inf pro:rel inf aprep det:art n adv conj v det:dem n part pro:dem adv prep det:art pro:indef .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+308,.,None,,0
+309,o un .,coord det:art .,ESP ESP,0
+310,tal vez a un cirujano plástico y que le abra más los labios para que le quepan los dientes .,det:dem n aprep det:art n adj coord pro:rel pro:ind v adv pro:obj n prep pro:rel pro:ind v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+311,ajá .,co .,ESP,0
+312,ya yo lo estoy arreglando .,adv pro:sub pro:obj aux ger .,ESP ESP ESP ESP ESP,0
+313,.,None,,0
+314,me causa risa porque de seguro que muchas otras personas ha podido notar eso .,pro:obj v n conj v co pro:rel det:indef det:indef n aux part inf pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+315,si y con el dinero que ganan pues /.,conj coord prep det:art n pro:rel v co +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+316,sí .,co .,ESP,0
+317,y porque no lo pueden hacer entonces ?,coord conj adv pro:obj v inf adv ?,ESP ESP ESP ESP ESP ESP ESP,0
+318,está bien vestido ahora .,cop adv part adv .,ESP ESP ESP ESP,0
+319,mhm mhm .,co co .,ESP ESP,0
+320,eso sí .,pro:dem co .,ESP ESP,0
+321,sí porque tiene dinero .,co conj v n .,ESP ESP ESP ESP,0
+322,y el pelo está bien cortado .,coord det:art n cop adv part .,ESP ESP ESP ESP ESP ESP,0
+323,pero hay que cambiar las canciones .,conj v pro:rel inf det:art n .,ESP ESP ESP ESP ESP ESP,0
+324,.,None,,0
+325,porque .,conj .,ESP,0
+326,ya ya lo /.,adv adv pro:obj +/.,ESP ESP ESP,0
+327,yo le voy a mandar una lista de los que yo quiero .,pro:sub pro:ind v aprep inf det:art adj prep det:art pro:rel pro:sub v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+328,deber tener una cosa en el //.,inf inf det:art imp prep det:art +//.,ESP ESP ESP ESP ESP ESP,0
+329,cómo es que se llama ?,pro:int cop pro:rel pro:refl v ?,ESP ESP ESP ESP ESP,0
+330,en el internet uno puede mandarle mensajes .,prep det:art n pro:dem v inf n .,ESP ESP ESP ESP ESP ESP ESP,0
+331,ajá una ...,co pro:dem +...,ESP ESP,0
+332,sí una cómo se llama eso ?,co det:art pro:int pro:refl v pro:dem ?,ESP ESP ESP ESP ESP ESP,0
+333,una ...,pro:dem +...,ESP,0
+334,eh blog ?,co L2 ?,ESP ENG,1
+335,sí no un blog bueno blog es para que ellos escriben .,co adv det:art L2 co L2 cop prep pro:rel pro:sub v .,ESP ESP ESP ENG ESP ENG ESP ESP ESP ESP ESP,1
+336,el blog es para ellos escribir cosas en términos más .,det:art L2 cop prep pro:sub inf v prep n adv .,ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+337,por eso .,prep pro:dem .,ESP ESP,0
+338,es decir de cualquier cosas que quieran escribir .,cop inf prep pro:indef v prep imp inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+339,pero ellos tienen que tener un lugar donde ellos reciben mensajes críticas .,conj pro:sub v pro:rel inf det:art n pro:rel pro:sub v n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+340,sí ahí uno puede escribirlas ahí .,co adv pro:dem v inf adv .,ESP ESP ESP ESP ESP ESP,0
+341,pero eso sería un blog tuyo hacia ellos .,conj pro:dem cop det:art L2 pro:pos prep pro:sub .,ESP ESP ESP ESP ENG ESP ESP ESP,1
+342,sí pero ellos lo leen ahí de todas maneras .,co conj pro:sub pro:obj v adv prep det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+343,ellos leen lo que él escribe .,pro:sub v pro:obj pro:rel pro:sub v .,ESP ESP ESP ESP ESP ESP,0
+344,y lo que la gente corresponde .,coord pro:obj prep det:art n v .,ESP ESP ESP ESP ESP ESP,0
+345,lo lo que la gente le contesta ?,pro:obj pro:obj prep det:art n pro:ind v ?,ESP ESP ESP ESP ESP ESP ESP,0
+346,bueno sí .,co co .,ESP ESP,0
+347,yo no sé mucho de eso .,pro:sub adv v adv prep pro:dem .,ESP ESP ESP ESP ESP ESP,0
+348,así que yo le voy a decir .,adv pro:rel pro:sub pro:ind v aprep inf .,ESP ESP ESP ESP ESP ESP ESP,0
+349,tiene que arreglarse lo dientes .,v pro:rel inf pro:obj n .,ESP ESP ESP ESP ESP,0
+350,.,None,,0
+351,tiene que echarse un poquito de sol .,v pro:rel inf det:art pro:indef prep n .,ESP ESP ESP ESP ESP ESP ESP,0
+352,bueno .,co .,ESP,0
+353,y tiene que encontrar esa canción que solamente sea para él .,coord v pro:rel inf det:dem n pro:rel adv cop imp pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+354,y yo creo que esa .,coord pro:sub v pro:rel det:dem .,ESP ESP ESP ESP ESP,0
+355,tú tienes manera de hacerlo ?,pro:sub v n prep inf ?,ESP ESP ESP ESP ESP,0
+356,entonces /.,adv +/.,ESP,0
+357,sí yo creo que lo //.,co pro:sub v pro:rel pro:obj +//.,ESP ESP ESP ESP ESP,0
+358,mientras no se haga sucio no no tengo restricciones .,adv adv pro:refl v adj adv adv v n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+359,sí .,co .,ESP,0
+360,ah esa canción que cantan It's_Been a It's_Been_a_Day .,co det:dem n pro:rel v n:prop aprep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+361,it's the end of the the .,pro det n prep det det .,ESP ESP ESP ESP ESP ESP,0
+362,sí .,co .,ESP,0
+363,esa es la que yo creo que él debería cantar .,det:dem cop det:art pro:rel pro:sub v pro:rel pro:sub v inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+364,bueno recomiéndalo .,co imp .,ESP ESP,0
+365,"hay una que dice ""/.","v pro:dem pro:rel v +""/.",ESP ESP ESP ESP,0
+366,it's five o'clock somewhere .,pro det:num n n .,ESP ESP ESP ESP,0
+367,quizás te quizás te //.,adv pro:obj adv pro:obj +//.,ESP ESP ESP ESP,0
+368,son las cinco de la tarde en algún eh .,cop det:art det:num prep det:art adv prep det:indef co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+369,en alguna parte tiene que ser las cinco de la tarde .,prep det:indef v v pro:rel inf det:art det:num prep det:art adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+370,yo no creo eso porque .,pro:sub adv v pro:dem conj .,ESP ESP ESP ESP ESP,0
+371,sí sí puede sí .,co co v co .,ESP ESP ESP ESP,0
+372,a toda hora no puede haber un lugar donde es las cinco de la tarde .,aprep det:indef n adv v inf det:art n pro:rel cop det:art det:num prep det:art adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+373,sí .,co .,ESP,0
+374,mira el imperio inglés se vanagloriaba de que el sol no se ponía en todo su imperio .,co det:art n n pro:refl v prep pro:rel det:art n adv pro:refl v prep pro:indef det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+375,sí eso sí es cierto .,co pro:dem co cop adj .,ESP ESP ESP ESP ESP,0
+376,ajá .,co .,ESP,0
+377,el sol nunca estaba puesto en todo su imperio .,det:art n adv aux part prep pro:indef det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+378,porque ellos tenían .,conj pro:sub v .,ESP ESP ESP,0
+379,exacto .,co .,ESP,0
+380,porque ellos tenían eh dominios en tantos lugares a través de todo el hemisferio .,conj pro:sub v co n prep det:indef n aprep n prep det:indef det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+381,sí .,co .,ESP,0
+382,tú sabes esos relojes relajo que tienen la hora .,pro:sub v det:dem n v pro:rel v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+383,qué hora es en Francia ?,pro:int n cop prep n:prop ?,ESP ESP ESP ESP ESP,0
+384,qué hora es en Egipto ?,pro:int n cop prep n:prop ?,ESP ESP ESP ESP ESP,0
+385,que ?,pro:rel ?,ESP,0
+386,sí .,co .,ESP,0
+387,okay .,co .,ESP,0
+388,hay //.,v +//.,ESP,0
+389,tú pones cada uno en las cinco la hora no son muchos los lugares .,pro:sub v det:indef det:art prep det:art det:num det:art n adv cop det:indef det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+390,eh tú tendrás unos para Israel tiene unas horas distintas creo .,co pro:sub v det:art prep n:prop v det:art n adj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+391,ah Londres tiene una hora distinta .,co n:prop v det:art n adj .,ESP ESP ESP ESP ESP ESP,0
+392,sí hay hay .,co v v .,ESP ESP ESP,0
+393,París tiene otra hora .,n:prop v det:indef n .,ESP ESP ESP ESP,0
+394,Inglaterra tiene otra hora .,n:prop v det:indef n .,ESP ESP ESP ESP,0
+395,Japón tiene otra hora .,n:prop v det:indef n .,ESP ESP ESP ESP,0
+396,Alaska tiene otra hora .,n:prop v det:indef n .,ESP ESP ESP ESP,0
+397,pero no creo que hay veinticuatro lugares que tenga .,conj adv v pro:rel v det:num n pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+398,sí bueno sí hay espacio digamos el océano .,co co co v n v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+399,es que es una canción .,cop pro:rel cop det:art n .,ESP ESP ESP ESP ESP,0
+400,ahí donde hay lugares donde no va a haber digamos zona .,adv pro:rel v n pro:rel adv v aprep inf v n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+401,es decir no hay un lugar específico con una zona de .,cop inf adv v det:art n adj prep pro:dem n prep .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+402,es decir un lugar que esté en una zona de hora de .,cop inf det:art n pro:rel cop prep pro:dem n prep n prep .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+403,es decir opuesta a Greenwich .,cop inf adj aprep n:prop .,ESP ESP ESP ESP ESP,0
+404,así que yo no creo que es .,adv pro:rel pro:sub adv v pro:rel cop .,ESP ESP ESP ESP ESP ESP ESP,0
+405,es una canción de este señor que anda cantando música regular .,cop det:art n prep det:dem co:voc pro:rel v ger n adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+406,y dice que en alguna parte tiene que ser las cinco de la tarde .,coord v pro:rel prep det:indef v v pro:rel inf det:art det:num prep det:art adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+407,pero es lo que quiere decir .,conj cop pro:obj pro:rel v inf .,ESP ESP ESP ESP ESP ESP,0
+408,que en cualquiera parte tiene que ser hora de tomar .,pro:rel prep pro:indef v v pro:rel inf n prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+409,de tomar .,prep inf .,ESP ESP,0
+410,eso es lo que quiere decir .,pro:dem cop pro:obj pro:rel v inf .,ESP ESP ESP ESP ESP ESP,0
+411,sí sí .,co co .,ESP ESP,0
+412,no es el reloj que dice que es las cinco de la tarde .,adv cop det:art n pro:rel v pro:rel cop det:art det:num prep det:art adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+413,sí sí tiene otro significado completamente .,co co v det:indef part adv:adj .,ESP ESP ESP ESP ESP ESP,0
+414,este es lo que quiero que el sello tenga .,det:dem cop pro:obj pro:rel v pro:rel det:art n v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+415,ustedes lo pueden hacer en una manera bonita o .,pro:sub pro:obj v inf prep pro:dem n co:voc coord .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+416,no .,adv .,ESP,0
+417,tú tienes que buscarte un artista que te haga eso .,pro:sub v pro:rel inf det:art adj pro:rel pro:obj v pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+418,ay yo no puedo encontrar un artista así no más .,co pro:sub adv v inf det:art adj adv adv adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+419,entonces cada uno y entonces para sellar ponerle el sello a cosas distintas .,adv det:indef pro:dem coord adv prep inf inf det:art v aprep n adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+420,sí bueno pero también hay letras que ya están hechas más o menos en esta forma .,co co conj adv v n pro:rel adv aux v adv coord adv prep det:dem v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+421,hay hay .,v v .,ESP ESP,0
+422,y usted las tienen ?,coord pro:sub pro:obj v ?,ESP ESP ESP ESP,0
+423,sí .,co .,ESP,0
+424,hay catálogos que //.,v n pro:rel +//.,ESP ESP ESP,0
+425,hay ir a buscar sí yo te traigo un /.,v inf aprep inf co pro:sub pro:obj v det:art +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+426,pero la tinta entonces de qué color se //.,conj pro:obj adj adv prep pro:int n cop +//.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+427,uno //.,det:art +//.,ESP,0
+428,sí no una cualquiera tinta ?,co adv pro:dem pro:indef adj ?,ESP ESP ESP ESP ESP,0
+429,por qué ?,prep pro:int ?,ESP ESP,0
+430,porque tal vez un día lo quiero brillante y otro día lo quiero rosado .,conj adj n det:art n pro:obj v n coord pro:indef n pro:obj v adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+431,.,None,,0
+432,bueno la forma de hacer eso es hacerlo de caucho .,co pro:obj v prep inf pro:dem cop inf prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+433,y tener almohadillas de diferentes colores .,coord inf n prep adj v .,ESP ESP ESP ESP ESP ESP,0
+434,será que en esto sí puede decir que tengo ganas de ir para el baño ?,cop pro:rel prep pro:dem co v inf pro:rel v v prep inf prep det:art v ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+435,no no .,adv adv .,ESP ESP,0
+436,por qué no ?,prep pro:int adv ?,ESP ESP ESP,0
+437,porque /.,conj +/.,ESP,0
+438,es una cosa natural .,cop det:art imp adj .,ESP ESP ESP ESP,0
+439,no .,adv .,ESP,0
+440,me vas a decir que .,pro:obj v aprep inf pro:rel .,ESP ESP ESP ESP ESP,0
+441,tú puedes aguantar hasta que ya no falta si no como unos diez minutos .,pro:sub v inf prep pro:rel adv adv v conj adv adv pro:dem det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+442,oh .,co .,ESP,0
+443,entonces van a tener que esperarse de que yo puedo hacer eso .,adv v aprep inf prep inf prep pro:rel pro:sub v inf pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+444,mhm .,co .,ESP,0
+445,eh el Sam trató de conseguir al señor que le arreglara la computadora porque él dice que está muy lenta .,co det:art n:prop v prep inf aprep co:voc pro:rel pro:ind v det:art n conj pro:sub v pro:rel cop adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+446,el bendito hombre le dijo //.,det:art adj co pro:ind v +//.,ESP ESP ESP ESP ESP,0
+447,y temí que iba a hacer eso .,coord v pro:rel v aprep inf pro:dem .,ESP ESP ESP ESP ESP ESP ESP,0
+448,y no creo que es por la distancia .,coord adv v pro:rel cop prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+449,que qué ?,pro:rel pro:int ?,ESP ESP,0
+450,le dijo que era muy lejos .,pro:ind v pro:rel cop adv adv .,ESP ESP ESP ESP ESP ESP,0
+451,que no valía la pena .,pro:rel adv v det:art n .,ESP ESP ESP ESP ESP,0
+452,lo que yo creo es que tal vez no quería ...,pro:obj pro:rel pro:sub v cop pro:rel adj n adv v +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+453,Sam no le gusta la gente de Iran .,n:prop adv pro:ind v det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+454,de Iran ?,prep n:prop ?,ESP ESP,0
+455,yeah .,co .,ESP,0
+456,ninguno de esos países /.,det:indef prep det:dem n +/.,ESP ESP ESP ESP,0
+457,mira a a a Sam no le gusta la gente latina tampoco .,v aprep aprep aprep n:prop adv pro:ind v det:art n adj adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+458,no no dice eso a la gente latina /.,adv adv v pro:dem aprep det:art n adj +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+459,sí cuando él fue /.,co pro:rel pro:sub v +/.,ESP ESP ESP ESP,0
+460,mentira no no no no no no no .,n adv adv adv adv adv adv adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+461,sí sí .,co co .,ESP ESP,0
+462,cuando yo fui con él a recoger los muebles esos .,conj pro:sub v prep pro:sub aprep re#inf det:art n det:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+463,"él me habló dice "".","pro:sub pro:obj v v +"".",ESP ESP ESP ESP,0
+464,esta gente latina este esto .,det:dem n adj imp pro:dem .,ESP ESP ESP ESP ESP,0
+465,no y y Charlie .,adv coord coord n:prop .,ESP ESP ESP ESP,0
+466,yo quisiera que se los llevaron a todos .,pro:sub v pro:rel pro:refl pro:obj v aprep det:indef .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+467,no Charlie Freddy .,adv n:prop n:prop .,ESP ESP ESP,0
+468,y él ama a Freddy como el alma de como su propia madre .,coord pro:sub v aprep n:prop adv det:art n prep adv det:pos adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+469,mhm .,co .,ESP,0
+470,no es cierto que no los quiere .,adv cop adj pro:rel adv pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+471,pero .,conj .,ESP,0
+472,pero él dice que son irresponsables que son mentirosos que son esto lo de más .,conj pro:sub v pro:rel cop adj pro:rel cop n pro:rel cop pro:dem pro:obj prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+473,que no cumplen con lo que dicen .,pro:rel adv v prep pro:obj pro:rel v .,ESP ESP ESP ESP ESP ESP ESP,0
+474,ah eso sí .,co pro:dem co .,ESP ESP ESP,0
+475,le han causado tantos problemas .,pro:ind aux part det:indef n .,ESP ESP ESP ESP ESP,0
+476,eso sí es cierto .,pro:dem co cop adj .,ESP ESP ESP ESP,0
+477,yo no más he escuchado una solo dos canciones de este señor .,pro:sub adv adv aux part det:art adj det:num n prep det:dem co:voc .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+478,sí sí yo .,co co pro:sub .,ESP ESP ESP,0
+479,y de Scarlatti no más hay dos que me gustan .,coord prep n:prop adv adv v det:num pro:rel pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+480,.,None,,0
+481,.,None,,0
+482,.,None,,0
+483,y yo .,coord pro:sub .,ESP ESP,0
+484,no de Scarlatti ?,adv prep n:prop ?,ESP ESP ESP,0
+485,sí .,co .,ESP,0
+486,porque yo compré una específica .,conj pro:sub v det:art adj .,ESP ESP ESP ESP ESP,0
+487,y no tenía lo que yo quería .,coord adv v pro:obj pro:rel pro:sub v .,ESP ESP ESP ESP ESP ESP ESP,0
+488,pero .,conj .,ESP,0
+489,son dos hermanos Scarlatti .,cop det:num n n:prop .,ESP ESP ESP ESP,0
+490,padre y madre .,n coord n .,ESP ESP ESP,0
+491,padre e hijo .,n coord n .,ESP ESP ESP,0
+492,no no padre e hijo .,adv adv n coord n .,ESP ESP ESP ESP ESP,0
+493,pero el hijo tocó sonatas puras sonatas en piano .,conj det:art n v n adj n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+494,sí es padre e hijo .,co cop n coord n .,ESP ESP ESP ESP ESP,0
+495,y él trabajó para el reinado de España y de Portugal .,coord pro:sub v prep det:art part prep n:prop coord prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+496,y él puras sonatas ...,coord pro:sub adj n +...,ESP ESP ESP ESP,0
+497,bueno en en aquel entender era harpsichord .,co prep prep det:dem inf cop L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+498,sí .,co .,ESP,0
+499,pero son como composiciones bien corticas .,conj cop adv n adv adj .,ESP ESP ESP ESP ESP ESP,0
+500,.,None,,0
+501,sí mhm .,co L2 .,ESP ENG,1
+502,es este Domenico .,cop cop n:prop .,ESP ESP ESP,0
+503,el padre se llamaba Lorenzo .,det:art n pro:refl v n:prop .,ESP ESP ESP ESP ESP,0
+504,no era ?,adv cop ?,ESP ESP,0
+505,no .,adv .,ESP,0
+506,no me acuerdo ahora el padre pero .,adv pro:obj v adv det:art n conj .,ESP ESP ESP ESP ESP ESP ESP,0
+507,y tenían otro creo que tenía el otro hermano también que era músico .,coord v det:indef v pro:rel v det:art pro:indef n adv pro:rel cop adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+508,pero que no hizo gran cosa .,conj pro:rel adv v adj v .,ESP ESP ESP ESP ESP ESP,0
+509,"alguien dijo el otro día ""/.","pro:indef v det:art pro:indef n +""/.",ESP ESP ESP ESP ESP,0
+510,el pobre //.,det:art co:voc +//.,ESP ESP,0
+511,a no estaba pensando en Bach .,aprep adv aux ger prep n:prop .,ESP ESP ESP ESP ESP ESP,0
+512,tenía once hijos .,v det:num n .,ESP ESP ESP,0
+513,y todos estaban en el mismo cuarto .,coord pro:indef cop prep det:art adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+514,cómo se la arreglaba para hacer tantos hijos y hacer música también ?,pro:int pro:refl pro:obj v prep inf det:indef n coord inf adj adv ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+515,.,None,,0
+516,bueno pero era tenían la vida //.,co conj cop v det:art co:voc +//.,ESP ESP ESP ESP ESP ESP,0
+517,bueno especialmente si trabajaban para una iglesia o para un príncipe .,co adv conj v prep pro:dem n coord prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+518,él no .,pro:sub adv .,ESP ESP,0
+519,sí .,co .,ESP,0
+520,no dicen que él está /.,adv v pro:rel pro:sub cop +/.,ESP ESP ESP ESP ESP,0
+521,Bach .,n:prop .,ESP,0
+522,ves ?,co ?,ESP,0
+523,ahí está .,adv cop .,ESP ESP,0
+524,con todo .,prep pro:indef .,ESP ESP,0
+525,Bach él trabaja para //.,n:prop pro:sub v prep +//.,ESP ESP ESP ESP,0
+526,y bueno él tenía padres y hermanos que eran músicos también .,coord co pro:sub v n coord n pro:rel cop adj adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+527,bueno él enseñaba en la escuela de Lepsis .,co pro:sub v prep det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+528,pero por la noche se iba para su casa .,conj prep det:art n pro:refl v prep det:pos imp .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+529,sí pero estaba trabajando en aquel entonces estaba trabajando para un príncipe .,co conj aux ger prep det:dem adv aux ger prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+530,pero después de ahí cuando terminó de ahí fue a trabajar en otra iglesia .,conj adv prep adv conj v prep adv v aprep inf prep det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+531,y era haciendo las composiciones .,coord cop ger det:art n .,ESP ESP ESP ESP ESP,0
+532,imagínate que tenía que tener una composición distinta para cada fin de semana .,imp pro:rel v pro:rel inf det:art n adj prep det:indef n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+533,mhm .,co .,ESP,0
+534,Handel también //.,n:prop adv +//.,ESP ESP,0
+535,digo Haydn también .,v n:prop adv .,ESP ESP ESP,0
+536,sí Haydn también .,co n:prop adv .,ESP ESP ESP,0
+537,eso debe ser cansón no ?,pro:dem v inf adj adv ?,ESP ESP ESP ESP ESP,0
+538,pero tenían tanta práctica .,conj v det:indef adj .,ESP ESP ESP ESP,0
+539,pero ellos muchas veces se robaban de aquí y de allí .,conj pro:sub det:indef n pro:refl v prep adv coord prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+540,bueno .,co .,ESP,0
+541,bueno sí todos ellos copiaban .,co co det:indef pro:sub v .,ESP ESP ESP ESP ESP,0
+542,es decir no que robaban pero copiaban digamos .,cop inf adv pro:rel v conj v v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+543,copiaban algo que ya tenían .,v pro:dem pro:rel adv v .,ESP ESP ESP ESP ESP,0
+544,y lo combinaban con algo nuevo .,coord pro:obj v prep pro:dem adj .,ESP ESP ESP ESP ESP ESP,0
+545,y Bach tomó varias composiciones de Vivaldi .,coord n:prop v v n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+546,y él también las arreglaba a la manera de él .,coord pro:sub adv pro:obj v aprep det:art n v pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+547,ah ya .,co adv .,ESP ESP,0
+548,cómo se llama ?,pro:int pro:refl v ?,ESP ESP ESP,0
+549,en Brasil hay un hombre que escribió Bachianas brasileñas .,prep n:prop v det:art co pro:rel v n:prop n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+550,sí .,co .,ESP,0
+551,y es a base de .,coord cop aprep v prep .,ESP ESP ESP ESP ESP,0
+552,ese es guitarrista .,det:dem cop n .,ESP ESP ESP,0
+553,cómo se llamaba él ?,pro:int pro:refl v pro:sub ?,ESP ESP ESP ESP,0
+554,.,None,,0
+555,no sé va //.,adv v co +//.,ESP ESP ESP,0
+556,lo tenían en en la radio //.,pro:obj v prep prep det:art n +//.,ESP ESP ESP ESP ESP ESP,0
+557,yo sé cuál es el .,pro:sub v pro:int cop det:art .,ESP ESP ESP ESP ESP,0
+558,Lobo .,n:prop .,ESP,0
+559,sí .,co .,ESP,0
+560,something Lobo .,pro:indef n:prop .,ESP ESP,0
+561,.,None,,0
+562,y bien sofisticado .,coord adv n .,ESP ESP ESP,0
+563,y pero también él tenía /.,coord conj adv pro:sub v +/.,ESP ESP ESP ESP ESP,0
+564,él dice que él las composiciones de él tenían el espíritu de los brasileros .,pro:sub v pro:rel pro:sub pro:obj n v pro:sub v det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+565,ah .,co .,ESP,0
+566,él él componía con el espíritu de la calle de de los brasileros .,pro:sub pro:sub v prep det:art n prep det:art n prep prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+567,qué maluco que están esta gente .,pro:int adj pro:rel cop imp n .,ESP ESP ESP ESP ESP ESP,0
+568,tú has escuchado las composiciones de violín y guitarra de ?,pro:sub aux part det:art n prep n coord n prep ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+569,y eran supuestamente aristocráticos .,coord cop adv:adj adj .,ESP ESP ESP ESP,0
+570,no guitarra .,adv n .,ESP ESP,0
+571,violín y guitarra de cómo es el violinista que acabamos de decir que era el ?,n coord n prep pro:int cop det:art n pro:rel v prep inf pro:rel cop det:art ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+572,Paganini ?,n:prop ?,ESP,0
+573,Paganini ?,n:prop ?,ESP,0
+574,oh yeah .,co co .,ESP ESP,0
+575,ah tremendo .,co adj .,ESP ESP,0
+576,él tiene unos de violín que y guitarra sí .,pro:sub v pro:dem prep n prep coord n co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+577,violín y guitarra .,n coord n .,ESP ESP ESP,0
+578,violín .,n .,ESP,0
+579,él también composiciones que eran pura guitarra .,pro:sub adv n pro:rel cop adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+580,hay una tal Gabriela que toca la música de él .,v det:art adj n:prop pro:rel v det:art n v pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+581,y .,coord .,ESP,0
+582,y también de de Joe .,coord adv prep prep n:prop .,ESP ESP ESP ESP ESP,0
+583,cómo es que se llama ?,pro:int cop pro:rel pro:refl v ?,ESP ESP ESP ESP ESP,0
+584,cómo es el gobernador de Nueva York cuando el nueve once ?,pro:int cop det:art n prep n:prop n:prop conj det:art det:num det:num ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+585,Giuliani .,n:prop .,ESP,0
+586,Giuliani hay un compositor Giuliani también que escribió muchas composiciones de guitarra y violín .,n:prop v det:art n n:prop adv pro:rel v det:indef n imp n coord n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+587,bonitas canciones bonitas piezas .,adj n adj n .,ESP ESP ESP ESP,0
+588,yo no sé .,pro:sub adv v .,ESP ESP ESP,0
+589,yo creo que Juan_Pablo debe concentrarse primero en piano .,pro:sub v pro:rel n:prop v inf adj:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+590,aunque piano uno puede aprenderlo cuando esté mayor también .,conj n pro:dem v inf pro:rel cop adj adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+591,pero puesto que ahora todo el que tiene piano va a tener que aprender piano primero .,conj part pro:rel adv det:indef det:art pro:rel v n v aprep inf pro:rel inf n adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+592,sí .,co .,ESP,0
+593,pero .,conj .,ESP,0
+594,pero el violín es para muchos es más fácil .,conj det:art n cop prep det:indef cop adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+595,lo que tienen que aprender es .,pro:obj pro:rel v pro:rel inf cop .,ESP ESP ESP ESP ESP ESP,0
+596,no no no no violín no es fácil .,adv adv adv adv n adv cop adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+597,lo siento mucho .,pro:obj v adv .,ESP ESP ESP,0
+598,Grace ellos cómo es el programa ?,n:prop pro:sub pro:int cop det:art n ?,ESP ESP ESP ESP ESP ESP,0
+599,mhm .,co .,ESP,0
+600,lo que pasa es que el violín .,pro:obj pro:rel v cop pro:rel det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+601,el programa ese de japonés .,det:art n det:dem prep n .,ESP ESP ESP ESP ESP,0
+602,cómo es que se llama eso ?,pro:int cop pro:rel pro:refl v pro:dem ?,ESP ESP ESP ESP ESP ESP,0
+603,Suzuki ?,n:prop ?,ESP,0
+604,Suzuki pero no es porque el violín es más fácil .,n:prop conj adv cop conj det:art n cop adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+605,no es más fácil .,adv cop adv adj .,ESP ESP ESP ESP,0
+606,y es que tienen que aprender a leer la //.,coord cop pro:rel v pro:rel inf aprep inf det:art +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+607,"uno de los violinistas dice "".","det:art prep det:art n v +"".",ESP ESP ESP ESP ESP,0
+608,tú puedes aprender piano cualquiera hora de tu vida .,pro:sub v inf n pro:indef n prep det:pos co:voc .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+609,pero violín no .,conj n adv .,ESP ESP ESP,0
+610,no pero lo aprenden de pequeño .,adv conj pro:obj v prep adj .,ESP ESP ESP ESP ESP ESP,0
+611,y y y no .,coord coord coord adv .,ESP ESP ESP ESP,0
+612,bueno si aprenden de pequeño bien con alguien que valga la pena .,co conj v prep adj adv prep pro:indef pro:rel v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+613,pero yo creo que ese maestro que Stephen tenía no /.,conj pro:sub v pro:rel det:dem n pro:rel n:prop v adv +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+614,él él tocaba tal vez cuatro rancheras y y un vals .,pro:sub pro:sub v adj n det:num adj coord coord det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+615,y eso no no /.,coord pro:dem adv adv +/.,ESP ESP ESP ESP,0
+616,pero lo lo primero que tiene que aprender es aprender a leer la música .,conj pro:obj pro:obj adv pro:rel v pro:rel inf cop inf aprep inf det:art adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+617,y se ha probado que la gente que aprende a tocar un instrumento //.,coord pro:refl aux part pro:rel det:art n pro:rel v aprep inf det:art n +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+618,a leer música aprenden a leer //.,aprep inf n v aprep inf +//.,ESP ESP ESP ESP ESP ESP,0
+619,es decir se le desarrolla el cerebro más rápido para otras cosas para otras disciplinas en la vida o en la universidad o en el colegio .,cop inf pro:refl pro:ind v det:art n adv adj prep det:indef v prep det:indef n prep det:art co:voc coord prep det:art n coord prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+620,bueno la cosa es que en el lugar donde él vive se coge un milagro para sacar algo bueno de ahí .,co pro:obj v cop pro:rel prep det:art n pro:rel pro:sub v pro:refl v det:art co prep inf pro:dem co prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+621,"sí pero el que tiene talento el que tiene talento no ""/.","co conj det:art pro:rel v n det:art pro:rel v n adv +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+622,un milagro y entonces después algo más .,det:art co coord adv adv pro:dem adv .,ESP ESP ESP ESP ESP ESP ESP,0
+623,el que tiene talento sale .,det:art pro:rel v n v .,ESP ESP ESP ESP ESP,0
+624,"y dicen que el que como Ortil_Carrera tenía un dicho ""/.","coord v pro:rel det:art pro:rel adv n:prop v det:art part +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+625,el el que va a salir .,det:art det:art pro:rel v aprep inf .,ESP ESP ESP ESP ESP ESP,0
+626,él se murió no ?,pro:sub pro:refl v adv ?,ESP ESP ESP ESP,0
+627,no .,adv .,ESP,0
+628,por qué ?,prep pro:int ?,ESP ESP,0
+629,quién te ha dicho que él se ha muerto ?,pro:int pro:obj aux part pro:rel pro:sub pro:refl aux part ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+630,él llegó a ser doctor .,pro:sub v aprep inf n .,ESP ESP ESP ESP ESP,0
+631,él se murió .,pro:sub pro:refl v .,ESP ESP ESP,0
+632,no .,adv .,ESP,0
+633,sí porque Esmeralda fue al entierro .,co conj n:prop v aprep v .,ESP ESP ESP ESP ESP ESP,0
+634,cuándo ?,pro:int ?,ESP,0
+635,yo no recuerdo .,pro:sub adv v .,ESP ESP ESP,0
+636,fue el año antepasado o pasado que alguien me dijo .,v det:art n adj coord part pro:rel pro:indef pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+637,oiga eso es noticia para mí .,v pro:dem cop n prep pro:prep .,ESP ESP ESP ESP ESP ESP,0
+638,sí estaba hinchado y los riñones y otra cosa .,co cop part coord det:art n coord det:indef v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+639,y quién te dijo eso ?,coord pro:int pro:obj v pro:dem ?,ESP ESP ESP ESP ESP,0
+640,y él estaba casado con otra persona y .,coord pro:sub aux part prep det:indef n coord .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+641,Hillary .,n:prop .,ESP,0
+642,y entonces me dijo pero este estaba ahí con los hijos .,coord adv pro:obj v conj imp cop adv prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0

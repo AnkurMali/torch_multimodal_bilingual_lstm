@@ -1,0 +1,1311 @@
+,sentence,pos,language,switch
+0,.,None,,0
+1,sí no .,co adv .,ENG ENG,0
+2,VCT is further long .,n:prop cop adv adv .,ENG ENG ENG ENG,0
+3,.,None,,0
+4,that would be ...,pro:dem mod cop +...,ENG ENG ENG,0
+5,may .,mod .,ENG,0
+6,that would be may .,pro:dem mod cop mod .,ENG ENG ENG ENG,0
+7,May or June .,n:prop coord n:prop .,ENG ENG ENG,0
+8,.,None,,0
+9,what are you //.,pro:int cop pro:per +//.,ENG ENG ENG,0
+10,no no no no changes .,co co co qn n .,ENG ENG ENG ENG ENG,0
+11,what are you doing ?,pro:int aux pro:per part ?,ENG ENG ENG ENG,0
+12,.,None,,0
+13,oh okay .,co co .,ENG ENG,0
+14,yeah .,co .,ENG,0
+15,.,None,,0
+16,.,None,,0
+17,.,None,,0
+18,the wrong label .,det:art adj n .,ENG ENG ENG,0
+19,the wrong label .,det:art adj n .,ENG ENG ENG,0
+20,.,None,,0
+21,well let's see /.,co v v +/.,ENG ENG ENG,0
+22,.,None,,0
+23,you are gonna have to call Bob and Bill .,pro:per aux part v inf v n:prop coord n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+24,.,None,,0
+25,Bill has to dig into in .,n:prop aux prep n prep adv .,ENG ENG ENG ENG ENG ENG,0
+26,.,None,,0
+27,and they know //.,coord pro:sub v +//.,ENG ENG ENG,0
+28,this is what happened .,pro:dem cop pro:int v .,ENG ENG ENG ENG,0
+29,it was our mistake .,pro:per cop det:poss n .,ENG ENG ENG ENG,0
+30,I mean //.,pro:sub v +//.,ENG ENG,0
+31,if we have to live with it we live with it .,conj pro:sub v inf v prep pro:per pro:sub v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+32,.,None,,0
+33,you know .,pro:per v .,ENG ENG,0
+34,.,None,,0
+35,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+36,I ...,pro:sub +...,ENG,0
+37,.,None,,0
+38,I mean //.,pro:sub v +//.,ENG ENG,0
+39,unless that two callers clash dramatically .,conj det:dem det:num n n adv .,ENG ENG ENG ENG ENG ENG,0
+40,and it looks like horrible .,coord pro:per v prep adj .,ENG ENG ENG ENG ENG,0
+41,.,None,,0
+42,I mean .,pro:sub v .,ENG ENG,0
+43,it's we can live with .,pro:per pro:sub mod v prep .,ENG ENG ENG ENG ENG,0
+44,it's not perfect .,pro:per neg adj .,ENG ENG ENG,0
+45,.,None,,0
+46,but we can live with it .,conj pro:sub mod v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+47,I mean .,pro:sub v .,ENG ENG,0
+48,it's just //.,pro:per adj +//.,ENG ENG,0
+49,you know .,pro:per v .,ENG ENG,0
+50,I mean .,pro:sub v .,ENG ENG,0
+51,if there wasn't a lot of tile maybe it's not a big deal .,conj adv cop det:art n prep n adv pro:per neg det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+52,.,None,,0
+53,and they'll ...,coord pro:sub +...,ENG ENG,0
+54,you know .,pro:per v .,ENG ENG,0
+55,don't have a problem .,mod v det:art n .,ENG ENG ENG ENG,0
+56,but if it's a lot .,conj conj pro:per det:art n .,ENG ENG ENG ENG ENG,0
+57,and have the restocking fee /.,coord v det:art re#n:gerund n +/.,ENG ENG ENG ENG ENG,0
+58,.,None,,0
+59,right you know .,adv pro:per v .,ENG ENG ENG,0
+60,maybe there is a restocking fee .,adv pro:exist cop det:art re#n:gerund n .,ENG ENG ENG ENG ENG ENG,0
+61,and they complain about that sometimes .,coord pro:sub v prep pro:dem adv .,ENG ENG ENG ENG ENG ENG,0
+62,.,None,,0
+63,my feet hurt .,det:poss n part .,ENG ENG ENG,0
+64,they're getting //.,pro:sub part +//.,ENG ENG,0
+65,.,None,,0
+66,no .,co .,ENG,0
+67,I don't know for what .,pro:sub mod v prep pro:int .,ENG ENG ENG ENG ENG,0
+68,.,None,,0
+69,why /.,pro:rel +/.,ENG,0
+70,.,None,,0
+71,okay .,co .,ENG,0
+72,.,None,,0
+73,what pains ?,pro:int n ?,ENG ENG,0
+74,his legs ?,det:poss n ?,ENG ENG,0
+75,those are growing pains .,det:dem aux part n .,ENG ENG ENG ENG,0
+76,.,None,,0
+77,.,None,,0
+78,.,None,,0
+79,mine is .,n cop .,ENG ENG,0
+80,.,None,,0
+81,my ankle cracks all the time .,det:poss n v qn det:art n .,ENG ENG ENG ENG ENG ENG,0
+82,.,None,,0
+83,my toes right now .,det:poss n adv adv .,ENG ENG ENG ENG,0
+84,you can /.,pro:per mod +/.,ENG ENG,0
+85,.,None,,0
+86,it's probably growing pains .,pro:per adv part n .,ENG ENG ENG ENG,0
+87,I had a son /.,pro:sub v det:art n +/.,ENG ENG ENG ENG,0
+88,.,None,,0
+89,and his shoes also .,coord det:poss n adv .,ENG ENG ENG ENG,0
+90,.,None,,0
+91,check to see that has the right support .,n inf co adv v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+92,that you know they //.,comp pro:per v pro:sub +//.,ENG ENG ENG ENG,0
+93,you know .,pro:per v .,ENG ENG,0
+94,because I have a friend who her son is huge now .,conj pro:sub v det:art n pro:rel det:poss n cop adj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+95,I mean he is like a foot up taller than Charles .,pro:sub v pro:sub cop co det:art n adv adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+96,and he had to wear special shoes for a while because he was growing so fast that his body can't take it .,coord pro:sub v inf v n v prep det:art n conj pro:sub aux part adv adv adv det:poss n mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+97,.,None,,0
+98,no he /.,co pro:sub +/.,ENG ENG,0
+99,.,None,,0
+100,oh you need to go to a pediatrician so they can tell you ...,co pro:per v inf v prep det:art n conj pro:sub mod v pro:per +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+101,a specialist because you'll need a /.,det:art n conj pro:per v det:art +/.,ENG ENG ENG ENG ENG ENG,0
+102,.,None,,0
+103,right .,co .,ENG,0
+104,.,None,,0
+105,right .,co .,ENG,0
+106,.,None,,0
+107,but you want somebody who deals with children .,conj pro:per v pro:indef pro:rel v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+108,.,None,,0
+109,well .,co .,ENG,0
+110,but you may also wanna check his shoes .,conj pro:per mod adv v v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+111,that the shoes are the right ...,comp det:art n cop det:art adj +...,ENG ENG ENG ENG ENG ENG,0
+112,.,None,,0
+113,support .,n .,ENG,0
+114,particularly if he is growing so fast ...,adv conj pro:sub aux part adv adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+115,I I can ask my friend ...,pro:sub pro:sub mod v det:poss n +...,ENG ENG ENG ENG ENG ENG,0
+116,.,None,,0
+117,what they gave her son because she had some //.,pro:int pro:sub v det:poss n conj pro:sub v qn +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+118,.,None,,0
+119,and like he couldn't //.,coord conj pro:sub mod +//.,ENG ENG ENG ENG,0
+120,.,None,,0
+121,he wasn't supposed to run too much ...,pro:sub aux part inf v adv adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+122,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+123,I can't remember .,pro:sub mod v .,ENG ENG ENG,0
+124,I have to ask her .,pro:sub v inf v pro:obj .,ENG ENG ENG ENG ENG,0
+125,.,None,,0
+126,because he is super tall .,conj pro:sub cop adj adj .,ENG ENG ENG ENG ENG,0
+127,he is ...,pro:sub cop +...,ENG ENG,0
+128,he is huge .,pro:sub cop adj .,ENG ENG ENG,0
+129,.,None,,0
+130,I mean not huge .,pro:sub v neg adj .,ENG ENG ENG ENG,0
+131,but he is really really tall .,conj pro:sub cop adv adv adj .,ENG ENG ENG ENG ENG ENG,0
+132,.,None,,0
+133,.,None,,0
+134,told it's cold over here .,v pro:per adv prep n .,ENG ENG ENG ENG ENG,0
+135,.,None,,0
+136,okay .,co .,ENG,0
+137,.,None,,0
+138,you must .,pro:per mod .,ENG ENG,0
+139,.,None,,0
+140,yeah .,co .,ENG,0
+141,.,None,,0
+142,because you are gonna see her when you are staying there .,conj pro:per aux part v det:poss conj pro:per aux part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+143,you are gonna see her .,pro:per aux part v pro:obj .,ENG ENG ENG ENG ENG,0
+144,okay .,co .,ENG,0
+145,.,None,,0
+146,qué es lo que quieres que te haga ?,pro:int cop pro:obj pro:rel v pro:rel pro:obj v ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+147,.,None,,0
+148,okay .,co .,ENG,0
+149,.,None,,0
+150,.,None,,0
+151,.,None,,0
+152,no está bien .,adv cop adv .,ENG ENG ENG,0
+153,no hay problema .,adv v n .,ENG ENG ENG,0
+154,.,None,,0
+155,.,None,,0
+156,.,None,,0
+157,porque yo he sufrido dolores de cabeza ...,conj pro:sub aux part n prep n +...,ENG ENG ENG ENG ENG ENG ENG,0
+158,.,None,,0
+159,con hardware que no está bien hecho .,L2 n L2 L2 L2 L2 L2 .,ESP ENG ESP ESP ESP ESP ESP,1
+160,.,None,,0
+161,no dolores de cabeza but still //.,L2 L2 L2 L2 conj adv +//.,ESP ESP ESP ESP ENG ENG,1
+162,you know .,pro:per v .,ENG ENG,0
+163,inconveniences .,in#n .,ENG,0
+164,.,None,,0
+165,right .,co .,ENG,0
+166,you have to pay for it .,pro:per v inf v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+167,.,None,,0
+168,yo traje lonche .,pro:sub v n .,ENG ENG ENG,0
+169,.,None,,0
+170,traje lonche .,n n .,ENG ENG,0
+171,.,None,,0
+172,.,None,,0
+173,.,None,,0
+174,que aquel indio que no va a ningún lado ?,pro:rel det:dem n pro:rel adv v aprep det:indef n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+175,.,None,,0
+176,deja que pese veinte libras .,v pro:rel v det:num v .,ENG ENG ENG ENG ENG,0
+177,.,None,,0
+178,.,None,,0
+179,.,None,,0
+180,es un /.,cop det:art +/.,ENG ENG,0
+181,.,None,,0
+182,no hay quien los /.,adv v pro:rel pro:obj +/.,ENG ENG ENG ENG,0
+183,.,None,,0
+184,sí .,co .,ENG,0
+185,y por qué no quiere coche ?,L2 L2 L2 L2 L2 L2 ?,ESP ESP ESP ESP ESP ESP,0
+186,.,None,,0
+187,es un coche .,cop det:art co .,ENG ENG ENG,0
+188,.,None,,0
+189,si ella carga ese niño todo el tiempo /.,conj pro:sub v det:dem n det:indef det:art n +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+190,.,None,,0
+191,right right right right right .,adv adj n n co .,ENG ENG ENG ENG ENG,0
+192,yo me regalaron uno de esos .,pro:sub pro:obj v det:art prep det:dem .,ENG ENG ENG ENG ENG ENG,0
+193,.,None,,0
+194,yeah .,co .,ENG,0
+195,.,None,,0
+196,I could never get I could never get him like to be for me comfortable .,pro:sub mod adv v pro:sub mod adv v pro:obj co inf cop prep pro:obj adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+197,.,None,,0
+198,no sí exactly //.,L2 L2 adv +//.,ESP ESP ENG,1
+199,Charly was born in the summer /.,n:prop cop adj prep det:art n +/.,ENG ENG ENG ENG ENG ENG,0
+200,.,None,,0
+201,so ...,co +...,ENG,0
+202,.,None,,0
+203,but I know people who do that .,conj pro:sub v n pro:rel v pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+204,.,None,,0
+205,es es un /.,cop cop det:art +/.,ENG ENG ENG,0
+206,.,None,,0
+207,sí lo bueno que se puede dar es un gift certificate .,L2 L2 L2 L2 L2 L2 L2 L2 L2 n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+208,.,None,,0
+209,que ella después compre lo que ella quiere .,pro:rel pro:sub adv v pro:obj pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+210,.,None,,0
+211,y si quiere cargar ése .,coord conj v inf pro:dem .,ENG ENG ENG ENG ENG,0
+212,y cómo esté dormido .,coord pro:int aux part .,ENG ENG ENG ENG,0
+213,y está en el car seat .,L2 L2 L2 L2 n n .,ESP ESP ESP ESP ENG ENG,1
+214,tú no vas a sacar a un niño dormido del car seat .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+215,"mi abuela decía ""/.","det:pos n v +""/.",ENG ENG ENG,0
+216,no despierten al león .,adv v aprep n .,ENG ENG ENG ENG,0
+217,.,None,,0
+218,when they are sleeping ...,conj pro:sub aux part +...,ENG ENG ENG ENG,0
+219,.,None,,0
+220,oh meta en el carro .,co L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+221,y y no tiene que ser uno de los estos que están diseñados because I used to //.,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 conj pro:sub v prep +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+222,you can find the stroller .,pro:per mod v det:art n .,ENG ENG ENG ENG ENG,0
+223,and you can stick the car seat without having the base thing .,coord pro:per mod v det:art n n prep n:gerund det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+224,.,None,,0
+225,because when Charles was born that didn't exist .,conj conj n:prop cop adj comp mod v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+226,.,None,,0
+227,that didn't exist .,comp mod v .,ENG ENG ENG,0
+228,.,None,,0
+229,so you had to /.,co pro:per v prep +/.,ENG ENG ENG ENG,0
+230,.,None,,0
+231,right .,co .,ENG,0
+232,.,None,,0
+233,no ni siquiera /.,adv coord conj +/.,ENG ENG ENG,0
+234,.,None,,0
+235,que ...,L2 +...,ESP,0
+236,.,None,,0
+237,todo en esta vida pesa .,det:indef prep det:dem n v .,ENG ENG ENG ENG ENG,0
+238,.,None,,0
+239,es que ella es ...,cop pro:rel pro:sub cop +...,ENG ENG ENG ENG,0
+240,.,None,,0
+241,no ella no va a poder trabajar .,adv pro:sub adv v aprep inf inf .,ENG ENG ENG ENG ENG ENG ENG,0
+242,.,None,,0
+243,tú te imaginas el día que tenga que encontrar un day_care ?,pro:sub pro:obj v det:art n pro:rel v pro:rel inf det:art L2 ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+244,.,None,,0
+245,bueno por eso se quiere mudar para allá arriba en el ecofriendly department de Oregon or Seattle or wherever that is .,co prep pro:dem pro:refl v inf prep adv adv prep det:art L2 L2 prep n:prop L2 n:prop L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ENG ENG ESP ENG ESP ESP ESP ESP,1
+246,.,None,,0
+247,to check Daniel ?,inf v n:prop ?,ENG ENG ENG,0
+248,.,None,,0
+249,oh I don't know .,co pro:sub mod v .,ENG ENG ENG ENG,0
+250,.,None,,0
+251,not good untill thursday !,neg adj un#v n !,ENG ENG ENG ENG,0
+252,.,None,,0
+253,not good untill thursday !,neg adj un#v n !,ENG ENG ENG ENG,0
+254,.,None,,0
+255,not good untill thursday !,neg adj un#v n !,ENG ENG ENG ENG,0
+256,.,None,,0
+257,oh it did ?,co pro:per v ?,ENG ENG ENG,0
+258,.,None,,0
+259,oh .,co .,ENG,0
+260,.,None,,0
+261,what are you doing in //.,pro:int aux pro:per part adv +//.,ENG ENG ENG ENG ENG,0
+262,it doesn't come in on thursday !,pro:per mod v adv prep n !,ENG ENG ENG ENG ENG ENG,0
+263,.,None,,0
+264,doesn't it activate ?,mod pro:per v ?,ENG ENG ENG,0
+265,arrive at your bank on thursday .,v prep det:poss n prep n .,ENG ENG ENG ENG ENG ENG,0
+266,.,None,,0
+267,ah they had no clue .,co pro:sub v qn n .,ENG ENG ENG ENG ENG,0
+268,.,None,,0
+269,gotcha gotcha gotcha gotcha .,co co co co .,ENG ENG ENG ENG,0
+270,.,None,,0
+271,gotcha .,co .,ENG,0
+272,.,None,,0
+273,right .,co .,ENG,0
+274,.,None,,0
+275,uhuh .,co .,ENG,0
+276,.,None,,0
+277,right .,co .,ENG,0
+278,.,None,,0
+279,right .,co .,ENG,0
+280,.,None,,0
+281,mhm .,co .,ENG,0
+282,.,None,,0
+283,right .,co .,ENG,0
+284,.,None,,0
+285,only variants .,adv n .,ENG ENG,0
+286,oh !,co !,ENG,0
+287,hence the term .,adv det:art n .,ENG ENG ENG,0
+288,.,None,,0
+289,what the variance is .,pro:int det:art n cop .,ENG ENG ENG ENG,0
+290,why ?,pro:rel ?,ENG,0
+291,why there's a /.,pro:int pro:exist det:art +/.,ENG ENG ENG,0
+292,.,None,,0
+293,mhm .,co .,ENG,0
+294,.,None,,0
+295,or something .,coord pro:indef .,ENG ENG,0
+296,.,None,,0
+297,first right .,adv co .,ENG ENG,0
+298,or second right .,coord adj co .,ENG ENG ENG,0
+299,.,None,,0
+300,hello .,co .,ENG,0
+301,hey .,co .,ENG,0
+302,granny ?,n ?,ENG,0
+303,Mateu .,n:prop .,ENG,0
+304,MATE .,n:prop .,ENG,0
+305,U I think .,n:prop pro:sub v .,ENG ENG ENG,0
+306,EU .,n:prop .,ENG,0
+307,Mateu .,n:prop .,ENG,0
+308,hang on .,v adv .,ENG ENG,0
+309,I have to go to my desk because I have his number .,pro:sub v inf v prep det:poss n conj pro:sub v det:poss v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+310,hang on .,v adv .,ENG ENG,0
+311,.,None,,0
+312,?,None,,0
+313,.,None,,0
+314,qué traje ?,pro:int v ?,ENG ENG,0
+315,una ensalada que hice .,det:art n pro:rel v .,ENG ENG ENG ENG,0
+316,el otro día //.,det:art pro:indef n +//.,ENG ENG ENG,0
+317,ahí tengo bastante si la quieres probar .,adv v adv conj pro:obj v inf .,ENG ENG ENG ENG ENG ENG ENG,0
+318,una de esas que son layers .,pro:dem prep det:dem pro:rel cop L2 .,ENG ENG ENG ENG ENG ESP,1
+319,.,None,,0
+320,que hice para Easter .,pro:rel v prep n:prop:L2 .,ENG ENG ENG ENG,0
+321,lo que me sobró .,pro:obj pro:rel pro:obj v .,ENG ENG ENG ENG,0
+322,a ver .,aprep inf .,ENG ENG,0
+323,mister .,n .,ENG,0
+324,hello ?,co ?,ENG,0
+325,three O five .,det:num n:prop det:num .,ENG ENG ENG,0
+326,two three three .,det:num det:num det:num .,ENG ENG ENG,0
+327,three three zero four .,det:num det:num det:num det:num .,ENG ENG ENG ENG,0
+328,okey_dokey .,co .,ENG,0
+329,.,None,,0
+330,I don't know who he is .,pro:sub mod v pro:int pro:sub cop .,ENG ENG ENG ENG ENG ENG,0
+331,I guess somebody works for him .,pro:sub v pro:indef v prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+332,Mateu_architectural_comp .,n:prop .,ENG,0
+333,.,None,,0
+334,yeah .,co .,ENG,0
+335,somebody works for him .,pro:indef v prep pro:obj .,ENG ENG ENG ENG,0
+336,all ready like .,adv adj prep .,ENG ENG ENG,0
+337,.,None,,0
+338,.,None,,0
+339,no .,co .,ENG,0
+340,it's like a layer salad .,pro:per conj det:art n n .,ENG ENG ENG ENG ENG,0
+341,que empiezas abajo con lechuga ah stuff .,pro:rel v adv prep n co L2 .,ENG ENG ENG ENG ENG ENG ESP,1
+342,y después //.,coord adv +//.,ENG ENG,0
+343,it looks really pretty .,pro:per v adv adv .,ENG ENG ENG ENG,0
+344,tienes que conseguirlo en un bol que sea como transparente .,v pro:rel inf prep det:art n pro:rel cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+345,so you can see it .,co pro:per mod v pro:per .,ENG ENG ENG ENG ENG,0
+346,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+347,y tiene ...,coord v +...,ENG ENG,0
+348,I put salad lettuce .,pro:sub v n n .,ENG ENG ENG ENG,0
+349,I mean Spanish lettuce .,pro:sub v n:prop n .,ENG ENG ENG ENG,0
+350,carrots celeries tomatoes green beans ...,n n n adj n +...,ENG ENG ENG ENG ENG,0
+351,.,None,,0
+352,mi suegra la hizo for Christmas .,det:pos n pro:obj v L2 n:prop:L2 .,ENG ENG ENG ENG ESP ENG,1
+353,ella trajo para casa de mi mamá //.,pro:sub v prep imp prep det:pos n +//.,ENG ENG ENG ENG ENG ENG ENG,0
+354,trajo la ensalada //.,v det:art n +//.,ENG ENG ENG,0
+355,.,None,,0
+356,y no .,coord adv .,ENG ENG,0
+357,for Nochebuena .,prep L2 .,ENG ESP,1
+358,that she make .,comp pro:sub v .,ENG ENG ENG,0
+359,que ella estaba en la peluquería .,pro:rel pro:sub cop prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+360,and she heard this people talking about it so she looked it up on the web .,coord pro:sub v det:dem n part prep pro:per conj pro:sub v pro:per adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+361,and it's not that hard .,coord pro:per neg pro:rel adv .,ENG ENG ENG ENG ENG,0
+362,it's just the layering cutting all the stuff .,pro:per adj det:art n:gerund part adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+363,y después el dressing arriba .,coord adv det:art L2 adv .,ENG ENG ENG ESP ENG,1
+364,and I've found a couple of different .,coord pro:sub part det:art n prep adj .,ENG ENG ENG ENG ENG ENG ENG,0
+365,it's called seven layer .,pro:per part det:num v .,ENG ENG ENG ENG,0
+366,but you can put as many layers as you want .,conj pro:per mod v prep qn n conj pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+367,y entonces el dressing en uno de los website era mayonesa nada más .,coord adv det:art L2 prep det:art prep det:art L2 cop n v adv .,ENG ENG ENG ESP ENG ENG ENG ENG ESP ENG ENG ENG ENG,1
+368,y después había otro que era mayonesa con sour_cream .,coord adv aux det:indef pro:rel cop n prep L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+369,y entonces yo le eché un poquitico de spices .,coord adv pro:sub pro:ind v det:art det:indef prep L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+370,sal pimienta ...,n n +...,ENG ENG,0
+371,you know ...,pro:per v +...,ENG ENG,0
+372,garlic whatever .,n pro:int .,ENG ENG,0
+373,and then just put it on top .,coord adv:tem adv v pro:per prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+374,and that's it .,coord pro:dem pro:per .,ENG ENG ENG,0
+375,you sit on top .,pro:per v prep n .,ENG ENG ENG ENG,0
+376,you know .,pro:per v .,ENG ENG,0
+377,and then has cheese .,coord adv:tem v n .,ENG ENG ENG ENG,0
+378,.,None,,0
+379,it need a little bit .,pro:per v det:art adj n .,ENG ENG ENG ENG ENG,0
+380,it doesn't sit through when you take it out .,pro:per mod v adv conj pro:per v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+381,.,None,,0
+382,although some of the websites says that before you serve it you toss it all together .,conj qn prep det:art n v comp conj pro:per v pro:per pro:per v pro:per adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+383,but it looks so pretty .,conj pro:per v adv adj .,ENG ENG ENG ENG ENG,0
+384,.,None,,0
+385,yeah it looks //.,co pro:per v +//.,ENG ENG ENG,0
+386,you know .,pro:per v .,ENG ENG,0
+387,it has to be a nice sort of glass /.,pro:per aux inf cop det:art adj n prep n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+388,.,None,,0
+389,right .,co .,ENG,0
+390,right right right .,adv adv co .,ENG ENG ENG,0
+391,bueno .,L2 .,ESP,0
+392,and and you could put anything you wanted .,coord coord pro:per mod v pro:indef pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+393,porque yo puse los vegetales que a mí me gustan .,conj pro:sub v det:art n pro:rel aprep pro:prep pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+394,but like the recipes tenían que si cauliflower .,conj prep det:art n L2 L2 L2 n .,ENG ENG ENG ENG ESP ESP ESP ENG,1
+395,los florets de cauliflower .,det:art L2 prep L2 .,ENG ESP ENG ESP,1
+396,she had snap peas ...,pro:sub v n n +...,ENG ENG ENG ENG,0
+397,you could have pineapple ...,pro:per mod v n +...,ENG ENG ENG ENG,0
+398,I mean you could put //.,pro:sub v pro:per mod v +//.,ENG ENG ENG ENG ENG,0
+399,I mean you could change ...,pro:sub v pro:per mod v +...,ENG ENG ENG ENG ENG,0
+400,.,None,,0
+401,this ?,pro:dem ?,ENG,0
+402,hay un montón .,v det:art n .,ENG ENG ENG,0
+403,I'll give you some .,pro:sub v pro:per qn .,ENG ENG ENG ENG,0
+404,.,None,,0
+405,so you you ...,co pro:per pro:per +...,ENG ENG ENG,0
+406,tú le puedes poner lo que tú quieras .,pro:sub pro:ind v inf pro:obj pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+407,básicamente .,adv:adj .,ENG,0
+408,whatever salad you feel .,pro:int n pro:per v .,ENG ENG ENG ENG,0
+409,you know .,pro:per v .,ENG ENG,0
+410,whatever ...,pro:int +...,ENG,0
+411,you know .,pro:per v .,ENG ENG,0
+412,.,None,,0
+413,.,None,,0
+414,.,None,,0
+415,.,None,,0
+416,.,None,,0
+417,Charles keeps going .,n:prop v part .,ENG ENG ENG,0
+418,.,None,,0
+419,what are we doing today what are /?,pro:int cop pro:sub n:gerund adv:tem pro:int cop +/?,ENG ENG ENG ENG ENG ENG ENG,0
+420,qué están haciendo tus niñas ?,pro:int aux ger det:pos n ?,ENG ENG ENG ENG ENG,0
+421,.,None,,0
+422,won't you send them over to my house one day .,mod pro:per v pro:obj adv prep det:poss n pro:indef n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+423,they can jump in a trampoline or something .,pro:sub mod v prep det:art n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+424,the pool is a little dirty .,det:art n cop det:art adj adj .,ENG ENG ENG ENG ENG ENG,0
+425,they'll jump in the trampoline play on the Wii ...,pro:sub v prep det:art n n prep det:art n:prop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+426,.,None,,0
+427,I know .,pro:sub v .,ENG ENG,0
+428,Charly también .,n:prop adv .,ENG ENG,0
+429,está aburrido .,aux part .,ENG ENG,0
+430,.,None,,0
+431,ayer me dice //.,adv pro:obj v +//.,ENG ENG ENG,0
+432,me llamó al /.,pro:obj v aprep +/.,ENG ENG ENG,0
+433,.,None,,0
+434,me llamó para que el padre lo fuera a buscar to go a la casa de los abuelos .,pro:obj v prep pro:rel det:art n pro:obj v aprep inf L2 L2 aprep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ENG ENG ENG ENG ENG ENG,1
+435,you know .,pro:per v .,ENG ENG,0
+436,so mi Jerry se llevó //.,co det:pos n:prop pro:refl v +//.,ENG ENG ENG ENG ENG,0
+437,"y le digo ""/.","coord pro:ind v +""/.",ENG ENG ENG,0
+438,tú solo !,pro:sub adj !,ENG ENG,0
+439,o tus hermanos también .,coord det:pos n adv .,ENG ENG ENG ENG,0
+440,no no we have fun everybody .,co co pro:sub v n pro:indef .,ENG ENG ENG ENG ENG ENG,0
+441,Jerry se llevó a todo el mundo como a las dos de la tarde .,n:prop pro:refl v aprep det:indef det:art n adv aprep det:art det:num prep det:art adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+442,.,None,,0
+443,.,None,,0
+444,.,None,,0
+445,a donde vive mamá .,aprep pro:rel v n .,ENG ENG ENG ENG,0
+446,.,None,,0
+447,and then they played there and stuff .,coord adv:tem pro:sub v adv coord n .,ENG ENG ENG ENG ENG ENG ENG,0
+448,you know .,pro:per v .,ENG ENG,0
+449,"y me dice ""/.","coord pro:obj v +""/.",ENG ENG ENG,0
+450,what are we doing tomorrow ?,pro:int cop pro:sub n:gerund adv:tem ?,ENG ENG ENG ENG ENG,0
+451,"y yo ""/.","coord pro:sub +""/.",ENG ENG,0
+452,ay papi I don't know .,L2 L2 pro:sub mod v .,ESP ESP ENG ENG ENG,1
+453,.,None,,0
+454,we wanted to go out on the boat .,pro:sub v inf v adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+455,but the weather it's too windy .,conj det:art n pro:per adv adj .,ENG ENG ENG ENG ENG ENG,0
+456,the bay is too choppy /.,det:art n cop adv adj +/.,ENG ENG ENG ENG ENG,0
+457,.,None,,0
+458,maybe friday will be better .,adv n mod cop adj .,ENG ENG ENG ENG ENG,0
+459,.,None,,0
+460,but thursday //.,conj n +//.,ENG ENG,0
+461,I was thinking maybe taking thursday and friday off .,pro:sub aux part adv part n coord n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+462,.,None,,0
+463,right .,co .,ENG,0
+464,.,None,,0
+465,testing de /?,part L2 +/?,ENG ESP,1
+466,.,None,,0
+467,ah para saber por qué este estaba sangrando de la nariz ?,co L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 ?,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+468,.,None,,0
+469,yeah that's true .,co pro:dem adj .,ENG ENG ENG,0
+470,some people do bleed from weather change .,qn n mod v prep n n .,ENG ENG ENG ENG ENG ENG ENG,0
+471,yeah .,co .,ENG,0
+472,.,None,,0
+473,that's true .,pro:dem adj .,ENG ENG,0
+474,you did start before .,pro:per mod v adv .,ENG ENG ENG ENG,0
+475,.,None,,0
+476,maybe pollen .,adv n .,ENG ENG,0
+477,maybe you are starting to get allergic to something .,adv pro:per aux part inf v adj prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+478,and because you are blowing //.,coord conj pro:per aux part +//.,ENG ENG ENG ENG ENG,0
+479,.,None,,0
+480,cuándo empieza la feria ?,pro:int v det:art n ?,ENG ENG ENG ENG,0
+481,.,None,,0
+482,yeah .,co .,ENG,0
+483,.,None,,0
+484,I know .,pro:sub v .,ENG ENG,0
+485,they're bored .,pro:sub part .,ENG ENG,0
+486,Charly is bored .,n:prop aux part .,ENG ENG ENG,0
+487,.,None,,0
+488,right .,co .,ENG,0
+489,.,None,,0
+490,.,None,,0
+491,I know .,pro:sub v .,ENG ENG,0
+492,"todos los demás dicen ""/.","det:indef det:art adj v +""/.",ENG ENG ENG ENG,0
+493,mami qué vamos a hacer mañana ?,n pro:int v aprep inf adv ?,ENG ENG ENG ENG ENG ENG,0
+494,.,None,,0
+495,pobrecito .,L2 .,ESP,0
+496,.,None,,0
+497,if you go I'll go .,conj pro:per v pro:sub v .,ENG ENG ENG ENG ENG,0
+498,during the day .,prep det:art n .,ENG ENG ENG,0
+499,you know .,pro:per v .,ENG ENG,0
+500,.,None,,0
+501,.,None,,0
+502,.,None,,0
+503,.,None,,0
+504,oh they have a blast .,co pro:sub v det:art n .,ENG ENG ENG ENG ENG,0
+505,.,None,,0
+506,and then you and I don't have to get on the ride .,coord adv:tem pro:per coord pro:sub mod v inf v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+507,.,None,,0
+508,works free !,v adv !,ENG ENG,0
+509,.,None,,0
+510,a ver .,L2 L2 .,ESP ESP,0
+511,.,None,,0
+512,a ver .,L2 L2 .,ESP ESP,0
+513,when are the dates ?,conj cop det:art n ?,ENG ENG ENG ENG,0
+514,.,None,,0
+515,march twenty seventh .,v det:num adj .,ENG ENG ENG,0
+516,.,None,,0
+517,so empieza el jueves .,adv L2 L2 L2 .,ENG ESP ESP ESP,1
+518,.,None,,0
+519,I haven't been there in so long ...,pro:sub aux cop adv prep adv adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+520,.,None,,0
+521,that I don't remember .,pro:rel pro:sub mod v .,ENG ENG ENG ENG,0
+522,I know the kids will have a blast .,pro:sub v det:art n mod v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+523,empieza el jueves .,v det:art n .,ENG ENG ENG,0
+524,.,None,,0
+525,cuánto valen los tickets ?,pro:int v det:art L2 ?,ENG ENG ENG ESP,1
+526,buy discount tickets online ...,n n v adj +...,ENG ENG ENG ENG,0
+527,.,None,,0
+528,the fair .,det:art n .,ENG ENG,0
+529,general admission is seven bucks ...,adj n cop det:num n +...,ENG ENG ENG ENG ENG,0
+530,.,None,,0
+531,seven bucks .,det:num n .,ENG ENG,0
+532,if we buy them online ...,conj pro:sub v pro:obj adj +...,ENG ENG ENG ENG ENG,0
+533,nine dollars if we buy them there .,det:num n conj pro:sub v pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG,0
+534,.,None,,0
+535,twenty two bucks for the rides .,det:num det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+536,.,None,,0
+537,twenty ?,det:num ?,ENG,0
+538,retail price's twenty .,n adj det:num .,ENG ENG ENG,0
+539,.,None,,0
+540,for the rides .,prep det:art n .,ENG ENG ENG,0
+541,.,None,,0
+542,twenty twenty two coupon raid .,det:num det:num det:num n n .,ENG ENG ENG ENG ENG,0
+543,I don't know what that means .,pro:sub mod v pro:int det:dem v .,ENG ENG ENG ENG ENG ENG,0
+544,.,None,,0
+545,I don't know whether twenty two is the number of you get or not .,pro:sub mod v comp det:num det:num cop det:art n prep pro:per v coord neg .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+546,.,None,,0
+547,thursday .,n .,ENG,0
+548,.,None,,0
+549,.,None,,0
+550,I haven't gone in years .,pro:sub aux part prep n .,ENG ENG ENG ENG ENG,0
+551,.,None,,0
+552,averigua .,imp .,ENG,0
+553,.,None,,0
+554,thursday .,n .,ENG,0
+555,we don't wanna go on a weekend .,pro:sub mod v v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+556,.,None,,0
+557,let's go .,v v .,ENG ENG,0
+558,.,None,,0
+559,on the tickets for the county .,prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+560,.,None,,0
+561,sí ves ?,co v ?,ENG ENG,0
+562,son //.,cop +//.,ENG,0
+563,.,None,,0
+564,seven dollars //.,det:num n +//.,ENG ENG,0
+565,si lo compras ...,conj pro:obj v +...,ENG ENG ENG,0
+566,or nine dollars si //.,coord det:num n L2 +//.,ENG ENG ENG ESP,1
+567,I guess you show up there .,pro:sub v pro:per v prep n .,ENG ENG ENG ENG ENG ENG,0
+568,fifteen ?,det:num ?,ENG,0
+569,right .,co .,ENG,0
+570,or twenty if you ...,coord det:num conj pro:per +...,ENG ENG ENG ENG,0
+571,I would assume this is the price when you are there .,pro:sub mod v det:dem cop det:art n conj pro:per cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+572,.,None,,0
+573,yeah .,co .,ENG,0
+574,.,None,,0
+575,.,None,,0
+576,.,None,,0
+577,what's the raises ?,pro:int det:art n ?,ENG ENG ENG,0
+578,.,None,,0
+579,oh !,co !,ENG,0
+580,.,None,,0
+581,seventeen dollars if we buy them online .,det:num n conj pro:sub v pro:obj adj .,ENG ENG ENG ENG ENG ENG ENG,0
+582,or twenty if you go there .,coord det:num conj pro:per v adv .,ENG ENG ENG ENG ENG ENG,0
+583,but it's no good on school trips or weekends .,conj pro:per qn adj prep n n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+584,.,None,,0
+585,.,None,,0
+586,haven't been there in so long .,aux cop adv prep adv adv .,ENG ENG ENG ENG ENG ENG,0
+587,I don't think I remember .,pro:sub mod v pro:sub v .,ENG ENG ENG ENG ENG,0
+588,.,None,,0
+589,.,None,,0
+590,.,None,,0
+591,right but it's not good on weekends .,adv conj pro:per neg adj prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+592,it's the only problem .,pro:per det:art qn n .,ENG ENG ENG ENG,0
+593,.,None,,0
+594,monday through friday .,n prep n .,ENG ENG ENG,0
+595,.,None,,0
+596,seven dollars online versus nine dollars .,det:num n adj prep det:num n .,ENG ENG ENG ENG ENG ENG,0
+597,.,None,,0
+598,if you buy them online /.,conj pro:per v pro:obj adj +/.,ENG ENG ENG ENG ENG,0
+599,.,None,,0
+600,is seven dollars .,aux det:num n .,ENG ENG ENG,0
+601,.,None,,0
+602,if you buy in there is nine bucks .,conj pro:per v prep n cop det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+603,.,None,,0
+604,no this is the booth .,qn pro:dem cop det:art n .,ENG ENG ENG ENG ENG,0
+605,.,None,,0
+606,this this is where you buy the tickets .,pro:dem pro:dem cop pro:int pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+607,.,None,,0
+608,no this is where you buy the tickets .,qn pro:dem cop pro:int pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+609,.,None,,0
+610,gates three p_m to ten .,n det:num n prep det:num .,ENG ENG ENG ENG ENG,0
+611,and weekends noon to ten .,coord n n prep det:num .,ENG ENG ENG ENG ENG,0
+612,.,None,,0
+613,friday March twenty eight noon to ten p_m .,n n:prop det:num det:num n prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+614,friday April four noon to ten p_m .,n n:prop det:num n prep det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+615,.,None,,0
+616,oh !,co !,ENG,0
+617,.,None,,0
+618,.,None,,0
+619,.,None,,0
+620,I'm an adjunct .,pro:sub det:art n .,ENG ENG ENG,0
+621,.,None,,0
+622,what does that mean ?,pro:int mod pro:dem adj ?,ENG ENG ENG ENG,0
+623,.,None,,0
+624,that's true .,pro:dem adj .,ENG ENG,0
+625,it is only for you .,pro:per cop adv prep pro:per .,ENG ENG ENG ENG ENG,0
+626,how did you figure that out ?,pro:int mod pro:per v comp adv ?,ENG ENG ENG ENG ENG ENG,0
+627,.,None,,0
+628,.,None,,0
+629,.,None,,0
+630,I have done telling you .,pro:sub v part part pro:per .,ENG ENG ENG ENG ENG,0
+631,it's probably been twenty years /.,pro:per adv aux det:num n +/.,ENG ENG ENG ENG ENG,0
+632,.,None,,0
+633,since I've been to the fair .,conj pro:sub cop prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+634,.,None,,0
+635,and I win once .,coord pro:sub v adv .,ENG ENG ENG ENG,0
+636,.,None,,0
+637,all opens at three .,pro:indef v prep det:num .,ENG ENG ENG ENG,0
+638,so you get there from three ...,co pro:per v adv prep det:num +...,ENG ENG ENG ENG ENG ENG,0
+639,on weekends it does open at noon .,prep n pro:per mod v prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+640,.,None,,0
+641,but if we get there //.,conj conj pro:sub v adv +//.,ENG ENG ENG ENG ENG,0
+642,you know .,pro:per v .,ENG ENG,0
+643,at three .,prep det:num .,ENG ENG,0
+644,you don't have to stay there until midnight .,pro:per mod v inf v adv prep mid#n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+645,.,None,,0
+646,hell I wouldn't wanna stay there that long .,co pro:sub mod v v adv adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+647,.,None,,0
+648,y es la otra .,L2 L2 L2 L2 .,ESP ESP ESP ESP,0
+649,.,None,,0
+650,politically correct .,adv adj .,ENG ENG,0
+651,.,None,,0
+652,that's why we love her .,pro:dem pro:int pro:sub v pro:obj .,ENG ENG ENG ENG ENG,0
+653,.,None,,0
+654,she said what we were thinking .,pro:sub v pro:int pro:sub aux part .,ENG ENG ENG ENG ENG ENG,0
+655,.,None,,0
+656,mhm durante la semana three .,co L2 L2 L2 det:num .,ENG ESP ESP ESP ENG,1
+657,.,None,,0
+658,but friday it all open at noon .,conj adv:tem pro:per adv adj prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+659,.,None,,0
+660,because the .,conj det:art .,ENG ENG,0
+661,actually friday it's not a good day we go .,adv n pro:per neg det:art adj n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+662,we pact .,pro:sub n .,ENG ENG,0
+663,because it's a teacher planning day .,conj pro:per det:art n part n .,ENG ENG ENG ENG ENG ENG,0
+664,.,None,,0
+665,so the kids will be out .,co det:art n mod cop adv .,ENG ENG ENG ENG ENG ENG,0
+666,.,None,,0
+667,let's go on thursday .,v v prep n .,ENG ENG ENG ENG,0
+668,I hate crowds .,pro:sub n n .,ENG ENG ENG,0
+669,it's probably why I haven't been back .,pro:per adv pro:int pro:sub aux cop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+670,.,None,,0
+671,I hate crowds .,pro:sub n n .,ENG ENG ENG,0
+672,that's true .,pro:dem adj .,ENG ENG,0
+673,.,None,,0
+674,but it opens on thursday .,conj pro:per v prep n .,ENG ENG ENG ENG ENG,0
+675,.,None,,0
+676,well but you know that maybe they don't want to go on thursday .,co conj pro:per v pro:dem adv pro:sub mod v inf v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+677,.,None,,0
+678,friday it does open at noon because it's a day off for them .,adv:tem pro:per mod v prep n conj pro:per det:art n adv prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+679,.,None,,0
+680,oh shame on you !,co n prep pro:per !,ENG ENG ENG ENG,0
+681,.,None,,0
+682,.,None,,0
+683,.,None,,0
+684,you know I've never been to Bush_Gardens ?,pro:per v pro:sub adv cop prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+685,.,None,,0
+686,I don't /.,pro:sub mod +/.,ENG ENG,0
+687,.,None,,0
+688,why ?,pro:rel ?,ENG,0
+689,because it's all water ?,conj pro:per adv n ?,ENG ENG ENG ENG,0
+690,.,None,,0
+691,oh !,co !,ENG,0
+692,.,None,,0
+693,I've never been .,pro:sub adv cop .,ENG ENG ENG,0
+694,.,None,,0
+695,yeah that's true .,co pro:dem adj .,ENG ENG ENG,0
+696,and the /.,coord det:art +/.,ENG ENG,0
+697,.,None,,0
+698,oh the girl trip .,co det:art n n .,ENG ENG ENG ENG,0
+699,.,None,,0
+700,sucker !,n !,ENG,0
+701,.,None,,0
+702,sucker !,n !,ENG,0
+703,.,None,,0
+704,.,None,,0
+705,really ?,adv ?,ENG,0
+706,.,None,,0
+707,in Bush_Garden ?,prep n:prop ?,ENG ENG,0
+708,.,None,,0
+709,miserable .,adj .,ENG,0
+710,.,None,,0
+711,which one ?,pro:rel pro:indef ?,ENG ENG,0
+712,.,None,,0
+713,.,None,,0
+714,I have not been to ...,pro:sub v neg cop prep +...,ENG ENG ENG ENG ENG,0
+715,that's not true .,pro:dem neg adj .,ENG ENG ENG,0
+716,I did go to Universal_Studios .,pro:sub mod v prep n:prop .,ENG ENG ENG ENG ENG,0
+717,no .,co .,ENG,0
+718,I haven't .,pro:sub aux .,ENG ENG,0
+719,it's been a while .,pro:per cop det:art n .,ENG ENG ENG ENG,0
+720,.,None,,0
+721,.,None,,0
+722,.,None,,0
+723,.,None,,0
+724,.,None,,0
+725,as we get older we start doing that .,conj pro:sub v adj pro:sub v part comp .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+726,.,None,,0
+727,well you try to take very few things .,co pro:per v inf v adv qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+728,so you don't have to put anything away .,co pro:per mod v inf v pro:indef adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+729,.,None,,0
+730,.,None,,0
+731,this cord doesn't //.,det:dem n mod +//.,ENG ENG ENG,0
+732,they don't get upset about don't know how many originals I got .,pro:sub mod v v adv mod v pro:int qn n:adj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+733,do they ?,mod pro:sub ?,ENG ENG,0
+734,.,None,,0
+735,I have no clue .,pro:sub v qn n .,ENG ENG ENG ENG,0
+736,.,None,,0
+737,I don't care .,pro:sub mod v .,ENG ENG ENG,0
+738,no no .,co co .,ENG ENG,0
+739,.,None,,0
+740,.,None,,0
+741,.,None,,0
+742,did you come in back after her meeting ?,mod pro:per v adv adj prep pro:obj part ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+743,.,None,,0
+744,after .,prep .,ENG,0
+745,.,None,,0
+746,qué perdón ?,pro:int co ?,ENG ENG,0
+747,.,None,,0
+748,ah so she doubted .,co conj pro:sub v .,ENG ENG ENG ENG,0
+749,no regresa .,adv v .,ENG ENG,0
+750,coño pero no //.,co conj adv +//.,ENG ENG ENG,0
+751,well it does take a long time .,co pro:per mod v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+752,come think about it .,v v prep pro:per .,ENG ENG ENG ENG,0
+753,.,None,,0
+754,ay !,L2 !,ESP,0
+755,.,None,,0
+756,?,None,,0
+757,.,None,,0
+758,oh del año fiscal .,co L2 L2 L2 .,ENG ESP ESP ESP,1
+759,.,None,,0
+760,me lo dijo .,pro:obj pro:obj v .,ENG ENG ENG,0
+761,"me dice ""/.","pro:obj v +""/.",ENG ENG,0
+762,qué pena .,pro:int n .,ENG ENG,0
+763,"me dice ""/.","pro:obj v +""/.",ENG ENG,0
+764,ay María .,L2 n:prop .,ESP ENG,1
+765,.,None,,0
+766,he went to the house for Easter .,pro:sub v prep det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+767,yo le invité a que fuera a casa de mi suegra .,pro:sub pro:ind v aprep pro:rel adv aprep imp prep det:pos n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+768,"dice ""/.","v +""/.",ENG,0
+769,ay I felt so bad .,L2 pro:sub v adv adj .,ESP ENG ENG ENG ENG,1
+770,no se qué .,adv pro:refl pro:int .,ENG ENG ENG,0
+771,.,None,,0
+772,right .,co .,ENG,0
+773,.,None,,0
+774,right .,co .,ENG,0
+775,.,None,,0
+776,no no !,co co !,ENG ENG,0
+777,I have a grant Steve !,pro:sub v det:art n n:prop !,ENG ENG ENG ENG ENG,0
+778,.,None,,0
+779,no .,co .,ENG,0
+780,.,None,,0
+781,no no .,co co .,ENG ENG,0
+782,they have a grant .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+783,.,None,,0
+784,they have a grant .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+785,.,None,,0
+786,they have a grant .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+787,no .,co .,ENG,0
+788,they have a grant so //.,pro:sub v det:art n co +//.,ENG ENG ENG ENG ENG,0
+789,.,None,,0
+790,"me dice ""/.","pro:obj v +""/.",ENG ENG,0
+791,I felt so bad .,pro:sub v adv adj .,ENG ENG ENG ENG,0
+792,.,None,,0
+793,yo lo tengo también .,pro:sub pro:obj v adv .,ENG ENG ENG ENG,0
+794,.,None,,0
+795,.,None,,0
+796,but you buy them online .,conj pro:per v pro:obj adj .,ENG ENG ENG ENG ENG,0
+797,it's two dollars off .,pro:per det:num n adv .,ENG ENG ENG ENG,0
+798,I though the county was gonna let you know .,pro:sub adv det:art n aux part v pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+799,.,None,,0
+800,online is seven bucks .,adj aux det:num n .,ENG ENG ENG ENG,0
+801,at the places .,prep det:art n .,ENG ENG ENG,0
+802,.,None,,0
+803,seven dollars and fifteen .,det:num n coord det:num .,ENG ENG ENG ENG,0
+804,versus nine and twenty .,prep det:num coord det:num .,ENG ENG ENG ENG,0
+805,.,None,,0
+806,fifteen .,det:num .,ENG,0
+807,.,None,,0
+808,.,None,,0
+809,I'll limit it at seventeen .,pro:sub v pro:per prep det:num .,ENG ENG ENG ENG ENG,0
+810,sorry .,co .,ENG,0
+811,Martha .,n:prop .,ENG,0
+812,made a mistake .,v det:art n .,ENG ENG ENG,0
+813,I'll limit it at seventeen .,pro:sub v pro:per prep det:num .,ENG ENG ENG ENG ENG,0
+814,.,None,,0
+815,.,None,,0
+816,fifteen .,det:num .,ENG,0
+817,I guess it's only twenty two .,pro:sub v pro:per adv det:num det:num .,ENG ENG ENG ENG ENG ENG,0
+818,I don't know what that means .,pro:sub mod v pro:int det:dem v .,ENG ENG ENG ENG ENG ENG,0
+819,.,None,,0
+820,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+821,you are asking the wrong person .,pro:per aux part det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+822,.,None,,0
+823,.,None,,0
+824,what is this ?,pro:int cop pro:dem ?,ENG ENG ENG,0
+825,.,None,,0
+826,why is getting soon ?,pro:int aux part adv ?,ENG ENG ENG ENG,0
+827,.,None,,0
+828,mhm .,co .,ENG,0
+829,.,None,,0
+830,pedestrian .,adj .,ENG,0
+831,.,None,,0
+832,oh felicidades a la nueva ciudadana !,co L2 L2 L2 L2 L2 !,ENG ESP ESP ESP ESP ESP,1
+833,cuándo es el swearing in ?,L2 L2 L2 part adv ?,ESP ESP ESP ENG ENG,1
+834,.,None,,0
+835,congratulations !,n !,ENG,0
+836,.,None,,0
+837,right right .,co co .,ENG ENG,0
+838,.,None,,0
+839,.,None,,0
+840,.,None,,0
+841,.,None,,0
+842,.,None,,0
+843,.,None,,0
+844,.,None,,0
+845,.,None,,0
+846,they didn't ask you all that /.,pro:sub mod v pro:per adv pro:dem +/.,ENG ENG ENG ENG ENG ENG,0
+847,.,None,,0
+848,.,None,,0
+849,.,None,,0
+850,no .,co .,ENG,0
+851,.,None,,0
+852,did your mum ...,v det:poss n +...,ENG ENG ENG,0
+853,you were born here or in Jamaica ?,pro:per cop adj adv coord prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+854,but your mum eh registered you right ?,conj det:poss n L2 v pro:per co ?,ENG ENG ENG ESP ENG ENG ENG,1
+855,.,None,,0
+856,citizen what ?,n pro:int ?,ENG ENG,0
+857,.,None,,0
+858,they don't tell you to bring photos ?,pro:sub mod v pro:per inf v n ?,ENG ENG ENG ENG ENG ENG ENG,0
+859,.,None,,0
+860,yeah because they stipulate to the naturalization of ...,co conj pro:sub v prep det:art n prep +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+861,.,None,,0
+862,certificate which you get I guess when you swear in .,n pro:rel pro:per v pro:sub n conj pro:per v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+863,.,None,,0
+864,right .,co .,ENG,0
+865,.,None,,0
+866,they've done it also at auditorium .,pro:sub part pro:per adv prep n .,ENG ENG ENG ENG ENG ENG,0
+867,yeah .,co .,ENG,0
+868,.,None,,0
+869,yeah they don't //.,co pro:sub mod +//.,ENG ENG ENG,0
+870,they won't even hold them for you .,pro:sub mod adv v pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+871,.,None,,0
+872,they won't hold them for you .,pro:sub mod v pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+873,.,None,,0
+874,why is your file so big ?,pro:int cop det:poss n adv adj ?,ENG ENG ENG ENG ENG ENG,0
+875,.,None,,0
+876,mhm yeah .,co co .,ENG ENG,0
+877,.,None,,0
+878,political reasons .,adj n .,ENG ENG,0
+879,.,None,,0
+880,yeah but you were there for political reasons so it would definitely .,co conj pro:per cop adv prep adj v conj pro:per mod adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+881,.,None,,0
+882,.,None,,0
+883,.,None,,0
+884,asylum .,n .,ENG,0
+885,.,None,,0
+886,same thing .,adj n .,ENG ENG,0
+887,.,None,,0
+888,y no te hicieron //?,coord adv pro:obj v +//?,ENG ENG ENG ENG,0
+889,porque yo tengo una amiga que que para el marido para la residencia //.,conj pro:sub v det:art n prep pro:rel prep det:art n prep det:art n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+890,se pregunta una pila de cosas .,pro:refl v det:art n imp v .,ENG ENG ENG ENG ENG ENG,0
+891,you know .,pro:per v .,ENG ENG,0
+892,cuándo te casaste ?,pro:int pro:obj v ?,ENG ENG ENG,0
+893,bring wedding pictures ...,v n n +...,ENG ENG ENG,0
+894,.,None,,0
+895,oh okay .,co co .,ENG ENG,0
+896,.,None,,0
+897,.,None,,0
+898,right .,co .,ENG,0
+899,right they separate you .,adv pro:sub v pro:per .,ENG ENG ENG ENG,0
+900,right .,co .,ENG,0
+901,.,None,,0
+902,they drill you and they want /.,pro:sub v pro:per coord pro:sub v +/.,ENG ENG ENG ENG ENG ENG,0
+903,.,None,,0
+904,for the papers .,prep det:art n .,ENG ENG ENG,0
+905,.,None,,0
+906,right right right .,adv adv co .,ENG ENG ENG,0
+907,.,None,,0
+908,yeah my friend //.,co det:poss n +//.,ENG ENG ENG,0
+909,el novio //.,det:art n +//.,ENG ENG,0
+910,had a work visa .,v det:art n n .,ENG ENG ENG ENG,0
+911,and then he was starting a new job .,coord adv:tem pro:sub aux part det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+912,and you know .,coord pro:per v .,ENG ENG ENG,0
+913,so he //.,co pro:sub +//.,ENG ENG,0
+914,the gap //.,det:art n +//.,ENG ENG,0
+915,se casaron like en enero or like two months in October por lo civil .,L2 L2 co L2 L2 coord co det:num n prep n:prop L2 L2 L2 .,ESP ESP ENG ESP ESP ENG ENG ENG ENG ENG ENG ESP ESP ESP,1
+916,but the official wedding //.,conj det:art n n +//.,ENG ENG ENG ENG,0
+917,you know .,pro:per v .,ENG ENG,0
+918,at the church .,prep det:art n .,ENG ENG ENG,0
+919,was like two months later .,cop co det:num n adv .,ENG ENG ENG ENG ENG,0
+920,but they had do that so he could get his paperwork going .,conj pro:sub v v pro:dem conj pro:sub mod v det:poss n part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+921,she had to bring the pictures from the religious ceremony .,pro:sub v inf v det:art n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+922,because they said they were //.,conj pro:sub v pro:sub cop +//.,ENG ENG ENG ENG ENG,0
+923,it was true .,pro:per cop n .,ENG ENG ENG,0
+924,they said //.,pro:sub v +//.,ENG ENG,0
+925,you know .,pro:per v .,ENG ENG,0
+926,they were gonna get married anyway so they just did it for the paperwork .,pro:sub aux part v part adv co pro:sub adj mod pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+927,.,None,,0
+928,"and they are like ""/.","coord pro:sub cop prep +""/.",ENG ENG ENG ENG,0
+929,bring pictures of the honeymoon .,v n prep det:art n .,ENG ENG ENG ENG ENG,0
+930,bring pictures of the reception .,v n prep det:art n .,ENG ENG ENG ENG ENG,0
+931,.,None,,0
+932,.,None,,0
+933,.,None,,0
+934,wow .,co .,ENG,0
+935,.,None,,0
+936,for residency .,prep adj .,ENG ENG,0
+937,.,None,,0
+938,through an American .,prep det:art n:prop .,ENG ENG ENG,0
+939,.,None,,0
+940,when you are married American .,conj pro:per aux part n:prop .,ENG ENG ENG ENG ENG,0
+941,.,None,,0
+942,oh boy .,co n .,ENG ENG,0
+943,.,None,,0
+944,de los papers .,L2 L2 n .,ESP ESP ENG,1
+945,right right .,co co .,ENG ENG,0
+946,.,None,,0
+947,.,None,,0
+948,.,None,,0
+949,yeah .,co .,ENG,0
+950,.,None,,0
+951,y ya el viejo !,coord adv det:art adj !,ENG ENG ENG ENG,0
+952,y ya el viejo se está haciendo la idea .,coord adv det:art adj pro:refl aux ger det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+953,.,None,,0
+954,maybe you are third .,adv pro:per cop adj .,ENG ENG ENG ENG,0
+955,.,None,,0
+956,qué mala tú eres .,pro:int adj pro:sub cop .,ENG ENG ENG ENG,0
+957,.,None,,0
+958,no .,co .,ENG,0
+959,naive .,adj .,ENG,0
+960,or no /.,coord co +/.,ENG ENG,0
+961,.,None,,0
+962,no naive so much as ...,qn adj adv adv adv +...,ENG ENG ENG ENG ENG,0
+963,.,None,,0
+964,illusions yes .,n co .,ENG ENG,0
+965,.,None,,0
+966,you know what .,pro:per v pro:int .,ENG ENG ENG,0
+967,it's not worth it .,pro:per neg adj pro:per .,ENG ENG ENG ENG,0
+968,because if they catch you ...,conj conj pro:sub v pro:per +...,ENG ENG ENG ENG ENG,0
+969,.,None,,0
+970,yeah .,co .,ENG,0
+971,.,None,,0
+972,probably .,adv .,ENG,0
+973,he gets deported .,pro:sub v part .,ENG ENG ENG,0
+974,and you probably get fined and go to jail .,coord pro:per adv v v coord v inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+975,because you are abetting in an illegal activity .,conj pro:per aux part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+976,.,None,,0
+977,aiding and abetting .,part coord part .,ENG ENG ENG,0
+978,aiding and abetting .,part coord part .,ENG ENG ENG,0
+979,.,None,,0
+980,.,None,,0
+981,.,None,,0
+982,ese es otro viejo iluso .,det:dem cop pro:indef adj adj .,ENG ENG ENG ENG ENG,0
+983,ese es otro iluso .,det:dem cop pro:indef adj .,ENG ENG ENG ENG,0
+984,.,None,,0
+985,yeah he might get .,co pro:sub mod v .,ENG ENG ENG ENG,0
+986,you know .,pro:per v .,ENG ENG,0
+987,.,None,,0
+988,ay que mala la otra .,L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP,0
+989,mira lo siento .,co pro:obj v .,ENG ENG ENG,0
+990,I think I've changed my mind .,pro:sub v pro:sub part det:poss n .,ENG ENG ENG ENG ENG ENG,0
+991,I can't go through the /.,pro:sub mod v adv det:art +/.,ENG ENG ENG ENG ENG,0
+992,.,None,,0
+993,that's true .,pro:dem adj .,ENG ENG,0
+994,.,None,,0
+995,you never know .,pro:per adv v .,ENG ENG ENG,0
+996,maybe they'll fall in love .,adv pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+997,.,None,,0
+998,of course she's got to be slick .,prep n pro:sub part inf cop n .,ENG ENG ENG ENG ENG ENG ENG,0
+999,.,None,,0
+1000,of the what ?,prep det:art pro:int ?,ENG ENG ENG,0
+1001,.,None,,0
+1002,ay dios mío !,L2 L2 L2 !,ESP ESP ESP,0
+1003,.,None,,0
+1004,la vieja es slick .,L2 L2 L2 n .,ESP ESP ESP ENG,1
+1005,.,None,,0
+1006,.,None,,0
+1007,.,None,,0
+1008,la verdad es que ella es tipa inteligente //.,det:art co cop pro:rel pro:sub cop n adj +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1009,se la comió .,pro:refl pro:obj v .,ENG ENG ENG,0
+1010,se la comió //.,pro:refl pro:obj v +//.,ENG ENG ENG,0
+1011,.,None,,0
+1012,sí .,L2 .,ESP,0
+1013,she is very slick .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+1014,.,None,,0
+1015,sí sí pero olvídate .,co co conj imp .,ENG ENG ENG ENG,0
+1016,si a ti te dan un .,conj aprep pro:prep pro:obj v det:art .,ENG ENG ENG ENG ENG ENG,0
+1017,el tipo quedó ...,det:art n v +...,ENG ENG ENG,0
+1018,forget it .,v pro:per .,ENG ENG,0
+1019,.,None,,0
+1020,.,None,,0
+1021,.,None,,0
+1022,yes .,co .,ENG,0
+1023,no .,co .,ENG,0
+1024,.,None,,0
+1025,.,None,,0
+1026,we are not bad .,pro:sub cop neg adj .,ENG ENG ENG ENG,0
+1027,and we're just realists okay ?,coord pro:sub adv n adj ?,ENG ENG ENG ENG ENG,0
+1028,we're terrible .,pro:sub adj .,ENG ENG,0
+1029,.,None,,0
+1030,pobre viejo .,co adj .,ENG ENG,0
+1031,sesenta no es tan viejo .,det:num adv cop adv adj .,ENG ENG ENG ENG ENG,0
+1032,.,None,,0
+1033,olvídate .,imp .,ENG,0
+1034,in a good time .,prep det:art adj n .,ENG ENG ENG ENG,0
+1035,.,None,,0
+1036,.,None,,0
+1037,does anybody want these boxes ?,mod pro:indef v det:dem n ?,ENG ENG ENG ENG ENG,0
+1038,.,None,,0
+1039,ay .,L2 .,ESP,0
+1040,qué fue ?,pro:int v ?,ENG ENG,0
+1041,.,None,,0
+1042,.,None,,0
+1043,copia !,imp !,ENG,0
+1044,.,None,,0
+1045,ay está perfecta verdad ?,L2 L2 L2 L2 ?,ESP ESP ESP ESP,0
+1046,.,None,,0
+1047,a quién pide .,aprep pro:int v .,ENG ENG ENG,0
+1048,.,None,,0
+1049,Miguel ?,n:prop ?,ENG,0
+1050,.,None,,0
+1051,qué se equivocaron ?,pro:int pro:refl v ?,ENG ENG ENG,0
+1052,.,None,,0
+1053,ay coño .,L2 L2 .,ESP ESP,0
+1054,.,None,,0
+1055,it's my mission to get rid of A_One .,pro:per det:poss n inf v v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1056,this week .,det:dem n .,ENG ENG,0
+1057,.,None,,0
+1058,.,None,,0
+1059,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1060,she needs twenty hours .,pro:sub v det:num n .,ENG ENG ENG ENG,0
+1061,.,None,,0
+1062,no .,co .,ENG,0
+1063,she is in Wales or Scotland .,pro:sub cop prep n:prop coord n:prop .,ENG ENG ENG ENG ENG ENG,0
+1064,I don't know where she is .,pro:sub mod v pro:int pro:sub cop .,ENG ENG ENG ENG ENG ENG,0
+1065,they went to .,pro:sub v prep .,ENG ENG ENG,0
+1066,.,None,,0
+1067,somewhere .,n .,ENG,0
+1068,they went to Wales .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+1069,I mean to Scotland //.,pro:sub v prep n:prop +//.,ENG ENG ENG ENG,0
+1070,I think for Easter .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+1071,.,None,,0
+1072,and Jeff was saying that ...,coord n:prop aux part comp +...,ENG ENG ENG ENG ENG,0
+1073,if the weather might have been cold they may go snowing .,comp det:art n n aux aux adv pro:sub mod v part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1074,"and goes ""/.","coord v +""/.",ENG ENG,0
+1075,I just can't imagine that when I'm here in this eighty degree weather .,pro:sub adv mod v adv conj pro:sub adv prep det:dem det:num n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1076,.,None,,0
+1077,today it's a beautiful day .,adv:tem pro:per det:art adj n .,ENG ENG ENG ENG ENG,0
+1078,what was I doing ?,pro:int cop pro:sub part ?,ENG ENG ENG ENG,0
+1079,.,None,,0
+1080,.,None,,0
+1081,ya ?,adv ?,ENG,0
+1082,pero si no son ni siquiera las doce del día .,conj conj adv cop coord conj pro:obj det:num prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1083,.,None,,0
+1084,qué tu te has creído ?,pro:int det:pos pro:obj aux part ?,ENG ENG ENG ENG ENG,0
+1085,.,None,,0
+1086,how do I what ?,pro:int mod pro:sub pro:int ?,ENG ENG ENG ENG,0
+1087,how do I what ?,pro:int mod pro:sub pro:int ?,ENG ENG ENG ENG,0
+1088,.,None,,0
+1089,that's correct .,pro:dem adj .,ENG ENG,0
+1090,.,None,,0
+1091,let's see .,v v .,ENG ENG,0
+1092,let me look that on the website .,v pro:obj v pro:dem prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+1093,.,None,,0
+1094,and why would you want to have //?,coord pro:rel mod pro:per v inf v +//?,ENG ENG ENG ENG ENG ENG ENG,0
+1095,all right .,post co .,ENG ENG,0
+1096,.,None,,0
+1097,.,None,,0
+1098,I made home made croquetas .,pro:sub v n part L2 .,ENG ENG ENG ENG ESP,1
+1099,ham and meat for easter .,n coord n prep adj .,ENG ENG ENG ENG ENG,0
+1100,.,None,,0
+1101,huhu .,co .,ENG,0
+1102,.,None,,0
+1103,they're not //.,pro:sub neg +//.,ENG ENG,0
+1104,you know .,pro:per v .,ENG ENG,0
+1105,something you would pop in ten minutes .,pro:indef pro:per mod v prep det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+1106,have no idea how our maid did it for dinner sometimes .,v qn n pro:rel det:poss n mod pro:per prep n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1107,.,None,,0
+1108,I did make the binders .,pro:sub mod v det:art n .,ENG ENG ENG ENG ENG,0
+1109,was my favorite friend that .,cop det:poss adj n pro:dem .,ENG ENG ENG ENG ENG,0
+1110,oh yeah .,co co .,ENG ENG,0
+1111,that's right .,pro:dem co .,ENG ENG,0
+1112,he is not there anymore .,pro:sub cop neg adv adv .,ENG ENG ENG ENG ENG,0
+1113,wonder why .,adj pro:rel .,ENG ENG,0
+1114,.,None,,0
+1115,she knows better than to ask me .,pro:sub v adv prep inf v pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+1116,.,None,,0
+1117,.,None,,0
+1118,I know .,pro:sub v .,ENG ENG,0
+1119,.,None,,0
+1120,no he drove me crazy .,co pro:sub v pro:obj adj .,ENG ENG ENG ENG ENG,0
+1121,I liked him but //.,pro:sub v pro:obj conj +//.,ENG ENG ENG ENG,0
+1122,I though he was kind of whiner .,pro:sub adv pro:sub cop adj prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+1123,.,None,,0
+1124,you don't say creepy .,pro:per mod v adj .,ENG ENG ENG ENG,0
+1125,oye la otra .,v det:art det:indef .,ENG ENG ENG,0
+1126,he was a whiner !,pro:sub cop det:art n !,ENG ENG ENG ENG,0
+1127,.,None,,0
+1128,sí .,L2 .,ESP,0
+1129,.,None,,0
+1130,oh .,co .,ENG,0
+1131,coño he liked you !,L2 pro:sub v pro:per !,ESP ENG ENG ENG,1
+1132,.,None,,0
+1133,quién tiene scotchy tapy ?,L2 L2 adj adj ?,ESP ESP ENG ENG,1
+1134,que me preste ?,pro:rel pro:obj v ?,ENG ENG ENG,0
+1135,.,None,,0
+1136,"I think he said ""/.","pro:sub v pro:sub v +""/.",ENG ENG ENG ENG,0
+1137,Martha brought up mine .,n:prop v adv pro:poss .,ENG ENG ENG ENG,0
+1138,favorite person .,adj n .,ENG ENG,0
+1139,got me going .,v pro:obj part .,ENG ENG ENG,0
+1140,.,None,,0
+1141,vamos maquinita .,co n .,ENG ENG,0
+1142,es para hoy .,cop prep adv .,ENG ENG ENG,0
+1143,yo creo que el copying machine me odia .,L2 L2 L2 L2 part n L2 L2 .,ESP ESP ESP ESP ENG ENG ESP ESP,1
+1144,porque hice muchas copias ayer .,conj v det:indef v adv .,ENG ENG ENG ENG ENG,0
+1145,.,None,,0
+1146,se demora conmigo .,pro:refl v adv .,ENG ENG ENG,0
+1147,qué te pasó ?,pro:int pro:obj v ?,ENG ENG ENG,0
+1148,.,None,,0
+1149,what happened ?,pro:int v ?,ENG ENG,0
+1150,.,None,,0
+1151,oh .,co .,ENG,0
+1152,.,None,,0
+1153,that's our recording thing .,pro:dem det:poss part n .,ENG ENG ENG ENG,0
+1154,.,None,,0
+1155,and voila look !,coord L2 co !,ENG ESP ENG,1
+1156,I have a cover now .,pro:sub v det:art n adv .,ENG ENG ENG ENG ENG,0
+1157,.,None,,0
+1158,what ?,pro:int ?,ENG,0
+1159,.,None,,0
+1160,for which project ?,prep pro:int n ?,ENG ENG ENG,0
+1161,for which portion of the project ?,prep pro:int n prep det:art n ?,ENG ENG ENG ENG ENG ENG,0
+1162,.,None,,0
+1163,coño .,co .,ENG,0
+1164,.,None,,0
+1165,.,None,,0
+1166,.,None,,0
+1167,yeah is a good way to put it .,co cop det:art adj n inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1168,they shouldn't take that long .,pro:sub mod v adv adv .,ENG ENG ENG ENG ENG,0
+1169,.,None,,0
+1170,who's paying for it ?,pro:rel part prep pro:per ?,ENG ENG ENG ENG,0
+1171,.,None,,0
+1172,it is true .,pro:per cop n .,ENG ENG ENG,0
+1173,she has the point .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+1174,.,None,,0
+1175,in the road runner .,prep det:art n n .,ENG ENG ENG ENG,0
+1176,she has the point .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+1177,.,None,,0
+1178,.,None,,0
+1179,.,None,,0
+1180,she has a point .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+1181,.,None,,0
+1182,coño sí .,co co .,ENG ENG,0
+1183,la verdad .,det:art n .,ENG ENG,0
+1184,.,None,,0
+1185,I have to agree with her .,pro:sub v inf v prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+1186,it's kind of like mhm .,pro:per n prep co co .,ENG ENG ENG ENG ENG,0
+1187,.,None,,0
+1188,you are asking for trouble .,pro:per aux part prep n .,ENG ENG ENG ENG ENG,0
+1189,.,None,,0
+1190,.,None,,0
+1191,you mean the size of the arrow ?,pro:per v det:art n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+1192,.,None,,0
+1193,mhm .,co .,ENG,0
+1194,.,None,,0
+1195,but it does not always work because if you have a serious .,conj pro:per mod neg adv n conj conj pro:per v det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1196,where I get particular is that all the text needs to line up .,pro:int pro:sub v n cop comp qn det:art n v inf v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1197,because if you have them all the same length it may not work .,conj conj pro:per v pro:obj adv det:art adj n pro:per mod neg v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1198,if the materials next to each other //.,conj det:art n adj prep qn qn +//.,ENG ENG ENG ENG ENG ENG ENG,0
+1199,you see I'm saying ?,pro:per v pro:sub part ?,ENG ENG ENG ENG,0
+1200,.,None,,0
+1201,I'm more for making through all the text lines up //.,pro:sub adv prep n:gerund prep qn det:art n v adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1202,to the right //.,prep det:art adj +//.,ENG ENG ENG,0
+1203,you know .,pro:per v .,ENG ENG,0
+1204,nice and neat .,adj coord adj .,ENG ENG ENG,0
+1205,rather that jumbling all over the place .,adv pro:rel part adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+1206,.,None,,0
+1207,yes I may speak with Christine please ?,co pro:sub mod v prep n:prop co ?,ENG ENG ENG ENG ENG ENG ENG,0
+1208,hey Christine .,co n:prop .,ENG ENG,0
+1209,this is Maria .,pro:dem cop n:prop .,ENG ENG ENG,0
+1210,I'm at .,pro:sub prep .,ENG ENG,0
+1211,something tells me that they gave you the civil back in August of last year or July //.,pro:indef v pro:obj comp pro:sub v pro:per det:art adj adv prep n:prop prep adj n coord n:prop +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1212,before they could open the first half of the building .,conj pro:sub mod v det:art adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1213,give me a call so that you can confirm me that you have them .,v pro:obj det:art n co pro:dem pro:per mod v pro:obj comp pro:per v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1214,and what's missing so you can do the belts for B_One .,coord pro:int part conj pro:per mod v det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1215,three o five four four five three seven six five .,det:num n:let det:num det:num det:num det:num det:num det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1216,thanks .,co .,ENG,0
+1217,.,None,,0
+1218,what ?,pro:int ?,ENG,0
+1219,.,None,,0
+1220,oh yes yes yes yes .,co co co co co .,ENG ENG ENG ENG ENG,0
+1221,hang on .,v adv .,ENG ENG,0
+1222,a ver .,L2 L2 .,ESP ESP,0
+1223,coño I just went blank .,L2 pro:sub adv v adj .,ESP ENG ENG ENG ENG,1
+1224,what the hell is her name ?,pro:int det:art n cop det:poss n ?,ENG ENG ENG ENG ENG ENG,0
+1225,Jenny .,n:prop .,ENG,0
+1226,.,None,,0
+1227,.,None,,0
+1228,have bill bags .,v n n .,ENG ENG ENG,0
+1229,stay parked .,v part .,ENG ENG,0
+1230,.,None,,0
+1231,thank you .,v pro:per .,ENG ENG,0
+1232,hello ?,co ?,ENG,0
+1233,okay .,co .,ENG,0
+1234,mhm .,co .,ENG,0
+1235,right that's what he told me .,co pro:dem pro:int pro:sub v pro:obj .,ENG ENG ENG ENG ENG ENG,0
+1236,mhm .,co .,ENG,0
+1237,okay what kind of issues ?,co pro:int n prep n ?,ENG ENG ENG ENG ENG,0
+1238,what are the issues ?,pro:int cop det:art n ?,ENG ENG ENG ENG,0
+1239,wow .,co .,ENG,0
+1240,mhm .,co .,ENG,0
+1241,mhm .,co .,ENG,0
+1242,right .,co .,ENG,0
+1243,it's life .,pro:per n .,ENG ENG,0
+1244,right .,co .,ENG,0
+1245,and timing belts in handouts is not good .,coord part n prep n cop neg adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1246,right .,co .,ENG,0
+1247,in fact the big handout .,prep n det:art adj n .,ENG ENG ENG ENG ENG,0
+1248,the is fifty two thousand miles .,det:art aux det:num det:num det:num n .,ENG ENG ENG ENG ENG ENG,0
+1249,I think they have to replace them with sixty .,pro:sub v pro:sub v inf re#v pro:obj prep det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1250,yeah from my whole handout remember it was sixty .,co prep det:poss adj n v pro:per cop det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1251,.,None,,0
+1252,okay .,co .,ENG,0
+1253,.,None,,0
+1254,another on top of the three hundred .,pro:indef prep n prep det:art det:num det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+1255,.,None,,0
+1256,okay .,co .,ENG,0
+1257,and that repairs ...,coord pro:rel v +...,ENG ENG ENG,0
+1258,.,None,,0
+1259,right right right .,adv adv co .,ENG ENG ENG,0
+1260,.,None,,0
+1261,on top of the three hundred or no ?,prep n prep det:art det:num det:num coord co ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1262,.,None,,0
+1263,including the three hundred and sixty .,part det:art det:num det:num coord det:num .,ENG ENG ENG ENG ENG ENG,0
+1264,.,None,,0
+1265,well we are gonna be driving there .,co pro:sub aux part aux part adv .,ENG ENG ENG ENG ENG ENG ENG,0
+1266,.,None,,0
+1267,okay .,co .,ENG,0
+1268,mhm and then time .,co coord adv:tem v .,ENG ENG ENG ENG,0
+1269,.,None,,0
+1270,which as bad .,pro:rel adv adj .,ENG ENG ENG,0
+1271,when you talk to him can you ask him on ?,conj pro:per v prep pro:obj mod pro:per v pro:obj adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1272,if it's still the same model sixty sixty thousand ?,conj pro:per adv det:art adj n det:num det:num det:num ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1273,so that I keep that in mind ?,adv pro:rel pro:sub v pro:dem prep n ?,ENG ENG ENG ENG ENG ENG ENG,0
+1274,I mean /.,pro:sub v +/.,ENG ENG,0
+1275,I'm not putting .,pro:sub neg part .,ENG ENG ENG,0
+1276,okay .,co .,ENG,0
+1277,bye .,co .,ENG,0
+1278,.,None,,0
+1279,.,None,,0
+1280,ay coño .,L2 L2 .,ESP ESP,0
+1281,.,None,,0
+1282,what happened to him ?,pro:int v prep pro:obj ?,ENG ENG ENG ENG,0
+1283,.,None,,0
+1284,he quit ?,pro:sub v ?,ENG ENG,0
+1285,.,None,,0
+1286,he /.,pro:sub +/.,ENG,0
+1287,.,None,,0
+1288,he quit on .,pro:sub v prep .,ENG ENG ENG,0
+1289,.,None,,0
+1290,Qatar .,n:prop .,ENG,0
+1291,.,None,,0
+1292,Qatar like over there in Persia ?,n:prop v prep n prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+1293,.,None,,0
+1294,would /?,mod +/?,ENG,0
+1295,.,None,,0
+1296,what the heck is he doing there ?,pro:int det:art n cop pro:sub part adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+1297,.,None,,0
+1298,what's he doing there ?,pro:int pro:sub part adv ?,ENG ENG ENG ENG,0
+1299,.,None,,0
+1300,and you didn't take it .,coord pro:per mod v pro:per .,ENG ENG ENG ENG ENG,0
+1301,.,None,,0
+1302,they live in their own .,pro:sub v prep det:poss adj .,ENG ENG ENG ENG ENG,0
+1303,.,None,,0
+1304,yeah but that was twenty some years ago .,co conj pro:dem cop det:num qn n post .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1305,things are a little bit different now .,n cop det:art adj n adj adv .,ENG ENG ENG ENG ENG ENG ENG,0
+1306,.,None,,0
+1307,ah oh .,co co .,ENG ENG,0
+1308,.,None,,0
+1309,everything .,pro:indef .,ENG,0

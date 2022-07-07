@@ -1,0 +1,852 @@
+,sentence,pos,language,switch
+0,well maybe partially because a lot of the boy scout leaders are .,adv adv adv conj det:art n prep det:art n n n cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1,I mean and it sounds ...,pro:sub adj coord pro:per n +...,ENG ENG ENG ENG ENG,0
+2,and I'm making this up I might be .,coord pro:sub part det:dem adv pro:sub mod cop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+3,but my theory would be it's men .,conj det:poss n mod cop pro:per n .,ENG ENG ENG ENG ENG ENG ENG,0
+4,and so they think //.,coord co pro:sub v +//.,ENG ENG ENG ENG,0
+5,you know .,pro:per v .,ENG ENG,0
+6,.,None,,0
+7,right they figure the guys are good swimmers good boaters good whatever .,adv pro:sub v det:art n cop adj n adj n adj pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+8,you know .,pro:per v .,ENG ENG,0
+9,.,None,,0
+10,right .,co .,ENG,0
+11,you know .,pro:per v .,ENG ENG,0
+12,and then that the leaders are just as you know as forthcoming in their knowledge whereas maybe they're thinking that the women are not as //.,coord adv:tem comp det:art n cop adv conj pro:per v adv adj prep det:poss n conj adv pro:sub part comp det:art n cop neg adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+13,.,None,,0
+14,that's my theory you know .,pro:dem det:poss n pro:per v .,ENG ENG ENG ENG ENG,0
+15,they do require that you know one of our leaders must be you know certified you know that those //.,pro:sub mod v comp pro:per v det:num prep det:poss n mod aux pro:per v part pro:per v comp pro:dem +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+16,.,None,,0
+17,most of us aren't you know .,qn prep pro:obj cop pro:per v .,ENG ENG ENG ENG ENG ENG,0
+18,we don't /.,pro:sub mod +/.,ENG ENG,0
+19,.,None,,0
+20,but //.,conj +//.,ENG,0
+21,.,None,,0
+22,hey Bob !,co n:prop !,ENG ENG,0
+23,a question for you .,det:art n prep pro:per .,ENG ENG ENG ENG,0
+24,who's our commissioning agent for FKKA ?,pro:int det:poss part n prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+25,is it us because it's under fifty thousand ?,aux pro:per pro:obj conj pro:per adv det:num det:num ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+26,.,None,,0
+27,right .,co .,ENG,0
+28,but then for the prerequisite .,conj adv:tem prep det:art pre#n .,ENG ENG ENG ENG ENG,0
+29,are we doing an enhance or just prerequisite for Florida Keys ?,cop pro:sub part det:art v coord adj pre#n prep n:prop n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+30,.,None,,0
+31,the engineer of record as long as they're not on the team .,det:art n prep n prep adv adv pro:sub neg prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+32,.,None,,0
+33,right .,co .,ENG,0
+34,.,None,,0
+35,but I think if it's under fifty thousand square feet it can be done by one of the engineer's designers .,conj pro:sub v comp pro:per adv det:num det:num adj n pro:per mod aux part adv det:num prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+36,.,None,,0
+37,which is another presentation I went to yesterday .,pro:rel cop qn n pro:sub v prep adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+38,it was by a company called Spinnaker Group that does ...,pro:per aux prep det:art n part n:prop n:prop pro:rel v +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+39,.,None,,0
+40,they're doing the /.,pro:sub part det:art +/.,ENG ENG ENG,0
+41,.,None,,0
+42,right it's a prerequisite .,adv pro:per det:art pre#n .,ENG ENG ENG ENG,0
+43,.,None,,0
+44,well actually somebody asked that question .,co adv pro:indef v pro:dem v .,ENG ENG ENG ENG ENG ENG,0
+45,and he said in theory the fundamental commissioning could be a different person than the enhance .,coord pro:sub v prep n det:art adj n:gerund mod cop det:art adj n prep det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+46,it usually never happens .,pro:per adv adv v .,ENG ENG ENG ENG,0
+47,.,None,,0
+48,but he said in theory it could be two different /.,conj pro:sub v prep n pro:per mod cop det:num adj +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+49,.,None,,0
+50,agents .,n .,ENG,0
+51,.,None,,0
+52,well that's what he said is that because they have something else it turns out that you end up only being able to have one .,co pro:dem pro:int pro:sub v cop pro:dem conj pro:sub v pro:indef post pro:per v adv comp pro:per v adv qn n adj inf v pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+53,but he said it that in theory you could have one a piece .,conj pro:sub v pro:per pro:dem prep n pro:per mod v pro:indef det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+54,but because you have this other requirement then you end up with only being able to get one commissioning agent .,conj conj pro:per v pro:dem qn n adv:tem pro:per v adv prep qn n adj inf v pro:indef part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+55,he said it makes no sense .,pro:sub v pro:per v qn n .,ENG ENG ENG ENG ENG ENG,0
+56,but that's kinda you know what happens .,conj pro:dem adv pro:per v pro:int v .,ENG ENG ENG ENG ENG ENG ENG,0
+57,you know that if you read them individually it could be two different teams .,pro:per v adv conj pro:per v pro:obj adv pro:per mod cop det:num adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+58,but because then you have this other requirement .,conj conj adv:tem pro:per v pro:dem qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+59,I can't remember what he said .,pro:sub mod v pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+60,he says you end up having to be able you know only use one .,pro:sub v pro:per v adv n:gerund inf cop adj pro:per v adv n pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+61,.,None,,0
+62,woo hoo !,v n !,ENG ENG,0
+63,.,None,,0
+64,Mona did Kurt talk to you about the /?,n:prop v n:prop n prep pro:per prep det:art +/?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+65,.,None,,0
+66,.,None,,0
+67,.,None,,0
+68,let me answer him .,v pro:obj v pro:obj .,ENG ENG ENG ENG,0
+69,.,None,,0
+70,colored pencils ?,v n ?,ENG ENG,0
+71,.,None,,0
+72,no they don't keep them over here .,co pro:sub mod v pro:obj prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+73,check by Juan's desk .,n prep L2 n .,ENG ENG ESP ENG,1
+74,.,None,,0
+75,no .,co .,ENG,0
+76,they check by Juan's desk or the back area .,pro:sub v prep L2 n coord det:art adj n .,ENG ENG ENG ESP ENG ENG ENG ENG ENG,1
+77,.,None,,0
+78,yeah .,co .,ENG,0
+79,ask Juan who's usually the one who runs off with them .,v L2 pro:rel adv det:art pro:indef pro:rel v adv prep pro:obj .,ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+80,.,None,,0
+81,right .,co .,ENG,0
+82,.,None,,0
+83,oh .,co .,ENG,0
+84,.,None,,0
+85,y cómo que no ?,coord pro:int pro:rel adv ?,ENG ENG ENG ENG,0
+86,abre allá arriba a ver .,v adv adv aprep inf .,ENG ENG ENG ENG ENG,0
+87,abre el de arriba .,v det:art prep adv .,ENG ENG ENG ENG,0
+88,just out of curiosity .,adv adv prep n .,ENG ENG ENG ENG,0
+89,no ?,co ?,ENG,0
+90,.,None,,0
+91,I have to agree with that .,pro:sub v inf v prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+92,.,None,,0
+93,okay Marta tell me if this is too long .,co L2 v pro:obj comp pro:dem cop adv adj .,ENG ESP ENG ENG ENG ENG ENG ENG ENG,1
+94,.,None,,0
+95,for the girls yes .,prep det:art n co .,ENG ENG ENG ENG,0
+96,actually I wanna add a section on women architecture .,adv pro:sub v v det:art n prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+97,but I haven't done that yet .,conj pro:sub aux part pro:dem adv .,ENG ENG ENG ENG ENG ENG,0
+98,.,None,,0
+99,I made it .,pro:sub v pro:per .,ENG ENG ENG,0
+100,now this is an Autocad drawing .,adv pro:dem cop det:art n:prop n .,ENG ENG ENG ENG ENG ENG,0
+101,.,None,,0
+102,.,None,,0
+103,I've just traced it because your stupid girl scout website doesn't give you the ability to download a decent /.,pro:sub adv part pro:per conj det:poss adj n n n mod v pro:per det:art n inf v det:art adj +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+104,.,None,,0
+105,no !,co !,ENG,0
+106,.,None,,0
+107,and I think I can //.,coord pro:sub v pro:sub mod +//.,ENG ENG ENG ENG ENG,0
+108,I ungrouped it so I'll send it to you if you want to use it .,pro:sub un#v pro:per adv pro:sub v pro:per prep pro:per conj pro:per v inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+109,.,None,,0
+110,yeah you can see the little girls so //.,co pro:per mod v det:art adj n adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+111,I used Jane's little thing .,pro:sub v adj adj n .,ENG ENG ENG ENG ENG,0
+112,I might I made it ladeeladeeda .,pro:sub mod pro:sub v pro:per on .,ENG ENG ENG ENG ENG ENG,0
+113,talks about mass space volume color texture /.,v prep n n n n n +/.,ENG ENG ENG ENG ENG ENG ENG,0
+114,.,None,,0
+115,I loosed it .,pro:sub v pro:per .,ENG ENG ENG,0
+116,I used a lot of your things .,pro:sub v det:art n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+117,texture light and shadow ...,n n coord n +...,ENG ENG ENG ENG,0
+118,.,None,,0
+119,yep .,co .,ENG,0
+120,.,None,,0
+121,.,None,,0
+122,he /.,pro:sub +/.,ENG,0
+123,.,None,,0
+124,to admit it .,inf v pro:per .,ENG ENG ENG,0
+125,.,None,,0
+126,that was good .,pro:dem cop adj .,ENG ENG ENG,0
+127,.,None,,0
+128,that was good .,pro:dem cop adj .,ENG ENG ENG,0
+129,.,None,,0
+130,I can't know .,pro:sub mod v .,ENG ENG ENG,0
+131,we know of course we hadn't seen it because it was at your desk .,pro:sub v prep n pro:sub aux part pro:per conj pro:per cop prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+132,.,None,,0
+133,.,None,,0
+134,.,None,,0
+135,no I went backwards right .,co pro:sub v adv co .,ENG ENG ENG ENG ENG,0
+136,.,None,,0
+137,glass stone metal ...,n n n +...,ENG ENG ENG,0
+138,I actually moved the Sydney Opera House out of your metal because it's not metal .,pro:sub adv v det:art n:prop n:prop n:prop adv prep det:poss n conj pro:per neg n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+139,you had it under metal .,pro:per v pro:per adv n .,ENG ENG ENG ENG ENG,0
+140,it's concrete .,pro:per adj .,ENG ENG,0
+141,.,None,,0
+142,marble adobe ...,n n +...,ENG ENG,0
+143,what do you see when you see architecture ...,pro:int mod pro:per v conj pro:per v n +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+144,you see viewpoint ...,pro:per v n +...,ENG ENG ENG,0
+145,I changed some of your words because /.,pro:sub v qn prep det:poss n conj +/.,ENG ENG ENG ENG ENG ENG ENG,0
+146,.,None,,0
+147,right .,co .,ENG,0
+148,context ...,n +...,ENG,0
+149,we weren't doing photography ...,pro:sub aux part n +...,ENG ENG ENG ENG,0
+150,motion ...,n +...,ENG,0
+151,you know how the intersection of the building to the sky ...,pro:per v pro:int det:art n prep det:art n prep det:art n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+152,.,None,,0
+153,oh you have two of these .,co pro:per v det:num prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+154,I don't know why you have two of these .,pro:sub mod v pro:int pro:per v det:num prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+155,I can tell you're still learning how to use powerpoint .,pro:sub mod v pro:per adv part pro:int prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+156,.,None,,0
+157,framing of interior spaces details ...,part prep n v n +...,ENG ENG ENG ENG ENG,0
+158,.,None,,0
+159,yeah !,co !,ENG,0
+160,details ...,n +...,ENG,0
+161,I mean I don't need to make those //.,pro:sub adj pro:sub mod v inf v det:dem +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+162,reflection ...,n +...,ENG,0
+163,types of architecture this is architecture ...,n prep n pro:dem cop n +...,ENG ENG ENG ENG ENG ENG,0
+164,.,None,,0
+165,famous architecture ...,adj n +...,ENG ENG,0
+166,is this famous architecture ...,cop det:dem adj n +...,ENG ENG ENG ENG,0
+167,and same thing here I mean I can get rid of that one .,coord adj n adv pro:sub adj pro:sub mod aux v prep det:dem pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+168,architecture is about history place time function technology materials and people .,n cop prep n n n n n n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+169,and then because your thing had something about the history of it .,coord adv:tem conj det:poss n v pro:indef prep det:art n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+170,so this is early civilizations the greek and the romans the gothic the renaissance the baroque ...,adv pro:dem cop adv n det:art adj coord det:art n:adj det:art adj det:art n det:art adj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+171,now you guys notice what //.,adv pro:per n v pro:int +//.,ENG ENG ENG ENG ENG,0
+172,they may not notice .,pro:sub mod neg v .,ENG ENG ENG ENG,0
+173,building interior see how it changes building interior ...,n n v pro:int pro:per v n n +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+174,look at the difference just in centuries .,v prep det:art n adv prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+175,.,None,,0
+176,well this is Italian and this is German so it's not a true baroque together .,co pro:dem cop n:prop coord pro:dem cop n:prop conj pro:per neg det:art adj adj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+177,and then neoclassicism ...,coord adv:tem n +...,ENG ENG ENG,0
+178,this is the inside of the White House .,pro:dem cop det:art adj prep det:art n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+179,.,None,,0
+180,one of the rooms in the White House .,det:num prep det:art n prep det:art n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+181,and this is Schinkel in Germany .,coord pro:dem cop n:prop prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+182,it's really nice .,pro:per adv adj .,ENG ENG ENG,0
+183,industrial revolution ...,adj n +...,ENG ENG,0
+184,.,None,,0
+185,in Berlin I think .,prep n:prop pro:sub v .,ENG ENG ENG ENG,0
+186,you probably know what it is .,pro:per adv v pro:int pro:per cop .,ENG ENG ENG ENG ENG ENG,0
+187,the art deco ...,det:art n n +...,ENG ENG ENG,0
+188,and I gave them a little bit of Miami so they can recognize it .,coord pro:sub v pro:obj det:art adj n prep n:prop conj pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+189,.,None,,0
+190,right .,co .,ENG,0
+191,.,None,,0
+192,what ?,pro:int ?,ENG,0
+193,.,None,,0
+194,I was gonna flip them yeah here wait there where .,pro:sub aux part v pro:obj co adv v adv pro:rel .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+195,.,None,,0
+196,I can't pronounce it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+197,it's Schinkel .,pro:per n:prop .,ENG ENG,0
+198,I don't know if it's from Berlin or not .,pro:sub mod v comp pro:per prep n:prop coord neg .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+199,.,None,,0
+200,mm I think it's a church .,co pro:sub v pro:per det:art n .,ENG ENG ENG ENG ENG ENG,0
+201,but I can't remember the name .,conj pro:sub mod v det:art n .,ENG ENG ENG ENG ENG ENG,0
+202,.,None,,0
+203,oh it may have been .,co pro:per mod aux cop .,ENG ENG ENG ENG ENG,0
+204,now it's a //.,adv pro:per det:art +//.,ENG ENG ENG,0
+205,alright where was I ?,co pro:int cop pro:sub ?,ENG ENG ENG ENG,0
+206,industrial revolution the art nouveau art deco ...,adj n det:art n adj n n +...,ENG ENG ENG ENG ENG ENG ENG,0
+207,.,None,,0
+208,modernism ...,n +...,ENG,0
+209,then what is an architect .,adv:tem pro:int cop det:art n .,ENG ENG ENG ENG ENG,0
+210,and then I left Jane's little /.,coord adv:tem pro:sub v adj adj +/.,ENG ENG ENG ENG ENG ENG,0
+211,.,None,,0
+212,there's the plan .,pro:exist det:art n .,ENG ENG ENG,0
+213,and then you know since //.,coord adv:tem pro:per v prep +//.,ENG ENG ENG ENG ENG,0
+214,what it is ...,pro:int pro:per cop +...,ENG ENG ENG,0
+215,how you can become an architect you know .,pro:int pro:per mod cop det:art n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+216,probably a little more than they have .,adv det:art adj qn prep pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+217,but you know .,conj pro:per v .,ENG ENG ENG,0
+218,and then famous architects .,coord adv:tem adj n .,ENG ENG ENG ENG,0
+219,.,None,,0
+220,and then the next one I'm gonna put women since it's all girls .,coord adv:tem det:art adj pro:indef pro:sub part part n prep pro:per qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+221,.,None,,0
+222,I'm gonna get rid of these other ones and do women .,pro:sub part v v prep det:dem pro:indef det:num coord v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+223,.,None,,0
+224,right .,co .,ENG,0
+225,.,None,,0
+226,right .,co .,ENG,0
+227,.,None,,0
+228,and I already got .,coord pro:sub adv part .,ENG ENG ENG ENG,0
+229,tools of an architect .,n prep det:art n .,ENG ENG ENG ENG,0
+230,again these are Jane's little pictures .,adv pro:dem cop adj adj n .,ENG ENG ENG ENG ENG ENG,0
+231,and then I show them a little bit about Autocad .,coord adv:tem pro:sub v pro:obj det:art adj n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+232,I stole it from //.,pro:sub v pro:per prep +//.,ENG ENG ENG ENG,0
+233,it's not even Autocad .,pro:per neg v n:prop .,ENG ENG ENG ENG,0
+234,you know Autocad doesn't have decent images to steal ?,pro:per v n:prop mod v adj n inf v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+235,this was from like Cad or some website or some other .,pro:dem cop prep co n:prop coord qn n coord qn qn .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+236,ah there's the elevation .,co pro:exist det:art n .,ENG ENG ENG ENG,0
+237,and then you know our school .,coord adv:tem pro:per v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+238,you know so they can see a real building .,pro:per v co pro:sub mod v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+239,.,None,,0
+240,I may get rid of some of this animation .,pro:sub mod aux v prep pro:indef prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+241,and I can't get the animation to work but I have to ask her .,coord pro:sub mod v det:art n prep n conj pro:sub v inf v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+242,how it there it goes that's it .,pro:int pro:per adv pro:per v pro:dem pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+243,.,None,,0
+244,that okay ?,det:dem adj ?,ENG ENG,0
+245,.,None,,0
+246,okay .,co .,ENG,0
+247,.,None,,0
+248,and then I have a thing this full of books .,coord adv:tem pro:sub v det:art n det:dem adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+249,I went for the ones that have pictures .,pro:sub v prep det:art det:num pro:rel v n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+250,.,None,,0
+251,now I'm trying to figure out what they can do what they can do /.,adv pro:sub part inf v adv pro:int pro:sub mod v pro:int pro:sub mod v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+252,.,None,,0
+253,Fred Cortez !,n:prop n:prop !,ENG ENG,0
+254,what is wrong with being an architect ?,pro:int cop adj prep n:gerund det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+255,.,None,,0
+256,.,None,,0
+257,"I don't know why people say ""/.","pro:sub mod v pro:int n v +""/.",ENG ENG ENG ENG ENG ENG,0
+258,I don't want to let my child be an architect .,pro:sub mod v inf v det:poss n cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+259,I'm like /.,pro:sub prep +/.,ENG ENG,0
+260,.,None,,0
+261,no .,co .,ENG,0
+262,.,None,,0
+263,yeah .,co .,ENG,0
+264,.,None,,0
+265,the grass is always greener on the other side .,det:art n cop adv adj prep det:art qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+266,"you know if you're an attorney ""/.","pro:per v comp pro:per det:art n +""/.",ENG ENG ENG ENG ENG ENG,0
+267,why am I an attorney ?,pro:int cop pro:sub det:art n ?,ENG ENG ENG ENG ENG,0
+268,I'd have an easier life if I didn't have to work eighty billable hours a week .,pro:sub v det:art adj n conj pro:sub mod v inf v det:num adj n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+269,.,None,,0
+270,"I mean there are people who say ""/.","pro:sub v adv cop n pro:rel v +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+271,one day you know if I was to do something different I wouldn't do this .,det:num n pro:per v comp pro:sub cop inf v pro:indef adj pro:sub mod v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+272,but for the most I mean .,conj prep det:art qn pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+273,if I was to do something different it would still be design related .,conj pro:sub cop inf v pro:indef adj pro:per mod adv cop n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+274,okay you know graphic designer you know .,co pro:per v adj n pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+275,.,None,,0
+276,yeah but you know that's hindsight .,co conj pro:per v comp n .,ENG ENG ENG ENG ENG ENG,0
+277,.,None,,0
+278,oh god it's hard .,co co pro:per adj .,ENG ENG ENG ENG,0
+279,I wouldn't be accepted in any school of architecture .,pro:sub mod aux part prep qn n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+280,most of us wouldn't be accepted !,qn prep pro:obj mod aux part !,ENG ENG ENG ENG ENG ENG,0
+281,.,None,,0
+282,oh intern right .,co n adj .,ENG ENG ENG,0
+283,.,None,,0
+284,I mean I have //.,pro:sub v pro:sub v +//.,ENG ENG ENG ENG,0
+285,how many kids you have ?,pro:int qn n pro:per v ?,ENG ENG ENG ENG ENG,0
+286,I probably have ten or twelve books .,pro:sub adv v det:num coord det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+287,just leave them in the car !,adv v pro:obj prep det:art n !,ENG ENG ENG ENG ENG ENG,0
+288,take them with you !,v pro:obj prep pro:per !,ENG ENG ENG ENG,0
+289,.,None,,0
+290,I tried to get picture books that had pictures in it just so ...,pro:sub v inf v n n pro:rel v n prep pro:per adv adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+291,and actually I have a book on chairs .,coord adv pro:sub v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+292,so they can see design .,co pro:sub mod v n .,ENG ENG ENG ENG ENG,0
+293,and I have a book on on something else ...,coord pro:sub v det:art n adv prep pro:indef post +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+294,todavía tienes cookies ?,L2 L2 n ?,ESP ESP ENG,1
+295,.,None,,0
+296,qué fue ?,pro:int v ?,ENG ENG,0
+297,what ?,pro:int ?,ENG,0
+298,what what happened ?,pro:int pro:int v ?,ENG ENG ENG,0
+299,.,None,,0
+300,what are you looking at ?,pro:int aux pro:per part prep ?,ENG ENG ENG ENG ENG,0
+301,.,None,,0
+302,uhhuh .,co .,ENG,0
+303,.,None,,0
+304,what is that ?,pro:int cop pro:dem ?,ENG ENG ENG,0
+305,.,None,,0
+306,nobody sees it .,pro:indef v pro:per .,ENG ENG ENG,0
+307,.,None,,0
+308,oh .,co .,ENG,0
+309,I don't know where //.,pro:sub mod v pro:rel +//.,ENG ENG ENG ENG,0
+310,.,None,,0
+311,let's see where were you .,v v pro:rel cop pro:per .,ENG ENG ENG ENG ENG,0
+312,.,None,,0
+313,yes I was towards the end .,co pro:sub cop prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+314,.,None,,0
+315,yeah let me put some more on female /.,co v pro:obj v qn pro:indef prep n +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+316,.,None,,0
+317,it was down here somewhere .,pro:per cop prep n adv .,ENG ENG ENG ENG ENG,0
+318,.,None,,0
+319,yeah you can keep some of these things over here .,co pro:per mod v pro:indef prep det:dem n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+320,.,None,,0
+321,right .,co .,ENG,0
+322,.,None,,0
+323,and you have classicism industrial revolution art deco modernism then ...,coord pro:per v n adj n n n n adv:tem +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+324,what how do you get licensed ...,pro:int pro:int mod pro:per v part +...,ENG ENG ENG ENG ENG ENG,0
+325,famous architects .,adj n .,ENG ENG,0
+326,.,None,,0
+327,and then I'm just gonna make one slide or two slides of women architecture .,coord adv:tem pro:sub adv part v det:num n coord det:num n prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+328,.,None,,0
+329,tools .,n .,ENG,0
+330,.,None,,0
+331,this is where I was .,pro:dem cop pro:int pro:sub cop .,ENG ENG ENG ENG ENG,0
+332,it was right here .,pro:per cop adv adv .,ENG ENG ENG ENG,0
+333,and I don't know how to get this animation to work .,coord pro:sub mod v pro:int inf v det:dem n inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+334,well I'll just put it on the website .,co pro:sub adv v pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+335,if not I'll just dump it .,conj neg pro:sub adj v pro:per .,ENG ENG ENG ENG ENG ENG,0
+336,I'll put it on my laptop .,pro:sub v pro:per prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+337,.,None,,0
+338,right or something like that .,adv coord pro:indef prep pro:dem .,ENG ENG ENG ENG ENG,0
+339,.,None,,0
+340,when I'm done with it yeah .,conj pro:sub part prep pro:per co .,ENG ENG ENG ENG ENG ENG,0
+341,I'll bring my laptop so we can /.,pro:sub v det:poss n conj pro:sub mod +/.,ENG ENG ENG ENG ENG ENG ENG,0
+342,.,None,,0
+343,have it work .,aux pro:per v .,ENG ENG ENG,0
+344,.,None,,0
+345,want me to save this into the system ?,v pro:obj inf v det:dem prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+346,.,None,,0
+347,prior to me changing it .,adv prep pro:obj part pro:per .,ENG ENG ENG ENG ENG,0
+348,.,None,,0
+349,and I'm gonna add some more women in there so ...,coord pro:sub part v qn qn n prep n adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+350,save as .,v adv .,ENG ENG,0
+351,.,None,,0
+352,I've got a shitload of work to do .,pro:sub part det:art n prep n inf v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+353,image as graphics .,n prep n:pt .,ENG ENG ENG,0
+354,.,None,,0
+355,hm where do you want me /?,co pro:int mod pro:per v pro:obj +/?,ENG ENG ENG ENG ENG ENG,0
+356,.,None,,0
+357,do you want me to call it /?,mod pro:per v pro:obj inf v pro:per +/?,ENG ENG ENG ENG ENG ENG ENG,0
+358,.,None,,0
+359,V one career day .,n:prop det:num n n .,ENG ENG ENG ENG,0
+360,.,None,,0
+361,elevations for tile they've had them ?,n prep n pro:sub part pro:obj ?,ENG ENG ENG ENG ENG ENG,0
+362,.,None,,0
+363,she's out of the office .,pro:sub adv prep det:art n .,ENG ENG ENG ENG ENG,0
+364,.,None,,0
+365,don't worry .,mod v .,ENG ENG,0
+366,I'll answer him .,pro:sub v pro:obj .,ENG ENG ENG,0
+367,.,None,,0
+368,"I'll be my polite usual self and say ""/.","pro:sub cop det:poss adj adj n coord v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG,0
+369,don't give me this excuse .,mod v pro:obj det:dem n .,ENG ENG ENG ENG ENG,0
+370,I don't wanna hear it .,pro:sub mod v v pro:per .,ENG ENG ENG ENG ENG,0
+371,.,None,,0
+372,because you didn't /.,conj pro:per mod +/.,ENG ENG ENG,0
+373,.,None,,0
+374,right .,co .,ENG,0
+375,.,None,,0
+376,this is probably ...,pro:dem cop adv +...,ENG ENG ENG,0
+377,twenty /.,det:num +/.,ENG,0
+378,.,None,,0
+379,this is a Cad color presentation .,pro:dem cop det:art n:prop n n .,ENG ENG ENG ENG ENG ENG,0
+380,.,None,,0
+381,but why would it be Cad color ?,conj pro:int mod pro:per cop n:prop n ?,ENG ENG ENG ENG ENG ENG ENG,0
+382,.,None,,0
+383,that's right .,pro:dem co .,ENG ENG,0
+384,this is the cameras .,pro:dem cop det:art n .,ENG ENG ENG ENG,0
+385,that stupid camera shit .,det:dem adj n n .,ENG ENG ENG ENG,0
+386,.,None,,0
+387,eh yeah it's not no .,co co pro:per neg co .,ENG ENG ENG ENG ENG,0
+388,I mean well actually it should be .,pro:sub v adv adv pro:per mod cop .,ENG ENG ENG ENG ENG ENG ENG,0
+389,because the owner only gave us one freaking copy .,conj det:art n adv v pro:obj pro:indef part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+390,took us what fifteen months to get it .,v pro:obj pro:int det:num n inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+391,and well fifteen months is an exaggeration .,coord n det:num n cop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+392,but you get the point .,conj pro:per v det:art n .,ENG ENG ENG ENG ENG,0
+393,so it was the copies for the owner copies for the contractor copies for us copy for mechanical so it /.,co pro:per cop det:art n prep det:art n v prep det:art n v prep pro:obj v prep adj conj pro:per +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+394,.,None,,0
+395,the security cameras coordination .,det:art n n n .,ENG ENG ENG ENG,0
+396,.,None,,0
+397,right .,co .,ENG,0
+398,.,None,,0
+399,right .,co .,ENG,0
+400,.,None,,0
+401,contractor .,n .,ENG,0
+402,.,None,,0
+403,and they were //.,coord pro:sub cop +//.,ENG ENG ENG,0
+404,right this was the one from prices so they needed copies .,adv pro:dem cop det:art det:num prep n conj pro:sub v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+405,so it should be reimbursable .,co pro:per mod cop adj .,ENG ENG ENG ENG ENG,0
+406,.,None,,0
+407,we should charge em for that one .,pro:sub mod v pro:obj prep det:dem pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+408,.,None,,0
+409,qué más tienes ?,pro:int adv v ?,ENG ENG ENG,0
+410,.,None,,0
+411,oh that's nice .,co pro:dem adj .,ENG ENG ENG,0
+412,looks good !,v adj !,ENG ENG,0
+413,.,None,,0
+414,yes he's awesome .,co pro:sub adj .,ENG ENG ENG,0
+415,.,None,,0
+416,he could draw .,pro:sub mod v .,ENG ENG ENG,0
+417,Josef Hoffmann couldn't draw .,n:prop n:prop mod v .,ENG ENG ENG ENG,0
+418,but he could draw .,conj pro:sub mod v .,ENG ENG ENG ENG,0
+419,when I was in Europe to the Paris //.,conj pro:sub cop prep n:prop prep det:art n:prop +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+420,one of the first exhibits that they had of of the modernism //.,det:num prep det:art adj n pro:rel pro:sub v prep prep det:art n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+421,you know early modernism art nouveau art deco you know secession .,pro:per v adj n n adj n n pro:per v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+422,nineteen hundred Paris called nineteen hundred //.,det:num det:num n:prop part det:num det:num +//.,ENG ENG ENG ENG ENG ENG,0
+423,and it was in Paris in the Pompidou .,coord pro:per cop prep n:prop prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+424,this was twenty years //.,pro:dem cop det:num n +//.,ENG ENG ENG ENG,0
+425,it was like a comprehensive exhibit of that earlier and the precursor to the modernism .,pro:per cop prep det:art adj n prep pro:dem adv coord det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+426,and they had a whole section on the secession .,coord pro:sub v det:art adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+427,you know Otto Wagner Josef Hoffmann .,pro:per v n:prop n:prop n:prop n:prop .,ENG ENG ENG ENG ENG ENG,0
+428,and you know he did a lot of work .,coord pro:per v pro:sub v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+429,he couldn't draw if his life depended on it .,pro:sub mod v comp det:poss n v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+430,.,None,,0
+431,yeah his sketches were like //.,co det:poss n cop co +//.,ENG ENG ENG ENG ENG,0
+432,"and my best fried goes ""/.","coord det:poss adj part v +""/.",ENG ENG ENG ENG ENG,0
+433,oh there's hope for me yet !,co pro:exist n prep pro:obj adv !,ENG ENG ENG ENG ENG ENG,0
+434,if he can draw !,conj pro:sub mod v !,ENG ENG ENG ENG,0
+435,.,None,,0
+436,you know and then Otto Wagner's drawings were just like ah you know .,pro:per v coord adv:tem n:prop adj n cop adv co co pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+437,.,None,,0
+438,but Hoffmann's he's the one who //.,conj adj pro:sub det:art pro:indef pro:rel +//.,ENG ENG ENG ENG ENG ENG,0
+439,he's the one that did all those beautiful round buildings .,pro:sub det:art pro:indef pro:rel v qn det:dem adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+440,you know he was a little bit less busy than Wagner .,pro:per v pro:sub cop det:art adj n adj v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+441,but he couldn't //.,conj pro:sub mod +//.,ENG ENG ENG,0
+442,I mean and he did like restaurants .,pro:sub v coord pro:sub mod prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+443,and he even did //.,coord pro:sub adv v +//.,ENG ENG ENG ENG,0
+444,he had sketches for the menu for the silverware the flatware the furniture .,pro:sub v n prep det:art n prep det:art n det:art n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+445,I mean it was a comprehensive like it used to be but he couldn't draw worth a damn .,pro:sub v pro:per cop det:art adj prep pro:per v inf cop conj pro:sub mod v adj det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+446,you know they were like you know fifth grader drawings .,pro:per v pro:sub cop co pro:per v adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+447,.,None,,0
+448,draw by hand ?,v prep n ?,ENG ENG ENG,0
+449,.,None,,0
+450,ah yes I have .,co co pro:sub v .,ENG ENG ENG ENG,0
+451,he still follows the old fashioned //.,pro:sub adv v det:art adj part +//.,ENG ENG ENG ENG ENG ENG,0
+452,.,None,,0
+453,I think he's just had the Pritzker .,pro:sub v pro:sub adv part det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+454,Santiago Calatrava .,n:prop n:prop .,ENG ENG,0
+455,.,None,,0
+456,Calatrava still draws like that .,n:prop adv v prep pro:dem .,ENG ENG ENG ENG ENG,0
+457,.,None,,0
+458,oh really ?,co adv ?,ENG ENG,0
+459,I didn't know that either .,pro:sub mod v adv adv .,ENG ENG ENG ENG ENG,0
+460,.,None,,0
+461,well Calatrava's like that .,co adj prep pro:dem .,ENG ENG ENG ENG,0
+462,he draws //.,pro:sub v +//.,ENG ENG,0
+463,you weren't here //.,pro:per cop adv +//.,ENG ENG ENG,0
+464,well you were downstairs when I came back from the Las Vegas .,co pro:per cop adv conj pro:sub v adv prep det:art n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+465,.,None,,0
+466,five //.,det:num +//.,ENG,0
+467,he was the gold medalist for the AIA national convention about three years ago .,pro:sub cop det:art adj n prep det:art n:prop n n prep det:num n post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+468,so he was the speaker .,co pro:sub cop det:art n .,ENG ENG ENG ENG ENG,0
+469,usually they try to have them you know speak at one of the sessions on Saturday .,adv pro:sub v inf v pro:obj pro:per v v prep det:num prep det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+470,and you know he pulls out //.,coord pro:per v pro:sub v adv +//.,ENG ENG ENG ENG ENG ENG,0
+471,you know he starts talking about you know //.,pro:per v pro:sub v part prep pro:per v +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+472,and actually he's a really humble person .,coord adv pro:sub det:art adv adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+473,you know how some of these people they're just like .,pro:per v pro:rel qn prep det:dem n pro:sub adv prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+474,he was so honored to have gotten it that .,pro:sub aux adv part inf v part pro:per pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+475,you know he was like in awe that all these people thought his work was really good .,pro:per v pro:sub cop prep prep n comp qn det:dem n v det:poss n cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+476,that he //.,comp pro:sub +//.,ENG ENG,0
+477,I think he has an office in New York or he's living and he said that you know the Americans are //.,pro:sub v pro:sub v det:art n prep n:prop n:prop coord pro:sub part coord pro:sub v comp pro:per v det:art n:prop cop +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+478,so I mean he was //.,co pro:sub adj pro:sub cop +//.,ENG ENG ENG ENG ENG,0
+479,I mean I was like oh my god this is a real person !,pro:sub v pro:sub cop co co det:poss co pro:dem cop det:art adj n !,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+480,you know .,pro:per v .,ENG ENG,0
+481,tsk and so he starts talking about the design ideas .,co coord co pro:sub v part prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+482,and how he .,coord pro:int pro:sub .,ENG ENG ENG,0
+483,like the Milwaukee art museum you know how //.,prep det:art n:prop n n pro:per v pro:rel +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+484,and he starts to draw with watercolors .,coord pro:sub v inf v prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+485,you know they had the overhead projector .,pro:per v pro:sub v det:art n n .,ENG ENG ENG ENG ENG ENG ENG,0
+486,five thousand people the it's projecting you know half this room .,det:num det:num n det:art pro:per part pro:per v qn det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+487,and he's just .,coord pro:sub adv .,ENG ENG ENG,0
+488,.,None,,0
+489,"and I'm going ""/.","coord pro:sub part +""/.",ENG ENG ENG,0
+490,oh my god .,co det:poss n .,ENG ENG ENG,0
+491,I mean /.,pro:sub v +/.,ENG ENG,0
+492,.,None,,0
+493,not only that it's like .,neg adv pro:rel pro:per conj .,ENG ENG ENG ENG ENG,0
+494,he wasn't in //.,pro:sub cop adv +//.,ENG ENG ENG,0
+495,I mean he was nervous speaking .,pro:sub v pro:sub cop adj n:gerund .,ENG ENG ENG ENG ENG ENG,0
+496,you could tell he was nervous speaking .,pro:per mod v pro:sub cop adj n:gerund .,ENG ENG ENG ENG ENG ENG ENG,0
+497,you know which was kinda like endearing .,pro:per v pro:rel cop adv co part .,ENG ENG ENG ENG ENG ENG ENG,0
+498,"because you know you could tell he was like ""/.","conj pro:per v pro:per mod v pro:sub cop prep +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+499,oh my god .,co det:poss n .,ENG ENG ENG,0
+500,but the minute he started drawing and talking about the ideas as he drew the nervousness was gone .,conj det:art n pro:sub v n coord part prep det:art n adv pro:sub v det:art n aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+501,I mean he was in his element .,pro:sub v pro:sub cop prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+502,this was his passion .,pro:dem cop det:poss n .,ENG ENG ENG ENG,0
+503,and he's just drawing .,coord pro:sub adj n .,ENG ENG ENG ENG,0
+504,"and I'm thinking ""/.","coord pro:sub part +""/.",ENG ENG ENG,0
+505,and you're not nervous drawing in front of five thousand architects ?,coord pro:per neg adj n prep n prep det:num det:num n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+506,you know you're my hero buddy you know .,pro:per v pro:per det:poss n n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+507,.,None,,0
+508,you know I have a book downstairs of his stuff that I bought .,pro:per v pro:sub v det:art n adv prep det:poss n pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+509,.,None,,0
+510,because he's an engineer as well .,conj pro:sub det:art n prep adv .,ENG ENG ENG ENG ENG ENG,0
+511,.,None,,0
+512,he was really good .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+513,.,None,,0
+514,.,None,,0
+515,.,None,,0
+516,.,None,,0
+517,.,None,,0
+518,right .,co .,ENG,0
+519,.,None,,0
+520,no the boy scouts is just as tough as the girl scouts .,co det:art n v aux adj adv adj prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+521,.,None,,0
+522,the thing is I I would venture to suggest that many of the troops do things they just don't tell the council they're doing .,det:art n cop pro:sub pro:sub mod v inf v adv pro:indef prep det:art n v n pro:sub adv mod v det:art n pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+523,.,None,,0
+524,.,None,,0
+525,does that make sense ?,mod adv v n ?,ENG ENG ENG ENG,0
+526,.,None,,0
+527,.,None,,0
+528,right in our case because we're through the church then you know it's not you personal .,adv prep det:poss n conj pro:sub prep det:art n adv:tem pro:per v pro:per neg pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+529,you know we have the church .,pro:per v pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG,0
+530,.,None,,0
+531,we do make them sign a permission slip when we go anywhere .,pro:sub mod v pro:obj v det:art n n conj pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+532,.,None,,0
+533,and half the kids don't give it to me .,coord n det:art n mod v pro:per prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+534,and I scream and bitch at them .,coord pro:sub v coord n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+535,and they're going to camping this next weekend at Peace River which is a river up //.,coord pro:sub part inf n:gerund det:dem adj n prep n:prop n:prop pro:rel cop det:art n adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+536,one of those where they drop you at one end .,det:num prep pro:dem pro:int pro:sub v pro:per prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+537,and with the canoe you canoe .,coord prep det:art n pro:per v .,ENG ENG ENG ENG ENG ENG,0
+538,it's like twenty three miles down north of Fort Myers or one of those places .,pro:per co det:num det:num n adv adj prep n:prop n:prop coord det:num prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+539,"and I told the kids ""/.","coord pro:sub v det:art n +""/.",ENG ENG ENG ENG ENG,0
+540,okay this isn't like we're camping around the corner where your parents can come get you .,co det:dem cop conj pro:sub part prep det:art n pro:rel det:poss n mod v v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+541,if I don't have a permission slip you are not going .,conj pro:sub mod v det:art n n pro:per aux neg part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+542,I don't care how old you are .,pro:sub mod v pro:int adj pro:per cop .,ENG ENG ENG ENG ENG ENG ENG,0
+543,I don't care if you're a senior in high school .,pro:sub mod v conj pro:per det:art n adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+544,you are not going .,pro:per aux neg part .,ENG ENG ENG ENG,0
+545,"they're like ""/.","pro:sub prep +""/.",ENG ENG,0
+546,okay Maria okay !,co n:prop adj !,ENG ENG ENG,0
+547,because they'd get lax .,conj pro:sub aux adj .,ENG ENG ENG ENG,0
+548,they've gotten used to four of the kids with giving permission slip because the camping was down the street .,pro:sub part v prep det:num prep det:art n prep n:gerund n n conj det:art n:gerund cop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+549,and mom and dad were going .,coord n coord n aux part .,ENG ENG ENG ENG ENG ENG,0
+550,"I just said ""/.","pro:sub adv v +""/.",ENG ENG ENG,0
+551,I don't care if your parents are going or not .,pro:sub mod v comp det:poss n aux part coord neg .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+552,I want a permission slip .,pro:sub v det:art n n .,ENG ENG ENG ENG ENG,0
+553,.,None,,0
+554,right but in this case we are going out of town .,adv conj prep det:dem n pro:sub aux part adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+555,we are going on a very rustic //.,pro:sub aux part prep det:art adv adj +//.,ENG ENG ENG ENG ENG ENG ENG,0
+556,I mean you bring what you got .,pro:sub v pro:per v pro:int pro:per part .,ENG ENG ENG ENG ENG ENG ENG,0
+557,and you take out what you brought .,coord pro:per v adv pro:int pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+558,.,None,,0
+559,Peace River .,n:prop n:prop .,ENG ENG,0
+560,.,None,,0
+561,no .,co .,ENG,0
+562,.,None,,0
+563,hello I gave em /.,co pro:sub v pro:obj +/.,ENG ENG ENG ENG,0
+564,.,None,,0
+565,"I said ""/.","pro:sub v +""/.",ENG ENG,0
+566,we're not around the corner .,pro:sub neg prep det:art n .,ENG ENG ENG ENG ENG,0
+567,I want a permission slip .,pro:sub v det:art n n .,ENG ENG ENG ENG ENG,0
+568,"and I said ""/.","coord pro:sub v +""/.",ENG ENG ENG,0
+569,from now on anytime we go anywhere and it's camping you all have a permission slip none of you are going !,prep adv prep adv:tem pro:sub v adv coord pro:per part pro:per adv v det:art n n pro:indef prep pro:per aux part !,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+570,it's like coño !,pro:per conj L2 !,ENG ENG ESP,1
+571,porque es una mala crianza .,conj cop det:art adj n .,ENG ENG ENG ENG ENG,0
+572,all of them have gotten away with it for years .,pro:indef prep pro:obj v part adv prep pro:per prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+573,and they think they'll just keep doing it .,coord pro:sub v pro:sub adv v part pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+574,.,None,,0
+575,yeah we have that too .,co pro:sub v adv adv .,ENG ENG ENG ENG ENG,0
+576,.,None,,0
+577,oh but they don't give you one ?,co conj pro:sub mod v pro:per pro:indef ?,ENG ENG ENG ENG ENG ENG ENG,0
+578,.,None,,0
+579,see the back of the application form says the name gets sent to the council has all the medical history on the back .,v det:art n prep det:art n n v det:art n v v prep det:art n v qn det:art adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+580,and we keep it on file .,coord pro:sub v pro:per prep n .,ENG ENG ENG ENG ENG ENG,0
+581,.,None,,0
+582,.,None,,0
+583,okay Henry had a little too many things to /.,co n:prop v det:art adj adv qn n prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+584,.,None,,0
+585,when he was growing up .,conj pro:sub aux part adv .,ENG ENG ENG ENG ENG,0
+586,.,None,,0
+587,alright .,co .,ENG,0
+588,but why we certainly understand the challenges of finishes this project within the scheduled ...,conj pro:int pro:sub adv v det:art n prep v det:dem n prep det:art part +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+589,.,None,,0
+590,time frame .,n n .,ENG ENG,0
+591,.,None,,0
+592,time frame .,n n .,ENG ENG,0
+593,.,None,,0
+594,but I find it difficult to believe that all the kitchen equipment that must be manufactured in several finished panels will delay production .,conj pro:sub v pro:per adj inf v comp qn det:art n n adv mod aux part prep qn part n mod n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+595,but in the .,conj prep det:art .,ENG ENG ENG,0
+596,.,None,,0
+597,interest of fairness we are not the production company .,n prep n pro:sub cop neg det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+598,in the future please contact our office immediately .,prep det:art n co v det:poss n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+599,by phone if necessary to get the required information .,prep n conj adj inf v det:art part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+600,our school staff includes Jane Nick Cathy Wendy Adam and I .,det:poss n n v n:prop n:prop n:prop n:prop n:prop coord pro:sub .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+601,therefore one of us is likely to have the answer immediately //.,adv pro:indef prep pro:obj cop adv inf v det:art n adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+602,I already said immediately .,pro:sub adv v adv .,ENG ENG ENG ENG,0
+603,.,None,,0
+604,instant .,adj .,ENG,0
+605,.,None,,0
+606,instantly .,adv .,ENG,0
+607,.,None,,0
+608,oh I forgot Bob .,co pro:sub v n:prop .,ENG ENG ENG ENG,0
+609,.,None,,0
+610,I didn't say anything ...,pro:sub mod v pro:indef +...,ENG ENG ENG ENG,0
+611,.,None,,0
+612,I know and we have to respond .,pro:sub v coord pro:sub v inf v .,ENG ENG ENG ENG ENG ENG ENG,0
+613,.,None,,0
+614,of delay .,prep n .,ENG ENG,0
+615,yeah and we certainly done all .,co coord pro:sub adv part pro:indef .,ENG ENG ENG ENG ENG ENG,0
+616,.,None,,0
+617,but in the interest of fairness we're not the production company .,conj prep det:art n prep n pro:sub neg det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+618,in the future please contact our office immediately .,prep det:art n co v det:poss n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+619,by phone together with our school staff .,prep n adv prep det:poss n n .,ENG ENG ENG ENG ENG ENG ENG,0
+620,therefore one of us is likely to have the answer instantly .,adv pro:indef prep pro:obj cop adv inf v det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+621,.,None,,0
+622,answer .,n .,ENG,0
+623,thank you !,v pro:per !,ENG ENG,0
+624,I promise he's copied everybody and their mother so you have to answer it .,pro:sub v pro:sub part pro:indef coord det:poss n conj pro:per v inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+625,.,None,,0
+626,I was being polite .,pro:sub aux part adj .,ENG ENG ENG ENG,0
+627,I was being polite .,pro:sub aux part adj .,ENG ENG ENG ENG,0
+628,Jane's mine I'll just put Carl in here just because Carl can curtail his /.,adj n pro:sub adv part n:prop prep n adv conj n:prop mod v det:poss +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+629,.,None,,0
+630,mhm .,co .,ENG,0
+631,.,None,,0
+632,he sure did .,pro:sub adv v .,ENG ENG ENG,0
+633,.,None,,0
+634,he sure did .,pro:sub adv v .,ENG ENG ENG,0
+635,.,None,,0
+636,alright where's your other one now .,co pro:rel det:poss qn det:num adv .,ENG ENG ENG ENG ENG ENG,0
+637,.,None,,0
+638,.,None,,0
+639,I don't even feel like writing .,pro:sub mod adv v co part .,ENG ENG ENG ENG ENG ENG,0
+640,.,None,,0
+641,yeah they might wanna read it .,co pro:sub mod v v pro:per .,ENG ENG ENG ENG ENG ENG,0
+642,let's see tsk .,v v co .,ENG ENG ENG,0
+643,.,None,,0
+644,when were we were out there ?,conj aux pro:sub cop prep n ?,ENG ENG ENG ENG ENG ENG,0
+645,we were out there on a Monday .,pro:sub cop prep n prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+646,March twenty fourth .,n:prop det:num adj .,ENG ENG ENG,0
+647,back .,adv .,ENG,0
+648,Jane //.,n:prop +//.,ENG,0
+649,I haven't even read it .,pro:sub aux adv v pro:per .,ENG ENG ENG ENG ENG,0
+650,I'm answering without reading .,pro:sub part prep part .,ENG ENG ENG ENG,0
+651,I will read it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+652,.,None,,0
+653,and .,coord .,ENG,0
+654,.,None,,0
+655,I were out .,pro:sub cop adv .,ENG ENG ENG,0
+656,.,None,,0
+657,no we weren't out there on three twenty five we were on three twenty four .,co pro:sub cop prep n prep det:num det:num det:num pro:sub cop prep det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+658,.,None,,0
+659,we were out on site to review texture mockup on three twenty five twenty four tsk .,pro:sub cop adv prep n prep n n n prep det:num det:num det:num det:num det:num co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+660,we did mention the requirement of color approval .,pro:sub v n det:art n prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+661,because a paint chip is never the same as the real thing with sun and materials ...,conj det:art n n cop adv det:art adj prep det:art adj n prep n coord n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+662,as part of the mixture .,prep n prep det:art n .,ENG ENG ENG ENG ENG,0
+663,.,None,,0
+664,do we need a mockup for the inside ?,mod pro:sub v det:art n prep det:art adj ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+665,.,None,,0
+666,just so you understand our interest in the exterior color mockup at A U A U V .,adj adv pro:per v det:poss n prep det:art adj n n prep n:prop n:prop n:prop n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+667,the original colors we selected did not turn out like we thought .,det:art adj n pro:sub v mod neg v adv conj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+668,and therefore had to select different colors .,coord adv v inf v adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+669,we do not want to come out to ...,pro:sub mod neg v inf v adv prep +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+670,.,None,,0
+671,to know when we can come and review colors .,inf v conj pro:sub mod v coord n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+672,.,None,,0
+673,are you sure we /?,cop pro:per adj pro:sub +/?,ENG ENG ENG ENG,0
+674,.,None,,0
+675,I don't think we did interior .,pro:sub mod v pro:sub v n .,ENG ENG ENG ENG ENG ENG,0
+676,do we need them ?,mod pro:sub v pro:obj ?,ENG ENG ENG ENG,0
+677,.,None,,0
+678,let's go ahead and look at it .,v v adv coord v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+679,.,None,,0
+680,because some of the interiors at A U V I would have lived without of happily .,conj pro:indef prep det:art n prep n:prop n:prop n:prop pro:sub mod aux part prep prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+681,like that that bonafide beige .,prep pro:dem adv adj adj .,ENG ENG ENG ENG ENG,0
+682,.,None,,0
+683,you can't see it !,pro:per mod v pro:per !,ENG ENG ENG ENG,0
+684,.,None,,0
+685,you can't .,pro:per mod .,ENG ENG,0
+686,.,None,,0
+687,okay .,co .,ENG,0
+688,.,None,,0
+689,he canceled ?,pro:sub v ?,ENG ENG,0
+690,.,None,,0
+691,okay .,co .,ENG,0
+692,.,None,,0
+693,just so you understand our interest in exterior colors .,adj adv pro:per v det:poss n prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+694,the mockup at A U V did not turn out like we thought and .,det:art n prep n:prop n:prop n:prop mod neg v adv conj pro:sub v coord .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+695,we are positive that //.,pro:sub cop adj comp +//.,ENG ENG ENG ENG,0
+696,eh I'm just trying to give it a positive spin here .,co pro:sub adv part inf v pro:per det:art n n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+697,that .,comp .,ENG,0
+698,all of us working together will result in a successful project delivered on time .,pro:indef prep pro:obj part adv mod v prep det:art adj n v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+699,.,None,,0
+700,how's that ?,pro:int pro:dem ?,ENG ENG,0
+701,.,None,,0
+702,I am told that the paint sample for everyday white did not match the intended color .,pro:sub aux part comp det:art n n prep adj n mod neg v det:art part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+703,.,None,,0
+704,and we ask for resubmittal .,coord pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+705,.,None,,0
+706,I'm leaving a little early but ...,pro:sub part det:art adj adv conj +...,ENG ENG ENG ENG ENG ENG,0
+707,.,None,,0
+708,one thirty Tim Washington's coming here .,det:num det:num n:prop n:prop part adv .,ENG ENG ENG ENG ENG ENG,0
+709,.,None,,0
+710,to review .,inf v .,ENG ENG,0
+711,.,None,,0
+712,I'm just signing a pay out .,pro:sub adv part det:art n adv .,ENG ENG ENG ENG ENG ENG,0
+713,.,None,,0
+714,do we need to say anything else ?,mod pro:sub v inf v pro:indef post ?,ENG ENG ENG ENG ENG ENG ENG,0
+715,.,None,,0
+716,it did not match the intended color correct ?,pro:per v neg v det:art part n adj ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+717,.,None,,0
+718,it's not a new color ?,pro:per neg det:art adj n ?,ENG ENG ENG ENG ENG,0
+719,.,None,,0
+720,it is not a new color .,pro:per cop neg det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+721,.,None,,0
+722,what did they just didn't paint it correctly or didn't look right ?,pro:int mod pro:sub adv mod v pro:per adv coord mod cop co ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+723,.,None,,0
+724,but do we know //.,conj mod pro:sub v +//.,ENG ENG ENG ENG,0
+725,oh because they're not using the same /.,co conj pro:sub neg part det:art adj +/.,ENG ENG ENG ENG ENG ENG ENG,0
+726,.,None,,0
+727,ah it is not a color .,co pro:per cop neg det:art n .,ENG ENG ENG ENG ENG ENG,0
+728,it is simply a simply a different shade by a different manufacturer .,pro:per cop adv det:art adv det:art adj n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+729,.,None,,0
+730,hence the painting sub needs to match the basis of design .,adv det:art n:gerund n v inf v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+731,how's that ?,pro:int pro:dem ?,ENG ENG,0
+732,.,None,,0
+733,you wanna put something yes .,pro:per v v pro:indef co .,ENG ENG ENG ENG ENG,0
+734,how did you want me to answer that ?,pro:int mod pro:per v pro:obj inf v pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+735,oops .,co .,ENG,0
+736,.,None,,0
+737,what was missing ?,pro:int aux part ?,ENG ENG ENG,0
+738,.,None,,0
+739,uhhuh .,co .,ENG,0
+740,.,None,,0
+741,uhhuh .,co .,ENG,0
+742,.,None,,0
+743,uhhuh .,co .,ENG,0
+744,.,None,,0
+745,okay let me ask you a stupid question .,co v pro:obj v pro:per det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+746,.,None,,0
+747,why did we took so long to give it back to them ?,pro:int mod pro:sub v adv adj inf v pro:per adv prep pro:obj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+748,I thought we picked the colors a long long time ago .,pro:sub v pro:sub v det:art n det:art adj adj n post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+749,.,None,,0
+750,so why are they saying they just got it this week ?,adv pro:rel cop pro:sub part pro:sub adv v pro:per det:dem n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+751,.,None,,0
+752,but we discovered that it wasn't right weeks ago !,conj pro:sub v comp pro:per cop adj n post !,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+753,.,None,,0
+754,no it was more than that .,co pro:per cop adv prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+755,longer than two weeks .,adj prep det:num n .,ENG ENG ENG ENG,0
+756,longer than last week /.,adj prep adj n +/.,ENG ENG ENG ENG,0
+757,.,None,,0
+758,I thought it was longer than that .,pro:sub v pro:per cop adj prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+759,.,None,,0
+760,well then let's leave it alone .,co adv:tem v v pro:per adv .,ENG ENG ENG ENG ENG ENG,0
+761,because we /.,conj pro:sub +/.,ENG ENG,0
+762,.,None,,0
+763,mhm .,co .,ENG,0
+764,.,None,,0
+765,you would've had it .,pro:per mod v pro:per .,ENG ENG ENG ENG,0
+766,so what you're telling me this /.,adv pro:int pro:per part pro:obj pro:dem +/.,ENG ENG ENG ENG ENG ENG,0
+767,.,None,,0
+768,updated .,part .,ENG,0
+769,but we've selected those colors a long time ago .,conj pro:sub part det:dem n det:art adj n post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+770,why had we never updated this ?,pro:rel v pro:sub adv part pro:dem ?,ENG ENG ENG ENG ENG ENG,0
+771,.,None,,0
+772,and we still didn't read our ASI ?,coord pro:sub adv mod v det:poss n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+773,.,None,,0
+774,no I'll tell you what happened .,co pro:sub v pro:per pro:int v .,ENG ENG ENG ENG ENG ENG,0
+775,this is a legend being xrefed from a different file .,pro:dem cop det:art n aux part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+776,she fixed the legend at W .,pro:sub v det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+777,but it was still xrefing at non-W .,conj pro:per aux adv part prep adj .,ENG ENG ENG ENG ENG ENG ENG,0
+778,I bet that's what happened .,pro:sub v pro:dem pro:int v .,ENG ENG ENG ENG ENG,0
+779,bet you a million dollars .,v pro:per det:art det:num n .,ENG ENG ENG ENG ENG,0
+780,because I have found plenty legends that refers to not it's own W folder but back to the original .,conj pro:sub aux part n n pro:rel v prep neg pro:per adj n:prop n conj adv prep det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+781,.,None,,0
+782,back to the original .,adv prep det:art adj .,ENG ENG ENG ENG,0
+783,do you see what I'm saying ?,mod pro:per v pro:int pro:sub part ?,ENG ENG ENG ENG ENG ENG,0
+784,.,None,,0
+785,because there's no way .,conj pro:exist qn n .,ENG ENG ENG ENG,0
+786,there is no technology /.,pro:exist cop qn n +/.,ENG ENG ENG ENG,0
+787,.,None,,0
+788,then it's referring to the wrong folder .,adv:tem pro:per part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+789,.,None,,0
+790,no but I'm saying it's //.,co conj pro:sub part pro:per +//.,ENG ENG ENG ENG ENG,0
+791,she changed this .,pro:sub part det:dem .,ENG ENG ENG,0
+792,you know she changed it two days before .,pro:per v pro:sub v pro:per det:num n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+793,when that new drawing was opened .,conj det:dem adj n aux part .,ENG ENG ENG ENG ENG ENG,0
+794,.,None,,0
+795,I did guarantee you it's that it was referring to /.,pro:sub v n pro:per pro:per comp pro:per aux part prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+796,.,None,,0
+797,well then I go back to my usual statement .,co adv:tem pro:sub v adv prep det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+798,people need to look at these things before they're released .,n v inf v prep det:dem n adv pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+799,.,None,,0
+800,because they've not looked .,conj pro:sub neg part .,ENG ENG ENG ENG,0
+801,.,None,,0
+802,because if I know I've changed a legend .,conj conj pro:sub v pro:sub part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+803,because I know when I change a legend and I go back to the drawing I look to make sure that it's uploaded it .,conj pro:sub v conj pro:sub v det:art n coord pro:sub v adv prep det:art n pro:sub v inf v adj adv pro:per up#part pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+804,.,None,,0
+805,and when I've discovered that it's not then I change the legend .,coord pro:rel pro:sub part adv pro:per neg adv:tem pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+806,and it doesn't .,coord pro:per mod .,ENG ENG ENG,0
+807,"and I'll go ""/.","coord pro:sub v +""/.",ENG ENG ENG,0
+808,who the hell ?,pro:int det:art n ?,ENG ENG ENG,0
+809,.,None,,0
+810,and then I go in the xref .,coord adv:tem pro:sub v prep det:art v .,ENG ENG ENG ENG ENG ENG ENG,0
+811,and it's referring the same folder name but under a different project .,coord pro:per part det:art adj n n conj prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+812,.,None,,0
+813,then we do need to bring it in .,adv:tem pro:sub v v inf v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+814,.,None,,0
+815,that's okay .,pro:dem adj .,ENG ENG,0
+816,we just //.,pro:sub adv +//.,ENG ENG,0
+817,we just need to make sure that staff realizes when you update a legend make sure it's referring to the folder it's supposed to .,pro:sub adv v inf v adj adv n v conj pro:per n det:art n v adj pro:per part prep det:art n pro:per part inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+818,.,None,,0
+819,because when you stole that legend from another folder a lot of times we forget .,conj conj pro:per v det:dem n prep qn n det:art n prep n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+820,you know what I'm saying ?,pro:per v pro:int pro:sub part ?,ENG ENG ENG ENG ENG,0
+821,.,None,,0
+822,particularly because we borrowed all these drawings .,adv conj pro:sub v qn det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+823,.,None,,0
+824,so we may have plain and simply forgotten to change the paths .,co pro:sub mod aux n coord adv part inf v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+825,.,None,,0
+826,it was a different path .,pro:per cop det:art adj n .,ENG ENG ENG ENG ENG,0
+827,.,None,,0
+828,leave it alone because that means we really screwed up .,v pro:per adv conj pro:dem v pro:sub adv v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+829,.,None,,0
+830,I'm not gonna win so .,pro:sub neg part n co .,ENG ENG ENG ENG ENG,0
+831,and I'm not gonna win .,coord pro:sub neg part v .,ENG ENG ENG ENG ENG,0
+832,not gonna win that one .,neg part v det:dem pro:indef .,ENG ENG ENG ENG ENG,0
+833,so I'm gonna let them have it .,adv pro:sub part v pro:obj v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+834,so what's his problem on this northeast person ?,adv pro:int det:poss n prep det:dem adj n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+835,.,None,,0
+836,make him worth his while right ?,v pro:obj n det:poss n co ?,ENG ENG ENG ENG ENG ENG,0
+837,.,None,,0
+838,.,None,,0
+839,what'd they do ?,pro:int pro:sub v ?,ENG ENG ENG,0
+840,.,None,,0
+841,they //.,pro:sub +//.,ENG,0
+842,oh they definitely .,co pro:sub adv .,ENG ENG ENG,0
+843,.,None,,0
+844,because we pick on each other for work quite never that .,conj pro:sub v prep qn qn prep n adv adv pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+845,we're never on the cruel .,pro:sub adv prep det:art adj .,ENG ENG ENG ENG ENG,0
+846,.,None,,0
+847,we stop beyond getting too cruel .,pro:sub n adv n:gerund adv adj .,ENG ENG ENG ENG ENG ENG,0
+848,.,None,,0
+849,then I perhaps mister Alvaro Rodriguez was not off the market at all .,adv:tem pro:sub adv n n:prop n:prop cop neg prep det:art n prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+850,.,None,,0

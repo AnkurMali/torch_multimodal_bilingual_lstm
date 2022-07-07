@@ -1,0 +1,611 @@
+,sentence,pos,language,switch
+0,me estás ahora mismo hablando de cuál versión de la ecuatoriana o la colombiana ?,pro:obj aux adv adj ger prep pro:int n prep det:art n coord det:art n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1,la de los colombianos dicen que los estuvieron siguiendo en caliente .,pro:obj v det:art n v pro:rel pro:obj aux ger prep v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2,ya .,adv .,ESP,0
+3,que por eso no se dieron cuenta .,pro:rel prep pro:dem adv pro:refl v co .,ESP ESP ESP ESP ESP ESP ESP,0
+4,y tuvieron que pasar el límite de porque estaban en una persecución prácticamente en el momento en que pasaba .,coord v pro:rel inf det:art n imp conj cop prep pro:dem n adv:adj prep det:art n prep pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+5,y no lo podían dejar escapar al tipo .,coord adv pro:obj v inf inf aprep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+6,los estaban siguiendo .,pro:obj aux ger .,ESP ESP ESP,0
+7,pero los terroristas estaban en Ecuador ?,conj pro:obj n cop prep n:prop ?,ESP ESP ESP ESP ESP ESP,0
+8,supuestamente cruzaron .,adv:adj v .,ESP ESP,0
+9,la versión colombiana es que estaban en Colombia .,det:art n adj cop pro:rel cop prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+10,y de Colombia pasaron a Ecuador .,coord prep n:prop v aprep n:prop .,ESP ESP ESP ESP ESP ESP,0
+11,that's what they say .,pro:dem pro:wh pro:sub v .,ESP ESP ESP ESP,0
+12,that's what Colombia say .,L2 L2 n:prop L2 .,ENG ENG ESP ENG,1
+13,"but cuando tú hablas con la gente de Ecuador Ecuador dice ""/.","L2 conj pro:sub v prep det:art n prep n:prop n:prop v +""/.",ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+14,no .,adv .,ESP,0
+15,por qué ?,prep pro:int ?,ESP ESP,0
+16,porque cuando fueron a ver todo lo que pasó después del bombardeo cuando ya vieron a la gente que estaba prácticamente muerta o laying en el piso supuestamente estaban en ropa de dormir .,conj conj cop aprep inf det:indef pro:obj pro:rel v adv prep v pro:rel adv v aprep det:art n pro:rel cop adv:adj part coord L2 prep det:art v adv:adj cop prep n prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+17,mhm .,co .,ESP,0
+18,okay .,co .,ESP,0
+19,cómo tú puedes pensar que los estás siguiendo de un país a otro en ropa de dormir ?,pro:int pro:sub v inf prep det:art aux ger prep det:art n aprep det:indef prep n prep inf ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+20,la versión del Ecuador es que ellos estaban camping en el territorio ecuatoriano .,det:art n prep n:prop cop pro:rel pro:sub aux L2 prep det:art n n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP,1
+21,okay .,co .,ESP,0
+22,y que los colombianos cruzaron la frontera .,coord pro:rel det:art n v det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+23,y los bombardearon cuando ellos estaban durmiendo .,coord pro:obj v conj pro:sub aux ger .,ESP ESP ESP ESP ESP ESP ESP,0
+24,excuse me los qué ?,L2 L2 det:art pro:int ?,ENG ENG ESP ESP,1
+25,los colombianos .,det:art n .,ESP ESP,0
+26,no antes de eso .,adv adv prep pro:dem .,ESP ESP ESP ESP,0
+27,hm ?,co ?,ESP,0
+28,tú dijiste una palabra que no la entendí .,pro:sub v det:art n pro:rel adv pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+29,cuál de todas ?,pro:int prep det:indef ?,ESP ESP ESP,0
+30,dijiste una palabra que no la entendí .,v det:art n pro:rel adv pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+31,bueno la cosa es que esa es la versión que dicen los colombianos .,co pro:obj v cop pro:rel det:dem cop det:art n pro:rel v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+32,la versión de los ecuatorianos pues es esa de que ellos estaban durmiendo .,det:art n prep det:art n co cop det:dem prep pro:rel pro:sub aux ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+33,ya .,adv .,ESP,0
+34,entonces existe lo que es //.,adv v pro:obj pro:rel cop +//.,ESP ESP ESP ESP ESP,0
+35,gracias a dios después de todo el bombardeo que hubo pudieron calcular una computadora .,n aprep co adv prep det:indef det:art v pro:rel aux v inf det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+36,que yo creo que para mí esa es la razón por la cual cuando vino la reunión de Río que estuvieron todos los presidentes Uribe tenía todos los papeles y todos los ases debajo de la manga .,pro:rel pro:sub v pro:rel prep pro:prep det:dem cop det:art n prep det:art pro:rel pro:rel n det:art n prep n:prop pro:rel cop det:indef det:art n n:prop v det:indef det:art n coord pro:indef det:art v adv prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+37,por eso es que tu querido presidente Correa tuvo que morderse la lengua /.,prep pro:dem cop pro:rel det:pos part n n:prop v pro:rel inf det:art n +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+38,el tuyo .,det:art pro:pos .,ESP ESP,0
+39,morderse la lengua y decir que está bien que se acababa el conflicto .,inf det:art n coord inf pro:rel cop adv pro:rel pro:refl v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+40,lo mismo que Chávez y lo mismo que nuestro gran amigo Noriega .,pro:obj adj pro:rel n:prop coord pro:obj adj pro:rel pro:pos adj n n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+41,mm .,co .,ESP,0
+42,okay .,co .,ESP,0
+43,esa es la versión que supuestamente se baraja .,det:dem cop det:art n prep adv:adj imp n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+44,so se puede interpretar como que el laptop que supuestamente encontraron que dijeron que había evidencia que comprobaba que Ecuador tenía vínculos con las Farc era verídico .,L2 pro:refl v inf adv pro:rel det:art L2 prep adv:adj v pro:rel v pro:rel aux n pro:rel v pro:rel n:prop v n prep det:art n:prop cop adj .,ENG ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+45,las Farc .,det:art n:prop .,ESP ESP,0
+46,exactamente .,adv:adj .,ESP,0
+47,por eso fue entonces que el presidente se hizo el loco .,prep pro:dem cop adv pro:rel det:art n pro:refl v det:art adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+48,claro porque tú sabes cómo es Correa .,co conj pro:sub v pro:int cop n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+49,ya .,adv .,ESP,0
+50,Correa considera que es el dueño de la palabra .,n:prop v pro:rel cop det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+51,"y la Onu prácticamente lo dijo ""/.","coord det:art n:prop adv:adj pro:obj v +""/.",ESP ESP ESP ESP ESP ESP,0
+52,Colombia no tenía por qué traspasar Ecuador .,n:prop adv v prep pro:int inf n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+53,correcto .,adj .,ESP,0
+54,aun así que estaba siguiendo a un terrorista como Reyes que era la primera o la segunda cabeza de Farc .,adj adv pro:rel aux ger aprep det:art n adv n:prop pro:rel cop det:art adj:num coord det:art adj:num n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+55,y ahorita cambiando tú tienes tu licencia con residence verdad ?,coord adv ger pro:sub v det:pos v prep L2 co ?,ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP,1
+56,no why ?,co adv:wh ?,ESP ESP,0
+57,no tienes tu licencia ?,adv v det:pos v ?,ESP ESP ESP ESP,0
+58,no no here .,adv adv L2 .,ESP ESP ENG,1
+59,con el address de aquí .,prep det:art L2 prep adv .,ESP ESP ENG ESP ESP,1
+60,no .,adv .,ESP,0
+61,de seguro .,prep co .,ESP ESP,0
+62,ah mi tía .,co det:pos n .,ESP ESP ESP,0
+63,ya .,adv .,ESP,0
+64,no but she's changing .,co conj pro:sub part .,ESP ESP ESP ESP,0
+65,why why you need it ?,adv:wh adv:wh pro v pro ?,ESP ESP ESP ESP ESP,0
+66,ya no tiene que .,adv adv v pro:rel .,ESP ESP ESP ESP,0
+67,necesitaba que votaras por mi jefe .,v pro:rel v prep det:pos n .,ESP ESP ESP ESP ESP ESP,0
+68,that's is the letter that's is the sign you have ...,pro:dem cop det n rel cop det n pro v +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+69,ah pero mi tía no es ciudadana .,co conj det:pos n adv cop n .,ESP ESP ESP ESP ESP ESP ESP,0
+70,no no todavía le falta .,adv adv adv pro:ind v .,ESP ESP ESP ESP ESP,0
+71,hm yeah .,co co .,ESP ESP,0
+72,I'm working for este Antonio_López .,n:prop:L2 L2 L2 imp n:prop .,ESP ENG ENG ESP ESP,1
+73,que está lanzándose para commissioner .,pro:rel cop ger prep L2 .,ESP ESP ESP ESP ENG,1
+74,de la ciudad de Miramar .,prep det:art n prep n:prop .,ESP ESP ESP ESP ESP,0
+75,no .,adv .,ESP,0
+76,entonces me interesa que gane para que pueda seguir manteniendo su oficina .,adv pro:obj v pro:rel v prep prep imp inf ger det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+77,desafortunadamente republicano .,adv:adj adj .,ESP ESP,0
+78,no .,adv .,ESP,0
+79,no yo con los republicanos no voy .,adv pro:sub prep det:art adj adv v .,ESP ESP ESP ESP ESP ESP ESP,0
+80,no voy ni a misa .,adv v coord aprep n .,ESP ESP ESP ESP ESP,0
+81,ni a misa voy con los republicanos .,coord aprep n v prep det:art adj .,ESP ESP ESP ESP ESP ESP ESP,0
+82,bueno entonces eso fue lo que pasó .,co co pro:dem cop pro:obj pro:rel v .,ESP ESP ESP ESP ESP ESP ESP,0
+83,tú no viste lo que Correa le hizo Uribe ?,pro:sub adv v pro:obj pro:rel n:prop pro:ind v n:prop ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+84,se levantó .,pro:refl v .,ESP ESP,0
+85,prácticamente lo dejó con la boca abierta .,adv:adj pro:obj v prep det:art n part .,ESP ESP ESP ESP ESP ESP ESP,0
+86,.,None,,0
+87,"y el señor Uribe para mí un señor le dijo ""/.","coord det:art co:voc n:prop prep pro:prep det:art n pro:ind v +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+88,no .,adv .,ESP,0
+89,si el presidente del Ecuador no está enfrente mío no voy a decir absolutamente nada .,conj det:art n prep n:prop adv cop adv pro:pos adv v aprep inf adv:adj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+90,y lo esperó .,coord pro:obj v .,ESP ESP ESP,0
+91,y lo esperó .,coord pro:obj v .,ESP ESP ESP,0
+92,y cuando Correa se sentó Uribe habló .,coord conj n:prop pro:refl v n:prop v .,ESP ESP ESP ESP ESP ESP ESP,0
+93,y Uribe fue un caballero porque cuando este el de República_Dominicana le pidió que por favor pues trataran de llegar a un consenso Uribe fue quien se levantó y le dio la mano a tu presidente Correa .,coord n:prop v det:art n conj conj imp det:art prep n:prop pro:ind v pro:rel prep n conj v prep inf aprep det:art n n:prop v pro:rel pro:refl v coord pro:ind v det:art n aprep det:pos n n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+94,mhm .,co .,ESP,0
+95,es más presidente tuyo que mío .,cop adv n pro:pos prep pro:pos .,ESP ESP ESP ESP ESP ESP,0
+96,no hermana yo considero que ese no es mi línea en el país .,adv n pro:sub v pro:rel det:dem adv cop det:pos n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+97,y tú sabes lo que hizo con el asunto de las herencias ?,coord pro:sub v pro:obj pro:rel v prep det:art n prep det:art n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+98,no .,adv .,ESP,0
+99,tú tienes un problemita también ahí .,pro:sub v det:art n adv adv .,ESP ESP ESP ESP ESP ESP,0
+100,por qué ?,prep pro:int ?,ESP ESP,0
+101,está aplicando un porcentaje un impuesto del treinta y cinco por ciento .,aux ger det:art n det:art n prep det:num coord det:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+102,sí ?,co ?,ESP,0
+103,de herencias .,prep n .,ESP ESP,0
+104,por ejemplo God forbid something happen to your mom .,prep n n:prop:L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+105,mhm .,co .,ESP,0
+106,y tú tienes por ejemplo digamos ciento cincuenta mil en bienes .,coord pro:sub v prep n v n det:num det:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+107,aquí o allá ?,adv coord adv ?,ESP ESP ESP,0
+108,allá porque tú tienes que heredarlos allá .,adv conj pro:sub v pro:rel inf adv .,ESP ESP ESP ESP ESP ESP ESP,0
+109,okay .,co .,ESP,0
+110,oh claro .,co co .,ESP ESP,0
+111,antes de tú recibirlos tienes que pagarle al gobierno el treinta y cinco por ciento .,adv prep pro:sub inf v pro:rel inf aprep n det:art det:num coord det:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+112,se lo coge el gobierno .,pro:refl pro:obj v det:art n .,ESP ESP ESP ESP ESP,0
+113,why ?,adv:wh ?,ESP,0
+114,porque ese es un impuesto que el señor Correa le ha puesto a los pelucones .,conj det:dem cop det:art n pro:rel det:art co:voc n:prop pro:ind aux part aprep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+115,y qué es ?,coord pro:int cop ?,ESP ESP ESP,0
+116,y te consideras pelucona porque tienes una herencia de más de ciento cincuenta mil dólares .,coord pro:obj v n conj v det:art n prep adv prep n det:num det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+117,so si lo queremos interpretar cuál sería el income limit para hacer considered ?,L2 conj pro:obj v inf pro:int cop det:art L2 L2 prep inf L2 ?,ENG ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ENG,1
+118,ciento cincuenta mil a doscientos mil .,n det:num det:num aprep det:num det:num .,ESP ESP ESP ESP ESP ESP,0
+119,y ya eres pelucona ?,coord adv cop n ?,ESP ESP ESP ESP,0
+120,si es menos ...,conj cop adv +...,ESP ESP ESP,0
+121,it's just menos de eso no hay problemas .,L2 L2 adv prep pro:dem adv v n .,ENG ENG ESP ESP ESP ESP ESP ESP,1
+122,puedes recibir la herencia .,v inf det:art n .,ESP ESP ESP ESP,0
+123,pero si tienes un dólar más de eso antes estaba aplicando el setenta por ciento .,conj conj v det:art n adv prep pro:dem adv aux ger det:art det:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+124,y todo el mundo prácticamente se puso en contra .,coord det:indef det:art n adv:adj pro:refl v prep co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+125,.,None,,0
+126,y supuestamente bajó al treinta y cinco por ciento .,coord adv:adj v aprep det:num coord det:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+127,pero todo es por la gente de dinero .,conj det:indef cop prep det:art n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+128,eso me lo dijo María .,pro:dem pro:obj pro:obj v n:prop .,ESP ESP ESP ESP ESP,0
+129,pero .,conj .,ESP,0
+130,pero todavía no es ...,conj adv adv cop +...,ESP ESP ESP ESP,0
+131,no ya está aprobado .,adv adv cop part .,ESP ESP ESP ESP,0
+132,.,None,,0
+133,señorita está aprobado así que póngase pilas .,co:voc aux part adv prep imp n .,ESP ESP ESP ESP ESP ESP ESP,0
+134,wow .,co .,ESP,0
+135,póngase pilas porque la cosa está seria .,imp n conj pro:obj v cop adj .,ESP ESP ESP ESP ESP ESP ESP,0
+136,estaba hablando con mi hermano también .,aux ger prep det:pos n adv .,ESP ESP ESP ESP ESP ESP,0
+137,y también que le quería comentar eso a mi tía Carla por los muchachos .,coord adv pro:rel pro:ind v inf pro:dem aprep det:pos n n:prop prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+138,sobre todo ella que tiene muchos millones en propiedades en Ecuador .,prep det:indef pro:sub pro:rel v det:indef n prep n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+139,el edificio hermana que yo creo que tiene un buen valor .,det:art n n pro:rel pro:sub v pro:rel v det:art adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+140,en el edificio .,prep det:art n .,ESP ESP ESP,0
+141,y es treinta y cinco por ciento estamos hablando de un buen billete hermana .,coord cop det:num coord det:num prep n aux ger prep det:art adj n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+142,estamos hablando de cuánto en doscientos mil ?,aux ger prep det:int prep det:num det:num ?,ESP ESP ESP ESP ESP ESP ESP,0
+143,estamos hablando de cuarenta ?,aux ger prep det:num ?,ESP ESP ESP ESP,0
+144,un poquito más sesenta .,det:art pro:indef adv det:num .,ESP ESP ESP ESP,0
+145,ciento cincuenta mil el diez por ciento son quince .,n det:num det:num det:art det:num prep n cop det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+146,son quince y quince cuarenta cinco cincuenta como cincuenta mil .,cop det:num coord det:num det:num det:num det:num adv det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+147,el veinte son treinta .,det:art det:num cop det:num .,ESP ESP ESP ESP,0
+148,oh no !,co adv !,ESP ESP,0
+149,es mucho dinero .,cop adv n .,ESP ESP ESP,0
+150,y tú sabes lo que a mí me dijo Clara prácticamente me dio ese advice que se están haciendo como una especie de inmobiliaria todo lo que son los bienes .,coord pro:sub v pro:obj pro:rel aprep pro:prep pro:obj v n:prop adv:adj pro:obj v det:dem L2 pro:rel pro:refl aux ger adv pro:dem n prep n det:indef pro:obj pro:rel cop det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+151,como aquí un incorporated .,adv adv det:art L2 .,ESP ESP ESP ENG,1
+152,exactly .,adv .,ESP,0
+153,that's the best thing to deal with that .,pro:dem det adj n prep n prep pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+154,that's the way you do it here .,pro:dem det n pro v pro adv .,ESP ESP ESP ESP ESP ESP ESP,0
+155,ya .,adv .,ESP,0
+156,in order to pay less taxes that I didn't know what I'm gonna do is tú puedes ser por decirte Ana López incorporated .,L2 L2 L2 L2 L2 L2 L2 n:prop:L2 L2 L2 L2 n:prop:L2 L2 L2 L2 pro:sub v inf prep inf n:prop n:prop L2 .,ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ESP ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ENG,1
+157,y pagas el cincuenta por ciento de los impuestos .,coord v det:art det:num prep n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+158,en vez de pagar lo que uno paga normalmente .,prep n prep inf pro:obj prep pro:dem v adv:adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+159,coño que me sacan bastante .,co pro:rel pro:obj v adv .,ESP ESP ESP ESP ESP,0
+160,I know .,pro:sub v .,ESP ESP,0
+161,me sacan bastante esos hijos de su madre .,pro:obj v adv det:dem n prep det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+162,so that's the best way to go about it .,co pro:dem det adj n inf v prep pro .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+163,you incorporate yourself as a person as your whole name .,pro v pro:refl prep det n prep pro:poss:det n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+164,even though you have a W_two and you're working like an employee ?,adv adv pro v det n:prop conj pro part co det n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+165,no no no that's in the case that you have a business .,adv adv adv L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+166,that's in case like if you have a business .,pro:dem adv n prep conj pro v det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+167,and you're taking tax writeoff .,conj pro part n n .,ESP ESP ESP ESP ESP,0
+168,yeah okay .,co co .,ESP ESP,0
+169,like not W_two .,co neg n:prop .,ESP ESP ESP,0
+170,yeah but por ejemplo for example María .,L2 L2 prep n L2 L2 n:prop .,ENG ENG ESP ESP ENG ENG ESP,1
+171,she can do it .,pro:sub mod v pro .,ESP ESP ESP ESP,0
+172,I don't know about her .,pro:sub mod v prep pro:obj .,ESP ESP ESP ESP ESP,0
+173,if she wants .,conj pro:sub v .,ESP ESP ESP,0
+174,con los extranjeros si no te podría decir .,prep det:art n conj adv pro:obj v inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+175,because in this year when we made the taxes for her she have a ...,conj prep det n conj pro:sub v det n prep pro:obj pro:sub v det +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+176,she has to pay ?,pro:sub aux inf v ?,ESP ESP ESP ESP,0
+177,she have a nine thousands //.,pro:sub v det det:num det:num +//.,ESP ESP ESP ESP ESP,0
+178,cómo se dice la palabra en English ?,pro:int pro:refl v det:art n prep n:prop:L2 ?,ESP ESP ESP ESP ESP ESP ESP,0
+179,cuál ?,pro:int ?,ESP,0
+180,en contra .,prep co .,ESP ESP,0
+181,negative .,adj .,ESP,0
+182,a negative .,aprep L2 .,ESP ENG,1
+183,nine thousands five hundred something .,det:num det:num det:num det:num pro:indef .,ESP ESP ESP ESP ESP,0
+184,so good she doesn't have to pay .,adv adj pro:sub mod v inf v .,ESP ESP ESP ESP ESP ESP ESP,0
+185,no that's good for her para /.,L2 L2 L2 L2 L2 imp +/.,ENG ENG ENG ENG ENG ESP,1
+186,she has lost a lot of equity .,pro:sub aux part det n prep n .,ESP ESP ESP ESP ESP ESP ESP,0
+187,I was looking into the community where she bought .,pro:sub aux part prep det n rel pro:sub v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+188,ajá .,co .,ESP,0
+189,what does she have a three two or two two ?,pro:wh v pro:sub v det det:num det:num coord det:num det:num ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+190,three .,det:num .,ESP,0
+191,three two .,det:num det:num .,ESP ESP,0
+192,I think she paid like three hundred thousand .,pro:sub v pro:sub v prep det:num det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+193,and I think know if she's lucky /.,conj pro:sub v v conj pro:sub adj +/.,ESP ESP ESP ESP ESP ESP ESP,0
+194,two forty .,det:num det:num .,ESP ESP,0
+195,between two forty and two sixty .,prep det:num det:num coord det:num det:num .,ESP ESP ESP ESP ESP ESP,0
+196,yeah I know .,co pro:sub v .,ESP ESP ESP,0
+197,I know that .,pro:sub v pro:dem .,ESP ESP ESP,0
+198,I know that .,pro:sub v pro:dem .,ESP ESP ESP,0
+199,I'm //.,pro:sub +//.,ESP,0
+200,I know it's bad .,pro:sub v pro adj .,ESP ESP ESP ESP,0
+201,for her because she tried .,prep pro:obj conj pro:sub v .,ESP ESP ESP ESP ESP,0
+202,sad .,adj .,ESP,0
+203,but I give it to her the advise to waiting one more year to see what happens .,conj pro:sub v pro prep pro:obj det v prep n:gerund det:num qn n inf v pro:wh v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+204,she has to wait at least two more years .,pro:sub aux inf v prep n det:num adv n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+205,mírala .,imp .,ESP,0
+206,yeah but I don't supposed to tell her that her husband .,co conj pro:sub mod v inf v pro:obj rel pro:poss:det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+207,oh did you see the listing I sent you ?,co mod pro v det part pro:sub v pro ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+208,yeah .,co .,ESP,0
+209,yeah but tú sabes qué ?,L2 L2 pro:sub v pro:int ?,ENG ENG ESP ESP ESP,1
+210,el problema de aquí que no me gustan son los taxes is too high .,det:art n prep adv pro:rel adv pro:obj v cop det:art L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+211,Miramar is too high .,n:prop L2 L2 L2 .,ESP ENG ENG ENG,1
+212,I see .,pro:sub v .,ESP ESP,0
+213,is too high .,cop adv adv .,ESP ESP ESP,0
+214,I thinking maybe I don't know un poquito más arriba .,n:prop:L2 L2 L2 n:prop:L2 L2 L2 det:art pro:indef adv adv .,ESP ENG ENG ESP ENG ENG ESP ESP ESP ESP,1
+215,siempre por lo general el impuesto es del dos por ciento .,adv prep pro:obj adj det:art n cop prep det:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+216,por decirte si te compras ciento cuarenta son dos mil ochocientos menos el home exemption unos dos mil cuatrocientos dos mil trescientos .,prep inf conj pro:obj v n det:num cop det:num det:num det:num adv det:art L2 L2 pro:dem det:num det:num det:num det:num det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP,1
+217,son doscientos dólares en taxes mensuales .,cop det:num n prep L2 adj .,ESP ESP ESP ESP ENG ESP,1
+218,yeah but when you try to find out the how much you are supposed to pay for the homeowners insurance insurance .,co conj conj pro v inf v prep det adv qn pro aux v inf v prep det n n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+219,bueno un condo y todo eso ya viene incluida la asociación .,co det:art n coord det:indef pro:dem adv v part det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+220,yeah I know .,co pro:sub v .,ESP ESP ESP,0
+221,no es aparte .,adv cop adv .,ESP ESP ESP,0
+222,I know but de todas maneras /.,n:prop:L2 L2 L2 prep det:indef n +/.,ESP ENG ENG ESP ESP ESP,1
+223,es fácil .,cop adj .,ESP ESP,0
+224,entre taxes y homeowners a lo que sea tu mortgage agrégale trescientos o cuatrocientos dólares facilito .,prep L2 coord L2 aprep pro:obj pro:rel cop det:pos L2 imp det:num coord det:num n adj .,ESP ENG ESP ENG ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP,1
+225,que es el homeowners insurance y todo .,pro:rel cop det:art L2 L2 coord pro:indef .,ESP ESP ESP ENG ENG ESP ESP,1
+226,pero eso añadido a todo .,conj pro:dem part aprep det:indef .,ESP ESP ESP ESP ESP,0
+227,do you know how much they pay just for the ?,mod pro v adv:wh adv pro:sub v adv prep det ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+228,they paying //.,pro:sub part +//.,ESP ESP,0
+229,assessment .,n .,ESP,0
+230,even they no paying ?,v pro:sub co part ?,ESP ESP ESP ESP,0
+231,November two thousand six ?,n:prop det:num det:num det:num ?,ESP ESP ESP ESP,0
+232,how much ?,adv:wh qn ?,ESP ESP,0
+233,five thousand nine hundred .,det:num det:num det:num det:num .,ESP ESP ESP ESP,0
+234,es que esa comunidad ha habido demasiado vandalism .,cop pro:rel det:dem n aux part adj L2 .,ESP ESP ESP ESP ESP ESP ESP ENG,1
+235,two ninety five two eighty eight every month .,det:num det:num det:num det:num det:num det:num qn n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+236,yeah but not only that .,co conj neg adv pro:dem .,ESP ESP ESP ESP ESP,0
+237,pero since she was behind .,conj L2 L2 L2 L2 .,ESP ENG ENG ENG ENG,1
+238,she had to pay attorney's fees .,pro:sub v inf v n n .,ESP ESP ESP ESP ESP ESP,0
+239,one thousand one hundred and fifty el abogado este .,L2 L2 L2 L2 L2 L2 det:art n imp .,ENG ENG ENG ENG ENG ENG ESP ESP ESP,1
+240,that's why .,pro:dem adv:wh .,ESP ESP,0
+241,no se mató nadie ?,adv pro:refl v pro:indef ?,ESP ESP ESP ESP,0
+242,este el abogado estaba muy muy bonito estuvimos in Plantation donde el lawyer .,det:dem det:art n cop adv adv adj aux L2 n:prop pro:rel det:art L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ENG,1
+243,y para qué nos trataron muy bien .,coord prep pro:int pro:obj v adv adv .,ESP ESP ESP ESP ESP ESP ESP,0
+244,you cannot stop it .,pro mod v pro .,ESP ESP ESP ESP,0
+245,you cannot do it that .,pro mod v pro rel .,ESP ESP ESP ESP ESP,0
+246,so .,co .,ESP,0
+247,.,None,,0
+248,y entonces ah el abogado que fuiste a ver si .,coord adv co det:art n pro:rel v aprep inf conj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+249,si para que la oficina y todo la gente al principio todos estaban como un poquito tú sabes pensando que ellos no querían pagar .,conj prep pro:rel det:art n coord pro:indef det:art n aprep n det:indef cop adv det:art pro:indef pro:sub v ger prep pro:sub adv v inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+250,mhm .,co .,ESP,0
+251,pero nada que ver el veterano se paró .,conj v pro:rel inf det:art n pro:refl v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+252,José bien parado el hombre .,n:prop adv part det:art co:voc .,ESP ESP ESP ESP ESP,0
+253,tiene su carácter .,v det:pos n .,ESP ESP ESP,0
+254,y mis respetos para él .,coord det:pos n imp pro:sub .,ESP ESP ESP ESP ESP,0
+255,"me dijo ""/.","pro:obj v +""/.",ESP ESP,0
+256,usted no me puede a mí decir ni culparme porque es un pago automático de un banco que yo ni siquiera puedo ver desde mi país .,pro:sub adv pro:obj v aprep pro:prep inf coord inf conj cop det:art n adj prep det:art n pro:rel pro:sub coord conj v inf prep det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+257,una cuenta que yo tengo ahí .,pro:dem v pro:rel pro:sub v adv .,ESP ESP ESP ESP ESP ESP,0
+258,y que supuestamente ustedes deben sacar el dinero automáticamente .,coord pro:rel adv:adj pro:sub v inf det:art n adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+259,no fue mi culpa .,adv cop det:pos v .,ESP ESP ESP ESP,0
+260,y no fue mi problema porque yo no vivo aquí .,coord adv cop det:pos n conj pro:sub adv v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+261,mhm .,co .,ESP,0
+262,y yo vengo una vez por año .,coord pro:sub v det:art n prep n .,ESP ESP ESP ESP ESP ESP ESP,0
+263,mhm .,co .,ESP,0
+264,"y le dijo ""/.","coord pro:ind v +""/.",ESP ESP ESP,0
+265,yo no estoy .,pro:sub adv cop .,ESP ESP ESP,0
+266,yo no estoy .,pro:sub adv cop .,ESP ESP ESP,0
+267,"me dice "".","pro:obj v +"".",ESP ESP,0
+268,negando la responsabilidad de pagar .,ger det:art n prep inf .,ESP ESP ESP ESP ESP,0
+269,yo te quiero pagar .,pro:sub pro:obj v inf .,ESP ESP ESP ESP,0
+270,"le dijo ""/.","pro:ind v +""/.",ESP ESP,0
+271,y yo no me voy a ir de aquí si usted me dice que no porque esto va a seguir subiendo .,coord pro:sub adv pro:obj v aprep inf prep adv conj pro:sub pro:obj v pro:rel adv conj pro:dem v aprep inf ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+272,yo quiero pagar .,pro:sub v inf .,ESP ESP ESP,0
+273,y quiero pagarle ahora .,coord v inf adv .,ESP ESP ESP ESP,0
+274,el abogado subió .,det:art n v .,ESP ESP ESP,0
+275,el abogado entró otra vez .,det:art n v det:indef n .,ESP ESP ESP ESP ESP,0
+276,trajo un papel .,v det:art n .,ESP ESP ESP,0
+277,se lo hizo firmar .,pro:refl pro:obj v inf .,ESP ESP ESP ESP,0
+278,y le condonaron los intereses .,coord pro:ind v det:art v .,ESP ESP ESP ESP ESP,0
+279,sí ?,co ?,ESP,0
+280,sí .,co .,ESP,0
+281,le condonaron los intereses .,pro:ind v det:art v .,ESP ESP ESP ESP,0
+282,lo que no pudimos condonar fue el fee del abogado .,pro:obj pro:rel adv v inf v det:art L2 prep n .,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+283,ah sí no de eso forget it .,co co adv prep pro:dem L2 L2 .,ESP ESP ESP ESP ESP ENG ENG,1
+284,eso sí fue imposible .,pro:dem co cop adj .,ESP ESP ESP ESP,0
+285,attorney fee and everything te lo digo por experiencia propia .,L2 L2 L2 L2 pro:obj pro:obj v prep n adj .,ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+286,yo perdón .,pro:sub co .,ESP ESP,0
+287,yo pagué unos meses acumulados .,pro:sub v det:art n part .,ESP ESP ESP ESP ESP,0
+288,y de los attorney's fees no me salvó nadie .,coord prep det:art L2 L2 adv pro:obj v pro:indef .,ESP ESP ESP ENG ENG ESP ESP ESP ESP,1
+289,no nadie .,adv pro:indef .,ESP ESP,0
+290,pero solamente thanks good it was only a hundred and fifty dollars .,conj adv L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+291,no but a hundred and fifty is nothing .,co conj det det:num coord det:num aux pro:indef .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+292,it's nothing compare to one thousand whatever .,pro pro:indef v prep det:num det:num pro:wh .,ESP ESP ESP ESP ESP ESP ESP,0
+293,one thousand and something .,det:num det:num coord pro:indef .,ESP ESP ESP ESP,0
+294,yeah that's a lot of money .,co pro:dem det n prep n .,ESP ESP ESP ESP ESP ESP,0
+295,no .,adv .,ESP,0
+296,pero .,conj .,ESP,0
+297,it happens .,pro v .,ESP ESP,0
+298,so vamos a ver qué pasa con el market .,L2 v aprep inf pro:int v prep det:art L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ENG,1
+299,I hope things change .,pro:sub v n n .,ESP ESP ESP ESP,0
+300,no pero supuestamente este van a hacer algunos correctivos .,adv conj adv:adj imp v aprep inf det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+301,aparte de los que ya hicieron .,adv prep det:art pro:rel adv v .,ESP ESP ESP ESP ESP ESP,0
+302,están promoviendo una ley para ayudar a toda la gente porque es demasiado la gente que se va a poner en foreclosure .,aux ger det:art n prep inf aprep det:indef det:art n conj cop adj det:art n pro:rel pro:refl v aprep inf prep L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+303,solamente en la ciudad de Miramar hay mil hasta el mes pasado mil novecientas casas ya en foreclosure .,adv prep det:art n prep n:prop v n prep det:art n part det:num det:num v adv prep L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+304,before foreclosure pero ya .,L2 L2 conj adv .,ENG ENG ESP ESP,1
+305,sí .,co .,ESP,0
+306,ya al momento al instante ya .,adv aprep n aprep n adv .,ESP ESP ESP ESP ESP ESP,0
+307,no pero las estadísticas son peores para este año .,adv conj det:art n cop adj prep imp n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+308,la cantidad es estratosférica .,det:art n cop adj .,ESP ESP ESP ESP,0
+309,eso va a hacer .,pro:dem v aprep inf .,ESP ESP ESP ESP,0
+310,y eso ya va a hacer hasta el año .,coord pro:dem adv v aprep inf prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+311,pienso yo hasta el dos mil nueve .,v pro:sub prep det:art det:num det:num det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+312,es que estamos en época de elecciones .,cop pro:rel cop prep n prep n .,ESP ESP ESP ESP ESP ESP ESP,0
+313,en época de elecciones para cualquier país tomar alguna decisión o tomar algún buen rumbo no es difícil .,prep n prep n prep pro:indef n inf det:indef n coord inf det:indef adj n adv cop adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+314,hasta que no se sepa quién va a ser la cabeza que se sienta en enero .,prep pro:rel adv pro:refl v pro:int v aprep inf det:art n pro:rel pro:refl v prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+315,mhm .,co .,ESP,0
+316,hasta que más o menos no coja las riendas estamos hablando de junio del dos mil nueve .,prep pro:rel adv coord adv adv v det:art n aux ger prep n prep det:num det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+317,hasta ver qué pasa .,prep inf pro:int v .,ESP ESP ESP ESP,0
+318,definitivamente .,adv:adj .,ESP,0
+319,y yo creo que si se ponen como están las cosas McClain o no creo que Barack Obama gane .,coord pro:sub v pro:rel conj pro:refl v adv aux pro:obj v n:prop coord adv v pro:rel n:prop n:prop v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+320,me parece imposible que gane .,pro:obj v adj pro:rel v .,ESP ESP ESP ESP ESP,0
+321,pero yo //.,conj pro:sub +//.,ESP ESP,0
+322,tú fuiste la que mandaste el email que decía que él es terrorist .,pro:sub v det:art pro:rel v det:art L2 pro:rel v pro:rel pro:sub cop L2 .,ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ENG,1
+323,email .,n .,ESP,0
+324,musulmán musulmán .,adj adj .,ESP ESP,0
+325,cómo era la palabra que me dijiste ?,pro:int cop det:art n pro:rel pro:obj v ?,ESP ESP ESP ESP ESP ESP ESP,0
+326,ya se me olvidó vieja .,adv pro:refl pro:obj v adj .,ESP ESP ESP ESP ESP,0
+327,pero lo que sí te digo es que dicen no sé lo leí que cuando él hizo un juramento o algo porque él no estaba aquí estaba afuera él hizo un juramento en el Corán .,conj pro:obj pro:rel co pro:obj v cop pro:rel v adv v pro:obj v pro:rel conj pro:sub v det:art n coord pro:dem conj pro:sub adv cop adv cop adv pro:sub v det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+328,no lo hizo en la biblia .,adv pro:obj v prep det:art n .,ESP ESP ESP ESP ESP ESP,0
+329,y que el padre que era este no sé de qué parte de allá es lo dejó al año .,coord pro:rel det:art n pro:rel cop imp adv v prep pro:int v prep adv cop pro:obj v aprep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+330,y luego la mujer se casó con otro también .,coord adv det:art co:voc pro:refl v prep pro:indef adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+331,y él estuvo en universidades y estuvo en colegios de los extremistas .,coord pro:sub cop prep n coord cop prep n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+332,mhm .,co .,ESP,0
+333,él no estuvo en ninguna ni católica ni de aquí tampoco .,pro:sub adv cop prep det:indef coord adj coord prep adv adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+334,ninguna cristiana .,det:indef n .,ESP ESP,0
+335,y que realmente él tiene todo ese tipo de religión .,coord pro:rel adv:adj pro:sub v pro:indef det:dem n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+336,no sé pues la religión que se llama la de las que ellos usan los extremistas .,adv v conj det:art n pro:rel pro:refl n det:art prep det:art prep pro:sub v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+337,no la recuerdo bien .,adv pro:obj v adv .,ESP ESP ESP ESP,0
+338,pero él tiene muy poco .,conj pro:sub v adv adv .,ESP ESP ESP ESP ESP,0
+339,él es muy joven comparado a la experiencia de Hillary que tiene treinta y cinco años .,pro:sub cop adv adj part aprep det:art n prep n:prop pro:rel v det:num coord det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+340,la experiencia de McClain que tiene veinticinco .,det:art n prep n:prop pro:rel v det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+341,aunque es más viejo se piensa que debería tener más experiencia .,conj cop adv adj pro:refl v pro:rel v inf adv n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+342,Hillary la tiene más que él .,n:prop pro:obj v adv pro:rel pro:sub .,ESP ESP ESP ESP ESP ESP,0
+343,él lo que es político .,pro:sub pro:obj pro:rel cop adj .,ESP ESP ESP ESP ESP,0
+344,y Barack Obama este y Barack Obama es muy joven apenas creo que no llega ni a diez ni a quince años a veinte años .,coord n:prop n:prop imp coord n:prop n:prop cop adv adj adv v pro:rel adv v coord aprep det:num coord aprep det:num n aprep det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+345,sí .,co .,ESP,0
+346,y además lo que es su imagen internacional no tiene el carisma que tiene la Hillary Clinton a nivel internacional .,coord adv pro:obj pro:rel cop det:pos n adj adv v det:art n pro:rel v det:art n:prop n:prop aprep n adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+347,más sin embargo mucha gente la critica .,adv prep v det:indef n pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+348,y me da pena .,coord pro:obj v n .,ESP ESP ESP ESP,0
+349,el problema es que se critica porque es mujer .,det:art n cop pro:rel pro:refl v conj cop co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+350,y porque es mujer se considera que involucra las emociones .,coord conj cop co pro:refl v pro:rel v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+351,y para hacer un presidente no puedes involucrar las emociones .,coord prep inf det:art n adv v inf det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+352,debes ser pragmático .,v inf adj .,ESP ESP ESP,0
+353,y ese es el gran defecto de las mujeres .,coord det:dem cop det:art adj n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+354,pero considero también que si tú le pones unas pocos de emociones a las decisiones de las personas que han llegado a este país que en la mayoría perdón al mundo que han sido hombres creo que obtendríamos un mejor mundo que el que tenemos ahora .,conj v adv pro:rel conj pro:sub pro:ind v det:art det:indef prep v aprep det:art n prep det:art n pro:rel aux part aprep det:dem n pro:rel prep det:art n co aprep n pro:rel aux cop n v pro:rel v det:art adj n pro:rel none pro:rel v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+355,y para mí yo sí creo que este país merece una mujer como presidente .,coord prep pro:prep pro:sub co v pro:rel cop n v det:art co adv n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+356,yo sí creo .,pro:sub co v .,ESP ESP ESP,0
+357,y esta señora tiene las credenciales .,coord det:dem n v det:art n .,ESP ESP ESP ESP ESP ESP,0
+358,tiene todo .,v pro:indef .,ESP ESP,0
+359,lo malo de ella fue el llantito ese que hizo al principio de las elecciones que fue lo que prácticamente pues la desdibujó un poco en el aplomo que usó cuando pasó lo del marido con la Mónica .,pro:obj adj prep pro:sub v det:art n det:dem pro:rel v aprep n prep det:art n prep v pro:obj prep adv:adj co det:art v det:art adv prep det:art n pro:rel v pro:rel v pro:obj prep n prep det:art n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+360,mhm .,co .,ESP,0
+361,eso fue lo que la empezó como quien dice a desbaratar .,pro:dem cop pro:obj pro:rel pro:obj v adv pro:rel v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+362,y aparte pues el a Omaba también lo molestó en parte lo de su inexperiencia en lo que más le han dado más fuerte .,coord adv co det:art aprep n:prop adv pro:obj v prep n pro:obj prep det:pos n prep pro:obj pro:rel adv pro:ind aux part adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+363,go ahead .,v adv .,ESP ESP,0
+364,ay sí .,co co .,ESP ESP,0
+365,ya .,adv .,ESP,0
+366,vamos a ver qué pasa con las elecciones porque de todas maneras por último lo que más da pena es el futuro de los niños .,v aprep inf pro:int v prep det:art n conj prep det:indef n prep adj pro:obj pro:rel adv v n cop det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+367,que últimamente ya uno viejo como sea pues ...,pro:rel adv:adj adv pro:dem adj pro:rel cop co +...,ESP ESP ESP ESP ESP ESP ESP ESP,0
+368,yeah .,co .,ESP,0
+369,ya la vida está hecha .,adv det:art n cop v .,ESP ESP ESP ESP ESP,0
+370,pero vamos a ver qué pasa .,conj v aprep inf pro:int v .,ESP ESP ESP ESP ESP ESP,0
+371,oye .,co .,ESP,0
+372,tell me .,v pro:obj .,ESP ESP,0
+373,tú que pasas metida in the internet all day .,pro:sub pro:rel v adj L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+374,oh yeah yeah .,co co co .,ESP ESP ESP,0
+375,I'm looking for something con las tres bees bueno bonito y barato .,n:prop:L2 L2 L2 L2 prep det:art det:num L2 co co:voc coord adj .,ESP ENG ENG ENG ESP ESP ESP ENG ESP ESP ESP ESP,1
+376,in what category ?,prep pro:wh n ?,ESP ESP ESP,0
+377,which one ?,rel pro:indef ?,ESP ESP,0
+378,vacation .,n .,ESP,0
+379,I wanna go to the Caribbean or ...,n:prop:L2 L2 L2 L2 L2 n:prop:L2 L2 +...,ESP ENG ENG ENG ENG ESP ENG,1
+380,but how plane ?,conj adv n ?,ESP ESP ESP,0
+381,whatever is a good deal .,pro:wh cop det adj n .,ESP ESP ESP ESP ESP,0
+382,all four of us it's the first time that we're all going on vacation //.,adv det:num prep pro:obj pro det n n rel pro:sub post part prep n +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+383,well not the first time .,co neg det n n .,ESP ESP ESP ESP ESP,0
+384,no you are always on vacation with the kids please tell me .,co pro cop adv prep n prep det n co v pro:obj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+385,no no but I wanna take them to the Caribbean because Mariela is always telling me .,L2 L2 L2 n:prop:L2 L2 L2 L2 L2 L2 n:prop:L2 L2 n:prop L2 L2 L2 L2 .,ENG ENG ENG ESP ENG ENG ENG ENG ENG ESP ENG ESP ENG ENG ENG ENG,1
+386,she has this girl in school that is her same age .,pro:sub v det n prep n rel cop pro:poss:det adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+387,ajá .,co .,ESP,0
+388,mhm .,co .,ESP,0
+389,"and she tells me that ""/.","conj pro:sub v pro:obj rel +""/.",ESP ESP ESP ESP ESP,0
+390,oh my friend Aby that she she tells me that she's been on a cruise .,L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+391,and I can't wait to go on a cruise .,conj pro:sub mod v inf v prep det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+392,and I always wanted to be in a cruise .,conj pro:sub adv v inf cop prep det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+393,and I can't wait to go on a cruise .,conj pro:sub mod v inf v prep det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+394,wait wait wait wait back time you don't go went with the babies before ?,co co co co adj n pro mod v v prep det n adv ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+395,on the cruise no not on the cruise .,L2 L2 L2 adv L2 L2 L2 L2 .,ENG ENG ENG ESP ENG ENG ENG ENG,1
+396,you left the baby here .,pro v det n adv .,ESP ESP ESP ESP ESP,0
+397,yeah .,co .,ESP,0
+398,oh .,co .,ESP,0
+399,no last year we went to New_York and I took them .,qn adj n pro:sub v prep n:prop coord pro:sub v pro:obj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+400,Nueva_York yeah we went together .,n:prop L2 L2 L2 L2 .,ESP ENG ENG ENG ENG,1
+401,yeah no but went I've been going to the Caribbean .,co co conj v pro:sub aux part prep det n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+402,and into Las_Vegas I went only with Alberto .,L2 L2 n:prop:L2 n:prop:L2 L2 L2 L2 n:prop .,ENG ENG ESP ESP ENG ENG ENG ESP,1
+403,so I wanna take them this year .,conj pro:sub v v pro:obj det n .,ESP ESP ESP ESP ESP ESP ESP,0
+404,I was also waiting for the baby to be older .,pro:sub cop adv part prep det n inf cop adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+405,yeah that's the best time for him .,co pro:dem det adj n prep pro:obj .,ESP ESP ESP ESP ESP ESP ESP,0
+406,which makes it easier for all of us .,rel v pro adj conj adv prep pro:obj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+407,even though I don't think he's ready yet .,adv adv pro:sub mod v pro:sub v adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+408,but I'm gonna take him now .,conj pro:sub part v pro:obj adv .,ESP ESP ESP ESP ESP ESP,0
+409,you have to be watching him .,pro v inf aux part pro:obj .,ESP ESP ESP ESP ESP ESP,0
+410,he can jumping easily .,pro:sub mod part adv .,ESP ESP ESP ESP,0
+411,yeah I know that's why I was thinking maybe like another .,co pro:sub v pro:dem adv:wh pro:sub aux part adv prep qn .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+412,you know my brother's working in the Caribbean .,pro v pro:poss:det n part prep det n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+413,yeah he's working in the Caribbean .,co pro:sub part prep det n:prop .,ESP ESP ESP ESP ESP ESP,0
+414,he flies like every three weeks .,pro:sub v prep qn det:num n .,ESP ESP ESP ESP ESP ESP,0
+415,he goes to Costa_Rica .,L2 L2 L2 n:prop .,ENG ENG ENG ESP,1
+416,or he goes to Mexico because he's you know he's a mortgage broker .,L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+417,ajá .,co .,ESP,0
+418,what he's doing is he's doing loans but in the Caribbean .,pro:wh pro:sub n:gerund cop pro:sub part n conj prep det n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+419,okay .,co .,ESP,0
+420,these properties are like one million and up .,det n cop prep det:num det:num coord prep .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+421,pero son propiedades un sueño .,conj cop n det:art v .,ESP ESP ESP ESP ESP,0
+422,so when he stays there I can easily go .,co conj pro:sub v adv pro:sub mod adv v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+423,yeah .,co .,ESP,0
+424,so I have to pay just the airfare .,co pro:sub v inf v adv det n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+425,but why you don't try with Spirit .,L2 L2 L2 L2 L2 L2 n:prop .,ENG ENG ENG ENG ENG ENG ESP,1
+426,they have good deals pero /.,L2 L2 L2 L2 conj +/.,ENG ENG ENG ENG ESP,1
+427,eighteen thirty four .,det:num det:num det:num .,ESP ESP ESP,0
+428,they have even nine dollars .,pro:sub v adv det:num n .,ESP ESP ESP ESP ESP,0
+429,but they catch you on the taxes .,conj pro:sub v pro prep det n .,ESP ESP ESP ESP ESP ESP ESP,0
+430,or they catch you on the way back .,conj pro:sub v pro prep det n adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+431,like they give you an eight dollar ticket to go there .,rel pro:sub v pro det det:num n n inf v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+432,and then ?,conj adv:tem ?,ESP ESP,0
+433,pero con los impuestos and then the ticket coming back //.,conj prep det:art n L2 L2 L2 L2 L2 L2 +//.,ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+434,lets just say that the going tickets is eight dollars .,v adv v rel det part v cop det:num n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+435,and then the return is like a hundred and twenty plus two fifty in the taxes .,conj adv:tem det n aux co det det:num coord det:num adv det:num det:num prep det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+436,ya son three hundred dollars .,adv cop L2 L2 L2 .,ESP ESP ENG ENG ENG,1
+437,three hundred and something .,det:num det:num coord pro:indef .,ESP ESP ESP ESP,0
+438,times four .,v det:num .,ESP ESP,0
+439,no that's twelve hundred .,co pro:dem det:num det:num .,ESP ESP ESP ESP,0
+440,that's too much .,pro:dem adv qn .,ESP ESP ESP,0
+441,that's what I'm saying .,pro:dem pro:wh pro:sub part .,ESP ESP ESP ESP,0
+442,since you're always on the internet if you see something you know reasonable .,conj pro adv prep det n conj pro v pro:indef pro v adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+443,you know what ?,pro v pro:wh ?,ESP ESP ESP,0
+444,I know June to November on the hurricane season easily you can find less than two hundreds and fifty .,pro:sub v n:prop prep n:prop prep det n n adv pro mod v adj prep det:num det:num coord det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+445,not really because it's on vacation time .,neg adv conj pro adv n n .,ESP ESP ESP ESP ESP ESP ESP,0
+446,it's peak time .,pro n n .,ESP ESP ESP,0
+447,it's summer time .,pro n n .,ESP ESP ESP,0
+448,no but the problem is you have to buy six months before .,co conj det n aux pro v prep n det:num n adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+449,and then you gonna catch the good deal .,conj adv:tem pro part v det adj n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+450,I've been looking for something .,pro:sub aux part prep pro:indef .,ESP ESP ESP ESP ESP,0
+451,because that's what //.,conj pro:dem pro:wh +//.,ESP ESP ESP,0
+452,for a while .,conj det n .,ESP ESP ESP,0
+453,a with María we're talking about when there are coming next year .,L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+454,we're gonna go to a cruise .,pro:sub part v prep det n .,ESP ESP ESP ESP ESP ESP,0
+455,and we're gonna try to buy it maybe on June or July .,conj pro:sub part v inf v pro adv prep n:prop coord n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+456,and we're suppose to go on when they come in February two thousand nine with ...,conj pro:sub v inf v adv conj pro:sub v prep n:prop det:num det:num det:num prep +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+457,I wish with my aunty .,pro:sub v prep pro:poss:det adj .,ESP ESP ESP ESP ESP,0
+458,but you know her .,conj pro v pro:obj .,ESP ESP ESP ESP,0
+459,she is very scared with the cruise .,pro:sub aux adv v prep det n .,ESP ESP ESP ESP ESP ESP ESP,0
+460,really ?,adv ?,ESP,0
+461,yeah .,co .,ESP,0
+462,why ?,adv:wh ?,ESP,0
+463,.,None,,0
+464,she don't like it .,pro:sub mod v pro .,ESP ESP ESP ESP,0
+465,she doesn't like it .,pro:sub mod v pro .,ESP ESP ESP ESP,0
+466,I heard your mommy is coming next week .,pro:sub v pro:poss:det n aux part adj n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+467,yeah on Monday .,co prep n:prop .,ESP ESP ESP,0
+468,I'm gonna go with her to the home speed way .,pro:sub part v prep pro:obj prep det n n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+469,.,None,,0
+470,a Homestead ?,aprep n:prop ?,ESP ESP,0
+471,Homestead_Speedway it's a racing ...,n:prop L2 L2 L2 +...,ESP ENG ENG ENG,1
+472,ay no le va a dar dolor de cabeza .,co adv pro:ind v aprep inf n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+473,no no because we're going to the VIP .,adv adv L2 L2 L2 L2 L2 n:prop .,ESP ESP ENG ENG ENG ENG ENG ESP,1
+474,why you're gonna take her there ?,adv:wh pro part v pro:obj adv ?,ESP ESP ESP ESP ESP ESP,0
+475,it's for the company .,pro prep det n .,ESP ESP ESP ESP,0
+476,.,None,,0
+477,the insurance company we have a big party there .,det n n pro:sub v det adj n adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+478,and we're gonna met everyone there .,conj pro:sub part v pro:indef adv .,ESP ESP ESP ESP ESP ESP,0
+479,I've been //.,pro:sub cop +//.,ESP ESP,0
+480,I've I've been there cuando Alberto trabajaba en Coca_Cola //.,n:prop:L2 n:prop:L2 L2 L2 conj n:prop v prep n:prop +//.,ESP ESP ENG ENG ESP ESP ESP ESP ESP,1
+481,no te he contado .,adv pro:obj aux part .,ESP ESP ESP ESP,0
+482,yeah what ?,co pro:wh ?,ESP ESP,0
+483,Carlos got a new job .,n:prop v det adj n .,ESP ESP ESP ESP ESP,0
+484,ya me dijo mi tía .,adv pro:obj v det:pos n .,ESP ESP ESP ESP ESP,0
+485,sí .,co .,ESP,0
+486,Telemundo .,n:prop .,ESP,0
+487,what are he's gonna do there ?,pro:wh aux pro:sub part v adv ?,ESP ESP ESP ESP ESP ESP,0
+488,.,None,,0
+489,it's good for him ?,pro adj prep pro:obj ?,ESP ESP ESP ESP,0
+490,bueno .,co .,ESP,0
+491,Telemundo ?,n:prop ?,ESP,0
+492,bueno no .,co adv .,ESP ESP,0
+493,él va a ser empleado de General_Electric .,pro:sub v aprep inf n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+494,oh .,co .,ESP,0
+495,he is gonna be an employee for General_Electric .,L2 L2 L2 L2 L2 L2 L2 n:prop .,ENG ENG ENG ENG ENG ENG ENG ESP,1
+496,but he's gonna be working for Msnbc .,L2 L2 L2 L2 L2 L2 n:prop .,ENG ENG ENG ENG ENG ENG ESP,1
+497,oh that is a big name .,co pro:dem cop det adj n .,ESP ESP ESP ESP ESP ESP,0
+498,yeah .,co .,ESP,0
+499,I like that .,pro:sub v pro:dem .,ESP ESP ESP,0
+500,so he is a General_Electric employee .,co pro:sub cop det n:prop n .,ESP ESP ESP ESP ESP ESP,0
+501,Telemundo .,n:prop .,ESP,0
+502,pero he is gonna be working for MSNBC Telemundo .,conj L2 L2 L2 L2 L2 L2 n:prop n:prop .,ESP ENG ENG ENG ENG ENG ENG ESP ESP,1
+503,ah he like that .,co L2 L2 L2 .,ESP ENG ENG ENG,1
+504,of course .,prep n .,ESP ESP,0
+505,.,None,,0
+506,of course .,prep n .,ESP ESP,0
+507,.,None,,0
+508,he's very happy .,pro:sub adv adj .,ESP ESP ESP,0
+509,no te digo .,adv pro:obj v .,ESP ESP ESP,0
+510,it's a good base salary .,pro det adj n n .,ESP ESP ESP ESP ESP,0
+511,and you know they give them up to twenty thousands dollars in bonus which is not bad .,conj pro v pro:sub v pro:obj adv prep det:num det:num n prep n rel cop neg adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+512,pero tiene sus pros y sus cons .,conj v co L2 coord co L2 .,ESP ESP ESP ENG ESP ESP ENG,1
+513,which one is the problem .,rel pro:indef cop det n .,ESP ESP ESP ESP ESP,0
+514,the problem is that they don't give him a car .,det n cop rel pro:sub mod v pro:obj det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+515,so he needs to get another car .,conj pro:sub v inf v qn n .,ESP ESP ESP ESP ESP ESP ESP,0
+516,yeah but he more income right ?,co conj pro:sub adv n n ?,ESP ESP ESP ESP ESP ESP,0
+517,yeah more income .,co adv n .,ESP ESP ESP,0
+518,but at the same time it's an extra expense that we have never had never .,conj prep det adj n pro det n n rel pro:sub aux adv v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+519,it's like having //.,pro prep n:gerund +//.,ESP ESP ESP,0
+520,the way I see it it's like .,det n pro:sub v pro pro rel .,ESP ESP ESP ESP ESP ESP ESP,0
+521,oh my god they just throw us a baby in the house are you gonna take care of diapers formula because it's a insurance gas maintenance .,co pro:poss:det n pro:sub adv v pro:obj det n prep det n cop pro part v n prep n n conj pro det n n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+522,everything .,pro:indef .,ESP,0
+523,eso es lo que me tiene medio ...,pro:dem cop pro:obj pro:rel pro:obj v adj +...,ESP ESP ESP ESP ESP ESP ESP,0
+524,pero cuál están en comprar .,conj pro:int cop prep inf .,ESP ESP ESP ESP ESP,0
+525,no ahorita la verdad es no sabes que ...,adv adv det:art co cop adv v pro:rel +...,ESP ESP ESP ESP ESP ESP ESP ESP,0
+526,el problema es que /.,det:art n cop pro:rel +/.,ESP ESP ESP ESP,0
+527,no lo quiero ni pensar .,adv pro:obj v coord inf .,ESP ESP ESP ESP ESP,0
+528,pero el problema es el tipo de trabajo que tiene .,conj det:art n cop det:art n imp v pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+529,no puede manejar cualquier carrito mamita .,adv v inf pro:indef n n .,ESP ESP ESP ESP ESP ESP,0
+530,tampoco no lo va poder manejar un Mercedes ni un carro tampoco de lujo .,adv adv pro:obj v inf inf det:art n:prop coord det:art n adv prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+531,ya pero imagen es imagen .,adv conj n cop n .,ESP ESP ESP ESP ESP,0
+532,no matter what .,qn n pro:wh .,ESP ESP ESP,0
+533,so vamos a ver .,L2 v aprep inf .,ENG ESP ESP ESP,1
+534,en eso estamos .,prep pro:dem cop .,ESP ESP ESP,0
+535,así que si escuchas de algún good deal because en el dealer donde él está hay carros .,adv pro:rel conj v prep det:indef L2 L2 L2 prep det:art L2 pro:rel pro:sub cop v n .,ESP ESP ESP ESP ESP ESP ENG ENG ENG ESP ESP ENG ESP ESP ESP ESP ESP,1
+536,so un Lexus o el equivalente .,L2 det:art n:prop coord det:art adj .,ENG ESP ESP ESP ESP ESP,1
+537,yo tengo una amiguita que es dueña de un dealer .,pro:sub v det:art n pro:rel cop n prep det:art L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+538,si quieres ir a verla .,conj v inf aprep inf .,ESP ESP ESP ESP ESP,0
+539,es amiga mía .,cop n pro:pos .,ESP ESP ESP,0
+540,la dueña dueña .,det:art n n .,ESP ESP ESP,0
+541,es un dealer grande .,cop det:art L2 adj .,ESP ESP ENG ESP,1
+542,tiene three warehouse .,v L2 L2 .,ESP ENG ENG,1
+543,en here close here .,prep L2 L2 L2 .,ESP ENG ENG ENG,1
+544,sí ?,co ?,ESP,0
+545,sí si quieres la puedes ir a visitar .,co conj v pro:obj v inf aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+546,where ?,adv:wh ?,ESP,0
+547,está en ahí en .,cop prep adv prep .,ESP ESP ESP ESP,0
+548,pero qué pasó con el marido de la Ana ?,conj pro:int v prep det:art n prep det:art n:prop ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+549,está en Infinity ?,cop prep n:prop ?,ESP ESP ESP,0
+550,y por qué no intentas ?,coord prep pro:int adv v ?,ESP ESP ESP ESP ESP,0
+551,Infinity ?,n:prop ?,ESP,0
+552,no pero acuérdate que ella se compró un Mazda allá .,adv conj imp pro:rel pro:sub pro:refl v det:art n:prop adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+553,es para él .,cop prep pro:sub .,ESP ESP ESP,0
+554,she make a good deal .,pro:sub v det adj n .,ESP ESP ESP ESP ESP,0
+555,to that effect que se compre mejor un Lexus donde él está pues .,L2 L2 L2 pro:rel pro:refl v adj det:art n:prop pro:rel pro:sub cop co .,ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+556,ya pareces cubana chica .,adv v adj n .,ESP ESP ESP ESP,0
+557,so .,co .,ESP,0
+558,money money money .,n n n .,ESP ESP ESP,0
+559,it's either money or credit and ...,pro adv n coord n coord +...,ESP ESP ESP ESP ESP ESP,0
+560,no pero //.,adv conj +//.,ESP ESP,0
+561,the credit is not all that .,det n aux neg qn pro:dem .,ESP ESP ESP ESP ESP ESP,0
+562,pero why don't they give it to him a car ?,conj L2 L2 L2 L2 L2 L2 L2 L2 L2 ?,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+563,because they offering him a big salary .,conj pro:sub part pro:obj det adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+564,and he decide to go with the money and no with the car .,conj pro:sub v inf v prep det n coord qn prep det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+565,of course .,prep n .,ESP ESP,0
+566,sometimes you gotta give up certain things .,adv pro mod:aux v prep adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+567,yeah I know .,co pro:sub v .,ESP ESP ESP,0
+568,yeah but that's .,co conj pro:dem .,ESP ESP ESP,0
+569,like all the jobs that he's had they's always giving him like you know company car .,prep qn det n rel pro:sub part pro:sub adv part pro:obj prep pro v n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+570,but now they're not giving him a car but they're giving him a good salary .,conj adv pro:sub neg part pro:obj det n conj pro:sub part pro:obj det adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+571,so we'll see what happens .,co pro:sub v pro:wh v .,ESP ESP ESP ESP ESP,0
+572,but if you hear something good too you let me know .,conj conj pro v pro:indef adj adv pro v pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+573,but I whish one you wanna find it ?,conj pro:sub co pro:indef pro v v pro ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+574,eso es lo que quiero saber .,pro:dem cop pro:obj pro:rel v inf .,ESP ESP ESP ESP ESP ESP,0
+575,qué quieres buscar ?,pro:int v inf ?,ESP ESP ESP,0
+576,whatever you know just let me know .,pro:wh pro v adv v pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+577,whatever you hear .,pro:wh pro v .,ESP ESP ESP,0
+578,whatever //.,pro:wh +//.,ESP,0
+579,oh speaking about that Victor no se puede hacer nada .,co L2 L2 L2 n:prop:L2 adv pro:refl v inf pro:indef .,ESP ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+580,no ?,adv ?,ESP,0
+581,I've got a this week .,pro:sub part det det n .,ESP ESP ESP ESP ESP,0
+582,it's impossible .,pro adj .,ESP ESP,0
+583,pobre muchacho .,adj n .,ESP ESP,0
+584,because they're gonna ask at the time their closing they need to see the original driver's license .,conj pro:sub part v prep det n pro:poss:det part pro:sub v inf v det adj n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+585,ya .,adv .,ESP,0
+586,me lo dijeron .,pro:obj pro:obj v .,ESP ESP ESP,0
+587,me lo dijo un cliente que fue a la oficina .,pro:obj pro:obj v det:art n pro:rel v aprep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+588,y le pregunté el caso no ?,coord pro:ind v det:art v adv ?,ESP ESP ESP ESP ESP ESP,0
+589,"entonces le dije ""/.","adv pro:ind v +""/.",ESP ESP ESP,0
+590,mira tengo este caso .,co v det:dem v .,ESP ESP ESP ESP,0
+591,"y me dice ""/.","coord pro:obj v +""/.",ESP ESP ESP,0
+592,flaca la copia no le va a servir .,adj pro:obj v adv pro:ind v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+593,al momento del cierre .,aprep n prep v .,ESP ESP ESP ESP,0
+594,necesita al momento del cierre .,v aprep n prep v .,ESP ESP ESP ESP ESP,0
+595,he's suppose to go there .,pro:sub v inf v adv .,ESP ESP ESP ESP ESP,0
+596,not only that because I can send a to his house .,neg adv adv conj pro:sub mod v det prep pro:poss:det n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+597,that's not the problem .,pro:dem neg det n .,ESP ESP ESP ESP,0
+598,the problem is that the person who is closing needs to see the i_d .,det n cop rel det n rel aux part v inf v det n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+599,ya .,adv .,ESP,0
+600,ya .,adv .,ESP,0
+601,está jodido el tipo pobrecito .,aux part det:art n adj .,ESP ESP ESP ESP ESP,0
+602,he's a very good guy .,pro:sub det adv adj n .,ESP ESP ESP ESP ESP,0
+603,it's a very good /.,pro det adv adj +/.,ESP ESP ESP ESP,0
+604,I know .,pro:sub v .,ESP ESP,0
+605,I feel bad for him .,pro:sub v adj prep pro:obj .,ESP ESP ESP ESP ESP,0
+606,but unfortunately I can //.,conj un#adv pro:sub mod +//.,ESP ESP ESP ESP,0
+607,I tried mira que yo he tratado .,n:prop:L2 L2 co pro:rel pro:sub aux part .,ESP ENG ESP ESP ESP ESP ESP,1
+608,I tried .,pro:sub v .,ESP ESP,0
+609,pero bueno no se puede no se puede .,conj co adv pro:refl v adv pro:refl v .,ESP ESP ESP ESP ESP ESP ESP ESP,0

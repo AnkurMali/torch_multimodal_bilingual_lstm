@@ -1,0 +1,1003 @@
+,sentence,pos,language,switch
+0,so where do you work ?,adv pro:int mod pro:per v ?,ENG ENG ENG ENG ENG,0
+1,I work well I'm currently employed by //.,pro:sub v adv pro:sub adv part adv +//.,ENG ENG ENG ENG ENG ENG ENG,0
+2,I have my broker .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+3,he's a real estate broker .,pro:sub det:art adj n n .,ENG ENG ENG ENG ENG,0
+4,my attorney he's a real estate attorney .,det:poss n pro:sub det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG,0
+5,mhm .,co .,ENG,0
+6,I work for a title company .,pro:sub v prep det:art n n .,ENG ENG ENG ENG ENG ENG,0
+7,I work because //.,pro:sub n conj +//.,ENG ENG ENG,0
+8,my attorney consolidated with the broker .,det:poss n v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+9,he owns both businesses .,pro:sub v qn n .,ENG ENG ENG ENG,0
+10,but like his business partner he's the broker .,conj prep det:poss n n pro:sub det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+11,and his business has been so bad they consolidated .,coord det:poss n aux aux adv adj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+12,so now I work /.,co adv pro:sub v +/.,ENG ENG ENG ENG,0
+13,oh I see .,co pro:sub v .,ENG ENG ENG,0
+14,for both of them together simultaneously .,prep qn prep pro:obj adv adv .,ENG ENG ENG ENG ENG ENG,0
+15,they just pay me you know four hours one pays me the other one pays me four hours a day like that .,pro:sub adv n pro:obj pro:per v det:num n det:num v pro:obj det:art qn pro:indef v pro:obj det:num n det:art n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+16,mhm oh okay .,co co co .,ENG ENG ENG,0
+17,but I ...,conj pro:sub +...,ENG ENG,0
+18,and what do you do like receptionist or ...,coord pro:int mod pro:per v co n coord +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+19,I'm like the office bitch .,pro:sub prep det:art n n .,ENG ENG ENG ENG ENG,0
+20,people can say .,n mod v .,ENG ENG ENG,0
+21,.,None,,0
+22,pardon my French .,co co n:prop .,ENG ENG ENG,0
+23,no it's all right .,co pro:per adv co .,ENG ENG ENG ENG,0
+24,but I do everything .,conj pro:sub v pro:indef .,ENG ENG ENG ENG,0
+25,I answer phones .,pro:sub n n .,ENG ENG ENG,0
+26,I get the mail .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+27,I order supplies .,pro:sub n n .,ENG ENG ENG,0
+28,I babysit the realtors because half of them don't know what they're doing .,pro:sub v det:art n conj n prep pro:obj mod v pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+29,they don't know any of the forms .,pro:sub mod v qn prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+30,they don't know anything .,pro:sub mod v pro:indef .,ENG ENG ENG ENG,0
+31,mhm .,co .,ENG,0
+32,so I'm a administrative assistant .,adv pro:sub det:art adj n .,ENG ENG ENG ENG ENG,0
+33,I'm a receptionist .,pro:sub det:art n .,ENG ENG ENG,0
+34,okay .,co .,ENG,0
+35,okay .,co .,ENG,0
+36,I'm a post closer .,pro:sub det:art n adj .,ENG ENG ENG ENG,0
+37,wow .,co .,ENG,0
+38,I am the head of the post closing department .,pro:sub aux det:art n prep det:art n part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+39,I deal with everything that has to do ...,pro:sub v prep pro:indef pro:rel v inf v +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+40,once a deal closes like when you buy a house .,adv det:art n v conj conj pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+41,mhm .,co .,ENG,0
+42,you would go to a title company to do your closing .,pro:per mod v prep det:art n n inf v det:poss part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+43,right .,co .,ENG,0
+44,to sign all the paperwork .,inf v qn det:art n .,ENG ENG ENG ENG ENG,0
+45,after that I do the package .,prep adv pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG,0
+46,I send it to the bank .,pro:sub v pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+47,I deal with you know funding conditions .,pro:sub v prep pro:per v part n .,ENG ENG ENG ENG ENG ENG ENG,0
+48,then I'm the one who prepares the policy .,adv:tem pro:sub det:art pro:indef pro:rel v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+49,I do recordings .,pro:sub v n:gerund .,ENG ENG ENG,0
+50,you know I send the stuff to be recorded to the court .,pro:per v pro:sub v det:art n inf aux part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+51,you do a lot .,pro:per v det:art n .,ENG ENG ENG ENG,0
+52,yes .,co .,ENG,0
+53,I do a lot and /.,pro:sub v det:art n coord +/.,ENG ENG ENG ENG ENG,0
+54,and where is that at ?,coord pro:int cop pro:dem prep ?,ENG ENG ENG ENG ENG,0
+55,it's in Doral .,pro:per prep n:prop .,ENG ENG ENG,0
+56,oh okay .,co co .,ENG ENG,0
+57,but /.,conj +/.,ENG,0
+58,you live here in Miami right ?,pro:per v adv prep n:prop co ?,ENG ENG ENG ENG ENG ENG,0
+59,yeah .,co .,ENG,0
+60,where ?,pro:rel ?,ENG,0
+61,do you know where the Mall of the Americas is ?,mod pro:per v pro:int det:art n:prop prep det:art n:prop cop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+62,yeah .,co .,ENG,0
+63,and the Walmart ?,coord det:art n:prop ?,ENG ENG ENG,0
+64,well not specifically the Walmart but I know where the Mall of the Americas is .,co neg adv det:art n:prop conj pro:sub v pro:int det:art n:prop prep det:art n:prop cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+65,it's by there .,pro:per prep n .,ENG ENG ENG,0
+66,right by the Palmetto ?,adv prep det:art n:prop ?,ENG ENG ENG ENG,0
+67,yes .,co .,ENG,0
+68,okay .,co .,ENG,0
+69,you know where Chevys is ?,pro:per v pro:rel n:prop cop ?,ENG ENG ENG ENG ENG,0
+70,no ?,co ?,ENG,0
+71,no .,co .,ENG,0
+72,.,None,,0
+73,I've only lived here for like a year well a year as of December .,pro:sub adv part adv prep co det:art n n det:art n prep prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+74,right where are you from ?,adv pro:rel cop pro:per prep ?,ENG ENG ENG ENG ENG,0
+75,New_Jersey .,n:prop .,ENG,0
+76,right .,co .,ENG,0
+77,okay .,co .,ENG,0
+78,and do you live /.,coord v pro:per adj +/.,ENG ENG ENG ENG,0
+79,I live in Miami yeah .,pro:sub v prep n:prop co .,ENG ENG ENG ENG ENG,0
+80,but where ?,conj pro:rel ?,ENG ENG,0
+81,.,None,,0
+82,you have to tell me a place because ...,pro:per v inf v pro:obj det:art n conj +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+83,yeah .,co .,ENG,0
+84,.,None,,0
+85,you know how women are in directions .,pro:per v pro:rel n cop adv n .,ENG ENG ENG ENG ENG ENG ENG,0
+86,.,None,,0
+87,you have to give them a landmark .,pro:per v inf v pro:obj det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+88,yeah .,co .,ENG,0
+89,how about ...,pro:int adv +...,ENG ENG,0
+90,well it's off of Bird road .,co pro:per adv prep n:prop n .,ENG ENG ENG ENG ENG ENG,0
+91,I'm sure you know where Bird road is right ?,pro:sub adj pro:per v pro:rel n:prop n cop co ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+92,yes .,co .,ENG,0
+93,right .,co .,ENG,0
+94,can we use Bird Bowl ?,mod pro:sub v n:prop n:prop ?,ENG ENG ENG ENG ENG,0
+95,Bird what Mall .,n:prop pro:int n:prop .,ENG ENG ENG,0
+96,Bird Bowl .,n:prop n:prop .,ENG ENG,0
+97,Bird Bowl yeah yeah .,n:prop n:prop co co .,ENG ENG ENG ENG,0
+98,you've been to Bird_Bowl .,pro:per cop prep n:prop .,ENG ENG ENG ENG,0
+99,no I have seen it but /.,co pro:sub v part pro:per conj +/.,ENG ENG ENG ENG ENG ENG,0
+100,.,None,,0
+101,never been there .,adv cop adv .,ENG ENG ENG,0
+102,Bird_Bowl farther west .,n:prop adj n .,ENG ENG ENG,0
+103,.,None,,0
+104,way farther west like Bird_Bowl is around like ninetieth avenue .,adv adj n conj n:prop cop adv prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+105,ninety second .,det:num n .,ENG ENG,0
+106,yeah I'm around one fifty second .,co pro:sub prep det:num det:num n .,ENG ENG ENG ENG ENG ENG,0
+107,yeah .,co .,ENG,0
+108,.,None,,0
+109,see that's what I'm saying way west .,co pro:dem pro:int pro:sub part adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+110,okay .,co .,ENG,0
+111,I don't //.,pro:sub mod +//.,ENG ENG,0
+112,Lakes_of_the_Meadow you never heard of it ?,n:prop pro:per adv v prep pro:per ?,ENG ENG ENG ENG ENG ENG,0
+113,yes .,co .,ENG,0
+114,that's where I live Lakes_of_the_Meadow .,pro:dem pro:int pro:sub v n:prop .,ENG ENG ENG ENG ENG,0
+115,I've inputted //.,pro:sub part +//.,ENG ENG,0
+116,oh wait I haven't told you .,co v pro:sub aux part pro:per .,ENG ENG ENG ENG ENG ENG,0
+117,yeah .,co .,ENG,0
+118,job description .,n n .,ENG ENG,0
+119,.,None,,0
+120,what I told you is pretty much you know the receptionist the administrative assistant stuff is mostly for okay both companies do that .,pro:int pro:sub v pro:per cop adv adv pro:per v det:art n det:art adj n n cop adv prep co qn n v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+121,postclosers for the title company .,n prep det:art n n .,ENG ENG ENG ENG ENG,0
+122,I also process files like when they come in a new file you know request title .,pro:sub adv v n prep conj pro:sub v adv det:art adj n pro:per v n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+123,right .,co .,ENG,0
+124,okay then for the broker the realtors don't have to input their own listings I input them for them .,co adv:tem prep det:art n det:art n mod v inf v det:poss adj n:gerund pro:sub v pro:obj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+125,mhm .,co .,ENG,0
+126,oh I see .,co pro:sub v .,ENG ENG ENG,0
+127,so if a house is going up for sale you know they bring me the listing I input it into this MLS it's the system or whatever .,adv comp det:art n aux part adv prep n pro:per v pro:sub v pro:obj det:art n:gerund pro:sub v pro:per prep det:dem n:prop pro:per det:art n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+128,yeah yeah I know what you're doing now .,co co pro:sub v pro:int pro:per part adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+129,and .,coord .,ENG,0
+130,most of them don't know what they're doing .,qn prep pro:obj mod v pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+131,they don't know the forms .,pro:sub mod v det:art n .,ENG ENG ENG ENG ENG,0
+132,it's really bad .,pro:per adv adj .,ENG ENG ENG,0
+133,because I //.,conj pro:sub +//.,ENG ENG,0
+134,If you see I have so much to do that when they come to me and they tell me you know how to do their job it annoys me .,n:prop pro:per v pro:sub v adv qn inf v pro:dem conj pro:sub v prep pro:obj coord pro:sub v pro:obj pro:per v pro:int inf v det:poss n pro:per v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+135,because I don't have time to babysit them .,conj pro:sub mod v n inf v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+136,.,None,,0
+137,what happened ?,pro:int v ?,ENG ENG,0
+138,your Cuban comes out .,det:poss n:prop v adv .,ENG ENG ENG ENG,0
+139,yeah .,co .,ENG,0
+140,and then like if I have to go to the bank to do deposits .,coord adv:tem v conj pro:sub v inf v prep det:art n inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+141,yeah actually like last week I had interviewed back in November I had interviewed with an insurance company and this lady she emailed me out of nowhere last week and told me oh you know are you happy where you are because you know the girl that we hired back in November she has been promoted /.,co adv v adj n pro:sub v part adv prep n:prop pro:sub aux part prep det:art n n coord det:dem n pro:sub part pro:obj adv prep n adj n coord v pro:obj co pro:per v aux pro:per adj pro:rel pro:per cop conj pro:per v det:art n pro:rel pro:sub v adv prep n:prop pro:sub aux aux part +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+142,mhm .,co .,ENG,0
+143,are you you know interested in and I was like //.,cop pro:per pro:per v part adv coord pro:sub cop co +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+144,I wrote back to her I was like well I'm not really happy where I am and she goes ...,pro:sub v adv prep pro:obj pro:sub cop prep n pro:sub neg adv adj pro:rel pro:sub cop coord pro:sub v +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+145,oh no and she writes back to me and she is like oh we're interested you know eleven dollars an hour .,co co coord pro:sub v adv prep pro:obj coord pro:sub cop co co pro:sub part pro:per v det:num n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+146,I'm like oh really you know .,pro:sub co co adv pro:per v .,ENG ENG ENG ENG ENG ENG,0
+147,mhm .,co .,ENG,0
+148,and then maybe you make more than I do but whatever .,coord adv:tem adv pro:per v qn prep pro:sub v conj pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+149,is that's not it doesn't matter .,aux pro:dem neg pro:per mod v .,ENG ENG ENG ENG ENG ENG,0
+150,no .,co .,ENG,0
+151,I told my attorneys and the broker .,pro:sub v det:poss n coord det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+152,I sat them down and I'm like look this is what's going on .,pro:sub v pro:obj adv coord pro:sub co v pro:dem cop pro:int part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+153,and they are like oh you know thank you for letting me know .,coord pro:sub cop co co pro:per v v pro:per prep n:gerund pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+154,mhm .,co .,ENG,0
+155,but then they told me oh no you know we'll raise you starting next week you'll start at ten and then in two months we'll start you at eleven .,conj adv:tem pro:sub v pro:obj co co pro:per v pro:sub v pro:per part adv n pro:per v prep det:num coord adv:tem prep det:num n pro:sub v pro:per prep det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+156,yeah .,co .,ENG,0
+157,so it's good because I don't wanna leave where I am .,adv pro:per adj conj pro:sub mod v v pro:int pro:sub cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+158,I mean I've been there for two years .,pro:sub v pro:sub cop adv prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+159,that's not bad .,pro:dem neg adj .,ENG ENG ENG,0
+160,I know my job like the back of my hand .,pro:sub v det:poss n prep det:art n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+161,and then if I leave to the insurance company I'd be learning everything from scratch .,coord adv:tem conj pro:sub v prep det:art n n pro:sub aux n:gerund pro:indef prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+162,you'd have to start over yeah I know and you should stay .,pro:per v inf v adv co pro:sub v coord pro:per mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+163,I don't know the people so I don't know if their /.,pro:sub mod v det:art n conj pro:sub mod v comp det:poss +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+164,no you should stay .,co pro:per mod v .,ENG ENG ENG ENG,0
+165,the lady seems a little anal .,det:art n cop det:art adj adj .,ENG ENG ENG ENG ENG ENG,0
+166,yeah .,co .,ENG,0
+167,so .,co .,ENG,0
+168,what's your major by the way ?,pro:int det:poss n prep det:art n ?,ENG ENG ENG ENG ENG ENG,0
+169,my major /.,det:poss n +/.,ENG ENG,0
+170,mhm .,co .,ENG,0
+171,undecided .,un#part .,ENG,0
+172,why are you undecided ?,pro:int aux pro:per un#part ?,ENG ENG ENG ENG,0
+173,declared undecided but ...,part un#part conj +...,ENG ENG ENG,0
+174,okay .,co .,ENG,0
+175,I want to become an optometrist .,pro:sub v inf cop det:art n .,ENG ENG ENG ENG ENG ENG,0
+176,oh really ?,co adv ?,ENG ENG,0
+177,yeah .,co .,ENG,0
+178,maybe even an ophthalmologist if I go the nerve to go to med school .,adv v det:art n conj pro:sub v det:art n inf v prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+179,you can help me out because I have bad eyes .,pro:per mod v pro:obj adv conj pro:sub v adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+180,I have contacts .,pro:sub v n .,ENG ENG ENG,0
+181,me too .,pro:obj adv .,ENG ENG,0
+182,really ?,adv ?,ENG,0
+183,what's your prescription ?,pro:int det:poss n ?,ENG ENG ENG,0
+184,I think damn you know I don't .,pro:sub v v pro:per v pro:sub mod .,ENG ENG ENG ENG ENG ENG ENG,0
+185,oh wait oh no no no yeah negative three point two five in one negative three point five in the other .,co co co co co co co n det:num n det:num det:num prep det:num n det:num n det:num prep det:art qn .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+186,mhm .,co .,ENG,0
+187,you think you're bad hm !,pro:per v pro:per adj co !,ENG ENG ENG ENG ENG,0
+188,.,None,,0
+189,I have a negative six .,pro:sub v det:art n det:num .,ENG ENG ENG ENG ENG,0
+190,is it //.,aux pro:per +//.,ENG ENG,0
+191,oh my God really ?,co det:poss n:prop adv ?,ENG ENG ENG ENG,0
+192,point seventy five .,v det:num det:num .,ENG ENG ENG,0
+193,and then negative five point .,coord adv:tem n det:num n .,ENG ENG ENG ENG ENG,0
+194,no it's negative six point five and negative five seventy five .,co pro:per adj det:num n det:num coord adj det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+195,de verdad ?,prep co ?,ENG ENG,0
+196,so if you think you're blind you should have my eyes for a few days .,adv conj pro:per v pro:per adj pro:per mod v det:poss n prep det:art qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+197,so when you take your contacts out you can't see /.,co conj pro:per v det:poss n adv pro:per mod v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+198,I can't see crap .,pro:sub mod v n .,ENG ENG ENG ENG,0
+199,really ?,adv ?,ENG,0
+200,yeah I can't see anything .,co pro:sub mod v pro:indef .,ENG ENG ENG ENG ENG,0
+201,I thought I was the only one on that boat .,pro:sub v pro:sub cop det:art qn pro:indef prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+202,no because when I //.,co conj conj pro:sub +//.,ENG ENG ENG ENG,0
+203,I //.,pro:sub +//.,ENG,0
+204,well you know what I hate the most is //.,co pro:per v pro:int pro:sub v det:art qn cop +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+205,and I should get glasses //.,coord pro:sub mod v n +//.,ENG ENG ENG ENG ENG,0
+206,I had glasses .,pro:sub v n .,ENG ENG ENG,0
+207,I loose things so .,pro:sub v n adv .,ENG ENG ENG ENG,0
+208,.,None,,0
+209,but like when I'm watching t_v and it's getting late I just wanna fall asleep watching t_v .,conj prep pro:int pro:sub part n coord pro:per part adv pro:sub adv v v adv part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+210,so you don't wear .,co pro:per mod v .,ENG ENG ENG ENG,0
+211,but yeah I have to take them out you know .,conj co pro:sub v inf v pro:obj adv pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+212,yeah .,co .,ENG,0
+213,so that's what sucks you know .,co pro:dem pro:int n pro:per v .,ENG ENG ENG ENG ENG ENG,0
+214,yeah .,co .,ENG,0
+215,and I'm looking at .,coord pro:sub part prep .,ENG ENG ENG ENG,0
+216,well what sucks for me /.,co pro:int n prep pro:obj +/.,ENG ENG ENG ENG ENG,0
+217,squinting you know .,part pro:per v .,ENG ENG ENG,0
+218,when I get home I take off my not really before I go to bed I take off my contacts and obviously I have my glasses .,conj pro:sub v adv pro:sub v prep det:poss neg adv prep pro:sub v prep n pro:sub v prep det:poss n coord adv pro:sub v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+219,but I put them on and then if I take them off and I put them down somewhere forget it I lost them .,conj pro:sub v pro:obj adv coord adv:tem conj pro:sub v pro:obj adv coord pro:sub v pro:obj adv adv v pro:per pro:sub v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+220,mhm .,co .,ENG,0
+221,I can't see them .,pro:sub mod v pro:obj .,ENG ENG ENG ENG,0
+222,so I have to like feel around for them so /.,co pro:sub v inf v v adv prep pro:obj adv +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+223,oh okay .,co co .,ENG ENG,0
+224,so you can't see up close either .,co pro:per mod v adv adj adv .,ENG ENG ENG ENG ENG ENG ENG,0
+225,no I can't see far .,co pro:sub mod v adv .,ENG ENG ENG ENG ENG,0
+226,okay .,co .,ENG,0
+227,I mean you'd have to be like right here for me to see you .,pro:sub v pro:per v inf cop prep adv adv prep pro:obj inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+228,really ?,adv ?,ENG,0
+229,I have twenty twenty from like close like if I didn't have them on I can read fine you know .,pro:sub v det:num det:num prep co adj v conj pro:sub mod v pro:obj adv pro:sub mod v adj pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+230,oh no I can't .,co co pro:sub mod .,ENG ENG ENG ENG,0
+231,like I if you know I can read that .,conj pro:sub conj pro:per v pro:sub mod v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+232,oh no .,co co .,ENG ENG,0
+233,but you know if like if you were to say what does that say I would ...,conj pro:per v comp v conj pro:per cop inf v pro:int mod pro:dem v pro:sub mod +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+234,I like if I was ...,pro:sub v conj pro:sub cop +...,ENG ENG ENG ENG ENG,0
+235,no if I had to read this like I had to be like this close /.,co conj pro:sub v inf v pro:dem conj pro:sub v inf cop prep pro:dem adj +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+236,oh really ?,co adv ?,ENG ENG,0
+237,to be able to see it yeah it's really bad .,inf cop adj inf v pro:per co pro:per adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+238,oh okay .,co co .,ENG ENG,0
+239,oh right .,co co .,ENG ENG,0
+240,and I'm scared to do Lasik .,coord pro:sub part inf v n:prop .,ENG ENG ENG ENG ENG ENG,0
+241,yeah I was thinking about that .,co pro:sub aux part prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+242,what .,pro:int .,ENG,0
+243,they well they recommend you to wait till you're twenty five .,pro:sub adv pro:sub v pro:per inf v n pro:per det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+244,oh really ?,co adv ?,ENG ENG,0
+245,because it's when your vision kinda just balances out .,conj pro:per conj det:poss n adv adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+246,oh .,co .,ENG,0
+247,because at first they told me it was twenty one .,conj prep adj pro:sub v pro:obj pro:per cop det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+248,I didn't know that .,pro:sub mod v pro:dem .,ENG ENG ENG ENG,0
+249,but I'm twenty one and my vision keeps you know increasing and getting worse .,conj pro:sub det:num det:num coord det:poss n v pro:per v part coord part adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+250,yeah it it keeps getting worse yeah .,co pro:per pro:per v part adj co .,ENG ENG ENG ENG ENG ENG ENG,0
+251,and I'd say decreasing and then my doctor he's like oh wait till you're twenty five .,coord pro:sub v n:gerund coord adv:tem det:poss n pro:sub co co co n pro:per det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+252,and I'm scared because like if they do it and it doesn't come out right you can't go back to contacts .,coord pro:sub part conj v conj pro:sub v pro:per coord pro:per mod v adv adv pro:per mod v adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+253,yeah .,co .,ENG,0
+254,you have to do glasses .,pro:per v inf v n .,ENG ENG ENG ENG ENG,0
+255,so .,co .,ENG,0
+256,why can't you go to contacts because /.,pro:int mod pro:per v prep n conj +/.,ENG ENG ENG ENG ENG ENG ENG,0
+257,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+258,I guess it's something with /.,pro:sub v pro:per pro:indef prep +/.,ENG ENG ENG ENG ENG,0
+259,it's yeah something they do that /.,pro:per co pro:indef pro:sub v pro:dem +/.,ENG ENG ENG ENG ENG ENG,0
+260,because they cut you know they like cut the like retina off .,conj pro:sub v pro:per v pro:sub v v det:art co n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+261,if they laser it .,conj pro:sub n pro:per .,ENG ENG ENG ENG,0
+262,yeah but there's two different kinds of Lasik .,co conj pro:exist det:num adj n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+263,is there ?,cop adv ?,ENG ENG,0
+264,yeah there's Lasik and then there is another procedure .,co pro:exist n:prop coord adv:tem adv cop qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+265,I saw it on this show it's called Ten_Years_Younger .,pro:sub v pro:per prep det:dem n pro:per part n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+266,mhm mhm .,co co .,ENG ENG,0
+267,on TLC I think it's .,prep n:prop pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+268,yeah yeah .,co co .,ENG ENG,0
+269,and /.,coord +/.,ENG,0
+270,do you like TLC ?,mod pro:per v n:prop ?,ENG ENG ENG ENG,0
+271,the yes .,det:art co .,ENG ENG,0
+272,that's good I like TLC too .,pro:dem adj pro:sub v n:prop post .,ENG ENG ENG ENG ENG ENG,0
+273,and The_Discovery_Channel and all that .,coord n:prop coord qn pro:dem .,ENG ENG ENG ENG ENG,0
+274,yeah .,co .,ENG,0
+275,The_History_Channel more .,n:prop pro:indef .,ENG ENG,0
+276,I'm a t_v buff .,pro:sub det:art n adj .,ENG ENG ENG ENG,0
+277,yeah ?,co ?,ENG,0
+278,I have a lot of favorite shows .,pro:sub v det:art n prep n n .,ENG ENG ENG ENG ENG ENG ENG,0
+279,yeah like what ?,co prep pro:int ?,ENG ENG ENG,0
+280,like okay definitely Law_and_Order_S_V_U .,prep adj adv n:prop .,ENG ENG ENG ENG,0
+281,which show ?,pro:rel n ?,ENG ENG,0
+282,I like all the Law_and_Orders .,pro:sub v qn det:art n:prop .,ENG ENG ENG ENG ENG,0
+283,CSA CSI .,L2 n:prop .,ESP ENG,1
+284,CSI .,n:prop .,ENG,0
+285,I love New_York and Vegas .,pro:sub v n:prop coord n:prop .,ENG ENG ENG ENG ENG,0
+286,I .,pro:sub .,ENG,0
+287,when I got here /.,conj pro:sub v adv +/.,ENG ENG ENG ENG,0
+288,I don't like Miami .,pro:sub mod v n:prop .,ENG ENG ENG ENG,0
+289,no ?,co ?,ENG,0
+290,when I got here that's what I started watching C_S_I_Miami .,conj pro:sub v adv pro:dem pro:int pro:sub v part n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+291,C_S_I_Miami ?,n:prop ?,ENG,0
+292,and I was like wow this is a good show but after /.,coord pro:sub cop prep co pro:dem cop det:art adj n conj adv:tem +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+293,have you ever seen Vegas ?,v pro:per adv part n:prop ?,ENG ENG ENG ENG ENG,0
+294,yeah I've seen Vegas .,co pro:sub part n:prop .,ENG ENG ENG ENG,0
+295,I don't know everybody tends to like that one better .,pro:sub mod v pro:indef v inf co adv det:num adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+296,.,None,,0
+297,because it's the original one .,conj pro:per det:art adj pro:indef .,ENG ENG ENG ENG ENG,0
+298,yeah .,co .,ENG,0
+299,mhm .,co .,ENG,0
+300,but after like six months I was like I can't take it .,conj prep co det:num n pro:sub cop co pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+301,it's too farfetched .,pro:per adv adj .,ENG ENG ENG,0
+302,it's too you know /.,pro:per adv pro:per v +/.,ENG ENG ENG ENG,0
+303,oh but I love it .,co conj pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+304,first of all a precinct doesn't look like that .,adv prep qn det:art n mod co co pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+305,the employees don't look like that .,det:art n mod co co pro:dem .,ENG ENG ENG ENG ENG ENG,0
+306,obviously .,adv .,ENG,0
+307,.,None,,0
+308,well come on .,co v adv .,ENG ENG ENG,0
+309,it's cable .,pro:per n .,ENG ENG,0
+310,I know .,pro:sub v .,ENG ENG,0
+311,well not even cable because at all .,co neg adj n conj prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+312,it's t_v .,pro:per n .,ENG ENG,0
+313,it's t_v .,pro:per n .,ENG ENG,0
+314,I know but I like Law_and_Order because it's real you know .,pro:sub v conj pro:sub v n:prop conj pro:per adj pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+315,yeah .,co .,ENG,0
+316,I love it like /.,pro:sub v pro:per conj +/.,ENG ENG ENG ENG,0
+317,it seems real .,pro:per cop adj .,ENG ENG ENG,0
+318,I love Without_a_Trace .,pro:sub v n:prop .,ENG ENG ENG,0
+319,actually I haven't seen that .,adv pro:sub aux part pro:dem .,ENG ENG ENG ENG ENG,0
+320,Cold_Case .,n:prop .,ENG,0
+321,Cold_Case is good .,n:prop cop adj .,ENG ENG ENG,0
+322,Have you seen that ?,n:prop pro:per part pro:dem ?,ENG ENG ENG ENG,0
+323,I love it .,pro:sub v pro:per .,ENG ENG ENG,0
+324,I love House .,pro:sub v n:prop .,ENG ENG ENG,0
+325,House is really good .,n:prop cop adv adj .,ENG ENG ENG ENG,0
+326,.,None,,0
+327,I love House .,pro:sub v n:prop .,ENG ENG ENG,0
+328,yeah .,co .,ENG,0
+329,what's another one ?,pro:int qn pro:indef ?,ENG ENG ENG,0
+330,what ...,pro:int +...,ENG,0
+331,I like the on A_and_E it's called The_Justice_Files or whatever Cold_Case_Files but real ones .,pro:sub v det:art adv n:prop pro:per part n:prop coord pro:int n:prop conj adj pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+332,mhm .,co .,ENG,0
+333,you know that I love .,pro:per v comp pro:sub v .,ENG ENG ENG ENG ENG,0
+334,you know what .,pro:per v pro:int .,ENG ENG ENG,0
+335,I love that .,pro:sub v pro:dem .,ENG ENG ENG,0
+336,the problem with that is that when I watch like CSI and Law_and_Order I know it's not real .,det:art n prep pro:dem cop comp conj pro:sub n co n:prop coord n:prop pro:sub v pro:per neg adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+337,so once you put me like /.,adv adv pro:per v pro:obj prep +/.,ENG ENG ENG ENG ENG ENG,0
+338,in a real situation .,prep det:art adj n .,ENG ENG ENG ENG,0
+339,if watching the real things it affects me .,conj part det:art adj n pro:per v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+340,yeah .,co .,ENG,0
+341,oh I see .,co pro:sub v .,ENG ENG ENG,0
+342,yeah .,co .,ENG,0
+343,so I don't know why .,co pro:sub mod v pro:rel .,ENG ENG ENG ENG ENG,0
+344,wow no there's nothing wrong with that wow that's .,co co pro:exist pro:indef adj prep det:dem co pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+345,so I don't //.,co pro:sub mod +//.,ENG ENG ENG,0
+346,because when I was senior year .,conj conj pro:sub cop adj n .,ENG ENG ENG ENG ENG ENG,0
+347,mhm .,co .,ENG,0
+348,junior and senior year I got into psychology .,adj coord adj n pro:sub v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+349,and I specially the abnormal psych .,coord pro:sub adv det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+350,yeah .,co .,ENG,0
+351,and I started reading a lot on like psychopaths and /.,coord pro:sub v part det:art n adv prep n coord +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+352,right right right .,adv adv co .,ENG ENG ENG,0
+353,you know stuff .,pro:per v n .,ENG ENG ENG,0
+354,I was also //.,pro:sub cop adv +//.,ENG ENG ENG,0
+355,I took psychology too .,pro:sub v n adv .,ENG ENG ENG ENG,0
+356,and I was really interested in that stuff too .,coord pro:sub aux adv part prep det:dem n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+357,did you take AP ?,mod pro:per v n:prop ?,ENG ENG ENG ENG,0
+358,no I didn't get into that .,co pro:sub mod v prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+359,I took AP psych .,pro:sub v n:prop n .,ENG ENG ENG ENG,0
+360,because I ...,conj pro:sub +...,ENG ENG,0
+361,it was crazy .,pro:per cop adj .,ENG ENG ENG,0
+362,yeah .,co .,ENG,0
+363,the national was crazy .,det:art n cop adj .,ENG ENG ENG ENG,0
+364,I got a four which is good .,pro:sub v det:art det:num pro:rel cop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+365,How'd you really ?,n:prop pro:per adv ?,ENG ENG ENG,0
+366,I thought I was gonna fail it but I got a four .,pro:sub v pro:sub aux part v pro:per conj pro:sub v det:art det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+367,wow .,co .,ENG,0
+368,it's good so why don't you do that ?,pro:per adj adv pro:int mod pro:per v pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+369,I can't I'll go crazy .,pro:sub mod pro:sub v adj .,ENG ENG ENG ENG ENG,0
+370,you watch CSI .,pro:per v n:prop .,ENG ENG ENG,0
+371,I'll go crazy along with them .,pro:sub v adj adv prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+372,no .,co .,ENG,0
+373,I can't do it it's too much .,pro:sub mod v pro:per pro:per adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+374,really ?,adv ?,ENG,0
+375,I'm not that strong psychologically .,pro:sub neg det:dem adj adv .,ENG ENG ENG ENG ENG,0
+376,you are too much of a moral person ?,pro:per cop adv adv prep det:art adj n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+377,it impacts you ?,pro:per v pro:per ?,ENG ENG ENG,0
+378,no .,co .,ENG,0
+379,yeah it does .,co pro:per mod .,ENG ENG ENG,0
+380,you take it personally ?,pro:per v pro:per adv ?,ENG ENG ENG ENG,0
+381,I do can't .,pro:sub v mod .,ENG ENG ENG,0
+382,even with t_v sometimes like if I'm watching SVU or anything right before I go to bed .,adv prep n adv co conj pro:sub part n:prop coord pro:indef adv prep pro:sub v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+383,oh yeah well that's the point that's what makes it a good show you know if /.,co co co pro:dem det:art n pro:rel pro:int v pro:per det:art adj n pro:per v comp +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+384,yeah .,co .,ENG,0
+385,if you kind of take it personal .,conj pro:per n prep v pro:per adj .,ENG ENG ENG ENG ENG ENG ENG,0
+386,but imagine just having their jobs .,conj v adv part det:poss n .,ENG ENG ENG ENG ENG ENG,0
+387,you know .,pro:per v .,ENG ENG,0
+388,oh yeah yeah .,co co co .,ENG ENG ENG,0
+389,I couldn't be able to do it .,pro:sub mod cop adj inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+390,I couldn't be able to handle it .,pro:sub mod cop adj inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+391,no of course .,co prep n .,ENG ENG ENG,0
+392,I'll break down like I'm gonna need like a psychiatrist .,pro:sub v adv prep pro:sub part v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+393,.,None,,0
+394,like you know all the like the psychologists go into the psychiatrists .,conj pro:per v qn det:art co det:art n v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+395,you'll need therapy after yeah .,pro:per v n prep co .,ENG ENG ENG ENG ENG,0
+396,you'll need therapy after the case ?,pro:per v n prep det:art n ?,ENG ENG ENG ENG ENG ENG,0
+397,no I wouldn't yes .,co pro:sub mod co .,ENG ENG ENG ENG,0
+398,I wouldn't be able to ...,pro:sub mod cop adj inf +...,ENG ENG ENG ENG ENG,0
+399,I think people ...,pro:sub v n +...,ENG ENG ENG,0
+400,.,None,,0
+401,I don't know either you have experienced something and that's why you're fighting against it .,pro:sub mod v adv pro:per v part pro:indef coord pro:rel pro:rel pro:per part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+402,right .,co .,ENG,0
+403,or you're just born you know with that strength to deal with all that you know because it's hard .,coord pro:per adv adj pro:per v prep det:dem n inf v prep qn pro:dem pro:per v conj pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+404,yeah .,co .,ENG,0
+405,I wouldn't be able to do it .,pro:sub mod cop adj inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+406,yeah well it's like an outlook it's your perspective you know what I'm saying I take things personally .,co adv pro:per conj det:art n pro:per det:poss n pro:per v pro:int pro:sub part pro:sub v n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+407,but /.,conj +/.,ENG,0
+408,mhm .,co .,ENG,0
+409,you gotta you know on the other you gotta say like well sometimes you know I think you have to understand both sides first before you take it personally .,pro:per mod pro:per v prep det:art qn pro:per mod v prep adv adv pro:per v pro:sub v pro:per v inf v qn n adv conj pro:per v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+410,I think /.,pro:sub v +/.,ENG ENG,0
+411,would you take it personally ?,mod pro:per v pro:per adv ?,ENG ENG ENG ENG ENG,0
+412,but the thing is not even taking it personally is you know don't bring your work home .,conj det:art n aux neg adv part pro:per adv aux pro:per v mod v det:poss n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+413,it's just no I know .,pro:per adj co pro:sub v .,ENG ENG ENG ENG ENG,0
+414,right .,co .,ENG,0
+415,mhm .,co .,ENG,0
+416,but I wouldn't be able to do that .,conj pro:sub mod cop adj inf v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+417,I don't think anybody that does that can go by that .,pro:sub mod v pro:indef pro:rel mod adv mod v prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+418,right .,co .,ENG,0
+419,I don't think anybody's able .,pro:sub mod v adj adj .,ENG ENG ENG ENG ENG,0
+420,we're humans .,pro:sub n .,ENG ENG,0
+421,you know what I'm saying ?,pro:per v pro:int pro:sub part ?,ENG ENG ENG ENG ENG,0
+422,exactly .,adv .,ENG,0
+423,no I don't think anybody can just say no .,co pro:sub mod v pro:indef n adv co co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+424,mhm .,co .,ENG,0
+425,I shut it off at night .,pro:sub v pro:per adv prep n .,ENG ENG ENG ENG ENG ENG,0
+426,you know it's not something that //.,pro:per v pro:per neg pro:indef pro:rel +//.,ENG ENG ENG ENG ENG ENG,0
+427,you can't it's easier said than done .,pro:per mod pro:per adj v prep part .,ENG ENG ENG ENG ENG ENG ENG,0
+428,exactly .,adv .,ENG,0
+429,obviously .,adv .,ENG,0
+430,and we can't do it .,coord pro:sub mod v pro:per .,ENG ENG ENG ENG ENG,0
+431,it's like you're trying to sleep and your brain doesn't wanna shut up .,pro:per conj pro:per part prep n coord det:poss n mod v part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+432,yeah .,co .,ENG,0
+433,exactly .,adv .,ENG,0
+434,that brain chatter is what it's called .,det:dem n n cop pro:int pro:per part .,ENG ENG ENG ENG ENG ENG ENG,0
+435,mhm .,co .,ENG,0
+436,what other shows do you like ?,pro:int qn n v pro:per conj ?,ENG ENG ENG ENG ENG ENG,0
+437,I love Heroes .,pro:sub v n:prop .,ENG ENG ENG,0
+438,I haven't seen that one .,pro:sub aux part adv pro:indef .,ENG ENG ENG ENG ENG,0
+439,aside from that kind of show .,adv prep det:dem adj prep n .,ENG ENG ENG ENG ENG ENG,0
+440,I haven't seen that one .,pro:sub aux part adv pro:indef .,ENG ENG ENG ENG ENG,0
+441,I love Heroes .,pro:sub v n:prop .,ENG ENG ENG,0
+442,I've heard of it .,pro:sub part prep pro:per .,ENG ENG ENG ENG,0
+443,and I know ...,coord pro:sub v +...,ENG ENG ENG,0
+444,Chuck .,n:prop .,ENG,0
+445,Chuck ?,n:prop ?,ENG,0
+446,I'm an NBC fan .,pro:sub det:art n:prop n .,ENG ENG ENG ENG,0
+447,yeah .,co .,ENG,0
+448,Chuck ?,n:prop ?,ENG,0
+449,no .,co .,ENG,0
+450,Journeyman ?,n:prop ?,ENG,0
+451,no .,co .,ENG,0
+452,never seen it oh my god .,adv part pro:per co det:poss n .,ENG ENG ENG ENG ENG ENG,0
+453,never seen it .,adv part pro:per .,ENG ENG ENG,0
+454,they're so good .,pro:sub adv adj .,ENG ENG ENG,0
+455,Bionic_Woman ?,n:prop ?,ENG,0
+456,.,None,,0
+457,yeah I've seen that one .,co pro:sub part adv pro:indef .,ENG ENG ENG ENG ENG,0
+458,Life ?,n:prop ?,ENG,0
+459,.,None,,0
+460,you seen Life ?,pro:per part n:prop ?,ENG ENG ENG,0
+461,Life no .,n:prop co .,ENG ENG,0
+462,I like the //.,pro:sub v det:art +//.,ENG ENG ENG,0
+463,I guess I like comedy a lot .,pro:sub n pro:sub co n det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+464,like I need it every day .,conj pro:sub v pro:per qn n .,ENG ENG ENG ENG ENG ENG,0
+465,the I don't .,det:art pro:sub mod .,ENG ENG ENG,0
+466,yeah .,co .,ENG,0
+467,I'm not sure why .,pro:sub neg adj pro:rel .,ENG ENG ENG ENG,0
+468,I just //.,pro:sub adv +//.,ENG ENG,0
+469,Will_and_Grace ?,n:prop ?,ENG,0
+470,well .,co .,ENG,0
+471,Will_and_Grace is alright if you are okay with homosexuality .,n:prop cop adj conj pro:per cop adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+472,you are not okay ?,pro:per cop neg adj ?,ENG ENG ENG ENG,0
+473,no I'm fine .,co pro:sub adj .,ENG ENG ENG,0
+474,oh okay .,co co .,ENG ENG,0
+475,I don't care you know what I'm saying .,pro:sub mod v pro:per v pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+476,I'm very pro gay .,pro:sub adv adj adj .,ENG ENG ENG ENG,0
+477,I'm just saying .,pro:sub adv part .,ENG ENG ENG,0
+478,so .,co .,ENG,0
+479,yeah no no no no I don't care whatever .,co co co co co pro:sub mod v pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+480,okay .,co .,ENG,0
+481,you know I have gay friends and all that but what I'm saying is like you gotta be okay with that .,pro:per v pro:sub aux adj n coord qn adv conj pro:int pro:sub n:gerund cop co pro:per mod cop adj prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+482,you know what I'm saying you gotta see the fun in it because if it //.,pro:per v pro:int pro:sub part pro:per mod v det:art n prep pro:per conj conj pro:per +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+483,you don't see it ?,pro:per mod v pro:per ?,ENG ENG ENG ENG,0
+484,no yeah yeah I do .,co co co pro:sub v .,ENG ENG ENG ENG ENG,0
+485,oh okay .,co co .,ENG ENG,0
+486,I'm just saying like other people I don't see that much .,pro:sub adv part conj qn n pro:sub mod v comp adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+487,like I see how it's funny .,conj pro:sub v pro:int pro:per adj .,ENG ENG ENG ENG ENG ENG,0
+488,but I'm like it ain't that funny you know what I'm saying .,conj pro:sub prep pro:per v det:dem adj pro:per v pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+489,.,None,,0
+490,but like for me comedy like really good comedy is obviously Comedy_Central .,conj co prep pro:obj n prep adv adj n cop adv n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+491,I like The_Colbert_Report .,pro:sub v n:prop .,ENG ENG ENG,0
+492,I don't watch Comedy_Central .,pro:sub mod v n:prop .,ENG ENG ENG ENG,0
+493,I never used to watch it but I when I saw The_Colbert_Report and the and damn Jon Stewart .,pro:sub adv part inf v pro:per conj pro:sub conj pro:sub v n:prop coord det:art coord n n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+494,John Stewart is funny .,n:prop n:prop cop adj .,ENG ENG ENG ENG,0
+495,oh my god .,co det:poss n .,ENG ENG ENG,0
+496,well actually I'm just saying it .,co adv pro:sub adv part pro:per .,ENG ENG ENG ENG ENG ENG,0
+497,The_Daily_Show ?,n:prop ?,ENG,0
+498,Jon Stewart at the Oscars //.,n:prop n:prop prep det:art n:prop +//.,ENG ENG ENG ENG ENG,0
+499,yeah .,co .,ENG,0
+500,he was hilarious .,pro:sub cop adj .,ENG ENG ENG,0
+501,give it a try .,v pro:per det:art v .,ENG ENG ENG ENG,0
+502,what it is all that show is like The_Daily_Show and The_Colbert_Report is like //.,pro:int pro:per cop adv det:dem n cop co n:prop coord n:prop cop co +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+503,like talk shows .,co n n .,ENG ENG ENG,0
+504,watching the no no no it's not a talk show .,part det:art co co co pro:per neg det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+505,it's not a talk show ?,pro:per neg det:art n n ?,ENG ENG ENG ENG ENG,0
+506,it's like watching the news .,pro:per co part det:art n .,ENG ENG ENG ENG ENG,0
+507,what they do is they take news from the day .,pro:int pro:sub v cop pro:sub v n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+508,okay .,co .,ENG,0
+509,like from CNN and something like that like the elections whatever .,co prep n:prop coord pro:indef prep pro:dem prep det:art n pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+510,and they make fun of it .,coord pro:sub v n prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+511,okay .,co .,ENG,0
+512,everything's funny .,adj adj .,ENG ENG,0
+513,okay .,co .,ENG,0
+514,you know what I'm saying .,pro:per v pro:int pro:sub part .,ENG ENG ENG ENG ENG,0
+515,they show pictures and they'll say this .,pro:sub n n coord pro:sub co det:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+516,it's like The_Soup Have you ever seen The_Soup ?,pro:per conj n:prop n:prop pro:per adv part n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+517,The_Soup ?,n:prop ?,ENG,0
+518,On E ?,n:prop n:prop ?,ENG ENG,0
+519,with Joel .,prep n:prop .,ENG ENG,0
+520,oh yeah yeah yeah .,co co co co .,ENG ENG ENG ENG,0
+521,somewhat somewhat yeah //.,adv adv co +//.,ENG ENG ENG,0
+522,just not as ...,adv neg adv +...,ENG ENG ENG,0
+523,but this is like exaggerating .,conj pro:dem cop co part .,ENG ENG ENG ENG ENG,0
+524,I mean they exaggerate stuff they say whatever they want .,pro:sub v pro:sub v n pro:sub v pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+525,now you should watch it .,adv pro:per mod v pro:per .,ENG ENG ENG ENG ENG,0
+526,well obviously it's cable //.,co adv pro:per n +//.,ENG ENG ENG ENG,0
+527,yeah give //.,co v +//.,ENG ENG,0
+528,because it's Comedy_Central .,conj pro:per n:prop .,ENG ENG ENG,0
+529,right but give it a try .,adv conj v pro:per det:art v .,ENG ENG ENG ENG ENG ENG,0
+530,you'll like it .,pro:per v pro:per .,ENG ENG ENG,0
+531,but what what comedy show do you like that is not on ?,conj pro:int pro:int n n mod pro:per co pro:rel cop neg adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+532,that's not on Comedy_Central ?,pro:dem neg prep n:prop ?,ENG ENG ENG ENG,0
+533,yeah .,co .,ENG,0
+534,.,None,,0
+535,like just a regular .,prep adv det:art adj .,ENG ENG ENG ENG,0
+536,that's like oh I used to love Everybody_loves_Raymond .,pro:dem co co pro:sub v prep n n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+537,you know I like him but I can't ...,pro:per v pro:sub v pro:obj conj pro:sub mod +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+538,it has to be certain days that I could just sit through a whole show of Everybody_loves_Raymond .,pro:per aux inf cop adj n pro:rel pro:sub mod adv v adj det:art adj n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+539,really .,adv .,ENG,0
+540,yeah .,co .,ENG,0
+541,oh that's cool .,co pro:dem adj .,ENG ENG ENG,0
+542,it's a certain /.,pro:per det:art adj +/.,ENG ENG ENG,0
+543,like in a show ?,conj prep det:art n ?,ENG ENG ENG ENG,0
+544,yeah it's a certain kind of comedy .,co pro:per det:art adj n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+545,.,None,,0
+546,it's like an acquired taste .,pro:per conj det:art part n .,ENG ENG ENG ENG ENG,0
+547,me like I like comedy like that that it's innocent and it's just everyday .,pro:obj co pro:sub co n prep pro:dem adv pro:per adj coord pro:per adj adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+548,yeah right .,co co .,ENG ENG,0
+549,but like raunchy comedy like people that use like I don't know sex or insults and stuff like that I don't think that's funny .,conj v adj n prep n adv n co pro:sub mod v n coord n coord n co adv pro:sub mod v pro:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+550,okay .,co .,ENG,0
+551,no .,co .,ENG,0
+552,no because I //.,co conj pro:sub +//.,ENG ENG ENG,0
+553,well yeah no it's and it's not it's just not right .,co co co pro:per coord pro:per neg pro:per adj neg adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+554,it's what you see .,pro:per pro:int pro:per v .,ENG ENG ENG ENG,0
+555,have you ever been to the Renaissance festival ?,v pro:per adv cop prep det:art n:prop n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+556,no .,co .,ENG,0
+557,okay well this is the Renaissance //.,co co pro:dem cop det:art n:prop +//.,ENG ENG ENG ENG ENG ENG,0
+558,is that here ?,cop comp adv ?,ENG ENG ENG,0
+559,yeah .,co .,ENG,0
+560,really ?,adv ?,ENG,0
+561,it's in where is it ?,pro:per adv pro:rel cop pro:per ?,ENG ENG ENG ENG ENG,0
+562,it's further I don't even know because I don't know directions .,pro:per adv pro:sub mod adv v conj pro:sub mod v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+563,but Quiet Waters Park .,conj n:prop n:prop n:prop .,ENG ENG ENG ENG,0
+564,.,None,,0
+565,is it Penbroke Pines ?,aux pro:per n:prop n:prop ?,ENG ENG ENG ENG,0
+566,oh okay okay .,co co co .,ENG ENG ENG,0
+567,I don't know it's one of those that you have to drive a little yeah .,pro:sub mod v pro:per pro:indef prep det:dem comp pro:per v prep n det:art adj co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+568,one of those little cities near .,det:num prep det:dem adj n adv .,ENG ENG ENG ENG ENG ENG,0
+569,so it's a Renaissance festival .,adv pro:per det:art n:prop n .,ENG ENG ENG ENG ENG,0
+570,okay .,co .,ENG,0
+571,and then they have this show .,coord adv:tem pro:sub v det:dem n .,ENG ENG ENG ENG ENG ENG,0
+572,the guy's called Christoph the insultor .,det:art adj part n:prop det:art n .,ENG ENG ENG ENG ENG ENG,0
+573,and basically you pay him to insult you .,coord adv pro:per v pro:obj inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+574,mhm .,co .,ENG,0
+575,really ?,adv ?,ENG,0
+576,it's ridiculous the guy walks out with like five hundred dollars worth of people you know .,pro:per adj det:art n v adv prep co det:num det:num n n prep n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+577,yeah yeah .,co co .,ENG ENG,0
+578,like people would pay for or it's a group that they pick one person .,prep n mod v prep coord pro:per det:art n pro:rel pro:sub v det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+579,yeah .,co .,ENG,0
+580,they put money together and then depending on you know how much they give him he'll how long he'll insult the person for .,pro:sub v n adv coord adv:tem part prep pro:per v pro:int adv pro:sub v pro:obj pro:sub pro:int adj pro:sub v det:art n prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+581,right right right .,adv adv co .,ENG ENG ENG,0
+582,but it's so stupid like I didn't find comedy in it .,conj pro:per adv adj co pro:sub mod v n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+583,no ?,co ?,ENG,0
+584,I like like Friends .,pro:sub v conj n:prop .,ENG ENG ENG ENG,0
+585,have you ever seen that ?,aux pro:per adv part pro:dem ?,ENG ENG ENG ENG ENG,0
+586,Friends is good yeah of course yeah .,n:prop cop adj co prep n co .,ENG ENG ENG ENG ENG ENG ENG,0
+587,you know Friends is funny .,pro:per v n:prop cop adj .,ENG ENG ENG ENG ENG,0
+588,yeah .,co .,ENG,0
+589,and what else is funny ?,coord pro:int post aux adj ?,ENG ENG ENG ENG ENG,0
+590,mhm .,co .,ENG,0
+591,I like the .,pro:sub v det:art .,ENG ENG ENG,0
+592,Dane_Cook .,n:prop .,ENG,0
+593,no Dane_Cook is really funny but he is vulgar come on .,co n:prop cop adv adj conj pro:sub cop adj v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+594,well but //.,co conj +//.,ENG ENG,0
+595,he is vulgar oh are you saying you don't like vulgarity .,pro:sub cop adj co aux pro:per part pro:per mod co n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+596,well I haven't really seen his standups .,co pro:sub aux adv part det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+597,I've seen his movies like //.,pro:sub part det:poss n prep +//.,ENG ENG ENG ENG ENG,0
+598,yeah .,co .,ENG,0
+599,you know Good_Luck_Chuck .,pro:per v n:prop .,ENG ENG ENG,0
+600,.,None,,0
+601,well that was pretty raunchy okay but //.,co pro:dem cop adv adj adj conj +//.,ENG ENG ENG ENG ENG ENG ENG,0
+602,that's pretty the specially the unrated .,pro:dem adv det:art adv det:art un#part .,ENG ENG ENG ENG ENG ENG,0
+603,that's what I saw .,pro:dem pro:int pro:sub v .,ENG ENG ENG ENG,0
+604,.,None,,0
+605,okay but .,co conj .,ENG ENG,0
+606,I was like what ?,pro:sub cop prep pro:int ?,ENG ENG ENG ENG,0
+607,I think that //.,pro:sub v pro:dem +//.,ENG ENG ENG,0
+608,that's like a porno .,pro:dem conj det:art n .,ENG ENG ENG ENG,0
+609,it is yeah it's bad .,pro:per cop co pro:per adj .,ENG ENG ENG ENG ENG,0
+610,but did you see //.,conj mod pro:per v +//.,ENG ENG ENG ENG,0
+611,I have it I bought it too what a damn ass .,pro:sub v pro:per pro:sub v pro:per adv pro:int det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+612,you know the part that I busted out laughing ?,pro:per v det:art adj comp pro:sub v adv part ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+613,the part when she goes like this ?,det:art n conj pro:sub v prep pro:dem ?,ENG ENG ENG ENG ENG ENG ENG,0
+614,and then he's like what happened to you did you get in a fight with a stamp ?,coord adv:tem pro:sub co pro:int v prep pro:per mod pro:per v prep det:art n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+615,oh oh yeah yeah yeah .,co co co co co .,ENG ENG ENG ENG ENG,0
+616,you know that part is ...,pro:per v det:dem adj cop +...,ENG ENG ENG ENG ENG,0
+617,I think that part was so funny .,pro:sub v adv n cop adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+618,oh yeah she was .,co co pro:sub cop .,ENG ENG ENG ENG,0
+619,yeah .,co .,ENG,0
+620,it was all unexpected to me and I cracked up I was /.,pro:per aux adv un#part prep pro:obj coord pro:sub v adv pro:sub cop +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+621,really ?,adv ?,ENG,0
+622,I hadn't laughed like that in a while .,pro:sub aux part co pro:dem prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+623,I just saw it the other day .,pro:sub adv v pro:per det:art qn n .,ENG ENG ENG ENG ENG ENG ENG,0
+624,but I like comedy like that .,conj pro:sub v n prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+625,there you go .,adv pro:per v .,ENG ENG ENG,0
+626,I like the Family_Guy .,pro:sub v det:art n:prop .,ENG ENG ENG ENG,0
+627,Family_Guy ?,n:prop ?,ENG,0
+628,a lot .,det:art n .,ENG ENG,0
+629,you know I don't //.,pro:per v pro:sub mod +//.,ENG ENG ENG ENG,0
+630,a lot like a lot .,det:art n prep det:art n .,ENG ENG ENG ENG ENG,0
+631,I if I watch it alone //.,pro:sub conj pro:sub v pro:per adv +//.,ENG ENG ENG ENG ENG ENG,0
+632,yeah .,co .,ENG,0
+633,I don't find the humor in it .,pro:sub mod v det:art n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+634,no ?,co ?,ENG,0
+635,I don't .,pro:sub mod .,ENG ENG,0
+636,wow .,co .,ENG,0
+637,maybe it's just ...,adv pro:per adj +...,ENG ENG ENG,0
+638,but if I'm with other people I see I don't know .,conj conj pro:sub prep qn n pro:sub v pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+639,the thing about it //.,det:art n prep pro:per +//.,ENG ENG ENG ENG,0
+640,.,None,,0
+641,it's really subtle it's well it's not even subtle I mean it's like in your face .,pro:per adv adj pro:per adv pro:per neg adv adj pro:sub v pro:per conj prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+642,right .,co .,ENG,0
+643,you know what I'm saying ?,pro:per v pro:int pro:sub part ?,ENG ENG ENG ENG ENG,0
+644,I guess maybe it's so in my face that //.,pro:sub v adv pro:per adv prep det:poss n pro:rel +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+645,it's yeah it's not even that ...,pro:per co pro:per neg v pro:dem +...,ENG ENG ENG ENG ENG ENG,0
+646,I don't get it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+647,it's like what Peter says it's either racial .,pro:per conj pro:int n:prop v pro:per adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+648,right .,co .,ENG,0
+649,against against against gender or where you're from .,adv adv prep n coord pro:rel pro:per prep .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+650,mhm .,co .,ENG,0
+651,political I mean everything .,adj pro:sub v pro:indef .,ENG ENG ENG ENG,0
+652,ignorant .,adj .,ENG,0
+653,everything it's everything .,pro:indef pro:per pro:indef .,ENG ENG ENG,0
+654,that's why I like it because it's like blatant .,pro:dem pro:int pro:sub v pro:per conj pro:per conj adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+655,.,None,,0
+656,right .,co .,ENG,0
+657,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+658,mhm .,co .,ENG,0
+659,they don't care you know .,pro:sub mod v pro:per v .,ENG ENG ENG ENG ENG,0
+660,whatever it's stereotypes .,pro:int pro:per n .,ENG ENG ENG,0
+661,like me I watch it and I don't laugh .,prep pro:obj pro:sub v pro:per coord pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+662,like maybe I'll smile whatever but I won't laugh .,prep adv pro:sub v pro:int conj pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+663,.,None,,0
+664,like I have a group of friends that are addicted to Family_Guy .,conj pro:sub v det:art n prep n pro:rel aux part prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+665,yeah yeah .,co co .,ENG ENG,0
+666,and then when they talk about it and they say things that they say in the show .,coord adv:tem conj pro:sub v prep pro:per coord pro:sub v n pro:rel pro:sub v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+667,yeah .,co .,ENG,0
+668,I laugh .,pro:sub v .,ENG ENG,0
+669,yeah .,co .,ENG,0
+670,because they make it funny and because I don't see the humor .,conj pro:sub v pro:per adj coord conj pro:sub mod v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+671,I see the humor in what they are doing .,pro:sub v det:art n prep pro:int pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+672,specially Stewie the baby .,adv n:prop det:art n .,ENG ENG ENG ENG,0
+673,I love Stewie .,pro:sub v n:prop .,ENG ENG ENG,0
+674,because he has like an accent because he's so smart .,conj pro:sub aux prep det:art n conj pro:sub adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+675,yeah .,co .,ENG,0
+676,you know what I'm saying .,pro:per v pro:int pro:sub part .,ENG ENG ENG ENG ENG,0
+677,he is always trying to kill his mother I mean .,pro:sub aux adv part inf v det:poss n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+678,.,None,,0
+679,it's ...,pro:per +...,ENG,0
+680,or another thing they do .,coord qn n pro:sub v .,ENG ENG ENG ENG ENG,0
+681,or this one time Peter you know the Peter right the fat guy .,coord det:dem det:num n n:prop pro:per v det:art n:prop adj det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+682,he //.,pro:sub +//.,ENG,0
+683,yeah I know who they are .,co pro:sub v pro:int pro:sub cop .,ENG ENG ENG ENG ENG ENG,0
+684,he tripped right ?,pro:sub part co ?,ENG ENG ENG,0
+685,and he like banged his knee .,coord pro:sub co part det:poss n .,ENG ENG ENG ENG ENG ENG,0
+686,mhm .,co .,ENG,0
+687,and then he like sat on the floor and was holding his knee he was like .,coord adv:tem pro:sub v v prep det:art n coord aux part det:poss n pro:sub cop prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+688,.,None,,0
+689,and he did that for I think a minute .,coord pro:sub v pro:dem prep pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+690,it was just that for like a minute him doing that noise .,pro:per cop adj adv prep co det:art n pro:obj part det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+691,.,None,,0
+692,mhm .,co .,ENG,0
+693,that's it like it's just it's //.,pro:dem pro:per conj pro:per adj pro:per +//.,ENG ENG ENG ENG ENG ENG,0
+694,stupid .,adj .,ENG,0
+695,right .,co .,ENG,0
+696,.,None,,0
+697,but it's the noise it's like all right go on you know .,conj pro:per det:art n pro:per conj adv adv v prep pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+698,okay .,co .,ENG,0
+699,yeah that now but that family I think it's great .,co pro:dem adv conj det:dem n pro:sub v pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+700,.,None,,0
+701,actually you know what I used to do ?,adv pro:per v pro:int pro:sub v inf v ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+702,well .,co .,ENG,0
+703,mhm .,co .,ENG,0
+704,I had a d_v_d player in my car like an In_Dash when I lived in Hawaii and //.,pro:sub v det:art n n prep det:poss n prep det:art n:prop conj pro:sub v prep n:prop coord +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+705,you lived in Hawaii ?,pro:per v prep n:prop ?,ENG ENG ENG ENG,0
+706,yeah .,co .,ENG,0
+707,wow .,co .,ENG,0
+708,yeah .,co .,ENG,0
+709,for how long ?,prep pro:int adv ?,ENG ENG ENG,0
+710,for a year .,prep det:art n .,ENG ENG ENG,0
+711,was it beautiful ?,cop pro:per adj ?,ENG ENG ENG,0
+712,oh yeah .,co co .,ENG ENG,0
+713,.,None,,0
+714,I'll tell you about that though but ...,pro:sub v pro:per prep pro:dem adv conj +...,ENG ENG ENG ENG ENG ENG ENG,0
+715,every morning when I'd go to base when I'd go to Port_Harbour I would play it like every morning .,qn n pro:int pro:sub v inf v pro:int pro:sub v prep n:prop pro:sub mod v pro:per v qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+716,is that illegal ?,cop det:dem adj ?,ENG ENG ENG,0
+717,yeah you are not supposed to do that but .,co pro:per aux neg part inf v pro:dem conj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+718,.,None,,0
+719,that's how much I liked it .,pro:dem pro:int adv pro:sub v pro:per .,ENG ENG ENG ENG ENG ENG,0
+720,you know what I'm saying .,pro:per v pro:int pro:sub part .,ENG ENG ENG ENG ENG,0
+721,and I would play it every /.,coord pro:sub mod v pro:per qn +/.,ENG ENG ENG ENG ENG ENG,0
+722,that was my //.,pro:dem cop det:poss +//.,ENG ENG ENG,0
+723,Family_Guy .,n:prop .,ENG,0
+724,like breakfast yeah Family_Guy .,co n co n:prop .,ENG ENG ENG ENG,0
+725,.,None,,0
+726,you know .,pro:per v .,ENG ENG,0
+727,I guess I don't watch a lot of comedy because ...,pro:sub v pro:sub mod v det:art n prep n conj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+728,it doesn't .,pro:per mod .,ENG ENG,0
+729,I don't know you can't gain knowledge from it .,pro:sub mod v pro:per mod v n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+730,I understand .,pro:sub v .,ENG ENG,0
+731,and you feel like you're wasting your time .,coord pro:per v conj pro:per part det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+732,not really because I love comedy .,neg adv conj pro:sub v n .,ENG ENG ENG ENG ENG ENG,0
+733,I love laughing .,pro:sub v part .,ENG ENG ENG,0
+734,yeah .,co .,ENG,0
+735,but .,conj .,ENG,0
+736,if I'm gonna put time .,conj pro:sub part v n .,ENG ENG ENG ENG ENG,0
+737,you want something informative .,pro:per v pro:indef adj .,ENG ENG ENG ENG,0
+738,yeah I wanna learn something .,co pro:sub v v pro:indef .,ENG ENG ENG ENG ENG,0
+739,and I //.,coord pro:sub +//.,ENG ENG,0
+740,something that's gonna stimulate your brain .,pro:indef pro:rel part v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+741,yeah .,co .,ENG,0
+742,no I know .,co pro:sub v .,ENG ENG ENG,0
+743,because in comedy you really don't have to figure out anything .,conj prep n pro:per adv mod v inf v adv pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+744,you know ?,pro:per v ?,ENG ENG,0
+745,yeah yeah .,co co .,ENG ENG,0
+746,like in a murder .,conj prep det:art n .,ENG ENG ENG ENG,0
+747,well .,co .,ENG,0
+748,like .,prep .,ENG,0
+749,well actually like with the Family_Guy you gotta be quick .,adv adv co prep det:art n:prop pro:per mod cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+750,because if you don't you know .,conj conj pro:per mod pro:per v .,ENG ENG ENG ENG ENG ENG,0
+751,.,None,,0
+752,if you are not //.,conj pro:per cop neg +//.,ENG ENG ENG ENG,0
+753,I'm not quick .,pro:sub neg adv .,ENG ENG ENG,0
+754,if you are not quick .,conj pro:per cop neg adv .,ENG ENG ENG ENG ENG,0
+755,and you are not informed like on different cultures .,coord pro:per aux neg part co prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+756,you won't get it .,pro:per mod v pro:per .,ENG ENG ENG ENG,0
+757,right .,co .,ENG,0
+758,right .,co .,ENG,0
+759,I think that's my problem .,pro:sub v comp det:poss n .,ENG ENG ENG ENG ENG,0
+760,you you understand ?,pro:per pro:per v ?,ENG ENG ENG,0
+761,you know like this one time they had a plane .,pro:per v prep det:dem det:num n pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+762,and it had a banner on it .,coord pro:per v det:art n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+763,it said one thing .,pro:per v det:num n .,ENG ENG ENG ENG,0
+764,and then the banner flew off .,coord adv:tem det:art n v adv .,ENG ENG ENG ENG ENG ENG,0
+765,and it said Colombian drugs .,coord pro:per v n:prop v .,ENG ENG ENG ENG ENG,0
+766,.,None,,0
+767,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+768,it's like that .,pro:per co pro:dem .,ENG ENG ENG,0
+769,okay .,co .,ENG,0
+770,if you don't know then you are not gonna laugh .,conj pro:per mod v adv:tem pro:per aux neg part v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+771,okay .,co .,ENG,0
+772,like that you know .,prep pro:dem pro:per v .,ENG ENG ENG ENG,0
+773,they make fun of everybody .,pro:sub v n prep pro:indef .,ENG ENG ENG ENG ENG,0
+774,right .,co .,ENG,0
+775,everything .,pro:indef .,ENG,0
+776,like this one time Peter is was like I need to be rich .,prep det:dem det:num n n:prop cop aux co pro:sub v inf cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+777,and he started singing a song like I need a Jew .,coord pro:sub v part det:art n conj pro:sub v det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+778,what ?,pro:int ?,ENG,0
+779,do you know what I mean ?,mod pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG,0
+780,because Jewish people are rich so he's like I need a Jew you know .,conj n:prop n cop adj adv pro:sub conj pro:sub v det:art n:prop pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+781,mhm .,co .,ENG,0
+782,that's what I'm talking about .,pro:dem pro:int pro:sub part adv .,ENG ENG ENG ENG ENG,0
+783,you see I wouldn't get it .,pro:per v pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG,0
+784,it's cultural that's what I'm saying .,pro:per adj pro:dem pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG,0
+785,because .,conj .,ENG,0
+786,and it's like what .,coord pro:per conj pro:int .,ENG ENG ENG ENG,0
+787,you know .,pro:per v .,ENG ENG,0
+788,you know yeah .,pro:per v co .,ENG ENG ENG,0
+789,yeah .,co .,ENG,0
+790,I wouldn't catch onto it .,pro:sub mod v prep pro:per .,ENG ENG ENG ENG ENG,0
+791,yeah .,co .,ENG,0
+792,I guess that's why I don't find it funny .,pro:sub n pro:rel pro:rel pro:sub mod v pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+793,yeah .,co .,ENG,0
+794,I have to have someone next to me explaining these things so .,pro:sub v inf v pro:indef adj prep pro:obj part det:dem n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+795,yeah no but you know it's funny .,co co conj pro:per v pro:per adj .,ENG ENG ENG ENG ENG ENG ENG,0
+796,but Hawaii is beautiful .,conj n:prop cop adj .,ENG ENG ENG ENG,0
+797,my uncle was there //.,det:poss n cop adv +//.,ENG ENG ENG ENG,0
+798,very beautiful .,adv adj .,ENG ENG,0
+799,during I think it was the second world war .,prep pro:sub v pro:per cop det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+800,no I lied .,co pro:sub v .,ENG ENG ENG,0
+801,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+802,I know he was in the military .,pro:sub v pro:sub cop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+803,and he was stationed in Hawaii .,coord pro:sub aux part prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+804,oh okay yeah .,co co co .,ENG ENG ENG,0
+805,have you been anywhere besides Miami ?,v pro:per cop adv prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+806,I've only been on cruises .,pro:sub adv cop prep n .,ENG ENG ENG ENG ENG,0
+807,oh okay so you've been to what the Bahamas ...,co co co pro:per cop prep pro:int det:art n:prop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+808,I've been to Cozumel .,pro:sub cop prep n:prop .,ENG ENG ENG ENG,0
+809,yeah .,co .,ENG,0
+810,in Mexico .,prep n:prop .,ENG ENG,0
+811,yeah mhm .,co co .,ENG ENG,0
+812,I've been to Grand_Cayman_Island .,pro:sub cop prep n:prop .,ENG ENG ENG ENG,0
+813,and Ocho_Ríos Jamaica .,coord n:prop n:prop .,ENG ENG ENG,0
+814,how was that ?,pro:int cop pro:dem ?,ENG ENG ENG,0
+815,well the city itself //.,co det:art n pro:refl +//.,ENG ENG ENG ENG,0
+816,how old were you ?,pro:int adj cop pro:per ?,ENG ENG ENG ENG,0
+817,fifteen .,det:num .,ENG,0
+818,ah okay .,co co .,ENG ENG,0
+819,the city itself is not pretty .,det:art n pro:refl cop neg adv .,ENG ENG ENG ENG ENG ENG,0
+820,like it's nothing //.,conj pro:per pro:indef +//.,ENG ENG ENG,0
+821,right .,co .,ENG,0
+822,to look at .,inf v prep .,ENG ENG ENG,0
+823,right .,co .,ENG,0
+824,I guess .,pro:sub v .,ENG ENG,0
+825,I mean the beaches are beautiful .,pro:sub v det:art n cop adj .,ENG ENG ENG ENG ENG ENG,0
+826,mhm .,co .,ENG,0
+827,but we climbed the Dunn's_River falls .,conj pro:sub v det:art n:prop v .,ENG ENG ENG ENG ENG ENG,0
+828,it's like I don't know how many feet .,pro:per conj pro:sub mod v pro:int qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+829,it's the .,pro:per det:art .,ENG ENG,0
+830,and then you climb to the first two hundred feet of the falls .,coord adv:tem pro:per v prep det:art adj det:num det:num n prep det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+831,and you have they yeah they have guides //.,coord pro:per v pro:sub co pro:sub v n +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+832,right .,co .,ENG,0
+833,who will guide you .,pro:int mod v pro:per .,ENG ENG ENG ENG,0
+834,what the ?,pro:int det:art ?,ENG ENG,0
+835,and you need you know the water socks to go up .,coord pro:per v pro:per v det:art n v inf v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+836,because the rocks are slippery you know .,conj det:art n cop adj pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+837,yeah .,co .,ENG,0
+838,on the water .,prep det:art n .,ENG ENG ENG,0
+839,the water's freezing .,det:art n part .,ENG ENG ENG,0
+840,yeah .,co .,ENG,0
+841,it's the coldest water I've ever you know .,pro:per det:art adj n pro:sub adv pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+842,in Jamaica ?,prep n:prop ?,ENG ENG,0
+843,it's just the waterfalls .,pro:per adj det:art n .,ENG ENG ENG ENG,0
+844,oh the waterfalls oh yeah yeah that's fresh water yeah .,co det:art n co co co pro:dem adj n co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+845,it's freezing .,pro:per part .,ENG ENG,0
+846,it doesn't matter how hot it is outside the water it would always be freezing .,pro:per mod v pro:int adj pro:per cop adj det:art n pro:per mod adv aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+847,mhm .,co .,ENG,0
+848,and there was this couple that they didn't go with the guides .,coord adv cop det:dem n pro:rel pro:sub mod v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+849,they decided to go up the middle .,pro:sub v inf v adv det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+850,retards !,v !,ENG,0
+851,.,None,,0
+852,and they fell .,coord pro:sub v .,ENG ENG ENG,0
+853,they slipped .,pro:sub v .,ENG ENG,0
+854,and they fell down I don't know how many feet .,coord pro:sub v adv pro:sub mod v pro:int qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+855,.,None,,0
+856,and they on a rock .,coord pro:sub adv det:art n .,ENG ENG ENG ENG ENG,0
+857,and they had broken ribs .,coord pro:sub aux part n .,ENG ENG ENG ENG ENG,0
+858,everything they were full of blood .,pro:indef pro:sub cop adj prep n .,ENG ENG ENG ENG ENG ENG,0
+859,and it was crazy .,coord pro:per cop adj .,ENG ENG ENG ENG,0
+860,wow .,co .,ENG,0
+861,well at least you saw something right ?,co prep n pro:per n pro:indef adj ?,ENG ENG ENG ENG ENG ENG ENG,0
+862,huh ?,co ?,ENG,0
+863,yeah at least .,co prep n .,ENG ENG ENG,0
+864,at least you saw something .,prep n pro:per v pro:indef .,ENG ENG ENG ENG ENG,0
+865,but it was pretty .,conj pro:per cop adv .,ENG ENG ENG ENG,0
+866,and then that part was pretty .,coord adv:tem adv n cop adv .,ENG ENG ENG ENG ENG ENG,0
+867,but the city is //.,conj det:art n cop +//.,ENG ENG ENG ENG,0
+868,no .,co .,ENG,0
+869,like and then guys offering you weed .,prep coord adv:tem n part pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+870,.,None,,0
+871,yeah and then you see like them wrapping the weed on the plants .,co coord adv:tem pro:per v prep pro:obj part det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+872,yeah .,co .,ENG,0
+873,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+874,you don't smoke ?,pro:per mod v ?,ENG ENG ENG,0
+875,huh ?,co ?,ENG,0
+876,you don't smoke ?,pro:per mod v ?,ENG ENG ENG,0
+877,no .,co .,ENG,0
+878,that's good .,pro:dem adj .,ENG ENG,0
+879,I find it gross .,pro:sub v pro:per n .,ENG ENG ENG ENG,0
+880,it's good .,pro:per adj .,ENG ENG,0
+881,do you ?,mod pro:per ?,ENG ENG,0
+882,you shouldn't .,pro:per mod .,ENG ENG,0
+883,.,None,,0
+884,no .,co .,ENG,0
+885,I don't what else what else what else .,pro:sub mod pro:int post pro:int post pro:int post .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+886,and then in the second one we went to Saint_Thomas the Virgin_Islands .,coord adv:tem prep det:art adj det:num pro:sub v prep n:prop det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+887,we went to the Bahamas .,pro:sub v prep det:art n:prop .,ENG ENG ENG ENG ENG,0
+888,to Atlantis .,prep n:prop .,ENG ENG,0
+889,Atlantis ?,n:prop ?,ENG,0
+890,yeah beautiful .,co adj .,ENG ENG,0
+891,yeah .,co .,ENG,0
+892,bonito bonito .,co:voc adj .,ENG ENG,0
+893,it's beautiful .,pro:per adj .,ENG ENG,0
+894,yeah ?,co ?,ENG,0
+895,and where is the other one ?,coord pro:int cop det:art qn pro:indef ?,ENG ENG ENG ENG ENG ENG,0
+896,and Dominican_Republic .,coord n:prop .,ENG ENG,0
+897,oh okay .,co co .,ENG ENG,0
+898,and then in the United_States well I've been to Orlando .,coord adv:tem prep det:art n:prop n pro:sub cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+899,who doesn't go to Orlando ?,pro:int mod v prep n:prop ?,ENG ENG ENG ENG ENG,0
+900,Tampa have you been to Disney here ?,n:prop v pro:per cop prep n:prop adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+901,no I have been Universal .,co pro:sub aux aux n:prop .,ENG ENG ENG ENG ENG,0
+902,yeah ?,co ?,ENG,0
+903,Orlando .,n:prop .,ENG,0
+904,but not to //.,conj neg prep +//.,ENG ENG ENG,0
+905,I've been to universal and I've been to Busch_Gardens .,pro:sub cop prep adj coord pro:sub cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+906,yeah I've been to Busch_Gardens too .,co pro:sub cop prep n:prop post .,ENG ENG ENG ENG ENG ENG,0
+907,Busch_Gardens and Islands well Islands is Universal too .,n:prop coord n:prop n n:prop cop n:prop post .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+908,yeah .,co .,ENG,0
+909,I've been to Cooperstown New_York .,pro:sub cop prep n:prop n:prop .,ENG ENG ENG ENG ENG,0
+910,yeah .,co .,ENG,0
+911,oh yeah ?,co co ?,ENG ENG,0
+912,I've been to the baseball hall of fame .,pro:sub cop prep det:art n n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+913,wow .,co .,ENG,0
+914,that's where it is .,pro:dem pro:int pro:per cop .,ENG ENG ENG ENG,0
+915,I've been to ...,pro:sub cop prep +...,ENG ENG ENG,0
+916,we went to North_Carolina on a road trip .,pro:sub v prep n:prop prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+917,we stopped one night in Atlanta .,pro:sub v det:num n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+918,so that doesn't really count .,adv pro:dem mod adv v .,ENG ENG ENG ENG ENG,0
+919,because we we we didn't stay there .,conj pro:sub pro:sub pro:sub mod cop adv .,ENG ENG ENG ENG ENG ENG ENG,0
+920,yeah .,co .,ENG,0
+921,where else have I been to ?,pro:int post v pro:sub cop prep ?,ENG ENG ENG ENG ENG ENG,0
+922,well spring break I'm going to Virginia_Beach .,co n n pro:sub part prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+923,oh yeah V_A_Beach .,co co n:prop .,ENG ENG ENG,0
+924,huh ?,co ?,ENG,0
+925,V_A_Beach .,n:prop .,ENG,0
+926,V_A_Beach .,n:prop .,ENG,0
+927,yeah .,co .,ENG,0
+928,that's what we call it .,pro:dem pro:int pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+929,.,None,,0
+930,I'm from up North so .,pro:sub prep adv n:prop adv .,ENG ENG ENG ENG ENG,0
+931,that's what they call it ?,pro:dem pro:int pro:sub v pro:per ?,ENG ENG ENG ENG ENG,0
+932,it's V_A_Beach yeah .,pro:per n:prop co .,ENG ENG ENG,0
+933,V_A_Beach .,n:prop .,ENG,0
+934,and nobody calls it Virginia .,coord pro:indef v pro:per n:prop .,ENG ENG ENG ENG ENG,0
+935,everybody says V_A_Beach .,pro:indef v n:prop .,ENG ENG ENG,0
+936,okay V_A_Beach .,co n:prop .,ENG ENG,0
+937,that's where I'm going .,pro:dem pro:int pro:sub part .,ENG ENG ENG ENG,0
+938,.,None,,0
+939,spring break .,n n .,ENG ENG,0
+940,yeah .,co .,ENG,0
+941,because .,conj .,ENG,0
+942,no that's cool .,co pro:dem adj .,ENG ENG ENG,0
+943,you'll have fun .,pro:per v n .,ENG ENG ENG,0
+944,my cousins live there .,det:poss n adj adv .,ENG ENG ENG ENG,0
+945,don't expect the beaches to be like this though .,mod v det:art n inf cop prep pro:dem adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+946,oh no no no no no I'm not going to the beach .,co co co co co co pro:sub neg part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+947,it's cold water .,pro:per adj n .,ENG ENG ENG,0
+948,it's gonna be cold over there .,pro:per part cop adv prep n .,ENG ENG ENG ENG ENG ENG,0
+949,no it's my cousin's fifteens .,co pro:per det:poss adj det:num .,ENG ENG ENG ENG ENG,0
+950,and she lives up there .,coord pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+951,don't get too wild .,mod v adv adv .,ENG ENG ENG ENG,0
+952,no I won't .,co pro:sub mod .,ENG ENG ENG,0
+953,are you a wild person ?,cop pro:per det:art adj n ?,ENG ENG ENG ENG ENG,0
+954,no .,co .,ENG,0
+955,you are not a party person ?,pro:per cop neg det:art n n ?,ENG ENG ENG ENG ENG ENG,0
+956,no .,co .,ENG,0
+957,I am actually going this Saturday for like the first time to a club .,pro:sub aux adv part det:dem n:prop prep co det:art adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+958,really you are not a club person either ?,adv pro:per cop neg det:art n n adv ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+959,no .,co .,ENG,0
+960,wow all right that's fine .,co adv adj pro:dem adj .,ENG ENG ENG ENG ENG,0
+961,there's nothing wrong with that .,pro:exist pro:indef adj prep pro:dem .,ENG ENG ENG ENG ENG,0
+962,I guess there is more to life than clubs .,pro:sub n adv cop adv prep n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+963,so what do you do on the weekends then yeah no and there is .,adv pro:int mod pro:per v prep det:art n adv:tem co co coord adv cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+964,well well I was when I turned .,co n pro:sub cop conj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+965,qué música le gusta ?,pro:int adj pro:ind v ?,ENG ENG ENG ENG,0
+966,música de todo .,n prep det:indef .,ENG ENG ENG,0
+967,I like everything .,pro:sub v pro:indef .,ENG ENG ENG,0
+968,yeah .,co .,ENG,0
+969,it just depends on the song .,pro:per adv v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+970,okay .,co .,ENG,0
+971,if I like it doesn't matter the genre if it's country if it's pop rock anything .,conj pro:sub v pro:per mod v det:art n conj pro:per n conj pro:per n n pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+972,as long as I Iike the song .,prep adj conj pro:sub n:prop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+973,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+974,like the thing was when I turned fifteen I met this guy .,prep det:art n cop conj pro:sub part det:num pro:sub v det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+975,we were together for four years .,pro:sub cop adv prep det:num n .,ENG ENG ENG ENG ENG ENG,0
+976,mhm .,co .,ENG,0
+977,wow .,co .,ENG,0
+978,and he was very machista .,coord pro:sub cop adv L2 .,ENG ENG ENG ENG ESP,1
+979,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+980,and he isolated me from everybody from my friends .,coord pro:sub v pro:obj prep pro:indef prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+981,oh .,co .,ENG,0
+982,and I mean it was my fault in the way that I allowed him to do that .,coord pro:sub v pro:per cop det:poss n prep det:art n pro:rel pro:sub v pro:obj inf v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+983,but ...,conj +...,ENG,0
+984,I got you .,pro:sub v pro:per .,ENG ENG ENG,0
+985,it happened .,pro:per v .,ENG ENG,0
+986,.,None,,0
+987,yeah .,co .,ENG,0
+988,and then we broke up .,coord adv:tem pro:sub v adv .,ENG ENG ENG ENG ENG,0
+989,well I broke up with him .,co pro:sub v adv prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+990,thank God that was over .,v n:prop pro:rel cop adv .,ENG ENG ENG ENG ENG,0
+991,and the friends that you had when you were fifteen you know people change .,coord det:art n pro:rel pro:per v conj pro:per cop det:num pro:per v n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+992,in four years specially those years from fifteen to nineteen you change a lot .,prep det:num n adv det:dem n prep det:num prep det:num pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+993,oh yeah definitely .,co co adv .,ENG ENG ENG,0
+994,and I tried you know to go back to those old friendships .,coord pro:sub v pro:per v inf v adv prep det:dem adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+995,but it wasn't the same .,conj pro:per cop det:art adj .,ENG ENG ENG ENG ENG,0
+996,oh I see .,co pro:sub v .,ENG ENG ENG,0
+997,obviously you can't expect to find the same thing you left four years before .,adv pro:per mod v inf v det:art adj n pro:per v det:num n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+998,no no no .,co co co .,ENG ENG ENG,0
+999,and obviously there's grudges from people you know .,coord adv pro:exist n prep n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1000,you leave .,pro:per v .,ENG ENG,0
+1001,and .,coord .,ENG,0

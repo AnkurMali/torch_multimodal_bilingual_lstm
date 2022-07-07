@@ -1,0 +1,885 @@
+,sentence,pos,language,switch
+0,no se andan juntando con todo el mundo me entiendes o sea que no hay ...,adv pro:refl v ger prep det:indef det:art n pro:obj v coord cop pro:rel adv v +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+1,no hay drama .,adv v n .,ESP ESP ESP,0
+2,sí exactamente lo que te iba a decir .,co adv:adj pro:obj pro:rel pro:obj v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+3,.,None,,0
+4,no hay lugar para drama me entiendes .,adv v n prep n pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+5,o sea sólo son ellos dos me entiendes no /.,coord cop adv cop pro:sub det:num pro:obj v adv +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+6,nunca salen y nada .,adv v coord v .,ESP ESP ESP ESP,0
+7,a sí no hay como que anduvieron que hablando que no sé qué que no se cuánto .,aprep co adv v adv pro:rel v pro:rel ger pro:rel adv v pro:int pro:rel adv pro:refl det:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+8,y porque ya ninguno de los dos sale me entiendes entonces ...,coord conj adv det:indef prep det:art det:num v pro:obj v adv +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+9,si Marcano nunca ha salido .,conj n:prop adv aux part .,ESP ESP ESP ESP ESP,0
+10,no pues sí pues pero y ella pues ya no sale entonces .,adv co co co conj coord pro:sub co adv adv v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+11,entonces ella como que no hay ...,adv pro:sub adv pro:rel adv v +...,ESP ESP ESP ESP ESP ESP,0
+12,te vieron no sé dónde que no se .,pro:obj v adv v pro:int pro:rel adv pro:refl .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+13,porque siempre están juntos me entiendes .,conj adv cop adj pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+14,no hay ...,adv v +...,ESP ESP,0
+15,es que mira en realidad sí .,cop pro:rel v prep n co .,ESP ESP ESP ESP ESP ESP,0
+16,si quieres tener una relación seria tiene que hacerlo porque la gente /.,conj v inf det:art n adj v pro:rel inf conj det:art n +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+17,pues sí .,co co .,ESP ESP,0
+18,o sea tampoco así pues porque los majes se han aislado completamente pero ...,coord cop adv adv co conj pro:obj n pro:refl aux adj adv:adj conj +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+19,pero pues no dejar que nadie se meta me entiendes porque la gente siempre le encanta meterse en las mierdas de uno .,conj co adv inf prep pro:indef pro:refl v pro:obj v conj pro:obj n adv pro:ind v inf prep det:art n imp pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+20,está well estoy de acuerdo .,aux L2 aux imp v .,ESP ENG ESP ESP ESP,1
+21,y el trabajo como va al fin ya te fuiste del ...,coord det:art v adv v aprep n adv pro:obj v prep +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+22,no ya pues este fui .,adv adv co det:dem v .,ESP ESP ESP ESP ESP,0
+23,pero salí temprano después que me fui estuve un rato .,conj v adj adv pro:rel pro:obj v aux det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+24,y me dijeron que la vía está mala pues porque tenía como media hora que me una llamada .,coord pro:obj v pro:rel det:art n cop adj co conj v adv adj n pro:rel pro:obj pro:dem part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+25,.,None,,0
+26,y yo como si idiay pues .,coord pro:sub adv conj co co .,ESP ESP ESP ESP ESP ESP,0
+27,y qué pasó pues .,coord pro:int v co .,ESP ESP ESP ESP,0
+28,no es tan mala .,adv cop adv adj .,ESP ESP ESP ESP,0
+29,"me dice vete para tu casa "".","pro:obj v imp prep det:pos imp +"".",ESP ESP ESP ESP ESP ESP,0
+30,qué de a verga !,pro:int v aprep n !,ESP ESP ESP ESP,0
+31,y me pagan el resto del día entonces no sé /.,coord pro:obj v det:art n prep n adv adv v +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+32,qué de_a_cachimba !,pro:int adj !,ESP ESP,0
+33,está rebien .,cop adj .,ESP ESP,0
+34,y no has aplicado todavía ?,coord adv aux part adv ?,ESP ESP ESP ESP ESP,0
+35,yo apliqué online .,pro:sub v adj .,ESP ESP ESP,0
+36,apliqué con este maje de Ryan me ayudó por teléfono .,v prep imp n prep n:prop pro:obj v prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+37,pero me dijo que todavía no iba a estar contratando hasta no sé cuándo .,conj pro:obj v pro:rel adv adv v aprep inf ger prep adv v pro:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+38,cuándo cuándo fue que aplicaste ?,pro:int pro:int cop pro:rel v ?,ESP ESP ESP ESP ESP,0
+39,como en no sé como a principio de febrero enero por ahí .,adv prep adv v adv aprep n prep n n prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+40,vuelve a aplicar .,v aprep inf .,ESP ESP ESP,0
+41,a la puta qué boluda bróder .,aprep det:art n pro:int adj n .,ESP ESP ESP ESP ESP ESP,0
+42,no queda /.,adv v +/.,ESP ESP,0
+43,cachimbo de paso .,adj prep co .,ESP ESP ESP,0
+44,vas a ver que te contratan después .,v aprep inf pro:rel pro:obj v adv .,ESP ESP ESP ESP ESP ESP ESP,0
+45,qué boluda pero un cachimbo de paso .,pro:int adj conj det:art adj v co .,ESP ESP ESP ESP ESP ESP ESP,0
+46,sí estuve en el teléfono con Laian un cachimbo tiempo bróder .,co aux prep det:art n prep n:prop det:art adj n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+47,una palabra y ...,det:art n coord +...,ESP ESP ESP,0
+48,y al fin no ibas a entrar en Américan Airlines o algo así ?,coord aprep n adv v aprep inf prep n:prop n:prop coord pro:dem adv ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+49,es que brother mira .,cop pro:rel L2 co .,ESP ESP ENG ESP,1
+50,vos sabéis que me sofoco con la llamada en los hoteles .,pro:obj v pro:rel pro:obj v prep det:art part prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+51,ajá .,co .,ESP,0
+52,ahora con llamadas a American_Airlines me voy a sofocar muchísimo más .,adv prep part aprep n:prop pro:obj v aprep inf det:indef adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+53,a huevo me imagino no pero idiay .,aprep n pro:obj v adv conj co .,ESP ESP ESP ESP ESP ESP ESP,0
+54,okay o sea una estadía en un hotel te lo pueden componer me entiendes .,co coord cop det:art n prep det:art n pro:obj pro:obj v inf pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+55,.,None,,0
+56,pero un viaje o sea sí te equivocáis o algo y el cliente se va a poner /.,conj det:art n coord cop co pro:obj v coord pro:dem coord det:art n pro:refl v aprep inf +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+57,a huevo se enturcan y te gritan bróder es es increíble pero ...,aprep n pro:refl v coord pro:obj v n cop cop adj conj +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+58,pero te pegan unas puteadas loco .,conj pro:obj v det:art n adj .,ESP ESP ESP ESP ESP ESP,0
+59,no si yo también un amigo me estaba consiguiendo para Taca .,adv conj pro:sub adv det:art n pro:obj aux ger prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+60,ahhah .,co .,ESP,0
+61,pero o sea que pagan bien .,conj coord cop pro:rel v adv .,ESP ESP ESP ESP ESP ESP,0
+62,me entiendes pero .,pro:obj v conj .,ESP ESP ESP,0
+63,pagan bien .,v adv .,ESP ESP,0
+64,y los descuentos que recibís .,coord det:art n pro:rel v .,ESP ESP ESP ESP ESP,0
+65,sólo pagas taxes //.,adv v L2 +//.,ESP ESP ENG,1
+66,ah huevo .,co n .,ESP ESP,0
+67,para viajar .,prep inf .,ESP ESP,0
+68,a no pero es que me dijo este mi amigo que el ya ha trabajo ahí que es como que lo más es te dan descuento del pasaje más alto sí o sea del pasaje más caro .,aprep adv conj cop pro:rel pro:obj v det:dem det:pos n pro:rel det:art adv aux v adv pro:rel cop adv pro:rel pro:obj adv cop pro:obj v v prep n adv adj co coord cop prep n adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+69,.,None,,0
+70,entonces es como que hay sus pros y sus contras me entiendes .,adv cop adv pro:rel v co n coord co n pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+71,pero bueno idiay ...,conj co co +...,ESP ESP ESP,0
+72,qué hiciste el fin de semana ?,pro:int v det:art n prep n ?,ESP ESP ESP ESP ESP ESP,0
+73,cómo ?,pro:int ?,ESP,0
+74,qué hiciste este fin de semana ?,pro:int v det:dem n prep n ?,ESP ESP ESP ESP ESP ESP,0
+75,el viernes fui a la casa de un bróder .,det:art n v aprep det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+76,donde Manu ?,pro:rel n:prop ?,ESP ESP,0
+77,el ?,det:art ?,ESP,0
+78,donde Manu ?,pro:rel n:prop ?,ESP ESP,0
+79,no se llama pues enfrente donde Manu .,adv pro:refl v co adv pro:rel n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+80,se llama Moncho el maje .,pro:refl v n:prop det:art n .,ESP ESP ESP ESP ESP,0
+81,y después de eso nos fuimos a la casa de Filberto .,coord adv prep pro:dem pro:obj v aprep det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+82,el otro maje que andaba ahí con nosotros en Bahama_Breeze .,det:art pro:indef n pro:rel v adv prep pro:sub prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+83,y ahí estuvimos pues .,coord adv aux co .,ESP ESP ESP ESP,0
+84,yo pues ahí me quedé a dormir y todo .,pro:sub co adv pro:obj v aprep inf coord pro:indef .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+85,pues supuestamente íbamos a tapinear pero al final yo no tomé pues .,co adv:adj v aprep inf conj aprep adj pro:sub adv v co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+86,entonces pero igual ahí me quedé a dormir .,co conj co adv pro:obj v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+87,después el sábado nos fuimos ahí a la casa de Manu .,adv det:art n pro:obj v adv aprep det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+88,y ahí estuvimos pues toda toda la tarde y toda la noche pues jugando board games y jodiendo .,coord adv aux conj det:indef det:indef det:art adv coord det:indef det:art n conj ger L2 L2 coord ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP,1
+89,me entiendes ?,pro:obj v ?,ESP ESP,0
+90,pues .,co .,ESP,0
+91,después el domingo no hice ni turca .,adv det:art n adv v coord n .,ESP ESP ESP ESP ESP ESP ESP,0
+92,aquí pasé encerrado .,adv v part .,ESP ESP ESP,0
+93,y nada más .,coord v adv .,ESP ESP ESP,0
+94,ni sé qué día es hoy .,coord v pro:int n cop adv .,ESP ESP ESP ESP ESP ESP,0
+95,.,None,,0
+96,y vos qué hiciste ?,coord pro:obj pro:int v ?,ESP ESP ESP ESP,0
+97,no vos conocéis a Landew pues el maje bajó de pues anda aquí de pues en un break .,adv pro:obj v aprep n:prop co det:art n v prep co co adv prep co prep det:art L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+98,y vino con la novia .,coord v prep det:art n .,ESP ESP ESP ESP ESP,0
+99,mhm .,L2 .,ENG,0
+100,y entonces salimos la novia él yo dos amigas y el primo de él .,coord adv v det:art n pro:sub pro:sub det:num n coord det:art n prep pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+101,viste pues fuimos al mall .,v conj v aprep L2 .,ESP ESP ESP ESP ENG,1
+102,y después fuimos a un house_party en la casa de un amigo de él .,coord adv v aprep det:art L2 prep det:art n prep det:art n prep pro:sub .,ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+103,mhm .,L2 .,ENG,0
+104,y whatever .,coord L2 .,ESP ENG,1
+105,nada del otro mundo la verdad .,pro:indef prep det:indef n det:art co .,ESP ESP ESP ESP ESP ESP,0
+106,no hice nada del otro mundo .,adv v pro:indef prep det:indef n .,ESP ESP ESP ESP ESP ESP,0
+107,el domingo no hice nada .,det:art n adv v pro:indef .,ESP ESP ESP ESP ESP,0
+108,ya y no no has hablado con la Lea ...,adv coord adv adv aux part prep det:art n:prop +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+109,hablé con la Lea el sábado que me llamó para putearnos porque no fui a la fiesta de Din .,v prep det:art n:prop det:art n pro:rel pro:obj v prep inf conj adv v aprep det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+110,en serio ?,prep adj ?,ESP ESP,0
+111,la verdad es que no tenía ganas de ir .,det:art n cop pro:rel adv v v prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+112,yo no he hablado con ella de la vez de Bahama_Brize .,pro:sub adv aux part prep pro:sub prep det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+113,en serio ?,prep adj ?,ESP ESP,0
+114,like literally para nada he hablado con ella /.,L2 L2 prep imp aux part prep pro:sub +/.,ENG ENG ESP ESP ESP ESP ESP ESP,1
+115,ella está clavada con su Ruto .,pro:sub cop part prep det:pos n:prop .,ESP ESP ESP ESP ESP ESP,0
+116,ni chat ni nada .,coord n coord v .,ESP ESP ESP ESP,0
+117,?,None,,0
+118,está con su Ruto .,cop prep det:pos n:prop .,ESP ESP ESP ESP,0
+119,maje definitivamente o sea .,n adv:adj coord cop .,ESP ESP ESP ESP,0
+120,y a mí pues que el Ruto no me no sé lo mastico pero no me lo trago .,coord aprep pro:prep co pro:rel det:art n:prop adv pro:obj adv v pro:obj v conj adv pro:obj pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+121,a mí no me cae muy bien .,aprep pro:prep adv pro:obj v adv adv .,ESP ESP ESP ESP ESP ESP ESP,0
+122,a mí tampoco entonces /.,aprep pro:prep adv adv +/.,ESP ESP ESP ESP,0
+123,ni Fred .,coord n:prop .,ESP ESP,0
+124,?,None,,0
+125,ni Fred .,coord n:prop .,ESP ESP,0
+126,no a mí Fred sí .,adv aprep pro:prep n:prop co .,ESP ESP ESP ESP ESP,0
+127,pues yo a Fred tengo siglos de conocerlo .,co pro:sub aprep n:prop v n prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+128,yo lo conozco desde high_school me entiendes .,pro:sub pro:obj v prep L2 pro:obj v .,ESP ESP ESP ESP ENG ESP ESP,1
+129,y pues no es que sea mi bróder ni nada .,coord co adv cop pro:rel cop det:pos n coord v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+130,pero pues me cae regular pues me cae bien .,conj co pro:obj v adj co pro:obj v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+131,ves y pero este Ruto no sé no me da buena espina .,v coord conj imp n:prop adv v adv pro:obj v adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+132,y como que ...,coord adv pro:rel +...,ESP ESP ESP,0
+133,no sé pues .,adv v co .,ESP ESP ESP,0
+134,la pues .,det:art co .,ESP ESP,0
+135,if it's good for her .,L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG,0
+136,me entiendes le ...,pro:obj v pro:ind +...,ESP ESP ESP,0
+137,si ella lo quiere y eso pues .,conj pro:sub pro:obj v coord pro:dem co .,ESP ESP ESP ESP ESP ESP ESP,0
+138,cosa de ella me entiendes pero .,v prep pro:sub pro:obj v conj .,ESP ESP ESP ESP ESP ESP,0
+139,pero ojalá que no la cague pues me entiendes .,conj co pro:rel adv pro:obj v co pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+140,ay no a huevo loco .,co adv aprep n adj .,ESP ESP ESP ESP ESP,0
+141,porque vos sabéis que la Lea es bien sensible bien sentimental .,conj pro:obj v pro:rel det:art n:prop cop adv adj adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+142,y pues si si el maje la corta la Lea se va ahuevar .,coord co conj conj det:art n pro:obj v det:art n:prop pro:refl v inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+143,pues sí no pero es que el maje ha insistido tanto con ella pues .,co co adv conj cop pro:rel det:art n aux part det:indef prep pro:sub co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+144,like no sé pues como que se está alejando de mí la maje por salir con el maje me entiendes .,L2 adv v co adv pro:rel pro:refl aux ger prep pro:prep det:art n prep inf prep det:art n pro:obj v .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+145,sí .,co .,ESP,0
+146,entonces es como que ...,adv cop adv pro:rel +...,ESP ESP ESP ESP,0
+147,bueno idiay cosa de ella me entiendes .,co co v prep pro:sub pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+148,she knows de que I'm gonna be here whenever she needs me pues pero ...,L2 L2 prep pro:rel n:prop:L2 L2 L2 L2 L2 L2 L2 L2 co conj +...,ENG ENG ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+149,a huevo .,aprep n .,ESP ESP,0
+150,pero no sé o sea .,conj adv v coord cop .,ESP ESP ESP ESP ESP,0
+151,no después de Bahama_Breeze hablé con ella creo que el siguiente día que salimos Filberto Manu y yo .,adv adv prep n:prop v prep pro:sub v pro:rel det:art adj n pro:rel v n:prop n:prop coord pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+152,ah huevo .,co n .,ESP ESP,0
+153,y entonces pues supuestamente el plan del día de Bahama_Breeze era que íbamos a salir todos juntos me entiendes ?,coord adv co adv:adj det:art n prep n prep n:prop cop pro:rel v aprep inf det:indef adj pro:obj v ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+154,mhm .,L2 .,ENG,0
+155,o sea ella estaba ahí .,coord cop pro:sub cop adv .,ESP ESP ESP ESP ESP,0
+156,pues dijo que sí que iba a ir con nosotros que no sé cuánto .,co v pro:rel co pro:rel v aprep inf prep pro:sub pro:rel adv v det:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+157,y la maje como que hagamos algo bacanal algo desturque que no sé cuánto .,coord det:art n adv pro:rel v pro:dem n pro:dem adj pro:rel adv v det:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+158,y entonces todo de a verga pues .,coord adv det:indef prep aprep n co .,ESP ESP ESP ESP ESP ESP ESP,0
+159,ah huevo .,co n .,ESP ESP,0
+160,de eso habíamos planeado .,prep pro:dem aux part .,ESP ESP ESP ESP,0
+161,pero después la maje como que no sé me estoy desanimando hagamos algo chill .,conj adv det:art n adv pro:rel adv v pro:obj aux ger v pro:dem L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+162,y yo okay pues .,coord pro:sub co co .,ESP ESP ESP ESP,0
+163,entonces ya después al rato .,adv adv adv aprep n .,ESP ESP ESP ESP ESP,0
+164,no sé vamos al cine .,adv v co aprep n .,ESP ESP ESP ESP ESP,0
+165,"me dice la maje "".","pro:obj v det:art n +"".",ESP ESP ESP ESP,0
+166,y yo .,coord pro:sub .,ESP ESP,0
+167,vamos pues .,co co .,ESP ESP,0
+168,"le digo "".","pro:ind v +"".",ESP ESP,0
+169,a ver qué ?,aprep inf pro:int ?,ESP ESP ESP,0
+170,ya sabéis .,adv v .,ESP ESP,0
+171,"me dice Step_Up_Two "".","pro:obj v n:prop +"".",ESP ESP ESP,0
+172,y esa película pues para nada que me llama la atención .,coord det:dem n co prep v pro:rel pro:obj v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+173,.,None,,0
+174,"entonces bueno le digo ""/.","co co pro:ind v +""/.",ESP ESP ESP ESP,0
+175,al final creo que terminaría yendo a ver Step_up_two .,aprep adj v pro:rel v ger aprep inf n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+176,"le digo "".","pro:ind v +"".",ESP ESP,0
+177,pero seguramente pues va a ir Ruto .,conj adv:adj co v aprep inf n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+178,y pues you know what I think .,coord co L2 L2 L2 n:prop:L2 L2 .,ESP ESP ENG ENG ENG ESP ENG,1
+179,"le digo entonces "".","pro:ind v adv +"".",ESP ESP ESP,0
+180,va a ir quién ?,v aprep inf pro:int ?,ESP ESP ESP ESP,0
+181,va Ruto va a ir ?,v n:prop v aprep inf ?,ESP ESP ESP ESP ESP,0
+182,ah ?,co ?,ESP,0
+183,supuestamente dijiste que iba a ir Ruto .,adv:adj v pro:rel v aprep inf n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+184,"sí yo le dije ""/.","co pro:sub pro:ind v +""/.",ESP ESP ESP ESP,0
+185,entonces la película pues vale verga al final pues la voy a terminar la voy a terminar de ver por vos .,adv det:art n co co n aprep adj co pro:obj v aprep inf pro:obj v aprep inf prep inf prep pro:obj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+186,"le digo "".","pro:ind v +"".",ESP ESP,0
+187,pero sé que va a ir Ruto .,conj v pro:rel v aprep inf n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+188,"le digo "".","pro:ind v +"".",ESP ESP,0
+189,entonces prefiero mejor ...,adv v adj +...,ESP ESP ESP,0
+190,like para sentirme incómodo para qué me entiendes .,L2 prep inf adj prep pro:int pro:obj v .,ENG ESP ESP ESP ESP ESP ESP ESP,1
+191,"entonces le digo ""/.","adv pro:ind v +""/.",ESP ESP ESP,0
+192,pues disfrutala pues pasala bien .,co imp co imp adv .,ESP ESP ESP ESP ESP,0
+193,y la maje como que ah okay que no sé qué .,coord det:art n adv pro:rel co co pro:rel adv v pro:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+194,y nunca más ni me volvió a escribir .,coord adv adv coord pro:obj v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+195,ni ni a llamar ni ni verga .,coord coord aprep inf coord coord n .,ESP ESP ESP ESP ESP ESP ESP,0
+196,entonces como que .,adv adv pro:rel .,ESP ESP ESP,0
+197,.,None,,0
+198,y cómo van las y cuánto es ya te vas a graduar verdad .,coord pro:int v det:art coord det:int cop adv pro:obj v aprep inf co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+199,seis semanas me quedan .,det:num n pro:obj v .,ESP ESP ESP ESP,0
+200,la puta ya casi estás en Nicaragua pues .,det:art adj adv adv cop prep n:prop co .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+201,no sé fíjate .,adv v imp .,ESP ESP ESP,0
+202,?,None,,0
+203,no sé fíjate ya ...,adv v imp adv +...,ESP ESP ESP ESP,0
+204,es que mira yo te digo sinceramente o sea con la carrera que estás llevando en Nicaragua no /.,cop pro:rel co pro:sub pro:obj v adv:adj coord cop prep det:art n pro:rel aux ger prep n:prop adv +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+205,no yo sé .,adv pro:sub v .,ESP ESP ESP,0
+206,o sea es que el no sé like están pasando un montón de cosas en mi vida ahorita .,coord cop cop pro:rel det:art adv v L2 aux ger det:art n prep v prep det:pos co:voc adv .,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+207,es que como que me están cambiando mi vida y mi rumbo me entiendes entonces ...,cop pro:rel adv pro:rel pro:obj aux ger det:pos co:voc coord det:pos n pro:obj v adv +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+208,yo soy de la opinión pues de que la verdad que con te iría mejor aquí .,pro:sub cop prep det:art n co prep pro:rel pro:obj co pro:rel prep pro:obj v adj adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+209,no pues sí o sea like creo que al final terminaré quedándome aunque no quiera pues pero idiay .,adv co co coord cop L2 v pro:rel aprep adj v ger conj adv v co conj co .,ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+210,pero te vas a ir todo el summer para allá .,conj pro:obj v aprep inf det:indef det:art L2 prep adv .,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+211,no no no no creo .,adv adv adv adv v .,ESP ESP ESP ESP ESP,0
+212,no tengo reales para eso .,adv v re#v prep pro:dem .,ESP ESP ESP ESP ESP,0
+213,hasta cuándo piensas ir ?,prep pro:int v inf ?,ESP ESP ESP ESP,0
+214,será hasta Diciembre si Dios quiere .,cop prep n:prop conj n:prop v .,ESP ESP ESP ESP ESP ESP,0
+215,ahorita que te gradúes vas a empezar a buscar trabajo .,adv pro:rel pro:obj v v aprep inf aprep inf v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+216,sí sí o sea estoy bien en mi trabajo en Univisión .,co co coord cop cop adv prep det:pos v prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+217,con eso lo estoy de a verga .,prep pro:dem pro:obj aux v aprep n .,ESP ESP ESP ESP ESP ESP ESP,0
+218,eso no lo suelto por nada del mundo .,pro:dem adv pro:obj v prep imp prep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+219,no yo sé pero te digo o sea ya en tu carrera me entiendes ?,adv pro:sub v conj pro:obj v coord cop adv prep det:pos n pro:obj v ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+220,tal vez no sé .,adj n adv v .,ESP ESP ESP ESP,0
+221,o sea igual en Univisión lo que estoy haciendo es programas de cocina y eso idiay .,coord cop co prep n:prop pro:obj prep aux ger cop n prep n coord pro:dem co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+222,I would rather dejar mi carrera a un lado por quedarme en Univisión me entiendes like ...,n:prop:L2 L2 L2 inf det:pos n aprep det:art n prep inf prep n:prop pro:obj v L2 +...,ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+223,sí bueno tal vez puedes hacer se pueda hacer con Univisión me entiendes .,co co adj n v inf imp imp inf prep n:prop pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+224,mhm pues a huevo .,L2 co aprep n .,ENG ESP ESP ESP,1
+225,ahí vi que ah conociste a los de Rebelde .,adv v pro:rel co v aprep det:art prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+226,ahí vi en la foto .,adv v prep det:art n .,ESP ESP ESP ESP ESP,0
+227,ah sí viste las fotos en Facebook .,co co v det:art n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+228,sí .,co .,ESP,0
+229,no es que lo que pasa es de que o sea los majes siempre llegan .,adv cop pro:rel pro:obj pro:rel v cop prep pro:rel coord cop det:art n adv v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+230,pero siempre andan como con mil seguridad bróder .,conj adv v adv prep n n n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+231,y esta vez los majes andaban como Pedro por su casa .,coord det:dem n pro:obj n v adv n:prop prep det:pos imp .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+232,entonces they were like more available .,adv L2 L2 L2 L2 L2 .,ESP ENG ENG ENG ENG ENG,1
+233,entonces pude tomar fotos pero la cámara siempre le anda ...,adv v inf n conj pro:obj n adv pro:ind v +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+234,yeah .,co .,ESP,0
+235,bueno .,co .,ESP,0
+236,ya .,adv .,ESP,0
+237,y qué planes tenéis vos para el fin de semana ?,coord pro:int n v pro:obj prep det:art n prep n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+238,para este fin de semana ?,prep imp n prep n ?,ESP ESP ESP ESP ESP,0
+239,el viernes voy a salir con Manu y Filberto .,det:art n v aprep inf prep n:prop coord n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+240,no sé pues todavía estamos viendo como qué vamos a hacer Manu y Filberto el //.,adv v co adv aux ger adv pro:int v aprep inf n:prop coord n:prop det:art +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+241,hagamos algo ?,v pro:dem ?,ESP ESP,0
+242,ah yeah ven con nosotros .,co L2 imp prep pro:sub .,ESP ENG ESP ESP ESP,1
+243,we wanna do like algo bacanal me entiendes vamos ...,L2 L2 L2 L2 pro:dem n pro:obj v v +...,ENG ENG ENG ENG ESP ESP ESP ESP ESP,1
+244,a huevo .,aprep n .,ESP ESP,0
+245,Manu Filberto Moncho y yo y ...,n:prop n:prop n:prop coord pro:sub coord +...,ESP ESP ESP ESP ESP ESP,0
+246,bueno me apunto vamos .,co pro:obj v co .,ESP ESP ESP ESP,0
+247,bueno te aviso pues .,co pro:obj v co .,ESP ESP ESP ESP,0
+248,hagamos algo .,v pro:dem .,ESP ESP,0
+249,todavía no es seguro .,adv adv cop co .,ESP ESP ESP ESP,0
+250,y el sábado pues mi mamá se va para Nicaragua .,coord det:art n co det:pos n pro:refl v prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+251,qué rico !,pro:int adj !,ESP ESP,0
+252,y entonces no sé .,coord adv adv v .,ESP ESP ESP ESP,0
+253,creo que we are gonna get together aquí en mi casa .,v pro:rel L2 L2 L2 L2 L2 adv prep det:pos imp .,ESP ESP ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+254,o no sé .,coord adv v .,ESP ESP ESP,0
+255,pues igual yo te aviso .,co co pro:sub pro:obj v .,ESP ESP ESP ESP ESP,0
+256,you know you are welcome pues .,L2 L2 L2 L2 L2 co .,ENG ENG ENG ENG ENG ESP,1
+257,claro gracias .,co n .,ESP ESP,0
+258,.,None,,0
+259,ves así que a ver qué onda pues ?,v adv pro:rel aprep inf pro:int n co ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+260,porque todavía estamos viendo como que qué hacemos el viernes .,conj adv aux ger adv pro:rel pro:int v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+261,porque estos majes están como que queremos ir a bailar queremos ir a un solo desturque .,conj det:dem n cop adv pro:rel v inf aprep inf v inf aprep det:art adj adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+262,algo bacanal .,pro:dem n .,ESP ESP,0
+263,sí algo desturque .,co pro:dem adj .,ESP ESP ESP,0
+264,and I'm like fine pues .,L2 n:prop:L2 L2 L2 co .,ENG ESP ENG ENG ESP,1
+265,porque yo tengo siglos de no ir a bailar me entiendes .,conj pro:sub v n prep adv inf aprep inf pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+266,oh huevo .,co n .,ESP ESP,0
+267,y pues sí pues .,coord co co co .,ESP ESP ESP ESP,0
+268,y .,coord .,ESP,0
+269,y vos no tenéis planes ?,coord pro:obj adv v n ?,ESP ESP ESP ESP ESP,0
+270,pues todavía no tengo ningún plan específico .,co adv adv v det:indef n adj .,ESP ESP ESP ESP ESP ESP ESP,0
+271,yo creo un día de estos viene uno de mis mejores amigos de Nicaragua .,pro:sub v det:art n imp det:dem v pro:dem prep det:pos adj n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+272,te acuerdas de Mini_Gente Armando el chiquitito .,pro:obj v prep n:prop n:prop det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+273,Pocket_Person !,n:prop !,ESP,0
+274,Pocket_Person ese es .,n:prop det:dem cop .,ESP ESP ESP,0
+275,en serio ?,prep adj ?,ESP ESP,0
+276,viene el dieciocho espérate qué fecha huevón ?,v det:art det:num imp pro:int n n ?,ESP ESP ESP ESP ESP ESP ESP,0
+277,ah no la próxima semana es que viene Armando .,co adv det:art adj n cop pro:rel v n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+278,entonces idiay cuando venga Armando pues lo voy a sacar y todo pues para que salga con nosotros .,co co conj v n:prop co pro:obj v aprep inf coord pro:indef co prep pro:rel v prep pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+279,avísame ese maje no sé .,imp det:dem n adv v .,ESP ESP ESP ESP ESP,0
+280,o sea yo nunca me lo han presentado ni mi turca .,coord cop pro:sub adv pro:obj pro:obj aux part coord det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+281,pero no sé siempre me ha dado la curiosidad de conocerlo .,conj adv v adv pro:obj aux part det:art n prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+282,se mira buena gente pues .,pro:refl v adj n co .,ESP ESP ESP ESP ESP,0
+283,es mirá .,cop co .,ESP ESP,0
+284,te cagas de la risa .,pro:obj v prep det:art n .,ESP ESP ESP ESP ESP,0
+285,divertidísimo buenísimo es él .,adj adj cop pro:sub .,ESP ESP ESP ESP,0
+286,también es uno de mis mejores amigos .,adv cop det:art prep det:pos adj n .,ESP ESP ESP ESP ESP ESP ESP,0
+287,desde chiquito lo conozco .,prep adj pro:obj v .,ESP ESP ESP ESP,0
+288,a huevo entonces creo que yo lo tengo en mi Facebook Armando Cura no ?,aprep n adv v pro:rel pro:sub pro:obj v prep det:pos n:prop n:prop n:prop adv ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+289,sí Armando Cura .,co n:prop n:prop .,ESP ESP ESP,0
+290,sí creo que a no lo tengo .,co v pro:rel aprep adv pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+291,yo lo había agregado sí o no ?,pro:sub pro:obj aux part co coord adv ?,ESP ESP ESP ESP ESP ESP ESP,0
+292,bueno no sé .,co adv v .,ESP ESP ESP,0
+293,salgamos que de a verga .,v pro:rel prep aprep n .,ESP ESP ESP ESP ESP,0
+294,que el maje por cuánto tiempo viene ?,pro:rel det:art n prep det:int n v ?,ESP ESP ESP ESP ESP ESP ESP,0
+295,creo que viene por diez días .,v pro:rel v prep det:num n .,ESP ESP ESP ESP ESP ESP,0
+296,viene por poquito viene .,v prep det:indef v .,ESP ESP ESP ESP,0
+297,sí por poquito .,co prep pro:indef .,ESP ESP ESP,0
+298,sólo viene a pasar el spring_break y ...,adv v aprep inf det:art L2 coord +...,ESP ESP ESP ESP ESP ENG ESP,1
+299,ah pues semana santa no ?,co co n n adv ?,ESP ESP ESP ESP ESP,0
+300,como al veinticinco ocho días algo así .,adv aprep det:num det:num n pro:dem adv .,ESP ESP ESP ESP ESP ESP ESP,0
+301,viene a pasar semana santa no ?,v aprep inf n n adv ?,ESP ESP ESP ESP ESP ESP,0
+302,viene por la semana santa nada más .,v prep det:art n n v adv .,ESP ESP ESP ESP ESP ESP ESP,0
+303,.,None,,0
+304,hay no joda esa gente que está en Nicaragua debe venir loco .,v adv v det:dem n pro:rel cop prep n:prop v inf adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+305,me vengo para acá .,pro:obj v prep adv .,ESP ESP ESP ESP,0
+306,rico me quedo en el mar bróder .,adj pro:obj v prep det:art n n .,ESP ESP ESP ESP ESP ESP ESP,0
+307,no pero él no está en Nicaragua él está en México .,adv conj pro:sub adv cop prep n:prop pro:sub cop prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+308,está en México ?,cop prep n:prop ?,ESP ESP ESP,0
+309,sí .,co .,ESP,0
+310,o sea en diciembre que me lo encontré en Nicaragua el maje andaba de vacaciones ?,coord cop prep n pro:rel pro:obj pro:obj v prep n:prop det:art n v prep n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+311,andaba de vacaciones .,v prep n .,ESP ESP ESP,0
+312,el estudia en el Instituto_tecnológico_de_Monterrey .,det:art v prep det:art n:prop .,ESP ESP ESP ESP ESP,0
+313,a qué de verga pues no sé .,aprep pro:int prep n co adv v .,ESP ESP ESP ESP ESP ESP ESP,0
+314,México no es una de mis ciudades ...,n:prop adv cop det:art prep det:pos n +...,ESP ESP ESP ESP ESP ESP ESP,0
+315,sabes no es uno de mis países uhuh pero que de a verga pues y ...,v adv cop det:art prep det:pos n L2 conj pro:rel prep aprep n co coord +...,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP,1
+316,.,None,,0
+317,a ver qué onda pues que demos una salidita no sé .,aprep inf pro:int n co pro:rel v det:art part adv v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+318,le contar a mis bróder para ver se van a cagar de la risa cuando les cuente .,pro:ind inf aprep det:pos n prep inf pro:refl v aprep inf prep det:art n conj pro:ind v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+319,y uno de mis mejores amigos de Nicaragua Rober .,coord pro:dem prep det:pos adj n prep n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+320,ahhah .,co .,ESP,0
+321,el maje se va a venir a vivir aquí porque él estudiaba en el Lincoln /.,det:art n pro:refl v aprep inf aprep inf adv conj pro:sub v prep det:art n:prop +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+322,Rober qué ?,n:prop pro:int ?,ESP ESP,0
+323,Carrera .,n:prop .,ESP,0
+324,yo lo conozco ?,pro:sub pro:obj v ?,ESP ESP ESP,0
+325,no no creo que lo conozcas ?,adv adv v pro:rel pro:obj v ?,ESP ESP ESP ESP ESP ESP,0
+326,déjame ver si lo tengo .,imp inf conj pro:obj v .,ESP ESP ESP ESP ESP,0
+327,es que me suena muchísimo ese nombre .,cop pro:rel pro:obj v det:indef det:dem v .,ESP ESP ESP ESP ESP ESP ESP,0
+328,lo tengo si ves en mi Facebook él es el número uno .,pro:obj v conj v prep det:pos n:prop pro:sub cop det:art n pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+329,aquí está /.,adv cop +/.,ESP ESP,0
+330,.,None,,0
+331,pero bueno la cosa es que idiay lo corrieron del colegio por estar tapineando en clase .,conj co pro:obj v cop pro:rel co pro:obj v prep n prep inf ger prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+332,por estar qué ?,prep inf pro:int ?,ESP ESP ESP,0
+333,por estar bebiendo guaro claro .,prep inf ger n co .,ESP ESP ESP ESP ESP,0
+334,.,None,,0
+335,"entonces la cosa es que le dijeron al maje ""/.","adv pro:obj v cop pro:rel pro:ind v aprep n +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+336,pues mira vas a tener que hacer home_school .,co co v aprep inf pro:rel inf L2 .,ESP ESP ESP ESP ESP ESP ESP ENG,1
+337,"le dicen ""/.","pro:ind v +""/.",ESP ESP,0
+338,sólo vas a venir a presentar exámenes .,adv v aprep inf aprep inf n .,ESP ESP ESP ESP ESP ESP ESP,0
+339,y pero o sea no puedes ir a la fiesta de graduación ni a la graduación .,coord conj coord cop adv v inf aprep det:art n prep n coord aprep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+340,a la puta .,aprep det:art adj .,ESP ESP ESP,0
+341,claro /.,co +/.,ESP,0
+342,esa sí es cagada .,det:dem co cop part .,ESP ESP ESP ESP,0
+343,eso es horrible .,pro:dem cop adj .,ESP ESP ESP,0
+344,en puta loco .,prep n adj .,ESP ESP ESP,0
+345,te imaginas lo que es eso ?,pro:obj v pro:obj pro:rel cop pro:dem ?,ESP ESP ESP ESP ESP ESP,0
+346,sobre todo o sea no poder ir a la fiesta ni a la graduación qué triste de verdad /.,prep det:indef coord cop adv n inf aprep det:art n coord aprep det:art n pro:int adj v co +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+347,no eso sí es triste o sea .,adv pro:dem co cop adj coord cop .,ESP ESP ESP ESP ESP ESP ESP,0
+348,la graduación que es lo más /.,det:art n pro:rel cop pro:obj adv +/.,ESP ESP ESP ESP ESP ESP,0
+349,te lo .,pro:obj pro:obj .,ESP ESP,0
+350,si me dan a escoger entre la fiesta y la graduación prefiero la graduación .,conj pro:obj v aprep inf prep det:art n coord det:art n v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+351,a huevo .,aprep n .,ESP ESP,0
+352,eso es una vez en tu vida bróder fiestas van a haber un montón .,pro:dem cop det:art n prep det:pos co:voc n n v aprep inf det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+353,a huevo no yo prefiero ir a la fiesta hijo de puta .,aprep n adv pro:sub v inf aprep det:art n n prep adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+354,cómo ?,pro:int ?,ESP,0
+355,yo prefiero ir a la fiesta hijo .,pro:sub v inf aprep det:art n n .,ESP ESP ESP ESP ESP ESP ESP,0
+356,no yo prefiero .,adv pro:sub v .,ESP ESP ESP,0
+357,no es //.,adv cop +//.,ESP ESP,0
+358,.,None,,0
+359,qué te iba a decir /?,pro:int pro:obj v aprep inf +/?,ESP ESP ESP ESP ESP,0
+360,igual tal vez se termina colando por la fiesta .,co det:dem n pro:refl v ger prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+361,a no a huevo eso al final sí la verdad .,aprep adv aprep n pro:dem aprep adj co pro:obj co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+362,eso es facilísimo te colas y vale verga me entiendes .,pro:dem cop adj pro:obj n coord v n pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+363,sobre todo porque hacen esa cosa que es de máscara .,prep det:indef conj v det:dem v pro:rel cop prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+364,a sí es muy /.,aprep co cop adv +/.,ESP ESP ESP ESP,0
+365,muchísimo más fácil se le hace .,det:indef adv adj pro:refl pro:ind v .,ESP ESP ESP ESP ESP ESP,0
+366,por fin y qué más ?,prep n coord pro:int adv ?,ESP ESP ESP ESP ESP,0
+367,nada pues ni turca .,pro:indef co coord n .,ESP ESP ESP ESP,0
+368,y cuánto tiempo llevamos ya ?,coord det:int n v adv ?,ESP ESP ESP ESP ESP,0
+369,no sé como /.,adv v adv +/.,ESP ESP ESP,0
+370,siento como que llevamos como tres días ya platicando .,v adv pro:rel v adv det:num n adv ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+371,llevamos faltan diez todavía .,v v det:num adv .,ESP ESP ESP ESP,0
+372,faltan diez //.,v det:num +//.,ESP ESP,0
+373,es que lo llevan contados ?,cop pro:rel pro:obj v part ?,ESP ESP ESP ESP ESP,0
+374,sí .,co .,ESP,0
+375,a la gran puta no de puta yo pensé que falta más no jodas .,aprep det:art adj adj adv prep adj pro:sub v pro:rel v adv adv v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+376,faltan diez .,v det:num .,ESP ESP,0
+377,y por veinte dólares hablar media hora no le hace daño a nadie loco .,coord prep det:num n inf n n adv pro:ind v v aprep pro:indef adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+378,.,None,,0
+379,.,None,,0
+380,le voy a decir que me los deje .,pro:ind v aprep inf pro:rel pro:obj pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+381,y yo te los doy .,coord pro:sub pro:obj pro:obj v .,ESP ESP ESP ESP ESP,0
+382,que es mentira me los voy a gastar pues .,pro:rel cop n pro:obj pro:obj v aprep inf co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+383,me los dejas .,pro:obj pro:obj v .,ESP ESP ESP,0
+384,.,None,,0
+385,no no yo te los guardo .,adv adv pro:sub pro:obj pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+386,y te los doy el fin de semana .,coord pro:obj pro:obj v det:art n imp n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+387,a huevo .,aprep n .,ESP ESP,0
+388,a ver no iba el dice el maje que pues que tenemos que llenar un formulario algo así .,aprep inf adv v det:art v det:art n pro:rel co pro:rel v pro:rel inf det:art n pro:dem adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+389,y el formulario vos lo tenéis ?,coord det:art n pro:obj pro:obj v ?,ESP ESP ESP ESP ESP ESP,0
+390,el maje seguramente aquí lo tiene .,det:art n adv:adj adv pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+391,"pero el maje está afuera leyendo porque me dijo ""/.","conj det:art n cop adv ger conj pro:obj v +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+392,me voy a ir a fuera .,pro:obj v aprep inf aprep co .,ESP ESP ESP ESP ESP ESP,0
+393,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+394,para que no se sientan incómodos .,prep pro:rel adv pro:refl v adj .,ESP ESP ESP ESP ESP ESP,0
+395,pues como que vos sabéis que por lo general cuando hay una persona que no habla español it's kind of rude de que te pongas a hablar en español pues o sea ...,co adv pro:rel pro:obj v pro:rel prep pro:obj adj pro:rel v det:art n pro:rel adv v adj L2 L2 L2 L2 prep pro:rel pro:obj v aprep inf prep adj co coord cop +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+396,sí .,co .,ESP,0
+397,aunque el maje pues no esté escuchando ni nada pues /.,conj det:art n co adv aux ger coord v co +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+398,ya .,adv .,ESP,0
+399,"entonces el maje me dijo ""/.","adv det:art n pro:obj v +""/.",ESP ESP ESP ESP ESP,0
+400,para que para que se sientan más cómodos pues .,prep pro:rel prep pro:rel pro:refl v adv adj co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+401,y no sientan que tiene que hablar inglés .,coord adv v pro:rel v pro:rel inf n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+402,"me dice pues ""/.","pro:obj v co +""/.",ESP ESP ESP,0
+403,me voy a ir a fuera a leer .,pro:obj v aprep inf aprep adv aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+404,se trajo una revista el maje .,pro:refl v det:art re#v det:art n .,ESP ESP ESP ESP ESP ESP,0
+405,y allá está afuera leyendo .,coord adv cop adv ger .,ESP ESP ESP ESP ESP,0
+406,ya pero no crees que es como estúpido que hablemos de esto ?,adv conj adv v pro:rel cop adv co pro:rel v prep pro:dem ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+407,cómo ?,pro:int ?,ESP,0
+408,no crees que es estúpido que hablamos de esto en en la grabadora ?,adv v pro:rel cop co pro:rel v prep pro:dem prep prep det:art n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+409,no pero el maje es quien sabe .,adv conj det:art n cop pro:rel v .,ESP ESP ESP ESP ESP ESP ESP,0
+410,ni él debe entender el maje lo que estamos hablando .,coord pro:sub v inf det:art n pro:obj pro:rel aux ger .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+411,pero para qué lo quiere ?,conj prep pro:int pro:obj v ?,ESP ESP ESP ESP ESP,0
+412,no tengo la menor idea .,adv v det:art adj v .,ESP ESP ESP ESP ESP,0
+413,.,None,,0
+414,una mierda otra cosa .,det:art n det:indef v .,ESP ESP ESP ESP,0
+415,Manrique me dijo ?,n:prop pro:obj v ?,ESP ESP ESP,0
+416,qué te dijo Manrique ?,pro:int pro:obj v n:prop ?,ESP ESP ESP ESP,0
+417,de que alguien español para para ayudar a dar clases o algo así .,prep pro:rel pro:indef adj prep prep inf aprep inf n coord pro:dem adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+418,puede ser .,v inf .,ESP ESP,0
+419,tal vez están tratando de ver cómo se comunica la gente me entiendes para dar una clase platicada .,adj n aux ger prep inf pro:int pro:refl v det:art n pro:obj v prep inf det:art n part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+420,o tal vez están developing un curso nuevo o algo así .,coord adj n aux L2 det:art n adj coord pro:dem adv .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP,1
+421,qué sé yo .,pro:int v pro:sub .,ESP ESP ESP,0
+422,el maje me dijo que trabajaba para no sé que no sé qué compañía que hace research .,det:art n pro:obj v pro:rel v prep adv v pro:rel adv v pro:int n pro:rel v L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+423,algo así me dijo el maje .,pro:dem adv pro:obj v det:art n .,ESP ESP ESP ESP ESP ESP,0
+424,no le entendí muy bien .,adv pro:ind v adv adv .,ESP ESP ESP ESP ESP,0
+425,ya .,adv .,ESP,0
+426,qué chismosos somos los latinos .,pro:int n cop det:art adj .,ESP ESP ESP ESP ESP,0
+427,a huevo para probar qué tulos que somos .,aprep n prep inf pro:int adj pro:rel cop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+428,.,None,,0
+429,imaginate de cuánta gente no hemos hablado .,imp prep pro:int n adv aux part .,ESP ESP ESP ESP ESP ESP ESP,0
+430,.,None,,0
+431,pero lo que pasa es que si nos agarran de verdad cuando cagamos a alguien loco se queman los micrófonos .,conj pro:obj pro:rel v cop pro:rel conj pro:obj v prep co pro:rel v aprep pro:indef adj pro:refl v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+432,.,None,,0
+433,ni quiera dios .,coord v co .,ESP ESP ESP,0
+434,y eso la verdad no hemos hablado nada malo de nadie /.,coord pro:dem det:art co adv aux part v adj prep pro:indef +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+435,no pues sí de hecho no pues we've solo nos hemos estado poniendo al día pues .,adv co co prep v adv co L2 adj pro:obj aux part ger aprep n co .,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+436,pero no /.,conj adv +/.,ESP ESP,0
+437,al día de lo que sucede en un barrio fino .,aprep n prep pro:obj pro:rel v prep det:art n adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+438,no .,adv .,ESP,0
+439,a huevo de lo de lo que pasa en el Reparto_Chip .,aprep n prep pro:obj v pro:obj pro:rel v prep det:art n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+440,.,None,,0
+441,oye y qué películas hay en el cine ahorita ?,co coord pro:int n v prep det:art n adv ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+442,no sé .,adv v .,ESP ESP,0
+443,tengo ganas de ir .,v v prep inf .,ESP ESP ESP ESP,0
+444,pero no tengo reales hasta el jueves .,conj adv v re#v prep det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+445,igual .,co .,ESP,0
+446,si yo es que aquí estoy yo sentado frente a la computadora .,conj pro:sub cop pro:rel adv cop pro:sub part adv aprep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+447,y no sé estoy viendo .,coord adv v aux ger .,ESP ESP ESP ESP ESP,0
+448,pero ahí no_más .,conj adv adv .,ESP ESP ESP,0
+449,meterme a ver qué hay .,inf aprep inf pro:int v .,ESP ESP ESP ESP ESP,0
+450,y entonces ?,coord adv ?,ESP ESP,0
+451,y entonces .,coord adv .,ESP ESP,0
+452,qué más hermano ?,pro:int adv n ?,ESP ESP ESP,0
+453,pues ni turca ni turca .,co coord n coord n .,ESP ESP ESP ESP ESP,0
+454,qué te iba a decir y .,pro:int pro:obj v aprep inf coord .,ESP ESP ESP ESP ESP ESP,0
+455,vos fuiste a Frost este jueves con todos estos majes ?,pro:obj v aprep n:prop imp n prep pro:indef det:dem n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+456,no no fui .,adv adv v .,ESP ESP ESP,0
+457,por qué ?,prep pro:int ?,ESP ESP,0
+458,no tenía ganas .,adv v v .,ESP ESP ESP,0
+459,quiénes fueron ?,pro:int cop ?,ESP ESP,0
+460,no sé .,adv v .,ESP ESP,0
+461,yo no fui tampoco .,pro:sub adv v adv .,ESP ESP ESP ESP,0
+462,que tu no sabes si yo tengo rato de no salir bróder .,pro:rel det:pos adv co conj pro:sub v n prep adv inf n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+463,sí .,co .,ESP,0
+464,espera me está llamando Manu .,imp pro:obj aux ger n:prop .,ESP ESP ESP ESP ESP,0
+465,aló .,co .,ESP,0
+466,estoy hablando con DP .,aux ger prep n:prop .,ESP ESP ESP ESP,0
+467,es que estoy ayudando //.,cop prep aux ger +//.,ESP ESP ESP ESP,0
+468,te acuerdas que te dije que íbamos a ayudar a un maje para /.,pro:obj v pro:rel pro:obj v pro:rel v aprep inf aprep det:art n imp +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+469,entonces nos están grabando .,adv pro:obj aux ger .,ESP ESP ESP ESP,0
+470,sí no no no tranquilo vale turca .,co adv adv adv adj co n .,ESP ESP ESP ESP ESP ESP ESP,0
+471,el maje simplemente quería escuchar como hablábamos o algo así .,det:art n adv:adj v inf adv v coord pro:dem adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+472,o sea el maje no pudo venir .,coord cop det:art n adv v inf .,ESP ESP ESP ESP ESP ESP ESP,0
+473,entonces lo tengo en speaker del teléfono de la casa .,adv pro:obj v prep L2 prep n prep det:art imp .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+474,entonces pero todo tranquilón .,co conj det:indef adj .,ESP ESP ESP ESP,0
+475,estoy chateando con la Tania también .,aux ger prep det:art n:prop adv .,ESP ESP ESP ESP ESP ESP,0
+476,.,None,,0
+477,bueno .,co .,ESP,0
+478,.,None,,0
+479,no tranquilo vale turca .,adv adj co n .,ESP ESP ESP ESP,0
+480,no /.,adv +/.,ESP,0
+481,a huevo ya nos quedan no sé nos quedan como .,aprep n adv pro:obj v adv v pro:obj v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+482,el maje que le habláramos por media hora .,det:art n pro:rel pro:ind v prep n n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+483,y ya nos quedan como cinco minutos .,coord adv pro:obj v adv det:num n .,ESP ESP ESP ESP ESP ESP ESP,0
+484,te llamo ahorita que termino .,pro:obj v adv pro:rel v .,ESP ESP ESP ESP ESP,0
+485,dale pues hermano .,imp co n .,ESP ESP ESP,0
+486,un abrazo pues te quiero .,det:art v co pro:obj v .,ESP ESP ESP ESP ESP,0
+487,chao .,co .,ESP,0
+488,ajá .,co .,ESP,0
+489,ajá entonces ?,co co ?,ESP ESP,0
+490,a pues sí qué estábamos diciendo ?,aprep co co pro:int aux ger ?,ESP ESP ESP ESP ESP ESP,0
+491,lo de Fronz .,pro:obj prep n:prop .,ESP ESP ESP,0
+492,no sé pues .,adv v co .,ESP ESP ESP,0
+493,y dónde fue lo de Pin ?,coord pro:int v pro:obj prep n:prop ?,ESP ESP ESP ESP ESP ESP,0
+494,cómo ?,pro:int ?,ESP,0
+495,y dónde fue lo de Pin ?,coord pro:int v pro:obj prep n:prop ?,ESP ESP ESP ESP ESP ESP,0
+496,lo de Pin ?,pro:obj prep n:prop ?,ESP ESP ESP,0
+497,sí .,co .,ESP,0
+498,encantado todavía .,part adv .,ESP ESP,0
+499,no lo de su cumpleaños el fin de semana .,adv pro:obj v det:pos n det:art n prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+500,fue en la casa de Richard Corso .,v prep det:art n prep n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+501,no sé quién es .,adv v pro:int cop .,ESP ESP ESP ESP,0
+502,?,None,,0
+503,no sé quién es .,adv v pro:int cop .,ESP ESP ESP ESP,0
+504,el de la Marla .,det:art prep det:art n:prop .,ESP ESP ESP ESP,0
+505,ah ah a Xavier yo te oí decir Richard Corso .,co co aprep n:prop pro:sub pro:obj v inf n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+506,"y yo "".","coord pro:sub +"".",ESP ESP,0
+507,.,None,,0
+508,sería qué estupidez que se llama Richard .,cop pro:int n pro:rel pro:refl v n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+509,a meaning Xavier Corso .,L2 L2 n:prop n:prop .,ENG ENG ESP ESP,1
+510,.,None,,0
+511,es que tengo uno que se llama Richard Corso también por eso me equivoco .,cop pro:rel v det:art pro:rel pro:refl v n:prop n:prop adv prep pro:dem pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+512,yaquis /.,co +/.,ESP,0
+513,pero fue en la casa de ese maje .,conj v prep det:art n prep det:dem n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+514,y por qué no fuiste ?,coord prep pro:int adv v ?,ESP ESP ESP ESP ESP,0
+515,porque prefería salir con Mathew que tenía rato de no verlo .,conj v inf prep n:prop pro:rel v n prep adv inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+516,a huevo .,aprep n .,ESP ESP,0
+517,e igual Pin tampoco es mi bróder .,coord co n:prop adv cop det:pos n .,ESP ESP ESP ESP ESP ESP ESP,0
+518,a huevo .,aprep n .,ESP ESP,0
+519,yo hubiera ido solo verlo bailar .,pro:sub v part adj inf inf .,ESP ESP ESP ESP ESP ESP,0
+520,.,None,,0
+521,eso es un show .,pro:dem cop det:art L2 .,ESP ESP ESP ENG,1
+522,para que pongan Calabria ?,prep pro:rel v n:prop ?,ESP ESP ESP ESP,0
+523,Calabria y el maje .,n:prop coord det:art n .,ESP ESP ESP ESP,0
+524,.,None,,0
+525,ves .,co .,ESP,0
+526,maje ese es un cagado de la risa .,n det:dem cop det:art part prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+527,.,None,,0
+528,cómo ?,pro:int ?,ESP,0
+529,?,None,,0
+530,qué pasó ?,pro:int v ?,ESP ESP,0
+531,que eso es cagado de la risa .,pro:rel pro:dem cop part prep det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+532,"te dije "".","pro:obj v +"".",ESP ESP,0
+533,a huevo .,aprep n .,ESP ESP,0
+534,eso fue en el cumpleaños de la Mariela verdad ?,pro:dem cop prep det:art n prep det:art n:prop co ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+535,sí loco .,co adj .,ESP ESP,0
+536,creo que lo borré ese video ni siquiera lo puse en el Facebook pues .,v pro:rel pro:obj v det:dem pfx coord conj pro:obj v prep det:art n:prop co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+537,.,None,,0
+538,no vale la pena .,adv v det:art n .,ESP ESP ESP ESP,0
+539,a huevo no vale la pena .,aprep n adv v det:art n .,ESP ESP ESP ESP ESP ESP,0
+540,pues pero bueno .,co conj co .,ESP ESP ESP,0
+541,qué aburrido .,pro:int part .,ESP ESP,0
+542,y vos cuándo vas a Nicaragua ?,coord pro:obj pro:int v aprep n:prop ?,ESP ESP ESP ESP ESP ESP,0
+543,mira si dios quiere hasta en agosto .,co conj co v prep prep n .,ESP ESP ESP ESP ESP ESP ESP,0
+544,si dios así lo permite ?,conj co adv pro:obj v ?,ESP ESP ESP ESP ESP,0
+545,si dios lo permite .,conj co pro:obj v .,ESP ESP ESP ESP,0
+546,si la divina providencia lo lo sustenta .,conj pro:obj adj n pro:obj pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+547,.,None,,0
+548,hasta en agosto vamos a ver .,prep prep n v aprep inf .,ESP ESP ESP ESP ESP ESP,0
+549,qué te iba a decir .,pro:int pro:obj v aprep inf .,ESP ESP ESP ESP ESP,0
+550,maje ya no sé de qué hablar .,n adv adv v prep pro:int inf .,ESP ESP ESP ESP ESP ESP ESP,0
+551,no sé qué decir hijo de puta .,adv v pro:int inf co:voc prep adj .,ESP ESP ESP ESP ESP ESP ESP,0
+552,cómo ?,pro:int ?,ESP,0
+553,no sé ni qué decir .,adv v coord pro:int inf .,ESP ESP ESP ESP ESP,0
+554,o sea que cuando te están grabando no sabes qué decir .,coord cop pro:rel conj pro:obj aux ger adv v pro:int inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+555,y si no nos estuvieran grabando estaríamos hablando tantas mierdas ahorita .,coord conj adv pro:obj cop ger aux ger det:indef n adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+556,si .,conj .,ESP,0
+557,y y óyeme .,coord coord imp .,ESP ESP ESP,0
+558,y qué pasó con Ryan y Ana se siguen jalando ?,coord pro:int v prep n:prop coord n:prop pro:refl v ger ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+559,quien sabe .,pro:rel v .,ESP ESP,0
+560,idiay if it's not on Facebook it's not official así que déjame revisar .,co L2 L2 L2 L2 n:prop L2 L2 L2 adv prep imp inf .,ESP ENG ENG ENG ENG ESP ENG ENG ENG ESP ESP ESP ESP,1
+561,sí no sí yo no tengo ninguno de los dos en Facebook .,co adv co pro:sub adv v det:indef prep det:art det:num prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+562,.,None,,0
+563,Ryan Pimons .,n:prop n:prop .,ESP ESP,0
+564,idiay el maje está en sí ahí está in a relationship with Eva Hinojosa así que siguen jalando los majes .,co det:art n cop prep co adv cop L2 L2 L2 L2 n:prop n:prop adv pro:rel v ger det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+565,ah huevo .,co n .,ESP ESP,0
+566,le voy a escribir de paso .,pro:ind v aprep inf prep co .,ESP ESP ESP ESP ESP ESP,0
+567,cómo ?,pro:int ?,ESP,0
+568,le voy a escribir en su wall de paso .,pro:ind v aprep inf prep det:pos L2 v co .,ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+569,pero ese nunca responde .,conj det:dem adv v .,ESP ESP ESP ESP,0
+570,no yo sé .,adv pro:sub v .,ESP ESP ESP,0
+571,sí ahí miro que el último mensaje es Happy_Valentine's_Day .,co adv v pro:rel det:art adj n cop n:prop:L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+572,sí .,co .,ESP,0
+573,así que ...,adv pro:rel +...,ESP ESP,0
+574,nunca responde .,adv v .,ESP ESP,0
+575,ni se mete ni nada .,coord pro:refl v coord v .,ESP ESP ESP ESP ESP,0
+576,sí si .,co conj .,ESP ESP,0
+577,y qué me cuentas ?,coord pro:int pro:obj v ?,ESP ESP ESP ESP,0
+578,nada nuevo la verdad .,pro:indef adj pro:obj co .,ESP ESP ESP ESP,0
+579,ahorita que tengo pagar mi celular .,adv pro:rel v inf det:pos adj .,ESP ESP ESP ESP ESP ESP,0
+580,quiero ver cuándo me toca el pago .,v inf pro:int pro:obj v det:art v .,ESP ESP ESP ESP ESP ESP ESP,0
+581,creo que me toca .,v pro:rel pro:obj v .,ESP ESP ESP ESP,0
+582,ojalá que me toque el jueves para pagar el mero jueves .,co pro:rel pro:obj v det:art n prep inf det:art adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+583,porque hoy qué fecha es ?,conj adv pro:int n cop ?,ESP ESP ESP ESP ESP,0
+584,hoy es once .,adv cop det:num .,ESP ESP ESP,0
+585,cómo ?,pro:int ?,ESP,0
+586,hoy es once .,adv cop det:num .,ESP ESP ESP,0
+587,once .,det:num .,ESP,0
+588,ya nos quedan cinco minutos para que se acabe .,adv pro:obj v det:num n prep pro:rel pro:refl v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+589,.,None,,0
+590,a la puta la verdad es que los llevas contados .,aprep det:art adj det:art n cop pro:rel pro:obj v part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+591,tengo hambre .,v n .,ESP ESP,0
+592,ala me toca pagarlo hoy .,n pro:obj v inf adv .,ESP ESP ESP ESP ESP,0
+593,.,None,,0
+594,idiay si no te lo cortan .,co conj adv pro:obj pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+595,te lo .,pro:obj pro:obj .,ESP ESP,0
+596,no no me lo cortan pero ...,adv adv pro:obj pro:obj v conj +...,ESP ESP ESP ESP ESP ESP,0
+597,ay .,co .,ESP,0
+598,Pocket_person .,n:prop .,ESP,0
+599,ves les estoy contando a mis bróderes de Armando .,co pro:ind aux ger aprep det:pos n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+600,qué tiene Armando ?,pro:int v n:prop ?,ESP ESP ESP,0
+601,no de que el maje viene para acá .,adv prep pro:rel det:art n v prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+602,.,None,,0
+603,es que nosotros siempre lo mirábamos .,cop pro:rel pro:sub adv pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+604,y decíamos como qué edad tendrá ese maje la gran puta que no se cuánto .,coord v adv pro:int n v det:dem n det:art adj adj pro:rel adv pro:refl pro:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+605,.,None,,0
+606,el rábano va por el tamaño entonces .,det:art n v prep det:art n co .,ESP ESP ESP ESP ESP ESP ESP,0
+607,tiene diecinueve Armando .,v det:num n:prop .,ESP ESP ESP,0
+608,pero parece que tiene diez .,conj v pro:rel v det:num .,ESP ESP ESP ESP ESP,0
+609,a huevo .,aprep n .,ESP ESP,0
+610,.,None,,0
+611,no pues sí se le nota pues .,adv co co pro:refl pro:ind v co .,ESP ESP ESP ESP ESP ESP ESP,0
+612,sí .,co .,ESP,0
+613,.,None,,0
+614,no sé se le nota pues que es tranquilo pues el maje como que ...,adv v pro:refl pro:ind v co pro:rel cop adj co det:art n adv pro:rel +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+615,de hecho creo que tengo una foto de él en mi profile .,prep part v pro:rel v det:art n v pro:sub prep det:pos L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+616,no sé si la has visto .,adv v conj pro:obj aux part .,ESP ESP ESP ESP ESP ESP,0
+617,sí yo la vi .,co pro:sub pro:obj v .,ESP ESP ESP ESP,0
+618,yo la tagueé .,pro:sub pro:obj L2 .,ESP ESP ENG,1
+619,funny funny ah sí que sí es cierto .,L2 L2 co co pro:rel co cop adj .,ENG ENG ESP ESP ESP ESP ESP ESP,1
+620,vos me contasteis que yo le había puesto pocket_person .,pro:obj pro:obj v pro:rel pro:sub pro:ind aux part L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+621,y que vos le pusisteis Armando Lupa .,coord pro:rel pro:obj pro:ind v n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP,0
+622,.,None,,0
+623,.,None,,0
+624,"no me estaban preguntando mis bróderes "".","adv pro:obj aux ger det:pos n +"".",ESP ESP ESP ESP ESP ESP,0
+625,en serio y cómo que no sé qué y de qué palo ?,prep adj coord pro:int pro:rel adv v pro:int coord prep pro:int n ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+626,.,None,,0
+627,ala que qué hablamos .,v pro:rel pro:int v .,ESP ESP ESP ESP,0
+628,decidme algo ?,imp pro:dem ?,ESP ESP,0
+629,espera .,imp .,ESP,0
+630,?,None,,0
+631,sí este qué más ?,co det:dem pro:int adv ?,ESP ESP ESP ESP,0
+632,?,None,,0
+633,qué más ?,pro:int adv ?,ESP ESP,0
+634,y Tulio cuándo vuelve ?,coord n:prop pro:int v ?,ESP ESP ESP ESP,0
+635,a dónde no sé .,aprep pro:int adv v .,ESP ESP ESP ESP,0
+636,ni me recordé que ahueva cada vez que me acuerdo que él no está aquí .,coord pro:obj v pro:rel v det:indef n pro:rel pro:obj v pro:rel pro:sub adv cop adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+637,me hace una falta .,pro:obj v pro:dem v .,ESP ESP ESP ESP,0
+638,me imagino .,pro:obj v .,ESP ESP,0
+639,me imagino .,pro:obj v .,ESP ESP,0
+640,este el maje me o sea pues igual pasamos hablando por teléfono y chat y todo pues .,det:dem det:art n pro:obj coord cop co co v ger prep n coord n coord pro:indef co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+641,pero pues no es lo mismo .,conj co adv cop pro:obj adj .,ESP ESP ESP ESP ESP ESP,0
+642,mhm .,L2 .,ENG,0
+643,entonces el maje pues tienes sus bróderes ahí y eso .,adv det:art n co v co n adv coord pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+644,"entonces contándome el maje que ""/.","adv ger det:art n pro:rel +""/.",ESP ESP ESP ESP ESP,0
+645,álame y si vieras que me pongo a platicar en las noches con este mi otro bróder .,imp coord conj v pro:rel pro:obj v aprep inf prep det:art n prep imp det:pos det:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+646,"dice ""/.","v +""/.",ESP,0
+647,y no es lo mismo .,coord adv cop pro:obj adj .,ESP ESP ESP ESP ESP,0
+648,"me dice "".","pro:obj v +"".",ESP ESP,0
+649,me pongo a contarles las mierdas .,pro:obj v aprep inf det:art n .,ESP ESP ESP ESP ESP ESP,0
+650,y no es lo mismo .,coord adv cop pro:obj adj .,ESP ESP ESP ESP ESP,0
+651,como que después me pongo a pensar .,adv pro:rel adv pro:obj v aprep inf .,ESP ESP ESP ESP ESP ESP ESP,0
+652,y me doy cuenta que ala it's not Miguel .,coord pro:obj v co pro:rel v L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ENG ENG ESP,1
+653,"dice el "".","v det:art +"".",ESP ESP,0
+654,ves me hace una falta horrible .,co pro:obj v pro:dem v adj .,ESP ESP ESP ESP ESP ESP,0
+655,pero bueno idiay .,conj co co .,ESP ESP ESP,0
+656,qué se le va a hacer ?,pro:int pro:refl pro:ind v aprep inf ?,ESP ESP ESP ESP ESP ESP,0
+657,creo que regresará igual hasta en diciembre el maje .,v pro:rel v co prep prep n det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+658,pues igual que como ahorita que estuvo .,co co pro:rel adv adv pro:rel cop .,ESP ESP ESP ESP ESP ESP ESP,0
+659,cuánto tiempo estuvo aquí ?,pro:int n cop adv ?,ESP ESP ESP ESP,0
+660,casi tres meses .,adv det:num n .,ESP ESP ESP,0
+661,estuvo bastante .,cop adv .,ESP ESP,0
+662,ah huevo .,co n .,ESP ESP,0
+663,y lo sentí rapidísimo pues .,coord pro:obj v adj co .,ESP ESP ESP ESP ESP,0
+664,sentí como que fue menos .,v adv pro:rel v adv .,ESP ESP ESP ESP ESP,0
+665,pero bueno idiay .,conj co co .,ESP ESP ESP,0
+666,tal vez o sea le dije que el maje tal vez que se viniera para summer pues .,adj n coord cop pro:ind v pro:rel det:art n adj n pro:rel pro:refl v prep L2 co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP,1
+667,pero el maje dice no sé .,conj det:art n v adv v .,ESP ESP ESP ESP ESP ESP,0
+668,me dice porque si me vengo para summer sería por menos tiempo me dice y ...,pro:obj v conj conj pro:obj v prep L2 cop prep adv n pro:obj v coord +...,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP,1
+669,y no sé si valdría la pena pues llegar para trabajar me entiendes sólo por un mes o algo así .,coord adv v conj v det:art n co inf prep inf pro:obj v adv prep det:art n coord pro:dem adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+670,y que le den dos pay_checks o sea no sé .,coord pro:rel pro:ind v det:num L2 coord cop adv v .,ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP,1
+671,sí en un mes puede ganarse sus trescientos .,co prep det:art n v inf co det:num .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+672,pues sí pues para a ver si lo convenzo para que se venga el maje .,co co co imp aprep inf conj pro:obj v prep pro:rel pro:refl v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+673,no pero es que igual eso no le saldría como que para pagar el pasaje y ...,adv conj cop pro:rel co pro:dem adv pro:ind v adv pro:rel prep inf det:art n coord +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+674,y las cosas que se quiera comprar y eso me entiendes .,coord det:art n pro:rel imp imp inf coord pro:dem pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+675,bueno .,co .,ESP,0
+676,pero quien sabe pues .,conj pro:rel v co .,ESP ESP ESP ESP,0
+677,igual se lo voy a decir al maje .,co pro:refl pro:obj v aprep inf aprep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+678,a ver si lo convenzo .,aprep inf conj pro:obj v .,ESP ESP ESP ESP ESP,0
+679,si .,conj .,ESP,0
+680,ves .,co .,ESP,0
+681,qué más ?,pro:int adv ?,ESP ESP,0
+682,tengo hambre .,v n .,ESP ESP,0
+683,yo también .,pro:sub adv .,ESP ESP,0
+684,me está rugiendo la tripa .,pro:obj aux ger det:art n .,ESP ESP ESP ESP ESP,0
+685,bueno te voy dejando ya .,co pro:obj v ger adv .,ESP ESP ESP ESP ESP,0
+686,que ya no .,pro:rel adv adv .,ESP ESP ESP,0
+687,espérate que no ha entrado de regreso el maje .,imp pro:rel adv aux part prep v det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+688,me imagino que está tomando el tiempo .,pro:obj v pro:rel aux ger det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+689,a bueno .,aprep co .,ESP ESP,0
+690,ves idiay .,co co .,ESP ESP,0
+691,pues a ver qué onda .,co aprep inf pro:int n .,ESP ESP ESP ESP ESP,0
+692,a ver si yo puedo llenar el formulario por vos .,aprep inf conj pro:sub v inf det:art n prep pro:obj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+693,y no sé .,coord adv v .,ESP ESP ESP,0
+694,sí yo creo que no hay problema .,co pro:sub v pro:rel adv v n .,ESP ESP ESP ESP ESP ESP ESP,0
+695,o si no cualquier pregunta me preguntas .,coord conj adv pro:indef imp pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+696,y pues yo te digo las respuestas .,coord co pro:sub pro:obj v det:art n .,ESP ESP ESP ESP ESP ESP ESP,0
+697,no pues sí .,adv co co .,ESP ESP ESP,0
+698,no me imagino que debe ser para firmar al final o algo así .,adv pro:obj v pro:rel v inf prep inf aprep adj coord pro:dem adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+699,pues te doy autorización de que firmes .,co pro:obj v n prep prep co .,ESP ESP ESP ESP ESP ESP ESP,0
+700,gracias .,n .,ESP,0
+701,ojalá que no sea largo porque me enturca llenar esos formularios largos y .,co pro:rel adv cop v conj pro:obj v inf det:dem n adj coord .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+702,y estar leyendo .,coord inf ger .,ESP ESP ESP,0
+703,me sofoca leer bróder .,pro:obj v inf n .,ESP ESP ESP ESP,0
+704,like a mí no /.,L2 aprep pro:prep adv +/.,ENG ESP ESP ESP,1
+705,yo no leo .,pro:sub adv v .,ESP ESP ESP,0
+706,a mí me leen o sea .,aprep pro:prep pro:obj v coord cop .,ESP ESP ESP ESP ESP ESP,0
+707,pero bueno guevón .,conj co n .,ESP ESP ESP,0
+708,creo que está entretenido el muy hijo de su madre con la revista esa .,v pro:rel aux part det:art adv n prep det:pos n prep det:art n det:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+709,y qué más ?,coord pro:int adv ?,ESP ESP ESP,0
+710,estaba ahorita viendo mi cuenta del teléfono pues de mi llamada .,aux adv ger det:pos co prep n co prep det:pos part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+711,.,None,,0
+712,tengo una llamada con una amiga mía Sandra .,v det:art part prep det:art n pro:pos n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+713,hablamos por doscientos veintidós minutos .,v prep det:num det:num n .,ESP ESP ESP ESP ESP,0
+714,la gran puta bróder .,det:art adj n n .,ESP ESP ESP ESP,0
+715,cuántas horas son esas ?,pro:int n cop det:dem ?,ESP ESP ESP ESP,0
+716,o sea .,coord cop .,ESP ESP,0
+717,como cuatro horas ?,adv det:num n ?,ESP ESP ESP,0
+718,no no sé .,adv adv v .,ESP ESP ESP,0
+719,hubieras hecho con ella el esta mierda no ?,v part prep pro:sub det:art imp n adv ?,ESP ESP ESP ESP ESP ESP ESP ESP,0
+720,no ella habla inglés .,adv pro:sub v n .,ESP ESP ESP ESP,0
+721,?,None,,0
+722,ella solo habla inglés .,pro:sub adj imp n .,ESP ESP ESP ESP,0
+723,pues qué cagada .,co pro:int part .,ESP ESP ESP,0
+724,es latina .,cop adj .,ESP ESP,0
+725,pero no habla español .,conj adv v adj .,ESP ESP ESP ESP,0
+726,qué estúpida .,pro:int adj .,ESP ESP,0
+727,o sea como alguien latino no habla español en vez de no sé .,coord cop adv pro:indef adj adv v adj prep n prep adv v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+728,si yo fuera latino y no hablara español me preocuparía por aprenderlo .,conj pro:sub adv adj coord adv v adj pro:obj v prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+729,si .,conj .,ESP,0
+730,yo también .,pro:sub adv .,ESP ESP,0
+731,tal pues también no es solo culpa de ella sino que idiay de su mami y su papa .,adj co adv adv cop adj v prep pro:sub conj pro:rel co prep det:pos n coord det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+732,si .,conj .,ESP,0
+733,eso te lo tiene que enseñar desde chiquito .,pro:dem pro:obj pro:obj v pro:rel inf prep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+734,o sea son tus raices loco .,coord cop cop det:pos n adj .,ESP ESP ESP ESP ESP ESP,0
+735,si .,conj .,ESP,0
+736,pero pero bueno idiay .,conj conj co co .,ESP ESP ESP ESP,0
+737,.,None,,0
+738,pues si .,co conj .,ESP ESP,0
+739,0o sea no es tanto culpa de ella .,coord cop adv cop adj v prep pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+740,pero idiay ya está grande ya debería preocuparse por aprender .,conj co adv cop adj adv v inf prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+741,pero bueno idiay qué se le va hacer .,conj co co pro:int pro:refl pro:ind v inf .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+742,así está la cosa .,adv cop det:art n .,ESP ESP ESP ESP,0
+743,qué se le va hacer .,pro:int pro:refl pro:ind v inf .,ESP ESP ESP ESP ESP,0
+744,no has hablado con la Maritza ?,adv aux part prep det:art n:prop ?,ESP ESP ESP ESP ESP ESP,0
+745,ah ?,co ?,ESP,0
+746,no has hablado con la Maritza ?,adv aux part prep det:art n:prop ?,ESP ESP ESP ESP ESP ESP,0
+747,no para nada fijate .,adv prep imp imp .,ESP ESP ESP ESP,0
+748,creo que le escribí en su Facebook pero .,v pro:rel pro:ind v prep det:pos n:prop conj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+749,o sea a mí se me olvidó contestarle un comentario que me dejó el otro día .,coord cop aprep pro:prep pro:refl pro:obj v inf det:art n pro:rel pro:obj v det:art pro:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+750,cómo ?,pro:int ?,ESP,0
+751,se me olvidó responderle a un comentario que me dejó el otro día en Facebook .,pro:refl pro:obj v inf aprep det:art n pro:rel pro:obj v det:art pro:indef n prep n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+752,yaquis no pero no he hablado con ella .,co adv conj adv aux part prep pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+753,ni la he visto online ni nada .,coord pro:obj aux part adj coord v .,ESP ESP ESP ESP ESP ESP ESP,0
+754,like últimamente no ha habido nada interesante online .,L2 adv:adj adv aux part v adj adj .,ENG ESP ESP ESP ESP ESP ESP ESP,1
+755,no sé qué está pasando .,adv v pro:int aux ger .,ESP ESP ESP ESP ESP,0
+756,sí se ha calmado todo .,co pro:refl aux part det:indef .,ESP ESP ESP ESP ESP,0
+757,sí el mundo de la farándula está calladito .,co det:art n prep det:art n aux part .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+758,como que está planeando algo grande .,adv pro:rel aux ger pro:dem adj .,ESP ESP ESP ESP ESP ESP,0
+759,.,None,,0
+760,algún suceso inmenso que viene .,det:indef n n pro:rel v .,ESP ESP ESP ESP ESP,0
+761,.,None,,0
+762,hoy vos viste la Marina Pirone desde que vino .,adv pro:obj v det:art n:prop n:prop prep pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+763,no ni si .,adv coord conj .,ESP ESP ESP,0
+764,yo me di cuenta hoy que está aquí .,pro:sub pro:obj v co adv pro:rel cop adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+765,o sea hoy me di cuenta .,coord cop adv pro:obj v co .,ESP ESP ESP ESP ESP ESP,0
+766,sí yo me di cuenta desde el día que vino .,co pro:sub pro:obj v co prep det:art n pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+767,un día antes que ella me dijo .,det:art n adv pro:rel pro:sub pro:obj v .,ESP ESP ESP ESP ESP ESP ESP,0
+768,me mandó un comentario pero no la vi /.,pro:obj v det:art n conj adv pro:obj v +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+769,qué estúpida a mí no me escribió nada .,pro:int adj aprep pro:prep adv pro:obj v pro:indef .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+770,yo le puse /.,pro:sub pro:ind v +/.,ESP ESP ESP,0
+771,sois una estúpida .,cop det:art adj .,ESP ESP ESP,0
+772,"le digo "".","pro:ind v +"".",ESP ESP,0
+773,no me avisaste que ya estabas aquí .,adv pro:obj v pro:rel adv cop adv .,ESP ESP ESP ESP ESP ESP ESP,0
+774,si .,conj .,ESP,0
+775,no sé que le pasa ?,adv v pro:rel pro:ind v ?,ESP ESP ESP ESP ESP,0
+776,.,None,,0
+777,y qué más ?,coord pro:int adv ?,ESP ESP ESP,0
+778,pues sí no sé .,co co adv v .,ESP ESP ESP ESP,0
+779,.,None,,0
+780,no aguanto el hambre .,adv v det:art n .,ESP ESP ESP ESP,0
+781,.,None,,0
+782,loco a mí también me está sonando la tripa .,adj aprep pro:prep adv pro:obj aux ger det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+783,ojalá que este maje no se dilate mucho .,co pro:rel cop n adv pro:refl v adv .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+784,no hombre .,adv co .,ESP ESP,0
+785,?,None,,0
+786,el te dijo que él iba a volver cuando ya ?,det:art pro:obj v pro:rel pro:sub v aprep inf pro:rel adv ?,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+787,no me imagino que él debe estar tomando su tiempo idiay o sea .,adv pro:obj v pro:rel pro:sub v inf ger det:pos n co coord cop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+788,yo digo que no porque ya /.,pro:sub v pro:rel adv conj adv +/.,ESP ESP ESP ESP ESP ESP,0
+789,ahí viene .,adv v .,ESP ESP,0
+790,ya se levantó .,adv pro:refl v .,ESP ESP ESP,0
+791,vamos a ver qué dice pues .,v aprep inf pro:int v co .,ESP ESP ESP ESP ESP ESP,0
+792,si el maje dice algo .,conj det:art n v pro:dem .,ESP ESP ESP ESP ESP,0
+793,ya pues ya miré que se levantó .,adv co adv v pro:rel pro:refl v .,ESP ESP ESP ESP ESP ESP ESP,0
+794,y que ya miró su reloj .,coord pro:rel adv v det:pos n .,ESP ESP ESP ESP ESP ESP,0
+795,qué estúpido se volvió a sentar .,pro:int co pro:refl v aprep inf .,ESP ESP ESP ESP ESP ESP,0
+796,loco pero ya está .,adj conj adv cop .,ESP ESP ESP ESP,0
+797,?,None,,0
+798,ya está .,adv cop .,ESP ESP,0
+799,idiay tal vez él empezó a contar desde otro momento .,co det:dem n pro:sub v aprep inf prep pro:indef n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+800,no sé .,adv v .,ESP ESP,0
+801,.,None,,0
+802,seguramente empezó a contar desde el momento en que se sentó ahí en la silla el maje .,adv:adj v aprep inf prep det:art n prep pro:rel pro:refl v adv prep det:art n det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+803,seguro /.,co +/.,ESP,0
+804,y yo diciéndole estúpido y toda verga .,coord pro:sub ger co coord det:indef n .,ESP ESP ESP ESP ESP ESP ESP,0
+805,y después lo vayan .,coord adv pro:obj v .,ESP ESP ESP ESP,0
+806,"y le dicen ""/.","coord pro:ind v +""/.",ESP ESP ESP,0
+807,te dijo estúpido .,pro:obj v co .,ESP ESP ESP,0
+808,.,None,,0
+809,me manda a turquear el hijo de puta .,pro:obj v aprep inf det:art n prep adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+810,cómo ?,pro:int ?,ESP,0
+811,me manda a turquear el hijo de puta .,pro:obj v aprep inf det:art n prep adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+812,te va a dar veinte a vos y veinte a mí .,pro:obj v aprep inf det:num aprep pro:obj coord det:num aprep pro:prep .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+813,supongo .,v .,ESP,0
+814,capaz y que son veinte por los dos hijo de puta diez y diez .,adj coord pro:rel cop det:num prep det:art det:num n prep n det:num coord det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+815,y me cago de la risa .,coord pro:obj v prep det:art n .,ESP ESP ESP ESP ESP ESP,0
+816,cuidado me estás dando vuelta .,co pro:obj aux ger part .,ESP ESP ESP ESP ESP,0
+817,.,None,,0
+818,me cago de la risa .,pro:obj v prep det:art n .,ESP ESP ESP ESP ESP,0
+819,no vamos a ver no idiay .,adv v aprep inf adv co .,ESP ESP ESP ESP ESP ESP,0
+820,tiene que ser veinte y veinte bróder .,v pro:rel inf det:num coord det:num n .,ESP ESP ESP ESP ESP ESP ESP,0
+821,cincuenta nos hubiera dado no jodas que maje más tacaño .,det:num pro:obj v part adv v pro:rel n adv adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+822,si .,conj .,ESP,0
+823,los británicos tienen reales loco .,det:art adj v adj adj .,ESP ESP ESP ESP ESP,0
+824,ya me duele la nuca de sostener por teléfono con el hombro .,adv pro:obj v det:art n prep inf prep n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+825,?,None,,0
+826,ya me duele la nuca de sostener el teléfono con el hombro .,adv pro:obj v det:art n prep inf det:art n prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+827,idiay pues sois pura empleada de él .,co co cop adj n prep pro:sub .,ESP ESP ESP ESP ESP ESP ESP,0
+828,sosteniendo el teléfono con el hombro y con las otras dos manos está pelando la yuca .,ger det:art n prep det:art n coord prep det:art det:indef det:num n aux ger det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+829,.,None,,0
+830,pelando el lote qué bárbaro es que .,ger det:art n pro:int adj cop pro:rel .,ESP ESP ESP ESP ESP ESP ESP,0
+831,una verga sois .,det:art n cop .,ESP ESP ESP,0
+832,de viaje pura cachifa .,prep imp adj n .,ESP ESP ESP ESP,0
+833,pura cachifa .,adj n .,ESP ESP,0
+834,si .,conj .,ESP,0
+835,sois todo una doméstico .,cop det:indef det:art adj .,ESP ESP ESP ESP,0
+836,estás lampaseando también seguramente .,aux ger adv adv:adj .,ESP ESP ESP ESP,0
+837,solo verga sois .,adj n cop .,ESP ESP ESP,0
+838,.,None,,0
+839,qué de viaje .,pro:int v v .,ESP ESP ESP,0
+840,me da risa una amiga que se disfrazó de doméstica francesa .,pro:obj v n det:art n pro:rel pro:refl v prep adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+841,.,None,,0
+842,.,None,,0
+843,ay yo estoy disfrazada de doméstica francesa que no sé qué .,co pro:sub aux part prep adj n pro:rel adv v pro:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+844,todo el mundo no joda esta hija de puta .,det:indef det:art n adv v det:dem n prep adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+845,.,None,,0
+846,se puso enturcada la maje .,pro:refl v part det:art n .,ESP ESP ESP ESP ESP,0
+847,todo el mundo vulgareándola .,det:indef det:art n ger .,ESP ESP ESP ESP,0
+848,me imagino .,pro:obj v .,ESP ESP,0
+849,casi choco guevón .,adv v n .,ESP ESP ESP,0
+850,cómo ?,pro:int ?,ESP,0
+851,porque me iba a .,conj pro:obj v aprep .,ESP ESP ESP ESP,0
+852,iba saliendo en la mañana de mi casa .,v ger prep det:art adv prep det:pos imp .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+853,.,None,,0
+854,este pero y me iba cruzando de carril o sea .,imp conj coord pro:obj v ger prep n coord cop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+855,todavía eran las seis y pico de la mañana .,adv cop det:art det:num coord v prep det:art adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+856,ni siquiera había amanecido .,coord conj v part .,ESP ESP ESP ESP,0
+857,entonces yo cambiándome de carril en en el expressway .,adv pro:sub ger prep n prep prep det:art L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+858,y no jodas .,coord adv v .,ESP ESP ESP,0
+859,y había un carro a la par mío .,coord aux det:art n aprep det:art n pro:pos .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+860,y yo no lo vi .,coord pro:sub adv pro:obj v .,ESP ESP ESP ESP ESP,0
+861,y loco solo oí que el maje pegó frenazo y yo .,coord adj adj v pro:rel det:art n v n coord pro:sub .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+862,si .,conj .,ESP,0
+863,se me fue el alma al culo .,pro:refl pro:obj v det:art n aprep n .,ESP ESP ESP ESP ESP ESP ESP,0
+864,yo también el otro día casi choco .,pro:sub adv det:art pro:indef n adv v .,ESP ESP ESP ESP ESP ESP ESP,0
+865,no jodas estamos /.,adv v cop +/.,ESP ESP ESP,0
+866,puta y todavía estoy con la mierda del cheque /.,adj coord adv cop prep det:art n prep v +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+867,con la mierda de qué ?,prep det:art n prep pro:int ?,ESP ESP ESP ESP ESP,0
+868,con lo del cheque que me dieron el treinta y uno .,prep pro:obj prep v pro:rel pro:obj v det:art det:num coord pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+869,y no lo has pagado ?,coord adv pro:obj aux part ?,ESP ESP ESP ESP ESP,0
+870,sí lo que pasa es que todavía no ha pasado a la corte .,co pro:obj pro:rel v cop pro:rel adv adv aux part aprep det:art v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+871,todavía no sé si .,adv adv v conj .,ESP ESP ESP ESP,0
+872,o sea ya él es abogado .,coord cop adv pro:sub cop n .,ESP ESP ESP ESP ESP ESP,0
+873,.,None,,0
+874,pero todavía no sé si me van a dar .,conj adv adv v conj pro:obj v aprep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+875,me entiendes ?,pro:obj v ?,ESP ESP,0
+876,pero todavía y supuestamente la corte iba ser el tres del juicio .,conj adv coord adv:adj pro:obj v v inf det:art det:num prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+877,pero no lo cancelaron .,conj adv pro:obj v .,ESP ESP ESP ESP,0
+878,y no me han dado el nuevo día .,coord adv pro:obj aux part det:art adj n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+879,no te han dado un nuevo notice .,adv pro:obj aux part det:art adj L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+880,no .,adv .,ESP,0
+881,ya .,adv .,ESP,0
+882,no me han dado un nuevo notice .,adv pro:obj aux part det:art adj L2 .,ESP ESP ESP ESP ESP ESP ENG,1
+883,pero bueno .,conj co .,ESP ESP,0

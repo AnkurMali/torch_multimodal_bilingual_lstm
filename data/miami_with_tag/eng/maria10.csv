@@ -1,0 +1,382 @@
+,sentence,pos,language,switch
+0,good morning Martha .,adj n n:prop .,ENG ENG ENG,0
+1,this is María .,pro:dem cop n:prop .,ENG ENG ENG,0
+2,this is Tom there ?,pro:dem cop n:prop adv ?,ENG ENG ENG ENG,0
+3,thank you .,v pro:per .,ENG ENG,0
+4,.,None,,0
+5,I heard that .,pro:sub v comp .,ENG ENG ENG,0
+6,I mean I heard you explaining .,pro:sub v pro:sub v pro:per part .,ENG ENG ENG ENG ENG ENG,0
+7,did it make sense ?,mod pro:per v n ?,ENG ENG ENG ENG,0
+8,.,None,,0
+9,Hey Tom .,n:prop n:prop .,ENG ENG,0
+10,cómo estás ?,pro:int cop ?,ENG ENG,0
+11,bien bien .,adv adv .,ENG ENG,0
+12,eh did Aaron give you my message ?,co v n:prop v pro:per det:poss n ?,ENG ENG ENG ENG ENG ENG ENG,0
+13,oh .,co .,ENG,0
+14,eh Sean wants to have a meeting at A_One todavía tienen problemas con la torre de la televisión .,co n:prop v inf v det:art n:gerund prep n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+15,and he would like for you to be an attendance with NDR which is a subcontractor for the tower and Mario which is the WRN guy .,coord pro:sub mod co prep pro:per inf cop det:art n prep n:prop pro:rel cop det:art sub#n prep det:art n coord n:prop pro:rel cop det:art n:prop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+16,so that they can not be on the same page .,adv pro:rel pro:sub mod neg cop prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+17,porque uno dice una cosa el otro dice otra and apparently it's been //.,L2 L2 L2 L2 L2 L2 L2 L2 L2 coord adv pro:per cop +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+18,we are just mincing by standards but //.,pro:sub aux adv part prep n conj +//.,ENG ENG ENG ENG ENG ENG ENG,0
+19,.,None,,0
+20,eh next tuesday a las nueve o las diez .,co adv adv:tem L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+21,qué hora prefieres ?,pro:int n v ?,ENG ENG ENG,0
+22,okay .,co .,ENG,0
+23,next friday .,adv n .,ENG ENG,0
+24,hablando de next friday .,L2 L2 adj n .,ESP ESP ENG ENG,1
+25,you get my email about taking advantage that it's a teacher planning day ?,pro:per v det:poss n adv part n pro:rel pro:per det:art n part n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+26,to do do punch list for the schools ?,inf v v n n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+27,en el dieciocho de enero it's teacher planning day .,L2 L2 L2 L2 L2 pro:per n part n .,ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+28,so there are no kids .,co pro:exist cop qn n .,ENG ENG ENG ENG ENG,0
+29,right .,co .,ENG,0
+30,okay well I might call him up .,co n pro:sub mod v pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG,0
+31,but I don't think you need to be there but he does .,conj pro:sub mod v pro:per v inf cop adv conj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+32,if he doesn't /.,conj pro:sub mod +/.,ENG ENG ENG,0
+33,right .,co .,ENG,0
+34,right .,co .,ENG,0
+35,okay okay okay .,co co co .,ENG ENG ENG,0
+36,but I did send you an email couple of days ago that friday January the eighteenth is a teacher planning day so it'd be a good day to do all the schools if you wanna get them over way .,conj pro:sub mod v pro:per det:art n n prep n post adv n n:prop det:art adj aux det:art n part n adv pro:per cop det:art adj n inf v qn det:art n conj pro:per v v pro:obj adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+37,porque no hay niños no hay nadie .,conj adv v n adv v pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+38,right .,co .,ENG,0
+39,I'd rather not do Monday which is legal holiday because then you gotta pay them but //.,pro:sub adv neg v n:prop pro:rel cop adj n conj adv:tem pro:per mod v pro:obj conj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+40,oh you guys you gonna you guys call them .,co pro:per n pro:per part pro:per n v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+41,coño ?,co ?,ENG,0
+42,pero ustedes son blanquitos .,conj pro:sub cop adj .,ENG ENG ENG ENG,0
+43,qué hacen ustedes dando ese día ?,pro:int v pro:sub ger det:dem n ?,ENG ENG ENG ENG ENG ENG,0
+44,.,None,,0
+45,oh verdad verdad verdad .,co co co co .,ENG ENG ENG ENG,0
+46,so sorry so sorry .,adv adj adv adj .,ENG ENG ENG ENG,0
+47,.,None,,0
+48,right y sí .,adv L2 L2 .,ENG ESP ESP,1
+49,A es cuestión de check it through that everything is okay .,n:prop L2 L2 L2 v pro:per prep comp pro:indef cop adj .,ENG ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+50,because we are trying to get closer .,conj pro:sub aux part inf v adj .,ENG ENG ENG ENG ENG ENG ENG,0
+51,.,None,,0
+52,right you've done punch list right .,co pro:per part n n adj .,ENG ENG ENG ENG ENG ENG,0
+53,now did you do punch list for you ?,adv v pro:per v n n prep pro:per ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+54,did you send them to Ana ?,mod pro:per v pro:obj prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+55,you send them to me yesterday .,pro:per v pro:obj prep pro:obj adv:tem .,ENG ENG ENG ENG ENG ENG,0
+56,okay perfect .,co v .,ENG ENG,0
+57,.,None,,0
+58,okay no problem .,co qn n .,ENG ENG ENG,0
+59,I just didn't find them in the server so I wanted to make sure with the //.,pro:sub adv mod v pro:obj prep det:art n conj pro:sub v inf v adj prep det:art +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+60,and the next eh didn't have it so that's why I wanted to .,coord det:art adj co mod v pro:per adv pro:dem pro:int pro:sub v inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+61,so it's just a matter of checking .,co pro:per adj det:art n prep part .,ENG ENG ENG ENG ENG ENG ENG,0
+62,I would U last simply because that's the last when we finished .,pro:sub mod n:prop adv adv conj pro:rel det:art adj conj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+63,you know I'm saying ?,pro:per v pro:sub part ?,ENG ENG ENG ENG,0
+64,because A ya llevan ahí ocupados .,conj n:prop L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP,1
+65,like three or four months .,co det:num coord det:num n .,ENG ENG ENG ENG ENG,0
+66,B lo mismo .,n:prop L2 L2 .,ENG ESP ESP,1
+67,they are occupied two thirds of the facilities for a month so I would do U as the last one .,pro:sub aux part det:num n prep det:art n prep det:art n conj pro:sub mod v n:prop conj det:art adj pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+68,you know .,pro:per v .,ENG ENG,0
+69,si two guys wanna do offering one day fine .,L2 det:num n v v part det:num n adv .,ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+70,you know .,pro:per v .,ENG ENG,0
+71,we can do U one a different day because they still have work to do .,pro:sub mod v n:prop det:num det:art adj n conj pro:sub adv v n inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+72,so you know .,co pro:per v .,ENG ENG ENG,0
+73,to me there's //.,inf pro:obj pro:exist +//.,ENG ENG ENG,0
+74,it's not that there's no hurry .,pro:per neg pro:rel pro:exist qn n .,ENG ENG ENG ENG ENG ENG,0
+75,they just haven't had time to do the stuff .,pro:sub adv aux part n inf v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+76,"y para qué vas a ir para que después digan ""/.","coord prep pro:int v aprep inf prep pro:rel adv v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+77,chico no hiciste esto esto y esto y esto .,n adv v pro:dem pro:dem coord pro:dem coord pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+78,you know .,pro:per v .,ENG ENG,0
+79,right but I least for A and B you know ninety percent of the staff .,adv conj pro:sub n prep n:prop coord n:prop pro:per v det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+80,A should all be done .,n:prop mod adv aux part .,ENG ENG ENG ENG ENG,0
+81,and at B most of it should be done because they've been doing a lot .,coord prep n:prop qn prep pro:per mod aux part conj pro:sub aux part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+82,so okey_dokey ?,co co ?,ENG ENG,0
+83,.,None,,0
+84,thank you much !,v pro:per adv !,ENG ENG ENG,0
+85,bye .,co .,ENG,0
+86,so we forwarded the MEP to U_One ?,co pro:sub v det:art n:prop prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+87,he said he sended to you yesterday .,pro:sub v pro:sub v prep pro:per adv:tem .,ENG ENG ENG ENG ENG ENG ENG,0
+88,Craig said he did not have it .,n:prop v pro:sub mod neg v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+89,.,None,,0
+90,just forward it .,adv adv pro:per .,ENG ENG ENG,0
+91,because according to that email I got from them they have not received an MEP .,conj n:gerund prep det:dem n pro:sub v prep pro:obj pro:sub v neg part det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+92,but it was not on our system .,conj pro:per cop neg prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+93,.,None,,0
+94,no .,co .,ENG,0
+95,I looked under U_One punch list with architecture and NDCPS .,pro:sub v adv n:prop n n prep n coord n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+96,there was no SDN .,pro:exist cop qn n:prop .,ENG ENG ENG ENG,0
+97,under architecture .,adv n .,ENG ENG,0
+98,where's the S_D_Ns ?,pro:int det:art n:prop ?,ENG ENG ENG,0
+99,where ?,pro:rel ?,ENG,0
+100,.,None,,0
+101,under punch list ?,adv n n ?,ENG ENG ENG,0
+102,and you want ?,coord pro:per v ?,ENG ENG ENG,0
+103,I'm in there .,pro:sub prep n .,ENG ENG ENG,0
+104,there's nothing in there .,pro:exist pro:indef prep n .,ENG ENG ENG ENG,0
+105,.,None,,0
+106,I need U .,pro:sub v n:prop .,ENG ENG ENG,0
+107,I don't need B .,pro:sub mod v n:prop .,ENG ENG ENG ENG,0
+108,I need U .,pro:sub v n:prop .,ENG ENG ENG,0
+109,.,None,,0
+110,we have nothing for U .,pro:sub v pro:indef prep n:prop .,ENG ENG ENG ENG ENG,0
+111,go in there an U and tell me where there is the DMR .,v prep n det:art n:prop coord v pro:obj pro:int adv cop det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+112,porque no está nada .,conj adv cop v .,ENG ENG ENG ENG,0
+113,that's what I //.,pro:dem pro:int pro:sub +//.,ENG ENG ENG,0
+114,he said he sended again yesterday .,pro:sub v pro:sub v adv adv:tem .,ENG ENG ENG ENG ENG ENG,0
+115,but I don't know that they have been to U .,conj pro:sub mod v comp pro:sub aux cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+116,.,None,,0
+117,listo .,adj .,ENG,0
+118,.,None,,0
+119,tell them that we need new .,v pro:obj comp pro:sub v adj .,ENG ENG ENG ENG ENG ENG,0
+120,I don't think he has been to U .,pro:sub mod v pro:sub aux aux prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+121,now if he hasn't been to U ...,adv conj pro:sub aux cop prep n:prop +...,ENG ENG ENG ENG ENG ENG ENG,0
+122,I know this is who says first watches out second .,pro:sub v pro:dem cop pro:rel v adj v adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+123,you know .,pro:per v .,ENG ENG,0
+124,I don't think he's been to U .,pro:sub mod v pro:sub cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+125,if he hasn't been to /.,conj pro:sub aux cop prep +/.,ENG ENG ENG ENG ENG,0
+126,.,None,,0
+127,I think he is confused .,pro:sub v pro:sub aux part .,ENG ENG ENG ENG ENG,0
+128,llámalo .,imp .,ENG,0
+129,.,None,,0
+130,he needs to go to U .,pro:sub v inf v prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+131,he has not been to U .,pro:sub aux neg cop prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+132,y si no ha /.,L2 L2 L2 L2 +/.,ESP ESP ESP ESP,0
+133,.,None,,0
+134,so okay then he needs to /.,co co adv:tem pro:sub v prep +/.,ENG ENG ENG ENG ENG ENG,0
+135,.,None,,0
+136,yes .,co .,ENG,0
+137,.,None,,0
+138,there's no one .,pro:exist qn pro:indef .,ENG ENG ENG,0
+139,yes .,co .,ENG,0
+140,hang on .,v adv .,ENG ENG,0
+141,I'll call you right back .,pro:sub v pro:per adv adv .,ENG ENG ENG ENG ENG,0
+142,.,None,,0
+143,but mechanical and electrical can .,conj adj coord adj mod .,ENG ENG ENG ENG ENG,0
+144,.,None,,0
+145,we need U .,pro:sub v n:prop .,ENG ENG ENG,0
+146,.,None,,0
+147,somebody was telling me there's a movie .,pro:indef aux part pro:obj pro:exist det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+148,forty forty eight hours .,det:num det:num det:num n .,ENG ENG ENG ENG,0
+149,like the one that was filmed here .,prep det:art pro:indef pro:rel aux part adv .,ENG ENG ENG ENG ENG ENG ENG,0
+150,and what's your name ?,coord pro:int det:poss n ?,ENG ENG ENG ENG,0
+151,you !,pro:per !,ENG,0
+152,I hear a movie they were telling me yesterday .,pro:sub v det:art n pro:sub aux part pro:obj adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+153,.,None,,0
+154,what's your name ?,pro:int det:poss n ?,ENG ENG ENG,0
+155,no you !,co pro:per !,ENG ENG,0
+156,no you !,co pro:per !,ENG ENG,0
+157,what's your name ?,pro:int det:poss n ?,ENG ENG ENG,0
+158,you !,pro:per !,ENG,0
+159,.,None,,0
+160,.,None,,0
+161,.,None,,0
+162,I was to listen to whatever you said .,pro:sub cop inf v prep pro:int pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+163,what did you say ?,pro:int mod pro:per v ?,ENG ENG ENG ENG,0
+164,.,None,,0
+165,.,None,,0
+166,hi Martha .,co n:prop .,ENG ENG,0
+167,this is Maria .,pro:dem cop n:prop .,ENG ENG ENG,0
+168,how are you ?,pro:int cop pro:per ?,ENG ENG ENG,0
+169,I got ahold of Tom .,pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG,0
+170,and for the Double_U_L_R meeting .,coord prep det:art n:prop part .,ENG ENG ENG ENG ENG,0
+171,he said unfortunately he's work every morning on next week until Friday .,pro:sub v un#adv pro:sub n qn n adv adv n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+172,but he felt bad .,conj pro:sub v adj .,ENG ENG ENG ENG,0
+173,as long as I was there and knew when ND are if you don't wanna wait .,prep adj conj pro:sub cop adv coord v conj n:prop cop conj pro:per mod v co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+174,you know .,pro:per v .,ENG ENG,0
+175,because he's got meetings already scheduled .,conj pro:sub part n:gerund adv part .,ENG ENG ENG ENG ENG ENG,0
+176,and then we wanna resolve that so //.,coord adv:tem pro:sub v v pro:dem adv +//.,ENG ENG ENG ENG ENG ENG ENG,0
+177,up to you .,adv prep pro:per .,ENG ENG ENG,0
+178,right right .,co co .,ENG ENG,0
+179,you said that ah next Tuesday the fifteenth either nine or ten .,pro:per v comp L2 adv n:prop det:art adj coord det:num coord det:num .,ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+180,you just tell me what time .,pro:per adv v pro:obj pro:int n .,ENG ENG ENG ENG ENG ENG,0
+181,either is fine with me .,adv cop adj prep pro:obj .,ENG ENG ENG ENG ENG,0
+182,I don't have problems with .,pro:sub mod v n prep .,ENG ENG ENG ENG ENG,0
+183,you said ah Tuesday the fifteenth ?,pro:per v L2 n:prop det:art adj ?,ENG ENG ESP ENG ENG ENG,1
+184,yes next Tuesday .,co adv n:prop .,ENG ENG ENG,0
+185,either at nine or at ten .,adv prep det:num coord prep det:num .,ENG ENG ENG ENG ENG ENG,0
+186,right right right right .,adv adj n co .,ENG ENG ENG ENG,0
+187,not a problem .,neg det:art n .,ENG ENG ENG,0
+188,nine it is .,det:num pro:per cop .,ENG ENG ENG,0
+189,right .,co .,ENG,0
+190,at nine a_m and then I wherever ...,prep det:num n coord adv:tem pro:sub pro:rel +...,ENG ENG ENG ENG ENG ENG ENG,0
+191,you know .,pro:per v .,ENG ENG,0
+192,we need to ...,pro:sub v inf +...,ENG ENG ENG,0
+193,he said we can call him at cell or something but he has meetings all next week .,pro:sub v pro:sub mod v pro:obj prep n coord pro:indef conj pro:sub aux n:gerund adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+194,"he says ""/.","pro:sub v +""/.",ENG ENG,0
+195,you are not gonna leave it but I will work until friday .,pro:per aux neg part v pro:per conj pro:sub mod v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+196,it's like oh my god .,pro:per co co det:poss n .,ENG ENG ENG ENG ENG,0
+197,okey_dokey .,co .,ENG,0
+198,all right .,post co .,ENG ENG,0
+199,thanks fine .,v adv .,ENG ENG,0
+200,.,None,,0
+201,qué te dijo ?,pro:int pro:obj v ?,ENG ENG ENG,0
+202,.,None,,0
+203,"you were like ""/.","pro:per cop co +""/.",ENG ENG ENG,0
+204,it's in the server .,pro:per prep det:art n .,ENG ENG ENG ENG,0
+205,"I'm like ""/.","pro:sub prep +""/.",ENG ENG,0
+206,it is not .,pro:per cop neg .,ENG ENG ENG,0
+207,I'm looking at the server .,pro:sub part prep det:art n .,ENG ENG ENG ENG ENG,0
+208,.,None,,0
+209,you looked and it was already in the system of course .,pro:per cop coord pro:per cop adv prep det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+210,.,None,,0
+211,but did you tell him que Craig dijo that they are already been altered verdad ?,conj mod pro:per v pro:obj L2 n:prop L2 comp pro:sub cop adv aux part L2 ?,ENG ENG ENG ENG ENG ESP ENG ESP ENG ENG ENG ENG ENG ENG ESP,1
+212,.,None,,0
+213,that's right .,pro:dem co .,ENG ENG,0
+214,they /.,pro:sub +/.,ENG,0
+215,.,None,,0
+216,on the eighteen it's a teacher planning day so we should //.,prep det:art det:num pro:per det:art n part n conj pro:sub mod +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+217,eh la el viernes de la semana que viene .,L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+218,.,None,,0
+219,next Friday .,adv n:prop .,ENG ENG,0
+220,there'll be no children .,pro:exist aux qn n .,ENG ENG ENG ENG,0
+221,we should plan to go to A and B at least to review all our punch list to make sure //.,pro:sub mod v inf v prep n:prop coord n:prop prep n inf v qn det:poss n n inf v adj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+222,porque the teacher should be there .,L2 det:art n mod cop adv .,ESP ENG ENG ENG ENG ENG,1
+223,the teachers are there .,det:art n cop adv .,ENG ENG ENG ENG,0
+224,there's no kids so we podemos entrar y salir de todos los cuartos sin ningún problema .,pro:exist qn n conj pro:sub L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+225,.,None,,0
+226,Monday is a legal holiday .,n:prop cop det:art adj n .,ENG ENG ENG ENG ENG,0
+227,I'd rather not use it unless we want to because they have to get paid overtime .,pro:sub adv neg v pro:per conj pro:sub v prep conj pro:sub v inf aux part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+228,but that thing that would only be at U_One .,conj det:dem n pro:rel mod adv cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+229,at I think we should do A first para ya acabar con A .,prep pro:sub v pro:sub mod v n:prop adv L2 L2 L2 L2 n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ENG,1
+230,check if it's done it's not done whatever it is .,n conj pro:per part pro:per neg part pro:int pro:per cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+231,then we go to B and then ...,adv:tem pro:sub v prep n:prop coord adv:tem +...,ENG ENG ENG ENG ENG ENG ENG,0
+232,to me U should be the last one simply because they just finished !,inf pro:obj n:prop mod cop det:art adj pro:indef adv conj pro:sub adv part !,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+233,so they are not going to have time to have finish it .,co pro:sub aux neg part inf v n inf v v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+234,.,None,,0
+235,right and that's what I told Tom and said I would //.,adv coord pro:dem pro:int pro:sub v n:prop coord v pro:sub mod +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+236,you know .,pro:per v .,ENG ENG,0
+237,let's do A first .,v v n:prop adv .,ENG ENG ENG ENG,0
+238,if we can do B that would be great so we can finish those two .,conj pro:sub mod v n:prop pro:rel mod cop adj conj pro:sub mod v det:dem det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+239,and then it's just a matter of waiting when they are ready for you because the are not going to be ready for us to review U_One because they haven't done anything .,coord adv:tem pro:per adj det:art n prep part conj pro:sub cop adj prep pro:per conj det:art aux neg part inf cop adj prep pro:obj inf v n:prop conj pro:sub aux part pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+240,you are trying to get the damn get a water with it on .,pro:per aux part inf v det:art adj v det:art n prep pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+241,.,None,,0
+242,no preguntes .,adv v .,ENG ENG,0
+243,they just run the bacterials and like //.,pro:sub adv v det:art n:adj coord co +//.,ENG ENG ENG ENG ENG ENG ENG,0
+244,"I asked Peter ""/.","pro:sub v n:prop +""/.",ENG ENG ENG,0
+245,aren't you supposed to have bacterial test before ?,aux pro:per v inf v adj n adv ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+246,.,None,,0
+247,I did neither .,pro:sub v adv .,ENG ENG ENG,0
+248,I did //.,pro:sub v +//.,ENG ENG,0
+249,.,None,,0
+250,well somehow they some /.,adv adv pro:sub qn +/.,ENG ENG ENG ENG,0
+251,.,None,,0
+252,that's /.,pro:dem +/.,ENG,0
+253,.,None,,0
+254,right .,co .,ENG,0
+255,.,None,,0
+256,right .,co .,ENG,0
+257,.,None,,0
+258,that's what Martha told me .,pro:dem pro:int n:prop v pro:obj .,ENG ENG ENG ENG ENG,0
+259,.,None,,0
+260,right right .,co co .,ENG ENG,0
+261,and the bacterials have a limited time .,coord det:art n:adj v det:art part n .,ENG ENG ENG ENG ENG ENG ENG,0
+262,they only have thirty days .,pro:sub adv v det:num n .,ENG ENG ENG ENG ENG,0
+263,.,None,,0
+264,no it's thirty days .,co pro:per det:num n .,ENG ENG ENG ENG,0
+265,thirty days .,det:num n .,ENG ENG,0
+266,.,None,,0
+267,the bacterial test is only the result is only good for thirty days .,det:art adj n cop adv det:art n cop adv adj prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+268,so if you haven't but they have HRS approval which is the part that there's a little confusing .,co conj pro:per aux conj pro:sub v n:prop n pro:rel cop det:art adj adv pro:exist det:art adj n:gerund .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+269,because they wouldn't be able to cook if they haven't HRS approval .,conj pro:sub mod cop adj prep n conj pro:sub aux n:prop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+270,or maybe until they run .,coord adv prep pro:sub v .,ENG ENG ENG ENG ENG,0
+271,.,None,,0
+272,somebody is a blind eye .,pro:indef cop det:art adj n .,ENG ENG ENG ENG ENG,0
+273,.,None,,0
+274,no the HRS is health eh department .,qn det:art n:prop cop n L2 n .,ENG ENG ENG ENG ENG ESP ENG,1
+275,HRS is health department .,n:prop cop n n .,ENG ENG ENG ENG,0
+276,.,None,,0
+277,that's the big one .,pro:dem det:art adj pro:indef .,ENG ENG ENG ENG,0
+278,.,None,,0
+279,oh so HRS hasn't because a water with steel it's not legal .,co co n:prop aux conj det:art n prep n pro:per neg adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+280,.,None,,0
+281,oh so there are satelliting in it .,co conj adv aux part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+282,it's called satelliting in .,pro:per part part adv .,ENG ENG ENG ENG,0
+283,.,None,,0
+284,they took on on Monday .,pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG,0
+285,maybe it was Tuesday .,adv pro:per cop n:prop .,ENG ENG ENG ENG,0
+286,maybe it was Tuesday .,adv pro:per cop n:prop .,ENG ENG ENG ENG,0
+287,because Bob sent an email saying Dan_Beale said that they hadn't been there .,conj n:prop v det:art n part n:prop v comp pro:sub aux cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+288,and they were testing it .,coord pro:sub aux part pro:per .,ENG ENG ENG ENG ENG,0
+289,"and that's when I forwarded that information to EAC and I said ""/.","coord pro:dem conj pro:sub v comp n prep n:prop coord pro:sub v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+290,I'm confused .,pro:sub part .,ENG ENG,0
+291,school is open .,n cop adj .,ENG ENG ENG,0
+292,and now you are running bacterials ?,coord adv pro:per cop n:gerund n:adj ?,ENG ENG ENG ENG ENG ENG,0
+293,and he's like //.,coord pro:sub prep +//.,ENG ENG ENG,0
+294,he was confused too .,pro:sub aux part post .,ENG ENG ENG ENG,0
+295,he was confused too .,pro:sub aux part post .,ENG ENG ENG ENG,0
+296,.,None,,0
+297,apparently .,adv .,ENG,0
+298,.,None,,0
+299,it's a package that goes a document control .,pro:per det:art n pro:rel v det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+300,I think we need to create //.,pro:sub v pro:sub v inf v +//.,ENG ENG ENG ENG ENG ENG,0
+301,take our drawings make a new one as cold fish and get rid of everything but the fish number .,v det:poss n v det:art adj det:num adv adj n coord v v prep pro:indef conj det:art n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+302,and I guess furniture .,coord pro:sub v n .,ENG ENG ENG ENG,0
+303,we did it for simply because they didn't give us the numbers but it was turned out convenient because then we already have the drawing .,pro:sub mod pro:per prep adv conj pro:sub mod v pro:obj det:art n conj pro:per aux part adv adj conj adv:tem pro:sub adv v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+304,the drawing already had existed .,det:art n adv aux part .,ENG ENG ENG ENG ENG,0
+305,.,None,,0
+306,ask him about that because that is just a matter of /.,v pro:obj prep pro:dem conj pro:dem cop adv det:art n prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+307,.,None,,0
+308,change it above .,v pro:per adv .,ENG ENG ENG,0
+309,.,None,,0
+310,well you could actually make a new one because the blog it's an extra .,co pro:per mod adv v det:art adj pro:indef conj det:art n pro:per det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+311,the tag numbers are an extra .,det:art n n cop det:art n .,ENG ENG ENG ENG ENG ENG,0
+312,.,None,,0
+313,you just edit the blog .,pro:per adv v det:art n .,ENG ENG ENG ENG ENG,0
+314,you make a new drawing add it the blog and all become little fishies .,pro:per v det:art adj n v pro:per det:art n coord adv part adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+315,.,None,,0
+316,ask him ask him .,v pro:obj v pro:obj .,ENG ENG ENG ENG,0
+317,.,None,,0
+318,she didn't tell me whatever it is and I wasn't supposed to listen to .,pro:sub mod v pro:obj pro:int pro:per cop coord pro:sub aux part inf v prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+319,.,None,,0
+320,now I want to know !,adv pro:sub v inf v !,ENG ENG ENG ENG ENG,0
+321,now you got me curious .,adv pro:per v pro:obj adj .,ENG ENG ENG ENG ENG,0
+322,.,None,,0
+323,I said curious .,pro:sub v adj .,ENG ENG ENG,0
+324,.,None,,0
+325,I'm gonna do it .,pro:sub part v pro:per .,ENG ENG ENG ENG,0
+326,.,None,,0
+327,there you go .,adv pro:per v .,ENG ENG ENG,0
+328,nothing relating the flooring .,pro:indef part det:art n .,ENG ENG ENG ENG,0
+329,.,None,,0
+330,.,None,,0
+331,.,None,,0
+332,.,None,,0
+333,.,None,,0
+334,good .,adj .,ENG,0
+335,.,None,,0
+336,no we'll come set .,co pro:sub v v .,ENG ENG ENG ENG,0
+337,.,None,,0
+338,I'm gonna try the library rather than Bibles .,pro:sub part v det:art n adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+339,I don't know any place to store the blogs .,pro:sub mod v qn n inf v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+340,that's my dilemma !,pro:dem det:poss n !,ENG ENG ENG,0
+341,.,None,,0
+342,you've been to my house .,pro:per cop prep det:poss n .,ENG ENG ENG ENG ENG,0
+343,you haven't seen the book store in the garage that I have no place to put !,pro:per aux part det:art n n prep det:art n pro:rel pro:sub v qn n inf v !,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+344,.,None,,0
+345,I walked out the other day and when /.,pro:sub v prep det:art qn n coord pro:int +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+346,.,None,,0
+347,I walked the //.,pro:sub v det:art +//.,ENG ENG ENG,0
+348,I don't care about architectural .,pro:sub mod v prep adj .,ENG ENG ENG ENG ENG,0
+349,.,None,,0
+350,no .,co .,ENG,0
+351,.,None,,0
+352,I /.,pro:sub +/.,ENG,0
+353,.,None,,0
+354,hello I have two little ones .,co pro:sub v det:num adj pro:indef .,ENG ENG ENG ENG ENG ENG,0
+355,I'm getting riding of no books .,pro:sub part part prep qn n .,ENG ENG ENG ENG ENG ENG,0
+356,.,None,,0
+357,Judy Blume .,n:prop n:prop .,ENG ENG,0
+358,.,None,,0
+359,no actually actually yeah I just keep them for Danny .,co adv adv co pro:sub adv v pro:obj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+360,there our family we are much about recycling .,adv det:poss n pro:sub aux adv adv part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+361,there went to my nephew .,adv v prep det:poss n .,ENG ENG ENG ENG ENG,0
+362,they came back from my nephew .,pro:sub v adv prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+363,now they are going to Max and James .,adv pro:sub aux part prep n:prop coord n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+364,when Danny grows up the one who is reading now because he is much older .,conj n:prop v prep det:art pro:indef pro:rel aux part adv conj pro:sub cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+365,they all go to ...,pro:sub post v prep +...,ENG ENG ENG ENG,0
+366,.,None,,0
+367,my sister .,det:poss n .,ENG ENG,0
+368,.,None,,0
+369,my nephew is twenty four .,det:poss n cop det:num det:num .,ENG ENG ENG ENG ENG,0
+370,"I said ""/.","pro:sub v +""/.",ENG ENG,0
+371,it's a good material .,pro:per det:art adj adj .,ENG ENG ENG ENG,0
+372,it's a good product .,pro:per det:art adj n .,ENG ENG ENG ENG,0
+373,why should I buy a new one ?,pro:int mod pro:sub v det:art adj pro:indef ?,ENG ENG ENG ENG ENG ENG ENG,0
+374,.,None,,0
+375,sixteenth of what .,adj prep pro:int .,ENG ENG ENG,0
+376,the sixth of January was a Sunday .,det:art adj prep n:prop cop det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+377,.,None,,0
+378,.,None,,0
+379,.,None,,0
+380,that's where your d_j it's .,pro:dem pro:int det:poss n pro:per .,ENG ENG ENG ENG ENG,0

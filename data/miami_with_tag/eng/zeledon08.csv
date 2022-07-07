@@ -1,0 +1,1426 @@
+,sentence,pos,language,switch
+0,"so yo le digo a la waitress ""/.","adv L2 L2 L2 L2 L2 n +""/.",ENG ESP ESP ESP ESP ESP ENG,1
+1,eh hay lugar adentro en la barra ?,co v n adv prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+2,uhuh .,co .,ENG,0
+3,"said ""/.","v +""/.",ENG,0
+4,well if a table opens up or something opens up I'll let you know okay ?,co comp det:art n v adv coord pro:indef v prep pro:sub v pro:per v adj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+5,so a few minutes later she tells us that there's a table at the bar .,co det:art n n adv pro:sub v pro:obj pro:rel pro:exist det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+6,so we went at the bar ...,co pro:sub v prep det:art n +...,ENG ENG ENG ENG ENG ENG,0
+7,"in timeout there in a corner ""/.","prep n adv prep det:art n +""/.",ENG ENG ENG ENG ENG ENG,0
+8,you're okay there ?,pro:per adj adv ?,ENG ENG ENG,0
+9,.,None,,0
+10,ya estamos dentro que .,adv cop adv pro:rel .,ENG ENG ENG ENG,0
+11,.,None,,0
+12,well so we were there ...,co conj pro:sub cop adv +...,ENG ENG ENG ENG ENG,0
+13,"and a couple of guys turned to talk to us ""/.","coord det:art n prep n v inf v prep pro:obj +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+14,and well but nothing .,coord n conj pro:indef .,ENG ENG ENG ENG,0
+15,and while we were there and sitting ...,coord conj pro:sub cop adv coord part +...,ENG ENG ENG ENG ENG ENG ENG,0
+16,y nada pasó .,coord v v .,ENG ENG ENG,0
+17,and drinking and sitting .,coord part coord part .,ENG ENG ENG ENG,0
+18,ni modo se emborrachaban antes de que le pasara .,coord n pro:refl v adv prep pro:rel pro:ind v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+19,nada .,pro:indef .,ENG,0
+20,"entonces le digo ""/.","adv pro:ind v +""/.",ENG ENG ENG,0
+21,buena yo ya me tengo que ir porque cuanto no voy a quedar aquí .,adj pro:sub adv pro:obj v pro:rel inf conj det:indef adv v aprep inf adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+22,claro .,co .,ENG,0
+23,yo soy casada .,pro:sub cop part .,ENG ENG ENG,0
+24,tú no pero yo //.,pro:sub adv conj pro:sub +//.,ENG ENG ENG ENG,0
+25,tengo un hijo un esposo .,v det:art n det:art n .,ENG ENG ENG ENG ENG,0
+26,ya .,adv .,ENG,0
+27,"so ""/.","co +""/.",ENG,0
+28,bueno vamos ...,co co +...,ENG ENG,0
+29,y qué vamos a hacer aquí sentadas haciendo nada !,coord pro:int v aprep inf adv part ger v !,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+30,claro .,co .,ENG,0
+31,sí .,co .,ENG,0
+32,so we get up and we're leaving ...,co pro:sub v adv coord pro:sub part +...,ENG ENG ENG ENG ENG ENG ENG,0
+33,"and when we were leaving era ""/.","coord conj pro:sub aux part L2 +""/.",ENG ENG ENG ENG ENG ESP,1
+34,hi girls there .,co n adv .,ENG ENG ENG,0
+35,how are this ?,pro:int cop pro:dem ?,ENG ENG ENG,0
+36,how are you ?,pro:int cop pro:per ?,ENG ENG ENG,0
+37,entraron dos hombres ?,v det:num n ?,ENG ENG ENG,0
+38,so /.,co +/.,ENG,0
+39,no they're all the people that were there .,co pro:sub adv det:art n pro:rel cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+40,"so my friend was ""/.","adv det:poss n cop +""/.",ENG ENG ENG ENG,0
+41,well seems that you can't sit down ...,co cop comp pro:per mod v adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+42,you need to go and walk around the place .,pro:per v inf v coord n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+43,you need to know what to do when you to an happy hour .,pro:per v inf v pro:int inf v conj pro:per prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+44,yeah .,co .,ENG,0
+45,so well now we know //.,adv adv adv pro:sub v +//.,ENG ENG ENG ENG ENG,0
+46,well now we know you need to walk around and mingle because if you are there /.,adv adv pro:sub v pro:per v inf v adv coord v conj conj pro:per cop adv +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+47,I don't think you've /.,pro:sub mod v pro:per +/.,ENG ENG ENG ENG,0
+48,no es como en nuestros países que los hombres son atrevidos que te hablan .,adv cop adv prep pro:pos n prep det:art n cop part pro:rel pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+49,sí no aquí esperan .,co adv adv v .,ENG ENG ENG ENG,0
+50,uno tiene que ir !,det:art v pro:rel inf !,ENG ENG ENG ENG,0
+51,y te miran la mano /.,coord pro:obj v det:art n +/.,ENG ENG ENG ENG ENG,0
+52,ah bueno tú no tienes anillo .,co co pro:sub adv v n .,ENG ENG ENG ENG ENG ENG,0
+53,no .,adv .,ENG,0
+54,no no I use mine .,co co pro:sub v pro:poss .,ENG ENG ENG ENG ENG,0
+55,sí lo tienes ?,co pro:obj v ?,ENG ENG ENG,0
+56,sí yo uso mi anillo de //.,co pro:sub v det:pos n prep +//.,ENG ENG ENG ENG ENG ENG,0
+57,hoy hoy no lo tengo ...,adv adv adv pro:obj v +...,ENG ENG ENG ENG ENG,0
+58,pero I lo I use it .,L2 pro:sub L2 pro:sub v pro:per .,ESP ENG ESP ENG ENG ENG,1
+59,pero well the funny thing was that those guys who came to talk to us //.,L2 adv det:art adj n cop adv det:dem n pro:rel v inf v prep pro:obj +//.,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+60,it was funny because my friend is pretty ...,pro:per cop adj conj det:poss n cop adv +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+61,uhuh and you're pretty too .,co coord pro:per adj adv .,ENG ENG ENG ENG ENG,0
+62,y tú sabes ella ella es bonita ...,coord pro:sub v pro:sub pro:sub cop co:voc +...,ENG ENG ENG ENG ENG ENG ENG,0
+63,y es muy atractiva atractiva ...,coord cop adv adj adj +...,ENG ENG ENG ENG ENG,0
+64,and she is very flamboyant you know .,coord pro:sub cop adv adj pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+65,and whenever I mean whenever when in a situation like that before //.,coord pro:rel pro:sub v pro:rel pro:rel prep det:art n prep pro:dem adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+66,.,None,,0
+67,but she seems always get more attention than me .,conj pro:sub cop adv v qn n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+68,.,None,,0
+69,so we were the these two guys who approached us ...,co pro:sub cop det:art det:dem det:num n pro:rel v pro:obj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+70,and we were talking ...,coord pro:sub aux part +...,ENG ENG ENG ENG,0
+71,"and they were kind of assessing the situation ""/.","coord pro:sub cop n prep n:gerund det:art n +""/.",ENG ENG ENG ENG ENG ENG ENG ENG,0
+72,no that one for me that one for you ...,qn det:dem pro:indef prep pro:obj det:dem pro:indef prep pro:per +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+73,oh that's so funny .,co pro:dem adv adj .,ENG ENG ENG ENG,0
+74,you know what those guys are //.,pro:per v pro:int det:dem n cop +//.,ENG ENG ENG ENG ENG ENG,0
+75,so okay good tell me about you .,co co adj v pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+76,qué pereza .,pro:int n .,ENG ENG,0
+77,"and I was ""/.","coord pro:sub cop +""/.",ENG ENG ENG,0
+78,"well I am married ""/.","co pro:sub aux part +""/.",ENG ENG ENG ENG,0
+79,I am married !,pro:sub aux part !,ENG ENG ENG,0
+80,no but they've //.,co conj pro:sub +//.,ENG ENG ENG,0
+81,choke .,v .,ENG,0
+82,yeah .,co .,ENG,0
+83,oh so they were there ...,co conj pro:sub cop adv +...,ENG ENG ENG ENG ENG,0
+84,"and suddenly I was ""/.","coord adv pro:sub cop +""/.",ENG ENG ENG ENG,0
+85,well I am married .,co pro:sub aux part .,ENG ENG ENG ENG,0
+86,and Flavia estos these two guys they dropped her like she had butter you know .,coord n:prop L2 det:dem det:num n pro:sub v pro:obj conj pro:sub v n pro:per v .,ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+87,la patearon a mi amiga .,pro:obj v aprep det:pos n .,ENG ENG ENG ENG ENG,0
+88,now /.,adv +/.,ENG,0
+89,no la volvieron a hablar ?,adv pro:obj v aprep inf ?,ENG ENG ENG ENG ENG,0
+90,no because I was much more interesting because I was married .,co conj pro:sub cop qn adv adj conj pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+91,.,None,,0
+92,oh no ha they were starting talking to you !,co co co pro:sub aux part part prep pro:per !,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+93,to me !,prep pro:obj !,ENG ENG,0
+94,because you were married .,conj pro:per aux part .,ENG ENG ENG ENG,0
+95,my yeah my they ignored her .,det:poss co det:poss pro:sub v pro:obj .,ENG ENG ENG ENG ENG ENG,0
+96,they didn't talk to her any more .,pro:sub mod v prep pro:obj qn pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+97,no everything was //.,qn pro:indef cop +//.,ENG ENG ENG,0
+98,and talked to you because you were married .,coord v prep pro:per conj pro:per aux part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+99,yeah because I was married .,co conj pro:sub aux part .,ENG ENG ENG ENG ENG,0
+100,is that weird or what ?,cop pro:dem adj coord pro:int ?,ENG ENG ENG ENG ENG,0
+101,can you believe that ?,mod pro:per v pro:dem ?,ENG ENG ENG ENG,0
+102,no .,co .,ENG,0
+103,can you believe that ?,mod pro:per v pro:dem ?,ENG ENG ENG ENG,0
+104,yo pensé que era que se habían ido corriendo porque eras casada .,pro:sub v pro:rel cop pro:rel pro:refl aux part ger conj cop part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+105,no !,co !,ENG,0
+106,la repatearon //.,pro:obj re#v +//.,ENG ENG,0
+107,yo juraba //.,pro:sub v +//.,ENG ENG,0
+108,pero era funny funny porque a a visual thing you know .,L2 L2 adj adj L2 det:art det:art adj n pro:per v .,ESP ESP ENG ENG ESP ENG ENG ENG ENG ENG ENG,1
+109,la estaban estaban los dos tú sabes así uum ...,pro:obj aux cop det:art det:num pro:sub v adv L2 +...,ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+110,y cuando yo dije married mm like that .,L2 L2 L2 L2 part co prep pro:dem .,ESP ESP ESP ESP ENG ENG ENG ENG,1
+111,no !,co !,ENG,0
+112,unbelievable !,un#adj !,ENG,0
+113,pero sabes por qué ?,conj v prep pro:int ?,ENG ENG ENG ENG,0
+114,Flavia //.,n:prop +//.,ENG,0
+115,porque lo que querían es un affair .,conj pro:obj pro:rel v cop det:art L2 .,ENG ENG ENG ENG ENG ENG ESP,1
+116,trampas son trampas .,n cop n .,ENG ENG ENG,0
+117,quieren un affair ...,v det:art L2 +...,ENG ENG ESP,1
+118,ya !,adv !,ENG,0
+119,y no les interesa el compromiso de la soltera .,coord adv pro:ind v det:art n prep det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+120,ay oye qué increíble los hombres .,co co pro:int adj det:art n .,ENG ENG ENG ENG ENG ENG,0
+121,qué te parece ?,pro:int pro:obj v ?,ENG ENG ENG,0
+122,increíble .,adj .,ENG,0
+123,no .,co .,ENG,0
+124,yo estaba pero no puedo creer estos hijos de puta .,pro:sub aux conj adv v inf det:dem n prep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+125,la cosa es que //.,det:art n cop pro:rel +//.,ENG ENG ENG ENG,0
+126,ay dios .,co co .,ENG ENG,0
+127,increíble .,adj .,ENG,0
+128,y cuántos años tenían los tipos más o menos ?,coord pro:int n v det:art n adv coord adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+129,cuarenta y seis mi age .,L2 L2 L2 L2 n .,ESP ESP ESP ESP ENG,1
+130,ay mira .,co co .,ENG ENG,0
+131,yeah .,co .,ENG,0
+132,es que tú no pareces cuarenta y seis tampoco Marcela .,cop pro:rel pro:sub adv v det:num coord det:num adv n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+133,no luego es funny //.,co L2 L2 adj +//.,ENG ESP ESP ENG,1
+134,you don't seem forty six you're just like forty you know like thirty nine forty .,pro:per mod cop det:num det:num pro:per adv prep det:num pro:per v co det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+135,yeah well I don't know .,co n pro:sub mod v .,ENG ENG ENG ENG ENG,0
+136,yes you do !,co pro:per v !,ENG ENG ENG,0
+137,yesterday the I don't know maybe because //.,adv:tem det:art pro:sub mod v adv conj +//.,ENG ENG ENG ENG ENG ENG ENG,0
+138,after the vejestorio place //.,prep det:art L2 n +//.,ENG ENG ESP ENG,1
+139,and you're petite you know .,coord pro:per adj pro:per v .,ENG ENG ENG ENG ENG,0
+140,yeah .,co .,ENG,0
+141,como eres así tan chiquitita tan delgadita .,adv cop adv adv adj adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+142,pero //.,conj +//.,ENG,0
+143,pero ayer they made references to my age in a few times .,L2 L2 pro:sub v n prep det:poss n prep det:art n n .,ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+144,what they said ?,pro:int pro:sub v ?,ENG ENG ENG,0
+145,que era //.,pro:rel cop +//.,ENG ENG,0
+146,"yo digo ""/.","pro:sub v +""/.",ENG ENG,0
+147,porque estoy que estoy una vieja que //.,conj aux pro:rel cop det:art adj pro:rel +//.,ENG ENG ENG ENG ENG ENG ENG,0
+148,no había un caso funny because yo les estaba diciendo que //.,co L2 L2 L2 adj conj L2 L2 L2 L2 L2 +//.,ENG ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP,1
+149,pues no sé que .,co adv v pro:rel .,ENG ENG ENG ENG,0
+150,y yo hice como un chiste que me quiero poner //.,coord pro:sub v adv det:art n pro:rel pro:obj v inf +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,uhuh .,co .,ENG,0
+152,hacer cirugía plástica .,inf n adj .,ENG ENG ENG,0
+153,"y and they turned ""/.","L2 coord pro:sub v +""/.",ESP ENG ENG ENG,1
+154,no no there's really not something very unattractive about //.,co co pro:exist adv neg pro:indef adv un#adj adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+155,huh ?,co ?,ENG,0
+156,about plastic surgery .,prep n n .,ENG ENG ENG,0
+157,I mean the fake hm /.,pro:sub v det:art adj co +/.,ENG ENG ENG ENG ENG,0
+158,mhm .,co .,ENG,0
+159,boobs .,n .,ENG,0
+160,boobs .,n .,ENG,0
+161,mhm .,co .,ENG,0
+162,"and I was ""/.","coord pro:sub cop +""/.",ENG ENG ENG,0
+163,well I don't //.,co pro:sub mod +//.,ENG ENG ENG,0
+164,the ones I saw were okay with me you know .,det:art det:num pro:sub v cop adj prep pro:obj pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+165,.,None,,0
+166,pero quién dijo eso el tipo ?,conj pro:int v pro:dem det:art n ?,ENG ENG ENG ENG ENG ENG,0
+167,un sí .,det:art co .,ENG ENG,0
+168,un señor ?,det:art co:voc ?,ENG ENG,0
+169,"me dice ""/.","pro:obj v +""/.",ENG ENG,0
+170,bueno es que las mujeres después que cumplen cuarenta ...,co cop pro:rel det:art n adv pro:rel v det:num +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+171,y se ven que no //.,coord pro:refl imp pro:rel adv +//.,ENG ENG ENG ENG ENG,0
+172,sí es verdad .,co cop co .,ENG ENG ENG,0
+173,pero yo no tengo cuarenta .,conj pro:sub adv v det:num .,ENG ENG ENG ENG ENG,0
+174,y mi amiga se empezó a reír .,coord det:pos n pro:refl v aprep inf .,ENG ENG ENG ENG ENG ENG ENG,0
+175,porque yo todo ofendida .,conj pro:sub det:indef part .,ENG ENG ENG ENG,0
+176,y cuántos años tiene tu amiga ?,coord pro:int n v det:pos n ?,ENG ENG ENG ENG ENG ENG,0
+177,porque él te ha dicho que tenías cuarenta .,conj pro:sub pro:obj aux part pro:rel v det:num .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+178,claro todo ofendida porque me había dicho que tenía cuarenta .,co det:indef part conj pro:obj aux part pro:rel v det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+179,yo no tengo cuarenta cuarenta y cinco .,pro:sub adv v det:num det:num coord det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+180,tengo cuarenta y seis .,v det:num coord det:num .,ENG ENG ENG ENG,0
+181,pero cómo así ?,conj pro:int adv ?,ENG ENG ENG,0
+182,my friend was cracking up .,det:poss n aux part adv .,ENG ENG ENG ENG ENG,0
+183,cuántos años tiene ella ?,pro:int n v pro:sub ?,ENG ENG ENG ENG,0
+184,ella no tiene cuarenta todavía .,pro:sub adv v det:num adv .,ENG ENG ENG ENG ENG,0
+185,ah no esa está joven .,co adv det:dem cop adj .,ENG ENG ENG ENG ENG,0
+186,no tiene treinta y siete me parece .,adv v det:num coord det:num pro:obj v .,ENG ENG ENG ENG ENG ENG ENG,0
+187,ah pero está buena edad para empezar .,co conj cop adj n prep inf .,ENG ENG ENG ENG ENG ENG ENG,0
+188,sí .,co .,ENG,0
+189,cuántos años cuántos niños tiene ?,pro:int n pro:int n v ?,ENG ENG ENG ENG ENG,0
+190,uno .,det:art .,ENG,0
+191,trece .,det:num .,ENG,0
+192,ay imagínate .,co imp .,ENG ENG,0
+193,uno de trece años .,det:art prep det:num n .,ENG ENG ENG ENG,0
+194,muchísimo mejor /.,det:indef adj +/.,ENG ENG,0
+195,pero .,conj .,ENG,0
+196,qué hace ella ?,pro:int v pro:sub ?,ENG ENG ENG,0
+197,es maestra .,cop n .,ENG ENG,0
+198,es maestra en la misma escuela donde trabajábamos juntas .,cop n prep det:art adj n pro:rel v v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+199,mhm .,co .,ENG,0
+200,y nos hicimos amigas de trabajar .,coord pro:obj v n prep inf .,ENG ENG ENG ENG ENG ENG,0
+201,.,None,,0
+202,but she is very nice .,conj pro:sub cop adv adj .,ENG ENG ENG ENG ENG,0
+203,nice ?,adj ?,ENG,0
+204,where does she live Miami or here ?,pro:int v pro:sub v n:prop coord adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+205,very funny .,adv adj .,ENG ENG,0
+206,she she used to live almost next door to the school where we used to work at in Sunset Lakes .,pro:sub pro:sub v inf v adv adj n prep det:art n pro:rel pro:sub v prep n prep prep n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+207,aw because you are working here now .,co conj pro:per aux part adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+208,yeah .,co .,ENG,0
+209,I I don't know why I picture why I am picturing you .,pro:sub pro:sub mod v pro:int pro:sub v pro:int pro:sub aux part pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+210,yes now I am in Dania .,co adv pro:sub cop prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+211,what you are in Dania again ?,pro:int pro:per cop prep n:prop adv ?,ENG ENG ENG ENG ENG ENG,0
+212,where's Dania ?,pro:int n:prop ?,ENG ENG,0
+213,no .,co .,ENG,0
+214,where's Dania ?,pro:int n:prop ?,ENG ENG,0
+215,Dania is next to Fort south of Fort Lauderdale .,n:prop cop adv prep n:prop adj prep n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+216,sabes cuándo vas al aeropuerto de Fort Lauderdale ?,v pro:int v aprep n prep n:prop n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+217,sí que allí hay unos //.,co pro:rel adv v pro:dem +//.,ENG ENG ENG ENG ENG,0
+218,que si vas a la izquierda vas a Fort Lauderdale ...,pro:rel conj v aprep det:art adj v aprep n:prop n:prop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+219,sí ya sé Dania //.,co adv v n:prop +//.,ENG ENG ENG ENG,0
+220,si vas a la derecha vas a Dania .,conj v aprep det:art n v aprep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+221,y derecha es Dania .,coord adj cop n:prop .,ENG ENG ENG ENG,0
+222,ahhah Dania Beach ?,co n:prop n:prop ?,ENG ENG ENG,0
+223,y bueno //.,coord co +//.,ENG ENG,0
+224,I know where it is .,pro:sub v pro:int pro:per cop .,ENG ENG ENG ENG ENG,0
+225,the pier .,det:art n .,ENG ENG,0
+226,everybody knows the pier .,pro:indef v det:art n .,ENG ENG ENG ENG,0
+227,sí .,co .,ENG,0
+228,o un lugar que se llama Jacksons que venden helados .,coord det:art n pro:rel pro:refl v n:prop pro:rel v part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+229,bueno no he ido allá .,co adv aux part adv .,ENG ENG ENG ENG ENG,0
+230,fui allá cuando se bautizó Carmencita .,v adv conj pro:refl v n:prop .,ENG ENG ENG ENG ENG ENG,0
+231,creo que la hija de Laura is gonna get baptized on Sunday .,L2 L2 L2 L2 L2 n:prop aux part v v prep n:prop .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+232,aw that's true .,co pro:dem adj .,ENG ENG ENG,0
+233,that's true .,pro:dem adj .,ENG ENG,0
+234,yes she is gonna get baptized too .,co pro:sub aux part v part post .,ENG ENG ENG ENG ENG ENG ENG,0
+235,yes I think I should come .,co pro:sub v pro:sub mod v .,ENG ENG ENG ENG ENG ENG,0
+236,so sweet .,adv adj .,ENG ENG,0
+237,she's so little .,pro:sub adv adj .,ENG ENG ENG,0
+238,and she wants to get baptized .,coord pro:sub v inf aux part .,ENG ENG ENG ENG ENG ENG,0
+239,at the beach on Sunday tomorrow .,prep det:art n prep n:prop adv:tem .,ENG ENG ENG ENG ENG ENG,0
+240,that's nice .,pro:dem adj .,ENG ENG,0
+241,Carmen se bautizó hace un año .,n:prop pro:refl v v det:art n .,ENG ENG ENG ENG ENG ENG,0
+242,yes she was very excited about that .,co pro:sub aux adv part prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+243,sí .,co .,ENG,0
+244,yeah .,co .,ENG,0
+245,yeah I remember she told me .,L2 pro:sub v pro:sub v pro:obj .,ESP ENG ENG ENG ENG ENG,1
+246,pero she used to live /.,L2 pro:sub v inf v +/.,ESP ENG ENG ENG ENG,1
+247,well I used to work in Sunset Lakes right here .,co pro:sub v prep n prep n:prop n:prop adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+248,.,None,,0
+249,sí .,co .,ENG,0
+250,you know Sunset past where the Walmart is ?,pro:per v n:prop adj pro:int det:art n:prop cop ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+251,yeah .,co .,ENG,0
+252,Walmart ?,n:prop ?,ENG,0
+253,sí .,co .,ENG,0
+254,okay si vas para por esa misma calle hasta Miramar .,co conj v prep prep det:dem adj v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+255,mhm .,co .,ENG,0
+256,ahí está Sunset Lakes .,adv cop n:prop n:prop .,ENG ENG ENG ENG,0
+257,okay .,co .,ENG,0
+258,la escuela donde yo estaba .,det:art n pro:rel pro:sub cop .,ENG ENG ENG ENG ENG,0
+259,que es un neighborhood very upscale there .,L2 L2 L2 n adv up#v adv .,ESP ESP ESP ENG ENG ENG ENG,1
+260,yo sé sí .,pro:sub v co .,ENG ENG ENG,0
+261,y qué tal la escuela ?,coord pro:int adj det:art n ?,ENG ENG ENG ENG ENG,0
+262,aw excellent .,co adj .,ENG ENG,0
+263,sí ?,co ?,ENG,0
+264,excellent .,adj .,ENG,0
+265,pero es middle school or what is it ?,L2 L2 adj n coord pro:int cop pro:per ?,ESP ESP ENG ENG ENG ENG ENG ENG,1
+266,no es elementary .,L2 L2 adj .,ESP ESP ENG,1
+267,elementary .,adj .,ENG,0
+268,sí .,co .,ENG,0
+269,que estoy buscando una escuela para mi sobrina middle school .,L2 L2 L2 L2 L2 L2 L2 L2 adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+270,middle school ?,adj n ?,ENG ENG,0
+271,o middle school high school .,L2 adj n adj n .,ESP ENG ENG ENG ENG,1
+272,well if you could bring the charter would be the best .,co conj pro:per mod v det:art n mod cop det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+273,maybe for next year .,adv prep adj n .,ENG ENG ENG ENG,0
+274,but I don't know if they are gonna have .,conj pro:sub mod v comp pro:sub aux part v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+275,pero //.,conj +//.,ENG,0
+276,tienen lista de espera sabes ?,v adj imp v co ?,ENG ENG ENG ENG ENG,0
+277,sí .,co .,ENG,0
+278,that's the thing .,pro:dem det:art n .,ENG ENG ENG,0
+279,the waiting list is long .,det:art n:gerund n cop adv .,ENG ENG ENG ENG ENG,0
+280,that's the thing .,pro:dem det:art n .,ENG ENG ENG,0
+281,because she wants to come and study here .,conj pro:sub v inf v coord n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+282,yeah .,co .,ENG,0
+283,yeah .,co .,ENG,0
+284,for at least for a year .,conj prep n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+285,she lives in New Jersey .,pro:sub v prep n:prop n:prop .,ENG ENG ENG ENG ENG,0
+286,she started living up there .,pro:sub v part prep n .,ENG ENG ENG ENG ENG,0
+287,y quien le quiere /.,coord pro:rel pro:ind v +/.,ENG ENG ENG ENG,0
+288,but the schools are better there .,conj det:art n cop adj adv .,ENG ENG ENG ENG ENG ENG,0
+289,no .,co .,ENG,0
+290,no ?,co ?,ENG,0
+291,and Elizabeth its a horrible place .,coord n:prop det:poss det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+292,I hate that place .,pro:sub v det:dem n .,ENG ENG ENG ENG,0
+293,ah .,co .,ENG,0
+294,.,None,,0
+295,I mean what I saw my sister inlaw teaches in New Jersey in a small town .,pro:sub v pro:int pro:sub v det:poss n n v prep n:prop n:prop prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+296,cómo se llama ?,pro:int pro:refl v ?,ENG ENG ENG,0
+297,se llama Nutley .,pro:refl v n:prop .,ENG ENG ENG,0
+298,y como en New Jersey las escuelas están //.,coord adv prep n:prop n:prop det:art n cop +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+299,they are managed by the the cities .,pro:sub aux part prep det:art det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+300,.,None,,0
+301,not the counties como aquí /.,neg det:art n L2 L2 +/.,ENG ENG ENG ESP ESP,1
+302,uhuh .,co .,ENG,0
+303,mucho mejor .,adv adj .,ENG ENG,0
+304,claro entonces las comunidades son más pequeñas ...,co adv det:art n cop adv adj +...,ENG ENG ENG ENG ENG ENG ENG,0
+305,las escuelas son más pequeñas .,det:art n cop adv adj .,ENG ENG ENG ENG ENG,0
+306,pero mi hermana yo no sé por qué ella cree que es mala .,conj det:pos n pro:sub adv v prep pro:int pro:sub v pro:rel cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+307,because she doesn't know where what waits for her here .,conj pro:sub mod v pro:int pro:int v prep pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+308,because she doesn't know .,conj pro:sub mod v .,ENG ENG ENG ENG,0
+309,exactly .,adv .,ENG,0
+310,.,None,,0
+311,exactly .,adv .,ENG,0
+312,let's talk about Ronnie .,v v prep n:prop .,ENG ENG ENG ENG,0
+313,I wanna know about Ronnie .,pro:sub v v prep n:prop .,ENG ENG ENG ENG ENG,0
+314,Ronnie I don't know anything about /.,n:prop pro:sub mod v pro:indef prep +/.,ENG ENG ENG ENG ENG ENG,0
+315,no ?,adv ?,ENG,0
+316,but she had a boyfriend .,conj pro:sub v det:art n .,ENG ENG ENG ENG ENG,0
+317,I I know .,pro:sub pro:sub v .,ENG ENG ENG,0
+318,you told me .,pro:per v pro:obj .,ENG ENG ENG,0
+319,she had a boyfriend she wanted to marry in April /.,pro:sub v det:art n pro:sub v inf v prep n:prop +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+320,tenía un novio //.,v det:art n +//.,ENG ENG ENG,0
+321,otra vez se quería casar .,det:indef n pro:refl v inf .,ENG ENG ENG ENG ENG,0
+322,Ronnie no aprende .,n:prop adv v .,ENG ENG ENG,0
+323,coño voy pero no se puede .,co v conj adv pro:refl v .,ENG ENG ENG ENG ENG ENG,0
+324,no pero nadie sabe quién es .,adv conj pro:indef v pro:int cop .,ENG ENG ENG ENG ENG ENG,0
+325,no pero dije coño .,adv conj v co .,ENG ENG ENG ENG,0
+326,están en Inglaterra .,cop prep n:prop .,ENG ENG ENG,0
+327,no ahem tiene un novio ...,adv co v det:art n +...,ENG ENG ENG ENG ENG,0
+328,se quería casar en abril .,pro:refl v inf prep n .,ENG ENG ENG ENG ENG,0
+329,este abril ?,det:dem n ?,ENG ENG,0
+330,ahorita abril ?,adv n ?,ENG ENG,0
+331,now in during spring break because she wants me to go .,adv prep prep n n conj pro:sub v pro:obj inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+332,tsk .,co .,ENG,0
+333,and which would be nice .,coord pro:rel mod cop adj .,ENG ENG ENG ENG ENG,0
+334,ay sí .,co co .,ENG ENG,0
+335,pero el ticket es mil dólares ...,conj det:art L2 cop n n +...,ENG ENG ESP ENG ENG ENG,1
+336,ay no niña !,co adv co:voc !,ENG ENG ENG,0
+337,el más barato .,det:art adv adj .,ENG ENG ENG,0
+338,y ahora que la gasolina está aumentando es más todavía .,coord adv prep det:art n aux ger cop adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+339,sí .,co .,ENG,0
+340,y los impuestos aumentaran .,coord det:art n v .,ENG ENG ENG ENG,0
+341,si a Colombia I am paying seven seven and something .,L2 L2 n:prop pro:sub aux part det:num det:num coord pro:indef .,ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+342,Colombia .,n:prop .,ENG,0
+343,yeah Colombia .,co n:prop .,ENG ENG,0
+344,y Argentina está por allá en la Patagonia .,coord n:prop imp prep adv prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+345,es mucho más lejos .,cop adv adv adv .,ENG ENG ENG ENG,0
+346,I know .,pro:sub v .,ENG ENG,0
+347,I know .,pro:sub v .,ENG ENG,0
+348,.,None,,0
+349,no it's a long trip .,co pro:per det:art adj n .,ENG ENG ENG ENG ENG,0
+350,that's why it's expensive .,pro:dem pro:int pro:per adj .,ENG ENG ENG ENG,0
+351,it's a long trip .,pro:per det:art adj n .,ENG ENG ENG ENG,0
+352,pero mil dólares el más barato que consigues .,conj n n det:art adv adj pro:rel v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+353,sí no .,co adv .,ENG ENG,0
+354,y con Curtis y yo son dos mil dólares nada más que el tickets .,coord prep n:prop coord pro:sub cop det:num det:num n v adv pro:rel det:art L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+355,dos mil dólares .,det:num det:num n .,ENG ENG ENG,0
+356,no más la estadía ...,adv adv det:art n +...,ENG ENG ENG ENG,0
+357,más lo que uno compra .,adv pro:obj prep pro:dem v .,ENG ENG ENG ENG ENG,0
+358,más lo que uno lleva .,adv pro:obj prep pro:dem v .,ENG ENG ENG ENG ENG,0
+359,más lo que una lleva más //.,adv pro:obj prep pro:dem v adv +//.,ENG ENG ENG ENG ENG ENG,0
+360,uhuh se vuelve como tres mil o cuatro mil dólares .,co L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+361,I know .,pro:sub v .,ENG ENG,0
+362,fácil .,adj .,ENG,0
+363,más .,adv .,ENG,0
+364,uhuh .,co .,ENG,0
+365,se hacen seis mil .,pro:refl v det:num det:num .,ENG ENG ENG ENG,0
+366,ay dios mío .,co co pro:pos .,ENG ENG ENG,0
+367,entre pitos y flautas .,prep n coord n .,ENG ENG ENG ENG,0
+368,sí siempre pasa lo mismo .,co adv v pro:obj adj .,ENG ENG ENG ENG ENG,0
+369,.,None,,0
+370,yo empiezo a comprar de cinco en cinco .,pro:sub v aprep inf prep det:num prep det:num .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+371,yeah .,co .,ENG,0
+372,y lo que pasa es que bueno I want to go because my mum had a stroke .,L2 L2 L2 L2 L2 L2 L2 pro:sub v inf v conj det:poss n v det:art n .,ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+373,.,None,,0
+374,yes like a month ago .,co prep det:art n post .,ENG ENG ENG ENG ENG,0
+375,and she she is fine now .,coord pro:sub pro:sub cop adv adv .,ENG ENG ENG ENG ENG ENG,0
+376,está bien ...,cop adv +...,ENG ENG,0
+377,uhuh .,co .,ENG,0
+378,pero vos sabéis necesita ayuda ...,conj pro:obj v v v +...,ENG ENG ENG ENG ENG,0
+379,y no sé me parece que tengo que ir a verla sabes .,coord adv v pro:obj v pro:rel v pro:rel inf aprep inf co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+380,claro que sí .,co pro:rel co .,ENG ENG ENG,0
+381,entonces lo que pensaba hacer es en vez de ir ahora en spring break por una semana mejor ir en junio during summer vacation .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n n L2 L2 L2 L2 L2 L2 L2 prep n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+382,mejor ir en junio .,adj inf prep n .,ENG ENG ENG ENG,0
+383,muchísimo mejor .,det:indef adj .,ENG ENG,0
+384,claro que sí .,co pro:rel co .,ENG ENG ENG,0
+385,yo por eso no fui a Colombia ahora ...,pro:sub prep pro:dem adv v aprep n:prop adv +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+386,so /.,co +/.,ENG,0
+387,it's not worth it .,pro:per neg adj pro:per .,ENG ENG ENG ENG,0
+388,so expensive just for a week .,adv adj adv prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+389,so I was thinking about going to see my mum ...,co pro:sub aux part adv part inf v det:poss n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+390,no .,co .,ENG,0
+391,and maybe have ...,coord adv v +...,ENG ENG ENG,0
+392,you know that Ronnie is pushing me to have plastic surgery ...,pro:per v comp n:prop aux part pro:obj inf v n n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+393,.,None,,0
+394,and I think it's about time .,coord pro:sub v pro:per adv n .,ENG ENG ENG ENG ENG ENG,0
+395,you are going to ?,pro:per aux part inf ?,ENG ENG ENG ENG,0
+396,so /.,co +/.,ENG,0
+397,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+398,medium size so //?,adj n co +//?,ENG ENG ENG,0
+399,no no I don't want augmentation .,co co pro:sub mod v n .,ENG ENG ENG ENG ENG ENG,0
+400,.,None,,0
+401,I want elevation .,pro:sub v n .,ENG ENG ENG,0
+402,ay Marcela .,co n:prop .,ENG ENG,0
+403,because porque si no voy a parecer más gorda .,conj L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+404,pero que tú no estás gorda .,conj pro:rel pro:sub adv cop adj .,ENG ENG ENG ENG ENG ENG,0
+405,coño /.,co +/.,ENG,0
+406,no pero si me pongo /.,adv conj conj pro:obj v +/.,ENG ENG ENG ENG ENG,0
+407,you're skinny .,pro:per adj .,ENG ENG,0
+408,si vas a a verte rara .,conj v aprep aprep imp adj .,ENG ENG ENG ENG ENG ENG,0
+409,y o ridícula sabes ?,coord coord adj co ?,ENG ENG ENG ENG,0
+410,a esas viejas ridículas con /.,aprep det:dem adj adj prep +/.,ENG ENG ENG ENG ENG,0
+411,no /.,adv +/.,ENG,0
+412,te vas a ver rarísima .,pro:obj v aprep inf adj .,ENG ENG ENG ENG ENG,0
+413,pero lo mismo you look like not real .,L2 L2 L2 pro:per co co neg adj .,ESP ESP ESP ENG ENG ENG ENG ENG,1
+414,pero lo menos posible para que /.,conj pro:obj adv adj prep pro:rel +/.,ENG ENG ENG ENG ENG ENG,0
+415,sí te entiendo .,L2 L2 L2 .,ESP ESP ESP,0
+416,to get them in place .,inf v pro:obj prep n .,ENG ENG ENG ENG ENG,0
+417,okay .,co .,ENG,0
+418,pero lo que tú dices ...,conj pro:obj pro:rel pro:sub v +...,ENG ENG ENG ENG ENG,0
+419,lo que estaba diciendo el hombre ...,pro:obj pro:rel aux ger det:art co:voc +...,ENG ENG ENG ENG ENG ENG,0
+420,después de cierta edad I don't think we should do anything //.,L2 L2 L2 L2 pro:sub mod v pro:sub mod v pro:indef +//.,ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+421,.,None,,0
+422,I know .,pro:sub v .,ENG ENG,0
+423,too weird too much or too weird .,adv adj adv adv coord adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+424,yeah .,co .,ENG,0
+425,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+426,yeah .,co .,ENG,0
+427,to be perfectly honest with you Flavia I'm happy with myself .,inf cop adv adj prep pro:per n:prop pro:sub adj prep pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+428,no me too .,co pro:obj adv .,ENG ENG ENG,0
+429,and I don't know well it's a little //.,coord pro:sub mod v adv pro:per det:art adj +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+430,I always say that I will need to grow old and /.,pro:sub adv v comp pro:sub mod v inf v adj coord +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+431,sí .,co .,ENG,0
+432,he he was making fun of Curtis ...,pro:sub pro:sub cop n:gerund adj prep n:prop +...,ENG ENG ENG ENG ENG ENG ENG,0
+433,quién ?,pro:int ?,ENG,0
+434,Sean .,n:prop .,ENG,0
+435,uhuh .,co .,ENG,0
+436,por la nariz porque va a ser narigón .,prep det:art n conj v aprep inf n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+437,.,None,,0
+438,ah mija es narigón también .,co co:voc cop n adv .,ENG ENG ENG ENG ENG,0
+439,si salga /.,conj v +/.,ENG ENG,0
+440,si sale a él o si sale a su familia o a mí va a salir narigón .,conj v aprep pro:sub coord conj v aprep det:pos n coord aprep pro:prep v aprep inf n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+441,cualquiera de los dos .,pro:indef prep det:art det:num .,ENG ENG ENG ENG,0
+442,cualquiera de los dos .,pro:indef prep det:art det:num .,ENG ENG ENG ENG,0
+443,yeah .,co .,ENG,0
+444,so he was //.,co pro:sub cop +//.,ENG ENG ENG,0
+445,ah he shouldn't have said anything .,co pro:sub mod v v pro:indef .,ENG ENG ENG ENG ENG ENG,0
+446,"I was ""/.","pro:sub cop +""/.",ENG ENG,0
+447,what but he's /.,pro:int conj pro:sub +/.,ENG ENG ENG,0
+448,hm ?,co ?,ENG,0
+449,he shouldn't have said anything because he is gonna be thinking /.,pro:sub mod v v pro:indef conj pro:sub aux part aux part +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+450,"no but I was telling him ""/.","co conj pro:sub aux part pro:obj +""/.",ENG ENG ENG ENG ENG ENG,0
+451,I was never /.,pro:sub cop adv +/.,ENG ENG ENG,0
+452,I was I mean yo tengo una buena nariz .,pro:sub cop pro:sub v L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ESP ESP ESP ESP ESP,1
+453,sí pero /.,co conj +/.,ENG ENG,0
+454,but I mean una buena manija .,conj pro:sub v L2 L2 L2 .,ENG ENG ENG ESP ESP ESP,1
+455,but you know what ?,conj pro:per v pro:int ?,ENG ENG ENG ENG,0
+456,but I always /.,conj pro:sub adv +/.,ENG ENG ENG,0
+457,for your face /.,prep det:poss n +/.,ENG ENG ENG,0
+458,it's big .,pro:per adj .,ENG ENG,0
+459,no it looks good on your face .,co pro:per v adj prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+460,but it's no /.,conj pro:per co +/.,ENG ENG ENG,0
+461,because you're a sweetheart .,conj pro:per det:art n .,ENG ENG ENG ENG,0
+462,no porque me quedaría callada entonces .,adv conj pro:obj v part co .,ENG ENG ENG ENG ENG ENG,0
+463,pero /.,conj +/.,ENG,0
+464,oh really .,co adv .,ENG ENG,0
+465,no .,adv .,ENG,0
+466,ay sí .,co co .,ENG ENG,0
+467,no but it never bothered me .,co conj pro:per adv v pro:obj .,ENG ENG ENG ENG ENG ENG,0
+468,if it didn't do it when I was in my twenties why am I gonna do it now ?,conj pro:per mod v pro:per conj pro:sub cop prep det:poss det:num pro:rel cop pro:sub part v pro:per adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+469,sí .,co .,ENG,0
+470,no .,co .,ENG,0
+471,no .,co .,ENG,0
+472,pero //.,conj +//.,ENG,0
+473,lo que sigue creciendo cuando una envejece the nose and the ears !,L2 L2 L2 L2 L2 L2 L2 det:art n coord det:art n !,ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+474,claro y las orejas !,co coord det:art n !,ENG ENG ENG ENG,0
+475,I know .,pro:sub v .,ENG ENG,0
+476,I was worried about that .,pro:sub aux part prep pro:dem .,ENG ENG ENG ENG ENG,0
+477,they never stop growing /.,pro:sub adv n part +/.,ENG ENG ENG ENG,0
+478,eso sí //.,pro:dem co +//.,ENG ENG,0
+479,las orejas nunca paran de crecer .,det:art n adv v prep inf .,ENG ENG ENG ENG ENG ENG,0
+480,nunca paran de crecer .,adv v prep inf .,ENG ENG ENG ENG,0
+481,I know .,pro:sub v .,ENG ENG,0
+482,que esa parte sí me tiene preocupada .,pro:rel det:dem n co pro:obj v part .,ENG ENG ENG ENG ENG ENG ENG,0
+483,el otro día I was thinking about that .,L2 L2 L2 pro:sub aux part prep pro:dem .,ESP ESP ESP ENG ENG ENG ENG ENG,1
+484,"said ""/.","v +""/.",ENG,0
+485,should I do something about my nose ?,mod pro:sub v pro:indef prep det:poss n ?,ENG ENG ENG ENG ENG ENG ENG,0
+486,am I gonna look like an ugly old lady ?,aux pro:sub part v conj det:art adj adj n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+487,I thought about that because it's getting a little more carnoso aquí .,pro:sub v prep pro:dem conj pro:per part det:art adj pro:indef L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+488,I was thinking the same thing the other day .,pro:sub aux part det:art adj n det:art qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+489,it's like .,pro:per conj .,ENG ENG,0
+490,.,None,,0
+491,but I'm afraid .,conj pro:sub adj .,ENG ENG ENG,0
+492,I don't wanna do anything like that .,pro:sub mod v v pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+493,because what if I get worse than now .,conj pro:int conj pro:sub v adj prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+494,I'm afraid .,pro:sub adj .,ENG ENG,0
+495,porque cuando ves a esta gente que tienes plastic surgery they really look ridiculous .,L2 L2 L2 L2 L2 L2 L2 L2 n n pro:sub adv v adj .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+496,something happens here you know ...,pro:indef v adv pro:per v +...,ENG ENG ENG ENG ENG,0
+497,like you see if you go like this what happens to the lip .,conj pro:per v conj pro:per v prep pro:dem pro:int v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+498,you see ?,pro:per v ?,ENG ENG,0
+499,it's true yeah .,pro:per adj co .,ENG ENG ENG,0
+500,if you go like that ...,conj pro:per v prep pro:dem +...,ENG ENG ENG ENG ENG,0
+501,no and if you go /.,co coord conj pro:per v +/.,ENG ENG ENG ENG ENG,0
+502,porque esto también /.,conj pro:dem adv +/.,ENG ENG ENG,0
+503,pero if you go like that they've got to do the lip again .,L2 conj pro:per v prep pro:dem pro:sub part inf v det:art n adv .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+504,so whatever you do ...,adv pro:int pro:per v +...,ENG ENG ENG ENG,0
+505,yeah se le nota .,co L2 L2 L2 .,ENG ESP ESP ESP,1
+506,it's not /.,pro:per neg +/.,ENG ENG,0
+507,sí se deforma la cara .,co pro:refl v det:art adj .,ENG ENG ENG ENG ENG,0
+508,el otro día sí I was watching t_v the news en español ...,L2 L2 L2 L2 pro:sub aux part n det:art n L2 L2 +...,ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ESP ESP,1
+509,y esta mujer que se llama Edna algo en Univisión ...,coord det:dem n pro:rel pro:refl v n:prop pro:dem prep n:prop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+510,"y entonces dijo ""/.","coord adv v +""/.",ENG ENG ENG,0
+511,soy Edna Smith ...,cop n:prop n:prop +...,ENG ENG ENG,0
+512,"y digo yo ""/.","coord v pro:sub +""/.",ENG ENG ENG,0
+513,y dónde ?,coord pro:int ?,ENG ENG,0
+514,y esa no es ...,coord det:dem adv cop +...,ENG ENG ENG ENG,0
+515,o sea nada que ver with the person I had seen before .,L2 L2 L2 L2 L2 prep det:art n pro:sub aux part adv .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+516,yeah .,co .,ENG,0
+517,well I was watching a magazine once .,co pro:sub aux part det:art n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+518,y estaba Robert Redford ...,coord aux n:prop n:prop +...,ENG ENG ENG ENG,0
+519,ah Robert Redford se ve el mismo ...,co n:prop n:prop imp co det:art adj +...,ENG ENG ENG ENG ENG ENG ENG,0
+520,/.,None,,0
+521,él no se ha hecho nada o sí ?,pro:sub adv pro:refl aux part v coord co ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+522,no sí .,adv co .,ENG ENG,0
+523,ah se ha hecho cirugías ?,co pro:refl aux part n ?,ENG ENG ENG ENG ENG,0
+524,bueno y estaban poniendo fotos antes y después .,co coord aux ger n adv coord adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+525,okay .,co .,ENG,0
+526,it was like a poll no ?,pro:per cop prep det:art n L2 ?,ENG ENG ENG ENG ENG ESP,1
+527,que se que que se ven mejor antes o después de la cirugía .,pro:rel pro:refl prep pro:rel pro:refl v adj adv coord adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+528,okay .,co .,ENG,0
+529,y todos se veían mejor antes .,coord pro:indef pro:refl v adj adv .,ENG ENG ENG ENG ENG ENG,0
+530,ahhah .,co .,ENG,0
+531,you know .,pro:per v .,ENG ENG,0
+532,ay sí .,co co .,ENG ENG,0
+533,so you never know .,co pro:per adv v .,ENG ENG ENG ENG,0
+534,sí no yo creo que uno tiene que envejecer con dignidad .,co adv pro:sub v pro:rel pro:dem v pro:rel inf prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+535,yeah I agree .,co pro:sub v .,ENG ENG ENG,0
+536,sí porque /.,co conj +/.,ENG ENG,0
+537,porque es que te estás engañando a ti misma y al esposo .,conj cop pro:rel pro:obj aux ger aprep pro:prep adj coord aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+538,bueno el esposo qué importa .,co det:art n pro:int v .,ENG ENG ENG ENG ENG,0
+539,bueno sí qué importa lo que él piense ...,co co pro:int v pro:obj pro:rel pro:sub v +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+540,no but /.,co conj +/.,ENG ENG,0
+541,no pero /.,adv conj +/.,ENG ENG,0
+542,we don't care anymore .,pro:sub mod v adv .,ENG ENG ENG ENG,0
+543,no after so many years .,co prep adv qn n .,ENG ENG ENG ENG ENG,0
+544,pero I don't know .,L2 pro:sub mod v .,ESP ENG ENG ENG,1
+545,no sé .,adv v .,ENG ENG,0
+546,I think that you have to be happy with yourself really after all .,pro:sub v comp pro:per v inf cop adj prep pro:refl adv prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+547,sí I learned that .,L2 pro:sub v pro:dem .,ESP ENG ENG ENG,1
+548,pero como le decía a mi marido si no lo hice cuando tenía veinte años que lo voy a hacerlo ahora tampoco .,conj adv pro:ind v aprep det:pos n conj adv pro:obj v pro:rel v det:num n pro:rel pro:obj v aprep inf adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+549,no cuando tengas treinta .,adv conj v det:num .,ENG ENG ENG ENG,0
+550,pero después ya como que uno se /.,conj adv adv adv pro:rel det:art cop +/.,ENG ENG ENG ENG ENG ENG ENG,0
+551,I mean nothing wrong with doing that .,pro:sub v pro:indef adj prep part comp .,ENG ENG ENG ENG ENG ENG ENG,0
+552,no !,co !,ENG,0
+553,it's just /.,pro:per adj +/.,ENG ENG,0
+554,I don't know ...,pro:sub mod v +...,ENG ENG ENG,0
+555,but it's it's not ...,conj pro:per pro:per neg +...,ENG ENG ENG ENG,0
+556,like a priority .,prep det:art n .,ENG ENG ENG,0
+557,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+558,at this point things change .,prep det:dem n n n .,ENG ENG ENG ENG ENG,0
+559,because I think that if it's going to create like a psychological thing .,conj pro:sub v adv conj pro:per part inf v prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+560,you know if you are really so unhappy well fine .,pro:per v conj pro:per cop adv adv un#adj adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+561,sí exacto si te sientes bien mal ...,co co conj pro:obj v adv adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+562,pero si es más o menos si estás .,conj conj cop adv coord adv conj cop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+563,o se hace por vanidad o por ...,coord pro:refl v prep n coord prep +...,ENG ENG ENG ENG ENG ENG ENG,0
+564,o que te sientes que no te ves tan bien pero /.,coord pro:rel pro:obj v pro:rel adv pro:obj v adv adv conj +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+565,bueno pero Ronnie no para .,co conj n:prop adv prep .,ENG ENG ENG ENG ENG,0
+566,qué se ha hecho ?,pro:int pro:refl aux part ?,ENG ENG ENG ENG,0
+567,se hizo /.,pro:refl v +/.,ENG ENG,0
+568,Ronnie se había hecho los senos cuando era joven bueno ...,n:prop pro:refl aux part det:art n conj cop adj co +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+569,el busto .,det:art n .,ENG ENG,0
+570,bueno yo la conocí /.,co pro:sub pro:obj v +/.,ENG ENG ENG ENG,0
+571,sí .,co .,ENG,0
+572,pero se le habían encapsulado ...,conj pro:refl pro:ind aux part +...,ENG ENG ENG ENG ENG,0
+573,y se tuvo que hacer otra vez .,coord pro:refl v pro:rel inf det:indef n .,ENG ENG ENG ENG ENG ENG ENG,0
+574,ahora le tocó /.,adv pro:ind v +/.,ENG ENG ENG,0
+575,sí .,co .,ENG,0
+576,esa pasta ahí super .,det:dem n adv n .,ENG ENG ENG ENG,0
+577,so she replaced them with a new ...,co pro:sub re#part pro:obj prep det:art adj +...,ENG ENG ENG ENG ENG ENG ENG,0
+578,well she had to do it .,co pro:sub v inf v pro:per .,ENG ENG ENG ENG ENG ENG,0
+579,new thing .,adj n .,ENG ENG,0
+580,that was yeah .,pro:dem cop co .,ENG ENG ENG,0
+581,beautiful .,adj .,ENG,0
+582,ah sí ?,co co ?,ENG ENG,0
+583,beautiful .,adj .,ENG,0
+584,"que yo le decía ""/.","pro:rel pro:sub pro:ind v +""/.",ENG ENG ENG ENG,0
+585,yo me daría por tocarlas .,pro:sub pro:obj v prep inf .,ENG ENG ENG ENG ENG,0
+586,tocártelas .,inf pro:clit,ENG,0
+587,porque me mostró ...,conj pro:obj v +...,ENG ENG ENG,0
+588,y eran oh gorgeous .,L2 L2 co adj .,ESP ESP ENG ENG,1
+589,verdad ?,co ?,ENG,0
+590,yeah .,co .,ENG,0
+591,y how much /?,L2 pro:rel adv +/?,ESP ENG ENG,1
+592,como tres mil dólares .,adv det:num det:num n .,ENG ENG ENG ENG,0
+593,wow it's expensive anyway .,co pro:per adj adv .,ENG ENG ENG ENG,0
+594,aquí .,adv .,ENG,0
+595,uhuh .,co .,ENG,0
+596,ah here .,co adv .,ENG ENG,0
+597,no sí lo hizo aquí .,adv co pro:obj v adv .,ENG ENG ENG ENG ENG,0
+598,ah se lo hizo aquí ?,co pro:refl pro:obj v adv ?,ENG ENG ENG ENG ENG,0
+599,para hacerlo aquí era barato .,prep inf adv cop adj .,ENG ENG ENG ENG ENG,0
+600,es barato .,cop adj .,ENG ENG,0
+601,ajá .,co .,ENG,0
+602,porque en Colombia /.,conj prep n:prop +/.,ENG ENG ENG,0
+603,pero dice que una clínica en Hialeah que she doesn't recommend it .,L2 L2 L2 L2 L2 L2 n:prop L2 pro:sub mod v pro:per .,ESP ESP ESP ESP ESP ESP ENG ESP ENG ENG ENG ENG,1
+604,ay dios mío qué miedo .,co co pro:pos pro:int n .,ENG ENG ENG ENG ENG,0
+605,.,None,,0
+606,al médico sí lo recomendó ...,aprep n co pro:obj v +...,ENG ENG ENG ENG ENG,0
+607,pero la clínica un desastre que no se lo recomiendo a nadie .,conj det:art n det:art n pro:rel adv pro:refl pro:obj v aprep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+608,pero me da miedo también porque no puedes ahorrar en eso que you know it's important .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 pro:per v pro:per adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+609,you know yeah .,pro:per v co .,ENG ENG ENG,0
+610,you can die right there .,pro:per mod n adv adv .,ENG ENG ENG ENG ENG,0
+611,you don't know .,pro:per mod v .,ENG ENG ENG,0
+612,the sister of this friend I went out with tonight se murió en Colombia .,det:art n prep det:dem n pro:sub v adv prep adv:tem L2 L2 L2 n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ENG,1
+613,le hicieron una liposucción .,pro:ind v det:art n .,ENG ENG ENG ENG,0
+614,la hermana de la muchacha con la que saliste anoche se murió en Colombia de la liposucción ?,det:art n prep det:art n prep det:art pro:rel v adv pro:refl v prep n:prop prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+615,sí .,co .,ENG,0
+616,uhuh .,co .,ENG,0
+617,después o durante ?,adv coord adv ?,ENG ENG ENG,0
+618,después .,adv .,ENG,0
+619,le hicieron una liposucción ...,pro:ind v det:art n +...,ENG ENG ENG ENG,0
+620,and //.,coord +//.,ENG,0
+621,un coágulo .,det:art n .,ENG ENG,0
+622,no a little bit of fat went to her bloodstream .,L2 det:art adj n prep n v prep det:poss n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+623,sí .,co .,ENG,0
+624,eso ha pasado .,pro:dem aux part .,ENG ENG ENG,0
+625,and it went to her lungs .,coord pro:per v prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+626,oh gosh .,co co .,ENG ENG,0
+627,and the lungs collapsed .,coord det:art n v .,ENG ENG ENG ENG,0
+628,y fue a hacerse una cirugía ...,coord v aprep inf det:art n +...,ENG ENG ENG ENG ENG ENG,0
+629,y no volvió .,coord adv v .,ENG ENG ENG,0
+630,ay no .,co adv .,ENG ENG,0
+631,esas partes así .,det:dem n adv .,ENG ENG ENG,0
+632,no I //.,co pro:sub +//.,ENG ENG,0
+633,tengo que hacer como mi amiga Christine que es flaquita así .,v pro:rel inf adv det:pos n n:prop pro:rel cop adj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+634,no .,co .,ENG,0
+635,es flaquita como un palito de tanta yoga que hace .,cop adj pro:rel det:art n prep det:indef n pro:rel v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+636,y yoga te hace /?,coord n pro:obj v +/?,ENG ENG ENG ENG,0
+637,la yoga te hace delgada ...,det:art n pro:obj v adj +...,ENG ENG ENG ENG ENG,0
+638,no ella es flaquita por naturaleza .,adv pro:sub cop adj prep n .,ENG ENG ENG ENG ENG ENG,0
+639,she's skinny .,pro:sub adj .,ENG ENG,0
+640,she is very skinny .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+641,.,None,,0
+642,y yo no me importa /.,coord pro:sub adv pro:obj v +/.,ENG ENG ENG ENG ENG,0
+643,but exercise helps .,conj n n .,ENG ENG ENG,0
+644,I hate exercise .,pro:sub n n .,ENG ENG ENG,0
+645,I well yeah .,L2 co co .,ESP ENG ENG,1
+646,tú eres buena con el ejercicio .,pro:sub cop adj prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+647,te has vuelto como buena ahora verdad porque hubo un tiempo en que no you weren't exercising .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 pro:per aux part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+648,yeah nunca .,co L2 .,ENG ESP,1
+649,no no te pero tsk ...,adv adv pro:obj conj co +...,ENG ENG ENG ENG ENG,0
+650,now you are exercising .,adv pro:per aux part .,ENG ENG ENG ENG,0
+651,sí pero te do you remember the car accident I had ?,L2 L2 L2 v pro:per v det:art n n pro:sub v ?,ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+652,yes I remember .,co pro:sub v .,ENG ENG ENG,0
+653,I was thinking about that the other day .,pro:sub aux part adv pro:rel det:art qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+654,I was driving ...,pro:sub aux part +...,ENG ENG ENG,0
+655,"and I was thinking ""/.","coord pro:sub aux part +""/.",ENG ENG ENG ENG,0
+656,did Marcela had an accident around here ?,v n:prop v det:art n prep n ?,ENG ENG ENG ENG ENG ENG ENG,0
+657,right there in I seventy five right ?,adv adv adv pro:sub det:num det:num adj ?,ENG ENG ENG ENG ENG ENG ENG,0
+658,right yeah uhuh .,co co co .,ENG ENG ENG,0
+659,in Pines Boulevard ?,prep n:prop n:prop ?,ENG ENG ENG,0
+660,no .,co .,ENG,0
+661,Miramar and P no .,n:prop coord n:prop co .,ENG ENG ENG ENG,0
+662,Miramar and I seventy five .,n:prop coord pro:sub det:num det:num .,ENG ENG ENG ENG ENG,0
+663,okay .,co .,ENG,0
+664,justo enfrente del canal de televisión .,adv adv prep n prep n .,ENG ENG ENG ENG ENG ENG,0
+665,did it bother your neck or your back ?,mod pro:per v det:poss n coord det:poss adv ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+666,if I don't exercise ...,conj pro:sub mod v +...,ENG ENG ENG ENG,0
+667,I'm in excruciating pain .,pro:sub prep adj n .,ENG ENG ENG ENG,0
+668,yeah that's why .,co pro:rel pro:rel .,ENG ENG ENG,0
+669,ugh so what do you do ?,co co pro:int mod pro:per v ?,ENG ENG ENG ENG ENG ENG,0
+670,weights ?,n ?,ENG,0
+671,lo que hagan .,pro:obj pro:rel v .,ENG ENG ENG,0
+672,mira lo que //.,co pro:obj pro:rel +//.,ENG ENG ENG,0
+673,ah tú vas a cualquier clase .,co pro:sub v aprep pro:indef n .,ENG ENG ENG ENG ENG ENG,0
+674,ajá .,co .,ENG,0
+675,porque las máquinas me aburren .,conj det:art n pro:obj v .,ENG ENG ENG ENG ENG,0
+676,haces Pilates ?,v n:prop ?,ENG ENG,0
+677,a mí también me aburren las máquinas ugh .,aprep pro:prep adv pro:obj v det:art n co .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+678,me aburro ...,pro:obj v +...,ENG ENG,0
+679,and the treadmill I think I am like a fool there going nowhere ...,coord det:art n pro:sub v pro:sub aux co det:art n adv part adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+680,la bicicleta igual como una /.,det:art n co adv pro:dem +/.,ENG ENG ENG ENG ENG,0
+681,sí .,co .,ENG,0
+682,a mí me gusta caminar .,aprep pro:prep pro:obj v inf .,ENG ENG ENG ENG ENG,0
+683,so /.,co +/.,ENG,0
+684,caminar ahí sí me gusta veinticinco minutos ...,inf adv co pro:obj v det:num n +...,ENG ENG ENG ENG ENG ENG ENG,0
+685,y luego ya hacer de pronto pesas .,coord adv adv inf prep adv v .,ENG ENG ENG ENG ENG ENG ENG,0
+686,no pero si voy a caminar voy a caminar .,adv conj conj v aprep inf v aprep inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+687,weights weights .,n n .,ENG ENG,0
+688,you know then not in a treadmill .,pro:per v adv:tem neg prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+689,yeah .,co .,ENG,0
+690,I know .,pro:sub v .,ENG ENG,0
+691,I think it /.,pro:sub v pro:per +/.,ENG ENG ENG,0
+692,so I go to the classes .,co pro:sub v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+693,wherever classes they offer I take .,pro:rel n pro:sub v pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+694,so one day is kickboxing .,adv det:num n cop n .,ENG ENG ENG ENG ENG,0
+695,one day is yoga .,det:num n cop n .,ENG ENG ENG ENG,0
+696,y haces kickboxing ?,coord v L2 ?,ENG ENG ESP,1
+697,one day is Pilates .,det:num n cop n:prop .,ENG ENG ENG ENG,0
+698,one day is /.,det:num n cop +/.,ENG ENG ENG,0
+699,sí ?,co ?,ENG,0
+700,y todos los días vas ?,coord pro:indef det:art n v ?,ENG ENG ENG ENG ENG,0
+701,every single day ?,qn adj n ?,ENG ENG ENG,0
+702,cuando puedo .,conj v .,ENG ENG,0
+703,ay tan juiciosa !,co adv adj !,ENG ENG ENG,0
+704,cuando puedo .,conj v .,ENG ENG,0
+705,de razón estás tan bonita .,prep n cop adv co:voc .,ENG ENG ENG ENG ENG,0
+706,cuando puedo voy .,conj v v .,ENG ENG ENG,0
+707,gracias pero no /.,n conj adv +/.,ENG ENG ENG,0
+708,well again I'm doing it not because of aesthetics but health .,adv adv pro:sub part pro:per neg conj prep n conj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+709,because of health .,conj prep n .,ENG ENG ENG,0
+710,well you're looking good .,co pro:per part adj .,ENG ENG ENG ENG,0
+711,porque si /.,conj conj +/.,ENG ENG,0
+712,sí pero y te sientes bien también .,co conj coord pro:obj v adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+713,sabes que a veces voy de mal humor ...,v pro:rel aprep n v prep adv n +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+714,it does .,pro:per mod .,ENG ENG,0
+715,it does make you feel /.,pro:per mod v pro:per v +/.,ENG ENG ENG ENG ENG,0
+716,y voy ...,coord v +...,ENG ENG,0
+717,y estoy cansada ...,coord aux part +...,ENG ENG ENG,0
+718,y no quiero ir ...,coord adv v inf +...,ENG ENG ENG ENG,0
+719,y estoy de mal humor ...,coord aux prep adv n +...,ENG ENG ENG ENG ENG,0
+720,and I go there cross ...,coord pro:sub v adv adj +...,ENG ENG ENG ENG ENG,0
+721,you force yourself .,pro:per v pro:refl .,ENG ENG ENG,0
+722,and I come back happy you know .,coord pro:sub v adv adj pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+723,so /.,co +/.,ENG,0
+724,and there is a guy who teaches the dance class .,coord adv cop det:art n pro:rel v det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+725,Mario ?,n:prop ?,ENG,0
+726,no David .,co n:prop .,ENG ENG,0
+727,another one ?,qn pro:indef ?,ENG ENG,0
+728,you see I haven't been there at all long like in a year .,pro:per v pro:sub aux cop adv prep qn adj v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+729,David .,n:prop .,ENG,0
+730,Mario me parece que se fue .,n:prop pro:obj v pro:rel pro:refl v .,ENG ENG ENG ENG ENG ENG,0
+731,ah sí ?,co co ?,ENG ENG,0
+732,sí .,co .,ENG,0
+733,y y pusieron un /.,coord coord v det:art +/.,ENG ENG ENG ENG,0
+734,bueno el que estaba antes en en Lady_of_America donde yo iba antes .,co det:art pro:rel cop adv prep prep n:prop pro:rel pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+735,no pues yo no conozco .,adv co pro:sub adv v .,ENG ENG ENG ENG ENG,0
+736,uhuh .,co .,ENG,0
+737,y /.,coord +/.,ENG,0
+738,ay sí que era muy bueno .,co co pro:rel cop adv co .,ENG ENG ENG ENG ENG ENG,0
+739,que lo cerraron .,pro:rel pro:obj v .,ENG ENG ENG,0
+740,me lo habían dicho .,pro:obj pro:obj aux part .,ENG ENG ENG ENG,0
+741,sí .,co .,ENG,0
+742,lo cerraron ...,pro:obj v +...,ENG ENG,0
+743,y /.,coord +/.,ENG,0
+744,pero que el tipo era muy bueno sí me lo habían dicho uhuh .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 co .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+745,sí .,co .,ENG,0
+746,y bueno ahora está aquí ...,coord co adv cop adv +...,ENG ENG ENG ENG ENG,0
+747,y antes había una muchacha que enseñaba belly dancing .,L2 L2 L2 L2 L2 L2 L2 n part .,ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+748,sí yo sé cuál es .,co pro:sub v pro:int cop .,ENG ENG ENG ENG ENG,0
+749,una gordita ella no ?,det:art adj pro:sub adv ?,ENG ENG ENG ENG,0
+750,hm sí medio chunky .,co L2 L2 adj .,ENG ESP ESP ENG,1
+751,como chunky era sí .,L2 adj L2 L2 .,ESP ENG ESP ESP,1
+752,sí .,co .,ENG,0
+753,Kayle se llama no sé .,n:prop pro:refl v adv v .,ENG ENG ENG ENG ENG,0
+754,sí .,co .,ENG,0
+755,ahhah no una morenita .,co adv det:art n .,ENG ENG ENG ENG,0
+756,ella había /.,pro:sub v +/.,ENG ENG,0
+757,o Deborah .,coord n:prop .,ENG ENG,0
+758,ay no mentira ...,co adv n +...,ENG ENG ENG,0
+759,no estaba confundida con la Susana .,adv cop part prep det:art n:prop .,ENG ENG ENG ENG ENG ENG,0
+760,no sé si es morenita .,adv v conj cop n .,ENG ENG ENG ENG ENG,0
+761,em you know she has a weird look because she's actually panameña .,pro:obj pro:per v pro:sub v det:art adj v conj pro:sub adv L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+762,pero parece una exotic /.,L2 L2 L2 adj +/.,ESP ESP ESP ENG,1
+763,no será la esposa de Ted ?,adv cop det:art n prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+764,no .,adv .,ENG,0
+765,she's got a man .,pro:sub part det:art n .,ENG ENG ENG ENG,0
+766,sí colombiana pero vive en Panamá .,co n conj v prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+767,no yo no sabía .,L2 L2 L2 L2 .,ESP ESP ESP ESP,0
+768,no this girl no sé si panameña o de nicaragüense .,qn det:dem n co L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+769,.,None,,0
+770,no no go on keep talking .,co co v prep v part .,ENG ENG ENG ENG ENG ENG,0
+771,we'll move .,pro:sub v .,ENG ENG,0
+772,we keep moving ...,pro:sub v part +...,ENG ENG ENG,0
+773,and see who's looking for you .,coord v pro:int part prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+774,Hi Mick .,n:prop n:prop .,ENG ENG,0
+775,.,None,,0
+776,Are you sure we're invited ?,n:prop pro:per adj pro:sub part ?,ENG ENG ENG ENG ENG,0
+777,.,None,,0
+778,because last time are you not .,conj adj n cop pro:per neg .,ENG ENG ENG ENG ENG ENG,0
+779,.,None,,0
+780,but you invite us not your dad .,conj pro:per v pro:obj neg det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+781,.,None,,0
+782,.,None,,0
+783,that's okay with me .,pro:dem adj prep pro:obj .,ENG ENG ENG ENG,0
+784,estás seguro Mick ?,cop adj n:prop ?,ENG ENG ENG,0
+785,.,None,,0
+786,estás seguro ?,aux co ?,ENG ENG,0
+787,.,None,,0
+788,okay .,co .,ENG,0
+789,porque la otra vez nos invitó ...,conj pro:obj pro:indef n pro:obj v +...,ENG ENG ENG ENG ENG ENG,0
+790,y nadie los había invitado .,coord pro:indef pro:obj aux part .,ENG ENG ENG ENG ENG,0
+791,y cuando llegamos /.,coord conj v +/.,ENG ENG ENG,0
+792,no !,adv !,ENG,0
+793,y cuando llegamos ...,coord conj v +...,ENG ENG ENG,0
+794,okay .,co .,ENG,0
+795,Mick nos invitó ...,n:prop pro:obj v +...,ENG ENG ENG,0
+796,pero los padres no .,conj pro:obj n adv .,ENG ENG ENG ENG,0
+797,.,None,,0
+798,okay well Sean and Curtis are in the bedroom .,co n n:prop coord n:prop cop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+799,voy a decirles que //.,v aprep inf pro:rel +//.,ENG ENG ENG ENG,0
+800,no that bedroom .,qn det:dem n .,ENG ENG ENG,0
+801,.,None,,0
+802,y entonces ?,coord adv ?,ENG ENG,0
+803,no I was fine .,co pro:sub cop adv .,ENG ENG ENG ENG,0
+804,la otra vez nos invitó al cumpleaños ...,det:art det:indef n pro:obj v aprep n +...,ENG ENG ENG ENG ENG ENG ENG,0
+805,ajá .,co .,ENG,0
+806,no me parece que de la mamá ...,adv pro:obj v pro:rel prep det:art n +...,ENG ENG ENG ENG ENG ENG ENG,0
+807,ajá .,co .,ENG,0
+808,.,None,,0
+809,y fuimos con una botella de vino .,coord v prep det:art n prep v .,ENG ENG ENG ENG ENG ENG ENG,0
+810,ay qué pena .,co pro:int n .,ENG ENG ENG,0
+811,oh my god .,co det:poss n .,ENG ENG ENG,0
+812,qué vergüenza .,pro:int n .,ENG ENG,0
+813,Flavia you are //.,n:prop pro:per cop +//.,ENG ENG ENG,0
+814,qué vergüenza .,pro:int n .,ENG ENG,0
+815,you know when the people are surprised to see you because you don't belong in there .,pro:per v conj det:art n aux part inf v pro:per conj pro:per mod v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+816,I would die .,pro:sub mod v .,ENG ENG ENG,0
+817,oh god .,co n .,ENG ENG,0
+818,me quería morir .,pro:obj v inf .,ENG ENG ENG,0
+819,oh god !,co n !,ENG ENG,0
+820,you know Carmen does that a lot .,pro:per v n:prop mod adv det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+821,.,None,,0
+822,the age that's the age .,det:art n pro:rel det:art n .,ENG ENG ENG ENG ENG,0
+823,they want their friends so they do whatever they need to do to be with their friends .,pro:sub v det:poss n conj pro:sub v pro:int pro:sub v inf v inf cop prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+824,.,None,,0
+825,tú no sabes qué vergüenza Flavia .,pro:sub adv v pro:int n n:prop .,ENG ENG ENG ENG ENG ENG,0
+826,because /.,conj +/.,ENG,0
+827,.,None,,0
+828,guys we are recording something so please be quiet .,n pro:sub aux part pro:indef adv co cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+829,.,None,,0
+830,con cuál tema íbamos ?,prep pro:int n v ?,ENG ENG ENG ENG,0
+831,so we fuimos ahí de paracaidistas .,co pro:sub L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP,1
+832,ah ya .,co adv .,ENG ENG,0
+833,qué vergüenza .,pro:int n .,ENG ENG,0
+834,y te quedaste ?,coord pro:obj v ?,ENG ENG ENG,0
+835,y yo le digo //.,coord pro:sub pro:ind v +//.,ENG ENG ENG ENG,0
+836,"entonces claro después le digo ""/.","co co adv pro:ind v +""/.",ENG ENG ENG ENG ENG,0
+837,are you sure we were /?,cop pro:per adj pro:sub cop +/?,ENG ENG ENG ENG ENG,0
+838,because I don't think we were invited .,conj pro:sub mod v pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG,0
+839,and they are polite .,coord pro:sub cop adj .,ENG ENG ENG ENG,0
+840,"what are they gonna say ""/.","pro:int cop pro:sub part v +""/.",ENG ENG ENG ENG ENG,0
+841,no please stay .,co co v .,ENG ENG ENG,0
+842,yeah .,co .,ENG,0
+843,uhuh yeah of course .,co co prep n .,ENG ENG ENG ENG,0
+844,qué van a decir ?,pro:int v aprep inf ?,ENG ENG ENG ENG,0
+845,uhuh .,co .,ENG,0
+846,y pero no no nos habían invitado a nada .,coord conj adv adv pro:obj aux part aprep v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+847,I'll die .,pro:sub v .,ENG ENG,0
+848,I mean I could tell that .,pro:sub v pro:sub mod v pro:dem .,ENG ENG ENG ENG ENG ENG,0
+849,I'll go say hello goodbye .,pro:sub v v n co .,ENG ENG ENG ENG ENG,0
+850,no sabes qué vergüenza .,adv v pro:int n .,ENG ENG ENG ENG,0
+851,ay .,co .,ENG,0
+852,"that's why I now I told him ""/.","pro:dem pro:int pro:sub adv pro:sub v pro:obj +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+853,are you sure we're invited .,cop pro:per adj pro:sub part .,ENG ENG ENG ENG ENG,0
+854,because last time we were not .,conj adj n pro:sub cop neg .,ENG ENG ENG ENG ENG ENG,0
+855,ay los //.,co pro:obj +//.,ENG ENG,0
+856,remember Sean when we went to Fiona's birthday last time ?,v n:prop conj pro:sub v prep adj n adj n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+857,he doesn't .,pro:sub mod .,ENG ENG,0
+858,no she didn't .,co pro:sub mod .,ENG ENG ENG,0
+859,Mick invited us not Fiona .,n:prop v pro:obj neg n:prop .,ENG ENG ENG ENG ENG,0
+860,Mick did .,n:prop v .,ENG ENG,0
+861,Mick did not /.,n:prop mod neg +/.,ENG ENG ENG,0
+862,well started an hour ago .,n v det:art n post .,ENG ENG ENG ENG ENG,0
+863,we went from one thing to another .,pro:sub v prep det:num n prep qn .,ENG ENG ENG ENG ENG ENG ENG,0
+864,no sé de qué estábamos hablando .,adv v prep pro:int aux ger .,ENG ENG ENG ENG ENG ENG,0
+865,de qué estábamos hablando ?,prep pro:int aux ger ?,ENG ENG ENG ENG,0
+866,de las clases del gimnasio .,prep det:art n prep n .,ENG ENG ENG ENG ENG,0
+867,aw .,co .,ENG,0
+868,no I saw Trishia today ...,co pro:sub v n:prop adv:tem +...,ENG ENG ENG ENG ENG,0
+869,"and she said ""/.","coord pro:sub v +""/.",ENG ENG ENG,0
+870,"oh I haven't seen you "".","co pro:sub aux part pro:per +"".",ENG ENG ENG ENG ENG,0
+871,"I said ""/.","pro:sub v +""/.",ENG ENG,0
+872,"yeah I haven't been here in a long time "".","co pro:sub aux cop adv prep det:art adj n +"".",ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+873,because I was outside ...,conj pro:sub cop adv +...,ENG ENG ENG ENG,0
+874,you know they were doing that //.,pro:per v pro:sub aux part comp +//.,ENG ENG ENG ENG ENG ENG,0
+875,oh the garage yeah .,co det:art n co .,ENG ENG ENG ENG,0
+876,like a flea market thing .,prep det:art n n n .,ENG ENG ENG ENG ENG,0
+877,like a garage sale or something .,prep det:art n n coord pro:indef .,ENG ENG ENG ENG ENG ENG,0
+878,uhuh .,co .,ENG,0
+879,sí no I was //.,L2 L2 pro:sub cop +//.,ESP ESP ENG ENG,1
+880,toys and stuff .,n coord n .,ENG ENG ENG,0
+881,yeah exactly .,co adv .,ENG ENG,0
+882,"and I said to her ""/.","coord pro:sub v prep pro:obj +""/.",ENG ENG ENG ENG ENG,0
+883,you know what I really like it /.,pro:per v pro:int pro:sub adv v pro:per +/.,ENG ENG ENG ENG ENG ENG ENG,0
+884,Trishia es la muchacha que vendía //.,n:prop cop det:art n pro:rel v +//.,ENG ENG ENG ENG ENG ENG,0
+885,Trishia's the owner .,adj det:art adj .,ENG ENG ENG,0
+886,tsk oh okay yeah .,co co co co .,ENG ENG ENG ENG,0
+887,we recently met ...,pro:sub adv v +...,ENG ENG ENG,0
+888,"and she said ""/.","coord pro:sub v +""/.",ENG ENG ENG,0
+889,hey I'll give you a good /.,co pro:sub v pro:per det:art adj +/.,ENG ENG ENG ENG ENG ENG,0
+890,good deal .,adj n .,ENG ENG,0
+891,sí .,co .,ENG,0
+892,ven ...,co +...,ENG,0
+893,y yo te ayudo ...,coord pro:sub pro:obj v +...,ENG ENG ENG ENG,0
+894,"y te entreno por un tiempito "".","coord pro:obj v prep det:art n +"".",ENG ENG ENG ENG ENG ENG,0
+895,"y yo le dije ""/.","coord pro:sub pro:ind v +""/.",ENG ENG ENG ENG,0
+896,"okay ""/.","co +""/.",ENG,0
+897,it's twenty five dollars a month .,pro:per det:num det:num n det:art n .,ENG ENG ENG ENG ENG ENG,0
+898,well they had a better deal then that .,co pro:sub v det:art adj n adv:tem comp .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+899,sí ?,co ?,ENG,0
+900,why ?,pro:rel ?,ENG,0
+901,because when I signed up it was hundred and sixteen for the whole year .,conj conj pro:sub v adv pro:per cop det:num coord det:num prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+902,I know .,pro:sub v .,ENG ENG,0
+903,no it's three hundred and something .,co pro:per det:num det:num coord pro:indef .,ENG ENG ENG ENG ENG ENG,0
+904,yeah .,co .,ENG,0
+905,y lo tuvieron ese por bastante tiempo ?,coord pro:obj v det:dem prep adv n ?,ENG ENG ENG ENG ENG ENG ENG,0
+906,sí no I'm gonna wait then .,L2 co pro:sub part v adv:tem .,ESP ENG ENG ENG ENG ENG,1
+907,that's why /.,pro:rel pro:rel +/.,ENG ENG,0
+908,or I'm gonna talk to her .,coord pro:sub part v prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+909,or just tell her yeah .,coord adv v det:poss co .,ENG ENG ENG ENG ENG,0
+910,"yeah I'm gonna say ""/.","co pro:sub part v +""/.",ENG ENG ENG ENG,0
+911,porque oh sí hey /.,L2 co L2 co +/.,ESP ENG ESP ENG,1
+912,hey give me /.,co v pro:obj +/.,ENG ENG ENG,0
+913,because I was there for so long .,conj pro:sub cop adv prep adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+914,and then //.,coord adv:tem +//.,ENG ENG,0
+915,yeah .,co .,ENG,0
+916,and everybody else signed up for that deal .,coord pro:indef post v adv prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+917,exacto .,co .,ENG,0
+918,lo único que después te cobran una cosa por aquí y otra cosa por allá .,pro:obj adj pro:rel adv pro:obj v det:art v prep adv coord det:indef v prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+919,como veinticinco dólares sí .,adv det:num n co .,ENG ENG ENG ENG,0
+920,that I don't like because it's not //.,pro:rel pro:sub mod v conj pro:per neg +//.,ENG ENG ENG ENG ENG ENG ENG,0
+921,pero cada cuánto ?,conj det:indef det:int ?,ENG ENG ENG,0
+922,how often do they do that like twice a year right ?,pro:rel adv v pro:sub v det:dem co adv det:art n adj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+923,because sometimes at home I get those bills for you know for Ted .,conj adv prep n pro:sub v det:dem n prep pro:per v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+924,I don't know porque /.,pro:sub mod v L2 +/.,ENG ENG ENG ESP,1
+925,yeah because the contract is let's say X amount of money .,co conj det:art n cop v v n:prop n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+926,uhuh .,co .,ENG,0
+927,one sixty let's say //.,det:num det:num v v +//.,ENG ENG ENG ENG,0
+928,sixty nine I think it was .,det:num det:num pro:sub v pro:per cop .,ENG ENG ENG ENG ENG ENG,0
+929,no whatever .,co pro:int .,ENG ENG,0
+930,y después te ponen processing fee esto ...,L2 L2 L2 L2 part n L2 +...,ESP ESP ESP ESP ENG ENG ESP,1
+931,la letra chiquita .,det:art n n .,ENG ENG ENG,0
+932,veinte dólares .,det:num n .,ENG ENG,0
+933,sí hm first month whatever ...,L2 co adv n pro:int +...,ESP ENG ENG ENG ENG,1
+934,treinta dólares .,det:num n .,ENG ENG,0
+935,pena es /.,n cop +/.,ENG ENG,0
+936,y ahí después te pongo otros cien en en small print that you que tú no lo /.,L2 L2 L2 L2 L2 L2 L2 L2 L2 adj n pro:rel pro:per L2 L2 L2 L2 +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ESP ESP ESP ESP,1
+937,que tú no sabes ni qué es .,pro:rel pro:sub adv v coord pro:int cop .,ENG ENG ENG ENG ENG ENG ENG,0
+938,entonces terminas pagando trescientos .,adv v ger det:num .,ENG ENG ENG ENG,0
+939,so /.,co +/.,ENG,0
+940,no doscientos en de vez de ciento diez como serían ciento sesenta una cosa así .,adv det:num prep imp n imp n det:num adv cop n det:num det:art v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+941,yeah .,co .,ENG,0
+942,yeah but in anyway it's a good deal .,co conj prep adv pro:per det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+943,it is half of //.,pro:per cop n prep +//.,ENG ENG ENG ENG,0
+944,sí .,co .,ENG,0
+945,but they got all the people that were going to Lady_of_America ...,conj pro:sub v qn det:art n pro:rel aux part prep n:prop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+946,los trajeron because como cerraron ...,L2 L2 conj L2 L2 +...,ESP ESP ENG ESP ESP,1
+947,I know .,pro:sub v .,ENG ENG,0
+948,and now happens that there are too many people .,coord adv v comp adv cop adv qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+949,they have too many people ?,pro:sub v adv qn n ?,ENG ENG ENG ENG ENG,0
+950,no dan abasto .,L2 L2 L2 .,ESP ESP ESP,0
+951,so the machines are always occupied .,co det:art n aux adv part .,ENG ENG ENG ENG ENG ENG,0
+952,busy .,adj .,ENG,0
+953,yeah .,co .,ENG,0
+954,and the classes are always full .,coord det:art n cop adv adj .,ENG ENG ENG ENG ENG ENG,0
+955,really ?,adv ?,ENG,0
+956,which isn't cool in some //.,pro:rel cop v prep qn +//.,ENG ENG ENG ENG ENG,0
+957,.,None,,0
+958,and I think the quality of the classes improve .,coord pro:sub v det:art n prep det:art n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+959,yes because before they were kinda like empty .,co conj prep pro:sub cop adv co v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+960,pero /.,conj +/.,ENG,0
+961,yeah .,co .,ENG,0
+962,and then they didn't have enough people teaching .,coord adv:tem pro:sub mod v adj n part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+963,and the instructors improve too .,coord det:art n v adv .,ENG ENG ENG ENG ENG,0
+964,really ?,adv ?,ENG,0
+965,because they didn't have good people before .,conj pro:sub mod v adj n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+966,yeah .,co .,ENG,0
+967,no ahora son buenos .,adv adv cop adj .,ENG ENG ENG ENG,0
+968,sí ?,co ?,ENG,0
+969,yeah today la clase que fui hoy /.,co adv:tem L2 L2 L2 L2 L2 +/.,ENG ENG ESP ESP ESP ESP ESP,1
+970,a qué horas ?,aprep pro:int n ?,ENG ENG ENG,0
+971,a las nueve y media .,aprep det:art det:num coord adj .,ENG ENG ENG ENG ENG,0
+972,I scheduled to stay for two classes because I normally can do that ...,pro:sub v inf v prep det:num n conj pro:sub adv mod v pro:dem +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+973,y hm chica qué oh .,coord co n pro:int co .,ENG ENG ENG ENG ENG,0
+974,hoy no .,adv adv .,ENG ENG,0
+975,hoy saliste de /.,adv v prep +/.,ENG ENG ENG,0
+976,me lo has dicho .,pro:obj pro:obj aux part .,ENG ENG ENG ENG,0
+977,no podía terminar una .,adv v inf pro:dem .,ENG ENG ENG ENG,0
+978,no podía del /.,adv v prep +/.,ENG ENG ENG,0
+979,de qué era ?,prep pro:int cop ?,ENG ENG ENG,0
+980,aerobics o cosa /.,L2 coord v +/.,ESP ENG ENG,1
+981,I hate aerobics .,pro:sub v n:pt .,ENG ENG ENG,0
+982,it's aerobics y body sculpting .,pro:per n:pt L2 n part .,ENG ENG ESP ENG ENG,1
+983,I love sculpting .,pro:sub v part .,ENG ENG ENG,0
+984,sí .,co .,ENG,0
+985,that's my favorite thing .,pro:dem det:poss adj n .,ENG ENG ENG ENG,0
+986,but it's like step .,conj pro:per conj n .,ENG ENG ENG ENG,0
+987,I hate aerobics .,pro:sub v n:pt .,ENG ENG ENG,0
+988,the first half is step aerobics ...,det:art adj n cop n n:pt +...,ENG ENG ENG ENG ENG ENG,0
+989,and then it's a //.,coord adv:tem pro:per det:art +//.,ENG ENG ENG ENG,0
+990,who's giving that class ?,pro:rel n:gerund adv n ?,ENG ENG ENG ENG,0
+991,Marian .,n:prop .,ENG,0
+992,Marian she was in Platinum before ...,n:prop pro:sub cop prep n:prop adv +...,ENG ENG ENG ENG ENG ENG,0
+993,okay .,co .,ENG,0
+994,y ahora es el manager aquí .,L2 L2 L2 L2 n L2 .,ESP ESP ESP ESP ENG ESP,1
+995,but they're gonna build another building .,conj pro:sub part v qn n .,ENG ENG ENG ENG ENG ENG,0
+996,right they're gonna do another building ?,adv pro:sub part v qn n ?,ENG ENG ENG ENG ENG ENG,0
+997,what are they doing ?,pro:int cop pro:sub part ?,ENG ENG ENG ENG,0
+998,what I its //.,pro:int pro:sub det:poss +//.,ENG ENG ENG,0
+999,because they're gonna //.,conj pro:sub part +//.,ENG ENG ENG,0
+1000,what are they doing I don't know .,pro:int cop pro:sub part pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG,0
+1001,they were going to well .,pro:sub aux part prep adv .,ENG ENG ENG ENG ENG,0
+1002,last time I heard ...,adj n pro:sub v +...,ENG ENG ENG ENG,0
+1003,they sold all that property .,pro:sub part qn pro:dem n .,ENG ENG ENG ENG ENG,0
+1004,yeah everything they //.,co pro:indef pro:sub +//.,ENG ENG ENG,0
+1005,and they are going to build the Hilton .,coord pro:sub aux part inf v det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1006,an upscale Hilton or //.,det:art up#v n:prop coord +//.,ENG ENG ENG ENG,0
+1007,Marriott .,n:prop .,ENG,0
+1008,the Marriott yeah .,det:art n:prop co .,ENG ENG ENG,0
+1009,.,None,,0
+1010,one of those that's gonna happen .,det:num prep det:dem pro:rel part v .,ENG ENG ENG ENG ENG ENG,0
+1011,but on the left or where the gym is .,conj prep det:art adj coord pro:int det:art n cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1012,tsk everywhere because they are going to do a hotel and timeshare property .,co adv conj pro:sub aux part inf v det:art n coord n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1013,timeshare apartments .,n n .,ENG ENG,0
+1014,but that's good for us isn't it ?,conj pro:dem adj prep pro:obj cop pro:per ?,ENG ENG ENG ENG ENG ENG ENG,0
+1015,yeah it is good for us .,co pro:per cop adj prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+1016,it is good for us .,pro:per cop adj prep pro:obj .,ENG ENG ENG ENG ENG,0
+1017,y el spa va a ser parte del hotel .,coord det:art n v aprep inf n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1018,I mean el spa and gym is gonna be part of the hotel .,pro:sub v L2 n coord n aux part aux adj prep det:art n .,ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+1019,part of the hotel .,n prep det:art n .,ENG ENG ENG ENG,0
+1020,not //.,neg +//.,ENG,0
+1021,inside of the hotel ?,adj prep det:art n ?,ENG ENG ENG ENG,0
+1022,it will be most likely .,pro:per mod cop qn adj .,ENG ENG ENG ENG ENG,0
+1023,Sean we are recording here .,n:prop pro:sub aux part adv .,ENG ENG ENG ENG ENG,0
+1024,aw don't be mean .,co mod cop adj .,ENG ENG ENG ENG,0
+1025,aw okay the gym is gonna be inside like //.,co co det:art n aux part cop adv prep +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1026,it's not gonna be like right now just the gym and the spa .,pro:per neg part cop prep adv adv adv det:art n coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1027,yeah because what they are doing /.,co conj pro:int pro:sub aux part +/.,ENG ENG ENG ENG ENG ENG,0
+1028,yeah trying to do is a a complete resort with the golf course and the spa .,co part inf v cop det:art det:art adj n prep det:art n n coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1029,but they're gonna be the same owners ?,conj pro:sub part cop det:art adj n ?,ENG ENG ENG ENG ENG ENG ENG,0
+1030,like Trishia and Dan ?,conj n:prop coord n:prop ?,ENG ENG ENG ENG,0
+1031,tsk no so /.,co adv co +/.,ENG ENG ENG,0
+1032,no they are not renewing the contract .,co pro:sub aux neg part det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+1033,I heard from someone else that he is not renewing them the contract for next year .,pro:sub v prep pro:indef post pro:rel pro:sub aux neg part pro:obj det:art n prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1034,Seegal .,n:prop .,ENG,0
+1035,so be careful to what you sign .,adv cop adj prep pro:int pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+1036,aw it's true .,co pro:per adj .,ENG ENG ENG,0
+1037,because maybe /.,conj adv +/.,ENG ENG,0
+1038,so where are they gonna go ?,adv pro:rel cop pro:sub part v ?,ENG ENG ENG ENG ENG ENG,0
+1039,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1040,but after a day deep down I don't understand how that works .,conj prep det:art n adj adv pro:sub mod v pro:rel adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1041,well I think that they run the building .,co pro:sub v comp pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1042,they're renting that ?,pro:sub part comp ?,ENG ENG ENG,0
+1043,porque te acuerdas /.,conj pro:obj v +/.,ENG ENG ENG,0
+1044,o sea ellos tienen ese lugar porque ellos fueron los que lo construyeron .,coord cop pro:sub v det:dem n conj pro:sub cop det:art pro:rel pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1045,yo pensé que eso era lo que ellos habían hecho .,pro:sub v pro:rel pro:dem cop pro:obj prep pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1046,Dan and Trishia habían construido ese edificio .,n:prop coord n:prop L2 L2 L2 L2 .,ENG ENG ENG ESP ESP ESP ESP,1
+1047,el papá le ha regalado eso a Trishia .,det:art n pro:ind aux part pro:dem aprep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1048,eso fue lo que yo entendí .,pro:dem cop pro:obj pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+1049,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1050,entonces cómo es el negocio ?,co pro:int cop det:art v ?,ENG ENG ENG ENG ENG,0
+1051,who knows .,pro:int v .,ENG ENG,0
+1052,I was under the understanding that they rent that from Pat Seegal .,pro:sub cop prep det:art n:gerund comp pro:sub v pro:dem prep n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1053,tsk is it ?,co aux pro:per ?,ENG ENG ENG,0
+1054,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1055,just the property probably .,adv det:art n adv .,ENG ENG ENG ENG,0
+1056,and then that's why they can take that thing down and //.,coord adv:tem pro:dem pro:int pro:sub mod v comp n adv coord +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1057,porque /.,conj +/.,ENG,0
+1058,no puede ser que lo haya construido Trishia .,adv v inf pro:rel pro:obj v part n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1059,no ?,adv ?,ENG,0
+1060,sabes because yeah they started managing it ...,L2 conj co pro:sub v part pro:per +...,ESP ENG ENG ENG ENG ENG ENG,1
+1061,they were going to do that gym with someone else before .,pro:sub aux part inf v det:dem n prep pro:indef post adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1062,and the //.,coord det:art +//.,ENG ENG,0
+1063,al al principio .,aprep aprep n .,ENG ENG ENG,0
+1064,yeah and the deal fell ...,co coord det:art n v +...,ENG ENG ENG ENG ENG,0
+1065,te acuerdas cuando ese muchacho ?,pro:obj v conj det:dem n ?,ENG ENG ENG ENG ENG,0
+1066,y después lo hicieron con Lisa .,coord adv pro:obj v prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+1067,sí me acuerdo huh era el gridiron .,L2 L2 L2 co L2 L2 n .,ESP ESP ESP ENG ESP ESP ENG,1
+1068,I don't remember .,pro:sub mod v .,ENG ENG ENG,0
+1069,gridiron bueno yo no sé ni como se llama .,L2 co pro:sub adv v coord adv pro:refl v .,ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+1070,but I remember there was /.,conj pro:sub v adv cop +/.,ENG ENG ENG ENG ENG,0
+1071,so I don't think that .,co pro:sub mod v pro:dem .,ENG ENG ENG ENG ENG,0
+1072,I think that maybe construir el edificio it was part of the deal I guess .,pro:sub v pro:dem adv L2 L2 L2 pro:per cop n prep det:art n pro:sub v .,ENG ENG ENG ENG ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+1073,gridiron .,n .,ENG,0
+1074,uhuh .,co .,ENG,0
+1075,okay .,co .,ENG,0
+1076,y Dan and Trishia empezaron a //.,L2 n:prop coord n:prop L2 L2 +//.,ESP ENG ENG ENG ESP ESP,1
+1077,that is not bad for them .,pro:rel cop neg adj prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+1078,tú sabes que yo creía que Trishia era la mamá de de Dan .,pro:sub v pro:rel pro:sub v pro:rel n:prop cop det:art n prep prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1079,oh no .,co adv .,ENG ENG,0
+1080,y hay un viejo de canoso that guy was the owner ...,L2 L2 L2 L2 L2 L2 det:dem n cop det:art adj +...,ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+1081,because she looks older .,conj pro:sub v adj .,ENG ENG ENG ENG,0
+1082,and I thought that Trishia was //.,coord pro:sub v comp n:prop cop +//.,ENG ENG ENG ENG ENG ENG,0
+1083,no ese es el papá de ella .,adv det:dem cop det:art n prep pro:sub .,ENG ENG ENG ENG ENG ENG ENG,0
+1084,la dueña es ella .,det:art n cop pro:sub .,ENG ENG ENG ENG,0
+1085,oh my god !,co det:poss n !,ENG ENG ENG,0
+1086,ese viejo es el papá ?,det:dem adj cop det:art n ?,ENG ENG ENG ENG ENG,0
+1087,el señor es el papá de ella .,det:art co:voc cop det:art n prep pro:sub .,ENG ENG ENG ENG ENG ENG ENG,0
+1088,because he looks like owner .,conj pro:sub v prep adj .,ENG ENG ENG ENG ENG,0
+1089,ese no ella es la dueña .,det:dem adv pro:sub cop det:art n .,ENG ENG ENG ENG ENG ENG,0
+1090,él le regaló eso a ella .,pro:sub pro:ind v pro:dem aprep pro:sub .,ENG ENG ENG ENG ENG ENG,0
+1091,are /?,cop +/?,ENG,0
+1092,sí .,co .,ENG,0
+1093,are you sure ?,cop pro:per adj ?,ENG ENG ENG,0
+1094,sí .,co .,ENG,0
+1095,no no puede ser .,adv adv v inf .,ENG ENG ENG ENG,0
+1096,sí .,co .,ENG,0
+1097,yo sé eso .,pro:sub v pro:dem .,ENG ENG ENG,0
+1098,siempre lo supe desde el principio .,adv pro:obj v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+1099,un viejo alto flaco de bigote ?,det:art adj adj adj prep n ?,ENG ENG ENG ENG ENG ENG,0
+1100,flaco de bigote canoso y gafas ?,adj prep n adj coord n ?,ENG ENG ENG ENG ENG ENG,0
+1101,uhuh .,co .,ENG,0
+1102,lentes sí ...,n co +...,ENG ENG,0
+1103,ese es el papá de Trishia .,det:dem cop det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+1104,que ella se va a caminar con él .,pro:rel pro:sub pro:refl v aprep inf prep pro:sub .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1105,they walk sometimes on the /.,pro:sub v adv prep det:art +/.,ENG ENG ENG ENG ENG,0
+1106,have you seen them ?,v pro:per part pro:obj ?,ENG ENG ENG ENG,0
+1107,sí los he visto .,L2 L2 L2 L2 .,ESP ESP ESP ESP,0
+1108,yeah that's her father .,co pro:dem det:poss n .,ENG ENG ENG ENG,0
+1109,pero /.,conj +/.,ENG,0
+1110,they look just alike .,pro:sub v adv adv .,ENG ENG ENG ENG,0
+1111,but he doesn't look that he's that much older to be her father .,conj pro:sub mod v comp pro:sub adv adv adj inf cop det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1112,you think ?,pro:per v ?,ENG ENG,0
+1113,or she looks much older than she is .,coord pro:sub v adv adj prep pro:sub cop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1114,I think she just looks older than she is .,pro:sub v pro:sub adv cop adj prep pro:sub cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1115,she's younger than me .,pro:sub adj prep pro:obj .,ENG ENG ENG ENG,0
+1116,oh no she looks much older .,co co pro:sub v adv adj .,ENG ENG ENG ENG ENG ENG,0
+1117,but Dan is really young looking .,conj n:prop cop adv adj n:gerund .,ENG ENG ENG ENG ENG ENG,0
+1118,qué raro porque ella no /.,pro:int adj conj pro:sub adv +/.,ENG ENG ENG ENG ENG,0
+1119,yeah .,co .,ENG,0
+1120,Dan is like a baby face you know .,n:prop cop co det:art n n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1121,yeah .,co .,ENG,0
+1122,he's got this beautiful baby's face .,pro:sub part det:dem adj adj n .,ENG ENG ENG ENG ENG ENG,0
+1123,yeah .,co .,ENG,0
+1124,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+1125,I don't talk to them .,pro:sub mod v prep pro:obj .,ENG ENG ENG ENG ENG,0
+1126,and they've just have two babies .,coord pro:sub adv v det:num n .,ENG ENG ENG ENG ENG ENG,0
+1127,really ?,adv ?,ENG,0
+1128,twins ?,n ?,ENG,0
+1129,no .,co .,ENG,0
+1130,no .,co .,ENG,0
+1131,what ?,pro:int ?,ENG,0
+1132,first three years ago .,adv det:num n post .,ENG ENG ENG ENG,0
+1133,so she's young .,co pro:sub adj .,ENG ENG ENG,0
+1134,she had /.,pro:sub v +/.,ENG ENG,0
+1135,she's young .,pro:sub adj .,ENG ENG,0
+1136,hm .,co .,ENG,0
+1137,uhuh .,co .,ENG,0
+1138,qué raro no ?,pro:int adj adv ?,ENG ENG ENG,0
+1139,parece /.,imp +/.,ENG,0
+1140,the other day tengo una amiga que tiene treinta y siete años ...,det:art qn n L2 L2 L2 L2 L2 L2 L2 L2 L2 +...,ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+1141,uhuh .,co .,ENG,0
+1142,tú sabes ahí que no es jovencita pero tampoco es joven tú sabes .,pro:sub v adv pro:rel adv cop adj conj adv cop adj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1143,no .,adv .,ENG,0
+1144,uhuh .,co .,ENG,0
+1145,cuando ya tenemos cuarenta y dos cuarenta y tres ya treinta y siete es joven .,conj adv v det:num coord det:num det:num coord det:num adv det:num coord det:num cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1146,ya .,adv .,ENG,0
+1147,I know .,pro:sub v .,ENG ENG,0
+1148,y tuvo una niña hace poquito ...,coord v det:art co:voc v pro:indef +...,ENG ENG ENG ENG ENG ENG,0
+1149,y la niña es bien linda ...,coord det:art n cop adv adj +...,ENG ENG ENG ENG ENG ENG,0
+1150,y estaban en Costco ...,coord cop prep n:prop +...,ENG ENG ENG ENG,0
+1151,y estaban ahí con la abuelita de la niña y la mamá ...,coord cop adv prep det:art n prep det:art co:voc coord det:art n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1152,o sea mi amiga con su niña y la mamá del esposo .,coord cop det:pos n prep det:pos co:voc coord det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1153,okay .,co .,ENG,0
+1154,and they were there you know shopping ...,coord pro:sub cop adv pro:per v part +...,ENG ENG ENG ENG ENG ENG ENG,0
+1155,"and when they went to the cashier la señora que está ahí en la caja le dice ""/.","coord conj pro:sub v prep det:art n L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 +""/.",ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+1156,ay usted es la abuela .,co pro:sub cop det:art n .,ENG ENG ENG ENG ENG,0
+1157,.,None,,0
+1158,o sea a la mamá !,coord cop aprep det:art n !,ENG ENG ENG ENG ENG,0
+1159,a la mamá !,aprep det:art n !,ENG ENG ENG,0
+1160,ay qué pena .,co pro:int n .,ENG ENG ENG,0
+1161,"y ella le dice ""/.","coord pro:sub pro:ind v +""/.",ENG ENG ENG ENG,0
+1162,.,None,,0
+1163,no yo soy la mamá .,adv pro:sub cop det:art n .,ENG ENG ENG ENG ENG,0
+1164,ay pero sabes como es la abuela .,co conj v adv cop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+1165,además de todo la mujer le dice .,adv prep det:indef det:art n pro:ind v .,ENG ENG ENG ENG ENG ENG ENG,0
+1166,I think she was about to kill her .,pro:sub v pro:sub cop adv inf v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1167,wow bueno /.,L2 co +/.,ESP ENG,1
+1168,bueno when I was working at the other school I had an assistant que nos hicimos como familia ...,L2 conj pro:sub aux part prep det:art qn n pro:sub v det:art n L2 L2 L2 L2 L2 +...,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP,1
+1169,oh gosh .,co co .,ENG ENG,0
+1170,okay .,co .,ENG,0
+1171,we became like really close .,pro:sub cop prep adv adj .,ENG ENG ENG ENG ENG,0
+1172,and estaba este señor que era el presidente de PTA ...,coord L2 L2 L2 L2 L2 L2 L2 L2 n:prop +...,ENG ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+1173,okay .,co .,ENG,0
+1174,and he is an older guy ...,coord pro:sub cop det:art adj n +...,ENG ENG ENG ENG ENG ENG,0
+1175,"y mi asistente le dice ""/.","coord det:pos n pro:ind v +""/.",ENG ENG ENG ENG ENG,0
+1176,ay cómo está su nietito .,co pro:int cop det:pos n .,ENG ENG ENG ENG ENG,0
+1177,oh gosh .,co co .,ENG ENG,0
+1178,and he was the dad .,coord pro:sub cop det:art n .,ENG ENG ENG ENG ENG,0
+1179,oh no .,co co .,ENG ENG,0
+1180,the dad .,det:art n .,ENG ENG,0
+1181,oh my god that's so embarrassing too .,co det:poss n pro:rel adv n:gerund post .,ENG ENG ENG ENG ENG ENG ENG,0
+1182,I know .,pro:sub v .,ENG ENG,0
+1183,bueno pero es que ahora la gente tiene /.,co conj cop pro:rel adv det:art n v +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1184,ah but that are you know chubby ...,co conj adv aux pro:per v adj +...,ENG ENG ENG ENG ENG ENG ENG,0
+1185,it look like they have a big belly ...,pro:per v conj pro:sub v det:art adj n +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1186,"and you go ""/.","coord pro:per v +""/.",ENG ENG ENG,0
+1187,I'm gonna how than /.,pro:sub part pro:rel prep +/.,ENG ENG ENG ENG,0
+1188,how pregnant you are .,pro:int adj pro:per cop .,ENG ENG ENG ENG,0
+1189,.,None,,0
+1190,I've done that .,pro:sub part pro:dem .,ENG ENG ENG,0
+1191,yeah .,co .,ENG,0
+1192,I've done that .,pro:sub part pro:dem .,ENG ENG ENG,0
+1193,no yo no .,adv pro:sub adv .,ENG ENG ENG,0
+1194,yo por eso ahora no digo nada .,pro:sub prep pro:dem adv adv v pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+1195,yo prefiero no decir nada .,pro:sub v adv inf pro:indef .,ENG ENG ENG ENG ENG,0
+1196,no digo nada ni gorda ni flaca ni bonita ni fea .,adv v pro:indef coord adj coord adj coord co:voc coord adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1197,nada no /.,pro:indef adv +/.,ENG ENG,0
+1198,porque digo no .,conj v adv .,ENG ENG ENG,0
+1199,yo no digo nada más .,pro:sub adv v pro:indef adv .,ENG ENG ENG ENG ENG,0
+1200,después te metes en un lío sabes .,adv pro:obj v prep det:art n co .,ENG ENG ENG ENG ENG ENG ENG,0
+1201,I don't .,pro:sub mod .,ENG ENG,0
+1202,.,None,,0
+1203,sí no pasar por eso .,co adv inf prep pro:dem .,ENG ENG ENG ENG ENG,0
+1204,no .,co .,ENG,0
+1205,qué vergüenza .,pro:int n .,ENG ENG,0
+1206,y /.,coord +/.,ENG,0
+1207,.,None,,0
+1208,qué lindos aros .,pro:int adj n .,ENG ENG ENG,0
+1209,estos ?,det:dem ?,ENG,0
+1210,hermosos .,adj .,ENG,0
+1211,a friend of mine gave them to me .,det:art n prep pro:poss v pro:obj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1212,they are beautiful .,pro:sub cop adj .,ENG ENG ENG,0
+1213,thank you .,v pro:per .,ENG ENG,0
+1214,they're my favorite .,pro:sub det:poss n .,ENG ENG ENG,0
+1215,gorgeous son diamantes o ?,adj L2 L2 L2 ?,ENG ESP ESP ESP,1
+1216,no son tsk piedras de Swarovski .,adv cop co n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+1217,tsk ahhah .,co co .,ENG ENG,0
+1218,son Swarovski .,cop n:prop .,ENG ENG,0
+1219,beautiful .,adj .,ENG,0
+1220,sí .,co .,ENG,0
+1221,parecen diamantes verdad ?,v n co ?,ENG ENG ENG,0
+1222,parecen diamantes sí .,v n co .,ENG ENG ENG,0
+1223,sí .,co .,ENG,0
+1224,yeah .,co .,ENG,0
+1225,parecen .,v .,ENG,0
+1226,gorgeous .,adj .,ENG,0
+1227,gracias .,n .,ENG,0
+1228,aw you always have nice jewelry .,co pro:per adv v adj n .,ENG ENG ENG ENG ENG ENG,0
+1229,me ?,pro:obj ?,ENG,0
+1230,uhuh .,co .,ENG,0
+1231,ugh no not really .,co co neg adv .,ENG ENG ENG ENG,0
+1232,you think ?,pro:per v ?,ENG ENG,0
+1233,I don't really buy jewelry .,pro:sub mod adv v n .,ENG ENG ENG ENG ENG,0
+1234,aw yeah .,co co .,ENG ENG,0
+1235,but you always have nice jewelry .,conj pro:per adv v adj n .,ENG ENG ENG ENG ENG ENG,0
+1236,you know .,pro:per v .,ENG ENG,0
+1237,few things that I have .,qn n pro:rel pro:sub v .,ENG ENG ENG ENG ENG,0
+1238,I don't really buy jewelry .,pro:sub mod adv v n .,ENG ENG ENG ENG ENG,0
+1239,I think what I have people has given it to me .,pro:sub v pro:int pro:sub v n aux part pro:per prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1240,probably .,adv .,ENG,0
+1241,but /.,conj +/.,ENG,0
+1242,pero Carmencita tenía muchas cosas también .,conj n:prop v det:indef v adv .,ENG ENG ENG ENG ENG ENG,0
+1243,Carmencita sí .,n:prop co .,ENG ENG,0
+1244,Carmencita sí tiene .,n:prop co v .,ENG ENG ENG,0
+1245,ay tengo las cositas que tú le regalaste de chiquita .,co v det:art n pro:rel pro:sub pro:ind v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1246,sí a ella /.,co aprep pro:sub +/.,ENG ENG ENG,0
+1247,to //.,inf +//.,ENG,0
+1248,tú te acuerdas ?,pro:sub pro:obj v ?,ENG ENG ENG,0
+1249,sí .,co .,ENG,0
+1250,decía Carmen esto te lo regaló Marcela .,v n:prop pro:dem pro:obj pro:obj v n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+1251,el otro día se lo mostré .,det:art pro:indef n pro:refl pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+1252,"y me decía ""/.","coord pro:obj v +""/.",ENG ENG ENG,0
+1253,ay mami I can't believe it .,L2 L2 pro:sub mod v pro:per .,ESP ESP ENG ENG ENG ENG,1
+1254,and she wanted to put it on .,coord pro:sub v inf v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG,0
+1255,si no le cabe .,conj adv pro:ind v .,ENG ENG ENG ENG,0
+1256,"I said ""/.","pro:sub v +""/.",ENG ENG,0
+1257,Carmen please .,n:prop co .,ENG ENG,0
+1258,you need to now .,pro:per v inf adv .,ENG ENG ENG ENG,0
+1259,I want to .,pro:sub v prep .,ENG ENG ENG,0
+1260,what can we do ?,pro:int mod pro:sub v ?,ENG ENG ENG ENG,0
+1261,"I said ""/.","pro:sub v +""/.",ENG ENG,0
+1262,nothing .,pro:indef .,ENG,0
+1263,just leave it there for your daughter .,adv v pro:per adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+1264,maybe you can extend it .,adv pro:per mod v pro:per .,ENG ENG ENG ENG ENG,0
+1265,no I wanna leave it just for her daughter so she'll know .,co pro:sub v v pro:per adv prep pro:obj n adv pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1266,okay .,co .,ENG,0
+1267,I'd like to because esas cosas son especiales .,pro:sub co prep conj L2 L2 L2 L2 .,ENG ENG ENG ENG ESP ESP ESP ESP,1
+1268,cómo /?,pro:int +/?,ENG,0
+1269,yeah cómo está tu suegra ?,co L2 L2 L2 L2 ?,ENG ESP ESP ESP ESP,1
+1270,bien .,adv .,ENG,0
+1271,hace mucho que no la veo .,v adv pro:rel adv pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+1272,bien ella estuvo una cosa tras otra .,adv pro:sub cop det:art imp prep det:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+1273,a la pobre le pasó de todo .,aprep det:art adj pro:ind v prep det:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+1274,sí .,co .,ENG,0
+1275,se quebró primero bueno el hombro que le hicieron cirugía ...,pro:refl v adv co det:art n pro:rel pro:ind v n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1276,y estuvo malísima por tres meses deprimida ...,coord cop adj prep det:num n part +...,ENG ENG ENG ENG ENG ENG ENG,0
+1277,she was so sick of it .,pro:sub cop adv adj prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+1278,y luego se quebró la muñeca .,coord adv pro:refl v det:art n .,ENG ENG ENG ENG ENG ENG,0
+1279,.,None,,0
+1280,y mientras se quebró la muñeca no pudo ir al matrimonio de Ted .,coord adv pro:refl v det:art n adv v inf aprep n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1281,oh my god .,co det:poss n .,ENG ENG ENG,0
+1282,y al se los diítas /.,coord aprep cop det:art n +/.,ENG ENG ENG ENG ENG,0
+1283,y fue al tuyo ?,coord v aprep pro:pos ?,ENG ENG ENG ENG,0
+1284,exactly .,adv .,ENG,0
+1285,you haven't seen the pictures have you ?,pro:per aux part det:art n v pro:per ?,ENG ENG ENG ENG ENG ENG ENG,0
+1286,no .,co .,ENG,0
+1287,I have to bring them to you .,pro:sub v inf v pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+1288,and meantime her boyfriend died .,coord n det:poss n v .,ENG ENG ENG ENG ENG,0
+1289,oh my god .,co det:poss n .,ENG ENG ENG,0
+1290,everything at the same time .,pro:indef prep det:art adj n .,ENG ENG ENG ENG ENG,0
+1291,y cómo ?,coord pro:int ?,ENG ENG,0
+1292,he looked well /.,pro:sub v adv +/.,ENG ENG ENG,0
+1293,you look fine until you die .,pro:per v adv conj pro:per v .,ENG ENG ENG ENG ENG ENG,0
+1294,he he had /.,pro:sub pro:sub v +/.,ENG ENG ENG,0
+1295,you look alive till you die .,pro:per v adj n pro:per v .,ENG ENG ENG ENG ENG ENG,0
+1296,te ves lo más débil te moriste .,pro:obj v pro:obj adv adj pro:obj v .,ENG ENG ENG ENG ENG ENG ENG,0
+1297,así es la vida .,adv cop det:art co:voc .,ENG ENG ENG ENG,0
+1298,yeah .,co .,ENG,0
+1299,un día estás ...,det:art n cop +...,ENG ENG ENG,0
+1300,y al otro día ya no .,coord aprep pro:indef n adv adv .,ENG ENG ENG ENG ENG ENG,0
+1301,pero /.,conj +/.,ENG,0
+1302,tú sabes que a él le encontraron un tumor en el páncreas ?,pro:sub v pro:rel aprep pro:sub pro:ind v det:art n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1303,ay coño .,co co .,ENG ENG,0
+1304,y se lo quitaron ...,coord pro:refl pro:obj v +...,ENG ENG ENG ENG,0
+1305,yo pero mira lo que pasó ...,pro:sub conj co pro:obj pro:rel v +...,ENG ENG ENG ENG ENG ENG,0
+1306,entonces le encontraron células cancerosas no en el estómago sino como en un líquido que le llegó al estómago .,adv pro:ind v n adj adv prep det:art n conj adv prep det:art n pro:rel pro:ind v aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1307,tú sabes que el cuerpo empieza a sentirse raro .,pro:sub v pro:rel det:art n v aprep inf adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1308,uhuh .,co .,ENG,0
+1309,but what happened was they started trying a new drug on him like an experimental drug .,conj pro:int v cop pro:sub v part det:art adj n prep pro:obj prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1310,and I think that killed him .,coord pro:sub v adv part pro:obj .,ENG ENG ENG ENG ENG ENG,0
+1311,he reacted /.,pro:sub v +/.,ENG ENG,0
+1312,yo creo que eso lo mató .,pro:sub v pro:rel pro:dem pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+1313,que esa /.,pro:rel det:dem +/.,ENG ENG,0
+1314,yo pienso que eso lo mató .,pro:sub v pro:rel pro:dem pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+1315,probably .,adv .,ENG,0
+1316,and the other I was talking to you know a lady .,coord det:art qn pro:sub aux part prep pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1317,I don't even remember who it was .,pro:sub mod adv v pro:int pro:per cop .,ENG ENG ENG ENG ENG ENG ENG,0
+1318,"and she told me ""/.","coord pro:sub v pro:obj +""/.",ENG ENG ENG ENG,0
+1319,oh my //.,co det:poss +//.,ENG ENG,0
+1320,oh or a guy I haven't even remembered who it was .,co coord det:art n pro:sub aux adj part pro:rel pro:per cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1321,and he told me the same story .,coord pro:sub v pro:obj det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+1322,que la señora le ha dado lo mismo un tumor en el páncreas ...,pro:rel det:art n pro:ind aux part pro:obj adj det:art n prep det:art n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1323,le dieron una medicina experimental ...,pro:ind v det:art n adj +...,ENG ENG ENG ENG ENG,0
+1324,experimental .,adj .,ENG,0
+1325,y la mujer se murió a los tres meses .,coord det:art co pro:refl v aprep det:art det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1326,y así le pasó al señor .,coord adv pro:ind v aprep co:voc .,ENG ENG ENG ENG ENG ENG,0
+1327,so ya ves .,adv L2 L2 .,ENG ESP ESP,1
+1328,entonces me da pesar por ella .,adv pro:obj v inf prep pro:sub .,ENG ENG ENG ENG ENG ENG,0
+1329,pero el cáncer de páncreas it's hard .,L2 L2 L2 L2 L2 pro:per adj .,ESP ESP ESP ESP ESP ENG ENG,1
+1330,no y no fue páncreas perdóname .,adv coord adv v n imp .,ENG ENG ENG ENG ENG ENG,0
+1331,riñones .,n .,ENG,0
+1332,tsk oh .,co co .,ENG ENG,0
+1333,it was not pancreas .,pro:per cop neg n .,ENG ENG ENG ENG,0
+1334,it was kidneys .,pro:per cop n .,ENG ENG ENG,0
+1335,porque el padre el /.,conj det:art n det:art +/.,ENG ENG ENG ENG,0
+1336,me equivoqué de de órgano .,pro:obj v prep imp n .,ENG ENG ENG ENG ENG,0
+1337,de órgano .,prep n .,ENG ENG,0
+1338,well I was /.,co pro:sub cop +/.,ENG ENG ENG,0
+1339,kidneys que no es tan malo .,n L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP,1
+1340,no el de páncreas sí te mata .,adv det:art prep n co pro:obj v .,ENG ENG ENG ENG ENG ENG ENG,0
+1341,sí te mata inmediatamente sí .,co pro:obj v adv:adj co .,ENG ENG ENG ENG ENG,0
+1342,bueno y Flavia yo tengo miedo .,co coord n:prop pro:sub v n .,ENG ENG ENG ENG ENG ENG,0
+1343,de qué ?,prep pro:int ?,ENG ENG,0
+1344,what happened ?,pro:int v ?,ENG ENG,0
+1345,te acuerdas que hace two summers ago was the brain ...,L2 L2 L2 L2 det:num n post cop det:art n +...,ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+1346,sí me lo has contado .,co pro:obj pro:obj aux part .,ENG ENG ENG ENG ENG,0
+1347,and we went to the doctor ...,coord pro:sub v prep det:art n +...,ENG ENG ENG ENG ENG ENG,0
+1348,yeah what happened ?,co pro:int v ?,ENG ENG ENG,0
+1349,nothing happened .,pro:indef v .,ENG ENG,0
+1350,everything was okay .,pro:indef cop adj .,ENG ENG ENG,0
+1351,it dissolved .,pro:per v .,ENG ENG,0
+1352,the thing dissolved .,det:art n v .,ENG ENG ENG,0
+1353,exactly .,adv .,ENG,0
+1354,we prayed about it .,pro:sub v prep pro:per .,ENG ENG ENG ENG,0
+1355,yeah .,co .,ENG,0
+1356,we were praying about it ...,pro:sub aux part prep pro:per +...,ENG ENG ENG ENG ENG,0
+1357,okay and I visualized que eso se estaba disolseyendo ...,co coord pro:sub v L2 L2 L2 L2 L2 +...,ENG ENG ENG ENG ESP ESP ESP ESP ESP,1
+1358,and nothing happened .,coord pro:indef v .,ENG ENG ENG,0
+1359,.,None,,0
+1360,and I did all the well .,coord pro:sub v qn det:art adv .,ENG ENG ENG ENG ENG ENG,0
+1361,but I was two years with that thing on !,conj pro:sub cop det:num n prep det:dem n adv !,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1362,y I mean it's gone .,L2 pro:sub v pro:per part .,ESP ENG ENG ENG ENG,1
+1363,se fue .,pro:refl v .,ENG ENG,0
+1364,uhuh .,co .,ENG,0
+1365,great .,adj .,ENG,0
+1366,so I have a tsk urinary tract infections .,co pro:sub v det:art co adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1367,okay .,co .,ENG,0
+1368,so I went to the doctor ...,co pro:sub v prep det:art n +...,ENG ENG ENG ENG ENG ENG,0
+1369,they did a sonogram blah tumor en el spleen .,pro:sub v det:art n co L2 L2 L2 n .,ENG ENG ENG ENG ENG ESP ESP ESP ENG,1
+1370,en el bazo .,prep det:art n .,ENG ENG ENG,0
+1371,ah pero eso se quita .,co conj pro:dem pro:refl v .,ENG ENG ENG ENG ENG,0
+1372,y yo no lo sabía lo que era spleen .,L2 L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+1373,el bazo .,det:art n .,ENG ENG,0
+1374,y el otro día este yo estaba diciendo vesícula ...,coord det:art pro:indef n imp pro:sub aux ger n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1375,pero no era la vesícula .,conj adv cop det:art n .,ENG ENG ENG ENG ENG,0
+1376,no es gall bladder .,L2 L2 n n .,ESP ESP ENG ENG,1
+1377,es el bazo .,cop det:art n .,ENG ENG ENG,0
+1378,la vesícula es gall bladder .,L2 L2 L2 n n .,ESP ESP ESP ENG ENG,1
+1379,claro .,co .,ENG,0
+1380,uhuh .,co .,ENG,0
+1381,bueno pero no lo pueden sacar porque si sacan el bazo compromises the immune system .,co conj adv pro:obj v inf conj conj v det:art n L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+1382,pero los hay gente que les han sacado el bazo .,conj pro:obj v n pro:rel pro:ind aux part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1383,so it could be susceptible /.,co pro:per mod cop adj +/.,ENG ENG ENG ENG ENG,0
+1384,unless is completely necessary because it compromises the immune system .,conj aux adv adj conj pro:per v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1385,canceroso .,adj .,ENG,0
+1386,that's what I've been told .,pro:dem pro:int pro:sub aux part .,ENG ENG ENG ENG ENG,0
+1387,eso es lo que me dijo .,pro:dem cop pro:obj pro:rel pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+1388,el bazo ?,det:art n ?,ENG ENG,0
+1389,el bazo .,det:art n .,ENG ENG,0
+1390,no sabía eso .,adv v pro:dem .,ENG ENG ENG,0
+1391,pero y qué clase de tumor es ?,conj coord pro:int n prep n cop ?,ENG ENG ENG ENG ENG ENG ENG,0
+1392,so we're monitoring that ...,adv pro:sub part comp +...,ENG ENG ENG ENG,0
+1393,and we're doing what we have to do .,coord pro:sub part pro:int pro:sub v inf v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1394,ay no sé ni para que te dije eso ahora .,co adv v coord prep pro:rel pro:obj v pro:dem adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1395,so /.,co +/.,ENG,0
+1396,no .,co .,ENG,0
+1397,te vas a preocupar .,pro:obj v aprep inf .,ENG ENG ENG ENG,0
+1398,bueno no pero well thing is okay here I am again visualizing that the thing goes away .,L2 L2 L2 n n cop adj adv pro:sub aux adv part comp det:art n v adv .,ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+1399,you don't have to visualize anything .,pro:per mod v inf v pro:indef .,ENG ENG ENG ENG ENG ENG,0
+1400,you have to pray and believe that's all .,pro:per v inf v coord v pro:dem pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1401,you know well yeah no well yeah .,pro:per v adv co co co co .,ENG ENG ENG ENG ENG ENG ENG,0
+1402,I'm gonna start preaching here .,pro:sub part v part adv .,ENG ENG ENG ENG ENG,0
+1403,doing all those things okay .,part qn det:dem n adj .,ENG ENG ENG ENG ENG,0
+1404,no praying all lo que se puede hacer all .,co part adv L2 L2 L2 L2 L2 pro:indef .,ENG ENG ENG ESP ESP ESP ESP ESP ENG,1
+1405,you know it was so //.,pro:per v pro:per cop adv +//.,ENG ENG ENG ENG ENG,0
+1406,uhuh .,co .,ENG,0
+1407,that was in the back burner .,pro:dem cop prep det:art n n .,ENG ENG ENG ENG ENG ENG,0
+1408,el otro día fui al ginecólogo .,det:art pro:indef n v aprep n .,ENG ENG ENG ENG ENG ENG,0
+1409,y me encontró un tumor en el útero .,coord pro:obj v det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1410,no really ?,co adv ?,ENG ENG,0
+1411,.,None,,0
+1412,so I did a biopsy the other day .,co pro:sub v det:art n det:art qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1413,did they tell you already what /?,mod pro:sub v pro:per adv pro:int +/?,ENG ENG ENG ENG ENG ENG,0
+1414,uhuh en una situación de cero a ocho ...,co L2 L2 L2 L2 L2 L2 L2 +...,ENG ESP ESP ESP ESP ESP ESP ESP,1
+1415,it's not too bad .,pro:per neg adv adj .,ENG ENG ENG ENG,0
+1416,sabes no es /.,v adv cop +/.,ENG ENG ENG,0
+1417,but it's not that great either .,conj pro:per neg det:dem adj adv .,ENG ENG ENG ENG ENG ENG,0
+1418,uhuh .,co .,ENG,0
+1419,so en una situación de cero a ocho whereas zero is nothing and eight is the worst I am a three .,adv L2 L2 L2 L2 L2 L2 L2 conj det:num aux pro:indef coord det:num cop det:art adj pro:sub cop det:art det:num .,ENG ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+1420,okay .,co .,ENG,0
+1421,so the doctor sent the samples to an oncologist to see what //.,co det:art n v det:art n prep det:art n inf v pro:int +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1422,well I'm glad you told me that so I can start praying for you .,co pro:sub adj pro:per v pro:obj comp conj pro:sub mod v part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1423,pero sabes que es una tras de otra tras de otra ...,conj v pro:rel cop pro:dem prep prep det:indef prep prep det:indef +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1424,pues I think that's plenty .,L2 pro:sub v pro:dem adv .,ESP ENG ENG ENG ENG,1

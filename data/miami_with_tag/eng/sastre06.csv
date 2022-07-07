@@ -1,0 +1,829 @@
+,sentence,pos,language,switch
+0,well no .,co co .,ENG ENG,0
+1,we rode for nine days .,pro:sub v prep det:num n .,ENG ENG ENG ENG ENG,0
+2,.,None,,0
+3,from Miami to Sanford .,prep n:prop prep n:prop .,ENG ENG ENG ENG,0
+4,from Sanford we took the train the Amtrak train and rode it to Virginia .,prep n:prop pro:sub v det:art n det:art n:prop n coord v pro:per prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+5,mhm .,co .,ENG,0
+6,then from Virginia we crossed all over in through New_York .,adv:tem prep n:prop pro:sub v adv adv adv adj n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,then we crossed in through Boston .,adv:tem pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+8,then we went in through ah /.,adv:tem pro:sub v prep adv co +/.,ENG ENG ENG ENG ENG ENG,0
+9,what is it ?,pro:int cop pro:per ?,ENG ENG ENG,0
+10,Niagara_Falls .,n:prop .,ENG,0
+11,then we crossed back from Niagara_Falls .,adv:tem pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+12,we stopped in Philadelphia .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+13,then from Philadelphia we rode down through ah Virginia .,adv:tem prep n:prop pro:sub v adv prep co n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+14,we went to the Laurie_Camerons .,pro:sub v prep det:art n:prop .,ENG ENG ENG ENG ENG,0
+15,mhm .,co .,ENG,0
+16,then from the Laurie_Camerons we went back to the Amtraks station .,adv:tem prep det:art n:prop pro:sub v adv prep det:art n:prop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+17,we rode back to Sanford .,pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG,0
+18,and then we rode back to Miami .,coord adv:tem pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+19,okay .,co .,ENG,0
+20,and that was it .,coord pro:dem cop pro:per .,ENG ENG ENG ENG,0
+21,that was a very good experience .,pro:dem cop det:art adv adj n .,ENG ENG ENG ENG ENG ENG,0
+22,what is the next trip that we did ?,pro:int cop det:art adj n pro:rel pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+23,no as far as long trips we haven't done any other long ones .,co adv adv conj adj n pro:sub aux part qn qn adj pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+24,no the short one that we did .,qn det:art adj pro:indef pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+25,oh we've been to /.,co pro:sub cop prep +/.,ENG ENG ENG ENG,0
+26,we went to Lisberg .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+27,yeah we've been to Lisberg .,co pro:sub cop prep n:prop .,ENG ENG ENG ENG ENG,0
+28,we've been to ah ...,pro:sub cop prep co +...,ENG ENG ENG ENG,0
+29,Tampa .,n:prop .,ENG,0
+30,Tampa .,n:prop .,ENG,0
+31,we've been to eh eh Silverprings .,pro:sub cop prep co co n:prop .,ENG ENG ENG ENG ENG ENG,0
+32,we've been to Rocksprings .,pro:sub cop prep n:prop .,ENG ENG ENG ENG,0
+33,we went to /.,pro:sub v prep +/.,ENG ENG ENG,0
+34,I forgot the name now .,pro:sub v det:art n adv .,ENG ENG ENG ENG ENG,0
+35,where was that place ?,pro:int cop pro:dem v ?,ENG ENG ENG ENG,0
+36,where we saw the ...,pro:int pro:sub v det:art +...,ENG ENG ENG ENG,0
+37,for the bike rally .,prep det:art n n .,ENG ENG ENG ENG,0
+38,fuimos a ...,v aprep +...,ENG ENG,0
+39,I forget the name of that place .,pro:sub v det:art n prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+40,eh ...,co +...,ENG,0
+41,no I can't forget it .,co pro:sub mod v pro:per .,ENG ENG ENG ENG ENG,0
+42,I forgot the name .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+43,we've been to .,pro:sub cop prep .,ENG ENG ENG,0
+44,mhm .,co .,ENG,0
+45,Everglade_City .,n:prop .,ENG,0
+46,Naples .,n:prop .,ENG,0
+47,eh .,co .,ENG,0
+48,Marco_Island .,n:prop .,ENG,0
+49,Marco_Island .,n:prop .,ENG,0
+50,and we've been to ...,coord pro:sub cop prep +...,ENG ENG ENG ENG,0
+51,yes .,co .,ENG,0
+52,yeah .,co .,ENG,0
+53,we went to ah //.,pro:sub v prep co +//.,ENG ENG ENG ENG,0
+54,the bike doesn't have a year yet .,det:art n mod v det:art n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+55,it won't have a year until July .,pro:per mod v det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+56,and I've already /.,coord pro:sub adv +/.,ENG ENG ENG,0
+57,.,None,,0
+58,yes .,co .,ENG,0
+59,yeah .,co .,ENG,0
+60,we've got almost ten thousand miles on the bike .,pro:sub part adv det:num det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+61,ten thousand miles on the bike .,det:num det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+62,and we haven't had it a year .,coord pro:sub aux part pro:per det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+63,we ride .,pro:sub v .,ENG ENG,0
+64,.,None,,0
+65,well no .,co co .,ENG ENG,0
+66,yeah .,co .,ENG,0
+67,sometimes he goes .,adv pro:sub v .,ENG ENG ENG,0
+68,he he sometimes he goes .,pro:sub pro:sub adv pro:sub v .,ENG ENG ENG ENG ENG,0
+69,sometimes he doesn't .,adv pro:sub mod .,ENG ENG ENG,0
+70,sometimes he doesn't .,adv pro:sub mod .,ENG ENG ENG,0
+71,it all depends .,pro:per adv v .,ENG ENG ENG,0
+72,if he doesn't have /.,conj pro:sub mod v +/.,ENG ENG ENG ENG,0
+73,depending how she feels .,part pro:rel pro:sub v .,ENG ENG ENG ENG,0
+74,like this weekend we're not going .,prep det:dem n pro:sub neg part .,ENG ENG ENG ENG ENG ENG,0
+75,because this weekend /.,conj det:dem n +/.,ENG ENG ENG,0
+76,this weekend the club does not have anything eh designed .,det:dem n det:art n mod neg v pro:indef co v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+77,they do .,pro:sub v .,ENG ENG,0
+78,they do .,pro:sub v .,ENG ENG,0
+79,they do ?,pro:sub v ?,ENG ENG,0
+80,they're gonna go eat at Rib_City at Immokalee .,pro:sub part v v prep n:prop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+81,but they're changing it because of Good_Friday .,conj pro:sub part pro:per conj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+82,they're not gonna have club on Friday .,pro:sub neg part v n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+83,but they're gonna have it on Saturday .,conj pro:sub part v pro:per prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+84,plus Saturday we gotta go to my sister's party .,prep n:prop pro:sub mod v prep det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+85,and then Sunday we got the wedding for Juan's sister .,coord adv:tem n:prop pro:sub v det:art n prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+86,yeah .,co .,ENG,0
+87,so we can't /.,co pro:sub mod +/.,ENG ENG ENG,0
+88,Sunday I have the wedding on Juan's sister .,n:prop pro:sub v det:art n prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+89,that's a nice ride to Immokalee //.,pro:dem det:art adj n prep n:prop +//.,ENG ENG ENG ENG ENG ENG,0
+90,Immokalee it's a little town all Mexicans .,n:prop pro:per det:art adj n adv n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+91,but ah we just go there to eat .,conj co pro:sub adv v adv inf v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+92,we go for the ride .,pro:sub v prep det:art n .,ENG ENG ENG ENG ENG,0
+93,and we cruise through town .,coord pro:sub v adj n .,ENG ENG ENG ENG ENG,0
+94,we cruise through town .,pro:sub n adv n .,ENG ENG ENG ENG,0
+95,.,None,,0
+96,ah and Immokalee is /.,co coord n:prop cop +/.,ENG ENG ENG ENG,0
+97,what we do is is we take Alligator_Alley .,pro:int pro:sub v cop cop pro:sub v n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+98,when we get to where the Seminole tribes are we go through that road there right where the gas station is .,conj pro:sub v prep pro:int det:art n:prop n cop pro:sub v adv det:dem n adv adv pro:rel det:art n n cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+99,follow that road .,v comp n .,ENG ENG ENG,0
+100,and that's called Snake_Road I think it's called .,coord pro:dem part n:prop pro:sub v pro:per part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+101,and that goes in through their town .,coord pro:dem v adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+102,and then from there we cross over I think it's into ah State_Road thirty one eh or four thirty one .,coord adv:tem prep n pro:sub v adv pro:sub v pro:per prep co n:prop det:num det:num co coord det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+103,and that takes us all the way across into Immokalee .,coord pro:rel v pro:obj adv det:art n adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+104,and then /.,coord adv:tem +/.,ENG ENG,0
+105,.,None,,0
+106,yeah it's a little town .,co pro:per det:art adj n .,ENG ENG ENG ENG ENG,0
+107,no I remember seeing the sign .,co pro:sub v n:gerund det:art n .,ENG ENG ENG ENG ENG ENG,0
+108,but I don't know exactly what it is .,conj pro:sub mod v adv pro:int pro:per cop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+109,it looks a little bit like ...,pro:per v det:art adj n prep +...,ENG ENG ENG ENG ENG ENG,0
+110,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+111,it looks a little bit like ah Naples .,pro:per v det:art adj n co co n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+112,ah something like that .,co pro:indef prep pro:dem .,ENG ENG ENG ENG,0
+113,on the outer reaches of Naples .,prep det:art adj n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+114,because it's not as as modern as Naples .,conj pro:per neg prep adv adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+115,because it's imagine it's all agricultural .,conj pro:per v pro:per adv adj .,ENG ENG ENG ENG ENG ENG,0
+116,.,None,,0
+117,yeah it's all agricultural .,co pro:per adv adj .,ENG ENG ENG ENG,0
+118,and like I said the only thing there's there is just pretty much Mexicans .,coord co pro:sub v det:art qn n pro:exist adv aux adv adv adv n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+119,that's it .,pro:dem pro:per .,ENG ENG,0
+120,they're all little people .,pro:sub adv adj n .,ENG ENG ENG ENG,0
+121,none of them go over four feet .,pro:indef prep pro:obj v adv det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+122,they're all tiny little people .,pro:sub adv adj adj n .,ENG ENG ENG ENG ENG,0
+123,and the kids are all you know eh chinito types .,coord det:art n cop adv pro:per v co L2 n .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG,1
+124,and they have the little Asian looks .,coord pro:sub v det:art adj n:prop v .,ENG ENG ENG ENG ENG ENG ENG,0
+125,the same way when we ride to the toy run .,det:art adj n conj pro:sub v prep det:art n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+126,we did the toy run this year .,pro:sub v det:art n v det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+127,they said there was like forty thousand motorcycles there .,pro:sub v adv cop co det:num det:num n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+128,we rode /.,pro:sub v +/.,ENG ENG,0
+129,.,None,,0
+130,no .,co .,ENG,0
+131,no .,co .,ENG,0
+132,this is the main toy run .,pro:dem cop det:art adj n v .,ENG ENG ENG ENG ENG ENG,0
+133,the one that deals eh your uncle's ah ...,det:art det:num adv n co det:poss n co +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+134,Santaclause is our personal toy run .,n:prop cop det:poss adj n v .,ENG ENG ENG ENG ENG ENG,0
+135,.,None,,0
+136,.,None,,0
+137,we went like two hundred bikes .,pro:sub v prep det:num det:num n .,ENG ENG ENG ENG ENG ENG,0
+138,what everybody ...,pro:int pro:indef +...,ENG ENG,0
+139,eh we went two hundred bikes at the toy run .,co pro:sub v det:num det:num n prep det:art n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+140,nosotros .,pro:sub .,ENG,0
+141,our own one .,det:poss adj pro:indef .,ENG ENG ENG,0
+142,of ours .,prep pro:poss .,ENG ENG,0
+143,of the club .,prep det:art n .,ENG ENG ENG,0
+144,right .,co .,ENG,0
+145,and then everybody took a toy to donate for the poor children .,coord adv:tem pro:indef v det:art n inf v prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+146,yeah we took a truck full of toys .,co pro:sub v det:art n adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+147,and there were about two trucks .,coord adv cop prep det:num n .,ENG ENG ENG ENG ENG ENG,0
+148,because what happens is is that main toy run which is the south Florida president's council is what it's called they it's a bunch of ah clubs that are associated .,conj pro:int v cop cop det:dem adj n v pro:rel cop det:art n n:prop adj n cop pro:int pro:per part pro:sub pro:per det:art n prep co n pro:rel aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+149,and then what happens is is everybody goes and donates a toy .,coord adv:tem pro:int v cop aux pro:indef v coord v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+150,apart from donating a toy you pay ten dollars per person to ride in the toy run .,adv prep n:gerund det:art n pro:per v det:num n prep n prep n prep det:art n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,and this year after they paid everything they they got all the money that they grossed out after they paid all the debts that they had to pay we donated to Joe Dimaggio I think was five hundred and eighty seven thousand dollars .,coord det:dem n prep pro:sub v pro:indef pro:sub pro:sub v qn det:art n pro:rel pro:sub v adv conj pro:sub v adv det:art n pro:rel pro:sub v inf v pro:sub v prep n:prop n:prop pro:sub v cop det:num det:num coord det:num det:num det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+152,plus we donated about twenty thousand toys .,prep pro:sub v prep det:num det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+153,so but that's the biggest toy run .,co conj pro:rel det:art adj n v .,ENG ENG ENG ENG ENG ENG ENG,0
+154,that one's the one we leave from Pampano Pampano_Beach .,comp adj det:art det:num pro:sub v prep n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+155,and we ride .,coord pro:sub v .,ENG ENG ENG,0
+156,they close I_ninety five and five ninety five .,pro:sub v n:prop det:num coord det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+157,they close it .,pro:sub v pro:per .,ENG ENG ENG,0
+158,they close it for us .,pro:sub v pro:per prep pro:obj .,ENG ENG ENG ENG ENG,0
+159,and the bikes will go all the way from Pampano all the way through I ninety five five ninety five all the way to Markham_Park .,coord det:art n mod v adv det:art n prep n:prop adv det:art n adv pro:sub det:num det:num det:num det:num det:num adv det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+160,and there's people already on both ends and the line's still riding through that's how many bikes go .,coord pro:exist n adv prep qn n coord det:art n adv part prep pro:dem pro:int qn n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+161,and they close everything .,coord pro:sub v pro:indef .,ENG ENG ENG ENG,0
+162,they have police come from all over the counties .,pro:sub v n v prep adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+163,and they close it off .,coord pro:sub v pro:per adv .,ENG ENG ENG ENG ENG,0
+164,they close off completely I_ninety five only motorcycle travel .,pro:sub v adv adv n:prop det:num qn n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+165,and that's through //.,coord pro:dem adv +//.,ENG ENG ENG,0
+166,we had a lot of fun .,pro:sub v det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+167,we were there parking bikes from what was it seven or eight in the morning .,pro:sub aux adv part n prep pro:int cop pro:per det:num coord det:num prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+168,at eight in the morning .,prep det:num prep det:art n .,ENG ENG ENG ENG ENG,0
+169,until like ah two o'clock ?,conj co co det:num n ?,ENG ENG ENG ENG ENG,0
+170,bikes parking bikes from that time in the morning .,n part n prep det:dem n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+171,and then we parked them .,coord adv:tem pro:sub v pro:obj .,ENG ENG ENG ENG ENG,0
+172,and then once that we parked all the bikes then we //.,coord adv:tem adv pro:rel pro:sub v qn det:art n adv:tem pro:sub +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+173,then all the bikes left .,adv:tem qn det:art n v .,ENG ENG ENG ENG ENG,0
+174,had to leave .,v inf v .,ENG ENG ENG,0
+175,and then that everybody left .,coord adv:tem comp pro:indef v .,ENG ENG ENG ENG ENG,0
+176,then we were allowed to leave .,adv:tem pro:sub aux part inf v .,ENG ENG ENG ENG ENG ENG,0
+177,yeah well we were the last ones because we were the first ones in and were the last ones out .,co adv pro:sub cop det:art adj det:num conj pro:sub cop det:art adj det:num adv coord cop det:art adj det:num adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+178,we were the last ones so imagine that what about ...,pro:sub cop det:art n det:num adv v pro:dem pro:int adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+179,how many bikes ?,pro:int qn n ?,ENG ENG ENG,0
+180,well it was about they estimated forty thousand bikes .,co pro:per cop adv pro:sub v det:num det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+181,forty thousand bikes .,det:num det:num n .,ENG ENG ENG,0
+182,that's a lot of bikes .,pro:dem det:art n prep n .,ENG ENG ENG ENG ENG,0
+183,I never seen so many .,pro:sub adv part adv qn .,ENG ENG ENG ENG ENG,0
+184,I have never seen so many bikes in my life .,pro:sub v adv part adv qn n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+185,it's really nice .,pro:per adv adj .,ENG ENG ENG,0
+186,it's a lot of fun .,pro:per det:art n prep n .,ENG ENG ENG ENG ENG,0
+187,it is a lot of fun .,pro:per cop det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+188,we have a lot of fun .,pro:sub v det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+189,it's tiring sometimes .,pro:per part adv .,ENG ENG ENG,0
+190,but it's a lot of fun .,conj pro:per det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+191,I don't like ...,pro:sub mod co +...,ENG ENG ENG,0
+192,.,None,,0
+193,"eh she's always complaining que "".","co pro:sub adv part L2 +"".",ENG ENG ENG ENG ESP,1
+194,tú siempre quieres estar en el club .,pro:sub adv v inf prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+195,no quieres ir a ningún lugar más .,adv v inf aprep det:indef n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+196,"no quieres ask "".","L2 L2 v +"".",ESP ESP ENG,1
+197,we having fun ?,pro:sub part n ?,ENG ENG ENG,0
+198,every time we go .,qn n pro:sub v .,ENG ENG ENG ENG,0
+199,every Friday .,qn n:prop .,ENG ENG,0
+200,every Friday we get reunited over there .,qn n:prop pro:sub v re#part prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+201,we go on Fridays .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+202,ella se pone se pone mala toda la noche .,pro:sub pro:refl v pro:refl v adj det:indef det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+203,they send food .,pro:sub v n .,ENG ENG ENG,0
+204,on and Friday night you get to eat una completa .,adv coord n:prop n pro:per v inf v L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+205,they send food .,pro:sub v n .,ENG ENG ENG,0
+206,they send drinks .,pro:sub v n .,ENG ENG ENG,0
+207,you get to eat what you like for six dollars .,pro:per v inf v pro:int pro:per co prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+208,so you're complete for six dollars .,adv pro:per adj prep det:num n .,ENG ENG ENG ENG ENG ENG,0
+209,not bad at all .,neg adj prep pro:indef .,ENG ENG ENG ENG,0
+210,con muchas las veces con dessert .,L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ENG,1
+211,and sometimes they have the desserts .,coord adv pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG,0
+212,I do the Cuban coffee I sell it for twenty five cents a little cup .,pro:sub v det:art n:prop n pro:sub v pro:per prep det:num det:num n det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+213,te compras a bottled water ...,L2 L2 det:art part n +...,ESP ESP ENG ENG ENG,1
+214,yeah that's what she likes .,co pro:dem pro:int pro:sub v .,ENG ENG ENG ENG ENG,0
+215,that's her favorite part making coffee .,pro:dem det:poss adj n part n .,ENG ENG ENG ENG ENG ENG,0
+216,making coffee ?,part n ?,ENG ENG,0
+217,I love Cuban coffee .,pro:sub v n:prop n .,ENG ENG ENG ENG,0
+218,yeah yeah .,co co .,ENG ENG,0
+219,yeah .,co .,ENG,0
+220,we go there every Friday .,pro:sub v adv qn n:prop .,ENG ENG ENG ENG ENG,0
+221,and ...,coord +...,ENG,0
+222,every Friday we go .,qn n:prop pro:sub v .,ENG ENG ENG ENG,0
+223,and then they have karaoke .,coord adv:tem pro:sub v n .,ENG ENG ENG ENG ENG,0
+224,and we have an excellent time .,coord pro:sub v det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+225,they have karaoke .,pro:sub v n .,ENG ENG ENG,0
+226,se ponen en the attorney del club .,L2 L2 L2 det:art n L2 n .,ESP ESP ESP ENG ENG ESP ENG,1
+227,I guess he's not the attorney .,pro:sub v pro:sub neg det:art n .,ENG ENG ENG ENG ENG ENG,0
+228,but he's an attorney .,conj pro:sub det:art n .,ENG ENG ENG ENG,0
+229,so they use him for stuff in the club .,co pro:sub v pro:obj prep n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+230,he he has an I_Pod with eighty gigs of music .,pro:sub pro:sub v det:art n:prop prep det:num n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+231,okay so he's got /.,co adv pro:sub part +/.,ENG ENG ENG ENG,0
+232,.,None,,0
+233,llenito .,adj .,ENG,0
+234,completely full .,adv adj .,ENG ENG,0
+235,all video for karaoke and all kinds of songs .,qn n prep n coord qn n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+236,all videos karaokes and the music .,qn n n coord det:art n .,ENG ENG ENG ENG ENG ENG,0
+237,all type of songs .,qn n prep n .,ENG ENG ENG ENG,0
+238,and all he does is he hooks it up to the t_v .,coord pro:indef pro:sub v cop pro:sub v pro:per adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+239,and then and when we get there sometimes he'll just put music just different kinds of music .,coord adv:tem coord conj pro:sub v adv adv pro:sub adv v n adv adj n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+240,and then after ten we put the volume up on the the system del club .,coord adv:tem prep det:num pro:sub v det:art n adv prep det:art det:art n L2 n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG,1
+241,"because a lot of people complain "".","conj det:art n prep n v +"".",ENG ENG ENG ENG ENG ENG,0
+242,ah you can't have the loud music the whole time because we don't all come for that .,co pro:per mod v det:art adj n det:art adj n conj pro:sub mod adv v prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+243,well that's fine .,co pro:dem adj .,ENG ENG ENG,0
+244,so then we made an agreement que from seven until ten o'clock the music's down low .,adv adv:tem pro:sub v det:art n L2 prep det:num prep det:num n det:art adj n n .,ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+245,then at ten we shoot up the music .,adv:tem prep det:num pro:sub v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+246,and then she starts dancing con las mujeres del club .,coord adv:tem pro:sub v part L2 L2 L2 L2 n .,ENG ENG ENG ENG ENG ESP ESP ESP ESP ENG,1
+247,and there's about /.,coord pro:exist adv +/.,ENG ENG ENG,0
+248,there's about six seven ...,pro:exist adv det:num det:num +...,ENG ENG ENG ENG,0
+249,six or seven .,det:num coord det:num .,ENG ENG ENG,0
+250,they're always there bailando .,pro:sub adv pro:exist L2 .,ENG ENG ENG ESP,1
+251,and they're having a good time .,coord pro:sub part det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+252,we get that what to dance alone ?,pro:sub v pro:dem pro:int inf v adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+253,yeah .,co .,ENG,0
+254,y después entonces he starts putting karaoke music .,L2 L2 L2 pro:sub v part n n .,ESP ESP ESP ENG ENG ENG ENG ENG,1
+255,and a lot of the people there's a few of them that drink two or three beers and they get drunk or they get buzzed out .,coord det:art n prep det:art n pro:exist det:art qn prep pro:obj det:dem n det:num coord det:num n coord pro:sub v n coord pro:sub aux part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+256,"and you see everybody "".","coord pro:per v pro:indef +"".",ENG ENG ENG ENG,0
+257,.,None,,0
+258,singing to the songs you know .,part prep det:art n pro:per v .,ENG ENG ENG ENG ENG ENG,0
+259,everybody singing .,pro:indef part .,ENG ENG,0
+260,but we have a real good time .,conj pro:sub v det:art adj adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+261,we've had nights when we've left like at one one thirty in the morning .,pro:sub part n conj pro:sub adj co prep det:num det:num det:num prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+262,the other day we left about /.,det:art qn n pro:sub v adv +/.,ENG ENG ENG ENG ENG ENG,0
+263,.,None,,0
+264,yeah .,co .,ENG,0
+265,it /.,pro:per +/.,ENG,0
+266,the other day we left about twelve thirty .,det:art qn n pro:sub v prep det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+267,mira we just went to ...,L2 pro:sub adv v prep +...,ESP ENG ENG ENG ENG,1
+268,no we left one day at twelve .,co pro:sub v det:num n prep det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+269,and then everybody wanted to go to Latin_America to drink coffee and pan cubano .,coord adv:tem pro:indef v inf v prep n:prop prep n n coord L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+270,no that was when we did the valentine's party .,qn pro:dem cop conj pro:sub v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+271,ah the day of the valentine's party everybody wanted to go and eat something .,co det:art n prep det:art adj n pro:indef v inf v coord v pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+272,la ...,det:art +...,ENG,0
+273,la fiesta del the /.,L2 L2 L2 det:art +/.,ESP ESP ESP ENG,1
+274,so it ended at are twelve no ?,co pro:per v prep cop det:num co ?,ENG ENG ENG ENG ENG ENG ENG,0
+275,we ended at twelve .,pro:sub v prep det:num .,ENG ENG ENG ENG,0
+276,and then well we got home like at four in the morning .,coord adv:tem adv pro:sub v adv prep prep det:num prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+277,because we went to el Versailles .,conj pro:sub v prep L2 n:prop .,ENG ENG ENG ENG ESP ENG,1
+278,yeah .,co .,ENG,0
+279,el Versailles .,L2 n:prop .,ESP ENG,1
+280,.,None,,0
+281,el Versailles está en la treinta y siete .,L2 n:prop L2 L2 L2 L2 L2 L2 .,ESP ENG ESP ESP ESP ESP ESP ESP,1
+282,ah right over there on main street .,co adv prep n adv adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+283,right back to thirty seven in front of la carreta .,adv adv prep det:num det:num prep n prep L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+284,that's where todos los cubanos y esto hang out .,pro:dem pro:int L2 L2 L2 L2 L2 v adv .,ENG ENG ESP ESP ESP ESP ESP ENG ENG,1
+285,I wonder if .,pro:sub v comp .,ENG ENG ENG,0
+286,donde todos los cubanos van a ...,pro:rel det:indef det:art adj v aprep +...,ENG ENG ENG ENG ENG ENG,0
+287,es la ocho .,cop det:art n .,ENG ENG ENG,0
+288,exactly .,adv .,ENG,0
+289,después de que tú pasas la treinta y siente en la ocho .,adv prep pro:rel pro:sub v det:art det:num coord v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+290,dónde van ?,pro:int v ?,ENG ENG,0
+291,la ocho y la treinta y siete .,det:art n coord det:art det:num coord det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+292,está la carreta on the south side .,L2 L2 L2 prep det:art adj n .,ESP ESP ESP ENG ENG ENG ENG,1
+293,y Versaille está to the /.,L2 n:prop L2 prep det:art +/.,ESP ENG ESP ENG ENG,1
+294,.,None,,0
+295,that's right .,pro:dem co .,ENG ENG,0
+296,correcto .,adj .,ENG,0
+297,después de que tú pasas todo eso .,adv prep pro:rel pro:sub v det:indef pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+298,está por ahí .,cop prep adv .,ENG ENG ENG,0
+299,and they ...,coord pro:sub +...,ENG ENG,0
+300,y fuimos para allá .,coord v prep adv .,ENG ENG ENG ENG,0
+301,I think fuimos como veinticinco para allá .,pro:sub v L2 L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP ESP,1
+302,y you know porque en el grupo siempre there's those who are very active .,L2 pro:per v L2 L2 L2 L2 L2 pro:exist pro:dem pro:rel cop adv adj .,ESP ENG ENG ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+303,and then there's a lot who just go to hang out .,coord adv:tem pro:exist det:art n pro:rel adj v inf v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+304,and they leave .,coord pro:sub v .,ENG ENG ENG,0
+305,they don't really stay .,pro:sub mod adv v .,ENG ENG ENG ENG,0
+306,.,None,,0
+307,yeah we have a club house .,co pro:sub v det:art n n .,ENG ENG ENG ENG ENG ENG,0
+308,we have a warehouse that we rent .,pro:sub v det:art n pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+309,and then ...,coord adv:tem +...,ENG ENG,0
+310,I'll show you pictures when we're done with the motor mouthing here .,pro:sub v pro:per n pro:rel pro:sub part prep det:art n part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+311,yeah you can see all the pictures .,co pro:per mod v qn det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+312,you can see the Valentine's picture .,pro:per mod v det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+313,and Halloween party .,coord n:prop n .,ENG ENG ENG,0
+314,.,None,,0
+315,yeah ?,co ?,ENG,0
+316,.,None,,0
+317,yeah you should see how los viejos esos like Liliana .,co pro:per mod v pro:int L2 L2 L2 v n:prop .,ENG ENG ENG ENG ENG ESP ESP ESP ENG ENG,1
+318,no my god .,qn det:poss n .,ENG ENG ENG,0
+319,Liliana is /.,n:prop cop +/.,ENG ENG,0
+320,Liliana enjoyed the trip to Canada also .,n:prop v det:art n prep n:prop adv .,ENG ENG ENG ENG ENG ENG ENG,0
+321,they call her nana .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+322,they call her nana .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+323,they call her nana .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+324,yeah they don't even call her Liliana .,co pro:sub mod adv v pro:obj n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+325,they call her nana .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+326,everybody likes her .,pro:indef v pro:obj .,ENG ENG ENG,0
+327,ella llega allí .,L2 L2 L2 .,ESP ESP ESP,0
+328,and there's an old guy that he's an accountant ?,coord pro:exist det:art adj n pro:rel pro:sub det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+329,sí ese Ron .,L2 L2 n:prop .,ESP ESP ENG,1
+330,yes .,co .,ENG,0
+331,that guy he's always asking for her how she doing .,det:dem n pro:sub adv part prep pro:obj pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+332,because she went to Canada with her .,conj pro:sub v prep n:prop prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+333,she's unreal .,pro:sub un#adj .,ENG ENG,0
+334,he's seventy one years old .,pro:sub det:num det:num n adj .,ENG ENG ENG ENG ENG,0
+335,and Liliana rode with him on the bike .,coord n:prop v prep pro:obj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+336,and he looks good .,coord pro:sub cop adj .,ENG ENG ENG ENG,0
+337,and he looks /.,coord pro:sub v +/.,ENG ENG ENG,0
+338,.,None,,0
+339,because he went alone .,conj pro:sub v adv .,ENG ENG ENG ENG,0
+340,yeah .,co .,ENG,0
+341,and then in the way back she drove with another guy from the club that he was alone also .,coord adv:tem prep det:art n adj pro:sub n prep qn n prep det:art n pro:rel pro:sub cop adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+342,sí el gaucho .,co det:art n .,ENG ENG ENG,0
+343,él le dice el gaucho porque es argentino .,pro:sub pro:ind v det:art n conj cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+344,.,None,,0
+345,ay dios mío .,co co pro:pos .,ENG ENG ENG,0
+346,.,None,,0
+347,sí ahora después que todas las cosas I gotta pay off some things que nos quedan ahora .,L2 L2 L2 L2 L2 L2 L2 pro:sub mod v prep qn n L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+348,de ella la niña .,prep pro:sub det:art n .,ENG ENG ENG ENG,0
+349,once I get those things squared up boy I see if we ...,adv pro:sub v det:dem n v adv n pro:sub v conj pro:sub +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+350,a mí I get scared for her to be on a bike you know .,L2 L2 pro:sub aux part prep pro:obj inf cop prep det:art n pro:per v .,ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+351,but she'll ride with us .,conj pro:sub v prep pro:obj .,ENG ENG ENG ENG ENG,0
+352,she'll ride with us .,pro:sub v prep pro:obj .,ENG ENG ENG ENG,0
+353,I really do get scared .,pro:sub adv v aux part .,ENG ENG ENG ENG ENG,0
+354,oye allí para que tú /.,v adv prep pro:rel pro:sub +/.,ENG ENG ENG ENG ENG,0
+355,even though I ride but I have respect to it you know .,adv adv pro:sub n conj pro:sub v n prep pro:per pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+356,you're not that well balanced .,pro:per neg pro:rel adv part .,ENG ENG ENG ENG ENG,0
+357,I ride ...,pro:sub v +...,ENG ENG,0
+358,you have to be ...,pro:per v inf cop +...,ENG ENG ENG ENG,0
+359,how do I say ?,pro:int mod pro:sub v ?,ENG ENG ENG ENG,0
+360,you have to be cut out for that .,pro:per v inf cop v adv prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+361,because a lot of people cuando montan the motorcycles they believe that a motorcycle just by turning the wheel the motorcycle turns .,conj det:art n prep n L2 L2 det:art n pro:sub v comp det:art n adv prep n:gerund det:art n det:art n n .,ENG ENG ENG ENG ENG ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+362,and you're going fast .,coord pro:per n:gerund n .,ENG ENG ENG ENG,0
+363,it doesn't work that /.,pro:per mod v pro:dem +/.,ENG ENG ENG ENG,0
+364,.,None,,0
+365,no it doesn't work like that .,co pro:per mod n prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+366,when you wanna turn you have to actually with your body turn the motorcycle because it actually wants to keep going straight .,conj pro:per v v pro:per v inf adv prep det:poss n n det:art n conj pro:per adv v inf v part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+367,so you know you turn the wheel .,co pro:per v pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+368,yes you do .,co pro:per v .,ENG ENG ENG,0
+369,but if you could actually turn /.,conj conj pro:per mod adv v +/.,ENG ENG ENG ENG ENG ENG,0
+370,and stop moving your feets .,coord n part det:poss n .,ENG ENG ENG ENG ENG,0
+371,la tienes loca .,pro:obj v adj .,ENG ENG ENG,0
+372,.,None,,0
+373,tienes un reculillo .,v det:art n .,ENG ENG ENG,0
+374,come on .,v adv .,ENG ENG,0
+375,.,None,,0
+376,.,None,,0
+377,the the ...,det:art det:art +...,ENG ENG,0
+378,reculillo tiene .,n v .,ENG ENG,0
+379,déjame sentarme aquí .,imp inf adv .,ENG ENG ENG,0
+380,estoy más comoda aquí .,cop adv adj adv .,ENG ENG ENG ENG,0
+381,the bike actually you have to actually lean into the way you wanna go .,det:art n adv pro:per v inf adv adj prep det:art n pro:per v v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+382,you have to push your body weight so the bike will go into the curves .,pro:per v inf v det:poss n n conj det:art n mod v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+383,and now there's one old guy que he drove off the side of an expressway because we were coming up on the curve .,coord adv pro:exist pro:indef adj n L2 pro:sub v prep det:art n prep det:art n conj pro:sub aux part adv prep det:art n .,ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+384,y parece que le cogió miedo la curva .,coord v pro:rel pro:ind v n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+385,and he didn't lean into it .,coord pro:sub mod v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+386,se quedó recto on the bike .,L2 L2 L2 prep det:art n .,ESP ESP ESP ENG ENG ENG,1
+387,and what happens is is you do one of those like you know te va echando por un lado así like you're gonna fall off .,coord pro:int v cop aux pro:per v pro:indef prep pro:dem prep pro:per v L2 L2 L2 L2 L2 L2 L2 prep pro:per part v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+388,because you're afraid the bike's not gonna turn .,conj pro:per adj det:art adj neg part v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+389,and he just went off the side of the road .,coord pro:sub adv v prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+390,.,None,,0
+391,yeah that was before nos hicimos miembros nosotros .,co pro:dem cop adv L2 L2 L2 L2 .,ENG ENG ENG ENG ESP ESP ESP ESP,1
+392,or actually it was just about three weeks before nos hicimos miembros del club .,coord adv pro:per cop adv prep det:num n adv L2 L2 L2 L2 n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ENG,1
+393,yeah before we /.,co conj pro:sub +/.,ENG ENG ENG,0
+394,yeah he broke three ribs .,co pro:sub v det:num n .,ENG ENG ENG ENG ENG,0
+395,.,None,,0
+396,yeah .,co .,ENG,0
+397,poor thing I know .,adj n pro:sub v .,ENG ENG ENG ENG,0
+398,y el problema que tiene que la cogió miedo a la moto .,coord det:art n pro:rel v pro:rel pro:obj v n aprep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+399,.,None,,0
+400,ahora está //.,adv cop +//.,ENG ENG,0
+401,no pero you can't .,co L2 pro:per mod .,ENG ESP ENG ENG,1
+402,if you're gonna ride it you can't be afraid of it .,comp pro:per part v pro:per pro:per mod cop adj prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+403,because /.,conj +/.,ENG,0
+404,.,None,,0
+405,no the biggest problem why people /.,qn det:art adj n pro:rel n +/.,ENG ENG ENG ENG ENG ENG,0
+406,to be honest with you I'm scared of it .,inf cop adj prep pro:per pro:sub part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+407,I'm scared that I won't have the capacity to be able to ride it to learn how to ride it .,pro:sub part comp pro:sub mod v det:art n inf cop adj inf v pro:per inf v pro:int inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+408,.,None,,0
+409,no I don't .,co pro:sub mod .,ENG ENG ENG,0
+410,I ride behind him .,pro:sub v prep pro:obj .,ENG ENG ENG ENG,0
+411,no she rides behind me .,co pro:sub v prep pro:obj .,ENG ENG ENG ENG ENG,0
+412,and you know when he leans /.,coord pro:per v conj pro:sub v +/.,ENG ENG ENG ENG ENG ENG,0
+413,she actually doesn't need to grab on to me because my bike it has a backrest for her .,pro:sub adv mod v inf v adv prep pro:obj conj det:poss n pro:per aux det:art n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+414,so when I'm you know in the back relaxed when he turns I lean a little bit like with ...,co pro:rel pro:sub pro:per v prep det:art adj v conj pro:sub n pro:sub v det:art adj n co prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+415,yeah she's learning .,co pro:sub part .,ENG ENG ENG,0
+416,yeah she's not like when we first started .,co pro:sub neg v conj pro:sub adv part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+417,so ...,co +...,ENG,0
+418,yeah she would like you know when you get on the curve and if I'm going really fast you have to really lean in to it you know .,co pro:sub mod v pro:per v conj pro:per v prep det:art n coord conj pro:sub part adv adv pro:per v inf adv adj adv inf pro:per pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+419,but you don't fall because it's all centrifugal force .,conj pro:per mod v conj pro:per adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+420,so you know you're actually leaning the bike pero you know .,co pro:per v pro:per adv part det:art n L2 pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG,1
+421,you don't fall .,pro:per mod v .,ENG ENG ENG,0
+422,.,None,,0
+423,yeah .,co .,ENG,0
+424,yes .,co .,ENG,0
+425,and Alyssa she's gotten used to it .,coord n:prop pro:sub part v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+426,yeah ella se ...,co L2 L2 +...,ENG ESP ESP,1
+427,yeah I've gotten used to it .,co pro:sub part v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+428,ahora no le tengo miedo .,adv adv pro:ind v n .,ENG ENG ENG ENG ENG,0
+429,she's /.,pro:sub +/.,ENG,0
+430,and we have a good time .,coord pro:sub v det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+431,we went to también a Saint_Augustine .,pro:sub v prep L2 L2 n:prop .,ENG ENG ENG ESP ESP ENG,1
+432,oh San_Agustin we love it .,co L2 pro:sub v pro:per .,ENG ESP ENG ENG ENG,1
+433,we went a big group .,pro:sub v det:art adj n .,ENG ENG ENG ENG ENG,0
+434,Liliana went .,n:prop v .,ENG ENG,0
+435,yeah .,co .,ENG,0
+436,Liliana went in her car .,n:prop v prep det:poss n .,ENG ENG ENG ENG ENG,0
+437,yeah .,co .,ENG,0
+438,Liliana followed us in her car con Ana .,n:prop v pro:obj prep det:poss n L2 n:prop .,ENG ENG ENG ENG ENG ENG ESP ENG,1
+439,behind all of us .,prep pro:indef prep pro:obj .,ENG ENG ENG ENG,0
+440,locas .,adj .,ENG,0
+441,with Ana with her friend .,prep n:prop prep det:poss n .,ENG ENG ENG ENG ENG,0
+442,fíjate que they gave them an honorary diploma .,L2 L2 pro:sub v pro:obj det:art adj n .,ESP ESP ENG ENG ENG ENG ENG ENG,1
+443,a ella y a Ana .,aprep pro:sub coord aprep n:prop .,ENG ENG ENG ENG ENG,0
+444,I can show them to you .,pro:sub mod v pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+445,I have them .,pro:sub v pro:obj .,ENG ENG ENG,0
+446,les regalaron un honorary diploma ...,L2 L2 L2 adj n +...,ESP ESP ESP ENG ENG,1
+447,te lo voy a enseñar .,pro:obj pro:obj v aprep inf .,ENG ENG ENG ENG ENG,0
+448,del club for attending in the trip .,L2 n prep n:gerund prep det:art n .,ESP ENG ENG ENG ENG ENG ENG,1
+449,e iban las dos locas through the sunroof taking pictures .,L2 L2 L2 L2 L2 prep det:art n part n .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+450,they got so many pictures that it was amazing .,pro:sub v adv qn n pro:rel pro:per aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+451,it was really nice .,pro:per cop adv adj .,ENG ENG ENG ENG,0
+452,yeah but we have ...,co conj pro:sub v +...,ENG ENG ENG ENG,0
+453,we had a great /.,pro:sub v det:art adj +/.,ENG ENG ENG ENG,0
+454,it's a lot of fun .,pro:per det:art n prep n .,ENG ENG ENG ENG ENG,0
+455,there's you know right now in the club there's a lot of controversy ...,pro:exist pro:per v adv adv prep det:art n pro:exist det:art n prep n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+456,it's worth it .,pro:per adj pro:per .,ENG ENG ENG,0
+457,it is worth it .,pro:per cop adj pro:per .,ENG ENG ENG ENG,0
+458,people that like it .,n pro:rel v pro:per .,ENG ENG ENG ENG,0
+459,because there's a lot of people .,conj pro:exist det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+460,and you can learn how to ride a bike good .,coord pro:per mod v pro:int inf v det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+461,and you know you go easy .,coord pro:per v pro:per v adj .,ENG ENG ENG ENG ENG ENG,0
+462,you maintain the speed limit .,pro:per v det:art n n .,ENG ENG ENG ENG ENG,0
+463,you do everything one behind the other one .,pro:per v pro:indef pro:indef prep det:art qn pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+464,you don't have no problems .,pro:per mod v qn n .,ENG ENG ENG ENG ENG,0
+465,ahora just for competition .,L2 adv prep n .,ESP ENG ENG ENG,1
+466,then you're going to have problems .,adv:tem pro:per part inf v n .,ENG ENG ENG ENG ENG ENG,0
+467,yeah there's people that race the bikes when we go through twenty seven .,co pro:exist n adv v det:art n conj pro:sub v adv det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+468,just for racing .,adv prep n:gerund .,ENG ENG ENG,0
+469,you know I don't recommend it to anybody .,pro:per v pro:sub mod v pro:per prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+470,to anybody .,prep pro:indef .,ENG ENG,0
+471,no they ride at close to a hundred and sixty miles an hour .,co pro:sub v prep adj prep det:art det:num coord det:num n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+472,.,None,,0
+473,no .,co .,ENG,0
+474,we've been on our bike like we've gone up to about a hundred .,pro:sub cop prep det:poss n prep pro:sub part adv inf prep det:art det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+475,once you get used to cruising at seventy five eighty actually when you go slower it feels like nothing .,adv pro:per v v prep n:gerund prep det:num det:num det:num adv conj pro:per v adj pro:per v prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+476,actually last weekend yo estaba haciendo signal para sacarle pie para to show that there was a dead otter in the middle of the road .,adv adj n L2 L2 L2 n L2 L2 L2 L2 inf v comp adv cop det:art adj n prep det:art n prep det:art n .,ENG ENG ENG ESP ESP ESP ENG ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+477,Aaron that's a good one .,n:prop pro:dem det:art adj pro:indef .,ENG ENG ENG ENG ENG,0
+478,and I took out my foot .,coord pro:sub v prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+479,and you're supposed to actually you know if there's something on the road or some kind of an obstacle since everybody's riding together if you're in front the guys in back can't really see when they're coming up to it .,coord pro:per part inf adv pro:per v comp pro:exist pro:indef prep det:art n coord qn n prep det:art n conj pro:indef part adv conj pro:per prep n det:art n prep n mod adv v conj pro:sub part adv prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+480,so what you're supposed to do is something on the road on your side you're supposed to put out your foot .,adv pro:int pro:per part inf v cop pro:indef prep det:art n prep det:poss n pro:per part inf v adv det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+481,and to show you know .,coord prep n pro:per v .,ENG ENG ENG ENG ENG,0
+482,you're not supposed to lay .,pro:per neg part inf v .,ENG ENG ENG ENG ENG,0
+483,but apparently I calculated wrong .,conj adv pro:sub v adj .,ENG ENG ENG ENG ENG,0
+484,and I left my foot down too far .,coord pro:sub v det:poss n adv adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+485,and I hit that damn otter .,coord pro:sub v pro:dem adj n .,ENG ENG ENG ENG ENG ENG,0
+486,I almost broke my leg .,pro:sub adv v det:poss n .,ENG ENG ENG ENG ENG,0
+487,yes .,co .,ENG,0
+488,I almost broke my leg .,pro:sub adv v det:poss n .,ENG ENG ENG ENG ENG,0
+489,it was really hard .,pro:per cop adv adv .,ENG ENG ENG ENG,0
+490,we're doing almost seventy miles an hour imagínate .,pro:sub part adv det:num n det:art n L2 .,ENG ENG ENG ENG ENG ENG ENG ESP,1
+491,the pain that he had .,det:art n pro:rel pro:sub v .,ENG ENG ENG ENG ENG,0
+492,something laying there and then you kick it .,pro:indef part adv coord adv:tem pro:per v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+493,it was like ...,pro:per cop prep +...,ENG ENG ENG,0
+494,los viejos they were all cracking up because when we came back it was still there .,L2 L2 pro:sub aux post part adv conj conj pro:sub v adv pro:per cop adv adv .,ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+495,"and he goes eh you know ""/.","coord pro:sub v co pro:per v +""/.",ENG ENG ENG ENG ENG ENG,0
+496,seguro que ese es la nutria .,co pro:rel det:dem cop det:art n .,ENG ENG ENG ENG ENG ENG,0
+497,in Spanish es una nutria .,prep n:prop L2 L2 L2 .,ENG ENG ESP ESP ESP,1
+498,"seguro que la nutria ese dice ""/.","co pro:rel det:art n det:dem v +""/.",ENG ENG ENG ENG ENG ENG,0
+499,coño me arrollaron y me mataron .,co pro:obj v coord pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+500,y ahora viene con una patata a mí .,coord adv v prep pro:dem n aprep pro:prep .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+501,coño hasta donde voy él .,co prep pro:rel v pro:sub .,ENG ENG ENG ENG ENG,0
+502,.,None,,0
+503,and it was pretty big too .,coord pro:per cop adv adj post .,ENG ENG ENG ENG ENG ENG,0
+504,mi madre .,det:pos n .,ENG ENG,0
+505,it was big .,pro:per cop adj .,ENG ENG ENG,0
+506,it was about like that .,pro:per cop adv prep pro:dem .,ENG ENG ENG ENG ENG,0
+507,no mi amor .,adv det:pos co:voc .,ENG ENG ENG,0
+508,it was about like this .,pro:per cop adv prep pro:dem .,ENG ENG ENG ENG ENG,0
+509,no it was about like that .,co pro:per cop adv prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+510,huge sucker .,adj n .,ENG ENG,0
+511,really that big it was ?,adv det:dem adj pro:per cop ?,ENG ENG ENG ENG ENG,0
+512,yeah .,co .,ENG,0
+513,yo la vi más chiquita .,pro:sub pro:obj v adv n .,ENG ENG ENG ENG ENG,0
+514,tú ?,pro:sub ?,ENG,0
+515,.,None,,0
+516,well let me tell you .,co v pro:obj v pro:per .,ENG ENG ENG ENG ENG,0
+517,it didn't feel ...,pro:per mod v +...,ENG ENG ENG,0
+518,yo no le pasé con el .,pro:sub adv pro:ind v prep det:art .,ENG ENG ENG ENG ENG ENG,0
+519,Jesus that thing hurt .,n:prop pro:rel n v .,ENG ENG ENG ENG,0
+520,oh my god .,co det:poss n .,ENG ENG ENG,0
+521,.,None,,0
+522,.,None,,0
+523,no we have such a good time .,co pro:sub v qn det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+524,yeah .,co .,ENG,0
+525,we have a great time going .,pro:sub v det:art adj n part .,ENG ENG ENG ENG ENG ENG,0
+526,de verdad que sí .,prep co pro:rel co .,ENG ENG ENG ENG,0
+527,there's people in our age group .,pro:exist n prep det:poss n n .,ENG ENG ENG ENG ENG ENG,0
+528,and there's people that are older than us .,coord pro:exist n pro:rel cop adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+529,but the good thing is is we also have the radio on the thing so we're listening to everybody talking on the C_bs .,conj det:art adj n cop cop pro:sub adv v det:art n prep det:art n adv pro:sub part prep pro:indef part prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+530,so they got this one guy .,co pro:sub v det:dem qn n .,ENG ENG ENG ENG ENG ENG,0
+531,this guy's a joke .,pro:dem n det:art n .,ENG ENG ENG ENG,0
+532,es un alocado .,cop det:art part .,ENG ENG ENG,0
+533,he comes up with these things that you know you wouldn't have dreamed .,pro:sub v prep prep det:dem n pro:rel pro:per v pro:per mod aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+534,but then te da el you know just cracking up all day .,conj adv:tem L2 L2 L2 pro:per v adv part adv qn n .,ENG ENG ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+535,you gotta be pissing every ten minutes because he just cracks you up with the things he comes up with you know .,pro:per mod cop part qn det:num n conj pro:sub adv v pro:per adv prep det:art n pro:sub v adv prep pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+536,todo locura de esa de loco .,det:indef n prep det:dem prep adj .,ENG ENG ENG ENG ENG ENG,0
+537,but you gotta /.,conj pro:per mod +/.,ENG ENG ENG,0
+538,he's crazy .,pro:sub adj .,ENG ENG,0
+539,he's a diabetic .,pro:sub det:art n .,ENG ENG ENG,0
+540,but he likes to drink a lot you know a lot of beer .,conj pro:sub v inf v det:art n pro:per v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+541,and his wife doesn't like it .,coord det:poss n mod v pro:per .,ENG ENG ENG ENG ENG ENG,0
+542,and you know they're always in a debate .,coord pro:per v pro:sub adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+543,middle age .,adj n .,ENG ENG,0
+544,no he's gotta be in his fifties .,co pro:sub mod cop prep det:poss det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+545,no he's about ...,co pro:sub adv +...,ENG ENG ENG,0
+546,in his fifties .,prep det:poss det:num .,ENG ENG ENG,0
+547,él no puede estar más que eso .,pro:sub adv v inf adv pro:rel pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+548,and she's about I would say forty seven forty eight .,coord pro:sub adv pro:sub mod v det:num det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+549,the same .,det:art adj .,ENG ENG,0
+550,you think ?,pro:per v ?,ENG ENG,0
+551,no no no much older .,co co co adv adj .,ENG ENG ENG ENG ENG,0
+552,yeah .,co .,ENG,0
+553,no más está en los cincuenta .,adv adv cop prep det:art det:num .,ENG ENG ENG ENG ENG ENG,0
+554,in the fifties ?,prep det:art det:num ?,ENG ENG ENG,0
+555,yeah .,co .,ENG,0
+556,no María está en los cincuenta y pico .,adv n:prop imp prep det:art det:num coord n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+557,no María no es tan .,adv n:prop adv cop adv .,ENG ENG ENG ENG ENG,0
+558,no cincuenta y pico no .,adv det:num coord v adv .,ENG ENG ENG ENG ENG,0
+559,she's not no spring chicken .,pro:sub neg qn n n .,ENG ENG ENG ENG ENG,0
+560,.,None,,0
+561,.,None,,0
+562,ya está ...,L2 L2 +...,ESP ESP,0
+563,not that old .,neg det:dem adj .,ENG ENG ENG,0
+564,not that old .,neg det:dem adj .,ENG ENG ENG,0
+565,lo que pasa es que es una cuando fue jovencita tiene que haber sido bien bonita .,pro:obj pro:rel v cop pro:rel cop det:art pro:rel cop adj v pro:rel inf cop adv co:voc .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+566,she's a tall lady .,pro:sub det:art adj n .,ENG ENG ENG ENG,0
+567,poca .,det:indef .,ENG,0
+568,very elegant .,adv adj .,ENG ENG,0
+569,sí .,co .,ENG,0
+570,siempre está bien arreglada .,adv cop adv part .,ENG ENG ENG ENG,0
+571,sí .,co .,ENG,0
+572,so se mantiene muy bien .,adv L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+573,and they love to dress up .,coord pro:sub v inf v adv .,ENG ENG ENG ENG ENG ENG,0
+574,and she love to dress up .,coord pro:sub v inf v adv .,ENG ENG ENG ENG ENG ENG,0
+575,whenever we have a Hallowe'en party ...,pro:rel pro:sub v det:art n:prop n +...,ENG ENG ENG ENG ENG ENG,0
+576,whenever we have a Hallowe'en San Patrick day any ...,pro:rel pro:sub v det:art n:prop L2 n:prop n qn +...,ENG ENG ENG ENG ENG ESP ENG ENG ENG,1
+577,se ponen peluca para Saint Patrick .,L2 L2 L2 L2 n:prop n:prop .,ESP ESP ESP ESP ENG ENG,1
+578,she got a green peluca .,pro:sub v det:art n L2 .,ENG ENG ENG ENG ESP,1
+579,fue con peluca verde .,v prep n adj .,ENG ENG ENG ENG,0
+580,.,None,,0
+581,for San Patrick Day with her hair like that and then un collar en verde .,prep L2 n:prop n:prop prep det:poss n prep pro:dem coord adv:tem L2 L2 L2 L2 .,ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+582,en una fiesta que hicieron de disfraz ...,prep pro:dem n pro:rel v prep n +...,ENG ENG ENG ENG ENG ENG ENG,0
+583,she went dressed like Saint_Pauli girl .,pro:sub v part co n:prop n .,ENG ENG ENG ENG ENG ENG,0
+584,para Halloween I'll show you the pictures .,L2 n:prop pro:sub v pro:per det:art n .,ESP ENG ENG ENG ENG ENG ENG,1
+585,Ricky fue like the angel and a devil .,n:prop L2 prep det:art n coord det:art n .,ENG ESP ENG ENG ENG ENG ENG ENG,1
+586,yeah together .,co adv .,ENG ENG,0
+587,.,None,,0
+588,yes well what it was was like like when it was the type of costume like when people get into a horse .,co co pro:int pro:per cop cop prep co conj pro:per cop det:art n prep n prep pro:int n v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+589,and then the you're the feet of the horse .,coord adv:tem det:art pro:per det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+590,and you're in the horse but you're also riding the horse .,coord pro:per prep det:art n conj pro:per adv part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+591,that's what type of it .,pro:dem pro:int n prep pro:per .,ENG ENG ENG ENG ENG,0
+592,it was a mix between //.,pro:per cop det:art n adv +//.,ENG ENG ENG ENG ENG,0
+593,a half part of him was the devil and the other part was the angel .,det:art n n prep pro:obj cop det:art n coord det:art qn n cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+594,pero he was walking around riéndose .,L2 pro:sub aux part prep L2 .,ESP ENG ENG ENG ENG ESP,1
+595,and we had such a good time .,coord pro:sub v qn det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+596,.,None,,0
+597,oh .,co .,ENG,0
+598,look who's home .,co pro:rel n .,ENG ENG ENG,0
+599,oh look who's here .,co co pro:rel adv .,ENG ENG ENG ENG,0
+600,.,None,,0
+601,look who's here .,co pro:rel adv .,ENG ENG ENG,0
+602,we were talking shit about you .,pro:sub aux part n prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+603,.,None,,0
+604,our daughter got home wow .,det:poss n v adv co .,ENG ENG ENG ENG ENG,0
+605,.,None,,0
+606,.,None,,0
+607,how nice .,pro:int adj .,ENG ENG,0
+608,.,None,,0
+609,has what ?,aux pro:int ?,ENG ENG,0
+610,.,None,,0
+611,.,None,,0
+612,pero we ...,L2 pro:sub +...,ESP ENG,1
+613,.,None,,0
+614,está en el allí mismito puesto está .,cop prep det:art adv adj part cop .,ENG ENG ENG ENG ENG ENG ENG,0
+615,todo está allí .,det:indef cop adv .,ENG ENG ENG,0
+616,todo está allí .,det:indef cop adv .,ENG ENG ENG,0
+617,todo está allí mira .,det:indef cop adv co .,ENG ENG ENG ENG,0
+618,the rice in the thing .,det:art n prep det:art n .,ENG ENG ENG ENG ENG,0
+619,the meat is over here .,det:art n cop prep n .,ENG ENG ENG ENG ENG,0
+620,oíste ?,v ?,ENG,0
+621,y el .,coord det:art .,ENG ENG,0
+622,lo que lo tienes que sírvalo al plato .,pro:obj pro:rel pro:obj v pro:rel imp aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+623,y ahora they wanna do ...,L2 L2 pro:sub v v +...,ESP ESP ENG ENG ENG,1
+624,y caliéntalo en el plato .,coord imp prep det:art n .,ENG ENG ENG ENG ENG,0
+625,I think they wanna do a ride up to Tennessee or something .,pro:sub v pro:sub v v det:art n adv prep n:prop coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+626,.,None,,0
+627,oh yeah .,co co .,ENG ENG,0
+628,yeah that was awesome .,co pro:dem cop adj .,ENG ENG ENG ENG,0
+629,.,None,,0
+630,I know .,pro:sub v .,ENG ENG,0
+631,it would have been nice for you to ...,pro:per mod aux cop adj prep pro:per inf +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+632,yeah but there was another guy that was alone .,co conj adv cop qn n pro:rel cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+633,you coulda ridden .,pro:per mod part .,ENG ENG ENG,0
+634,and you would have gone with us .,coord pro:per mod aux part prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+635,you coulda ridden .,pro:per mod part .,ENG ENG ENG,0
+636,there was space .,pro:exist cop n .,ENG ENG ENG,0
+637,there was people that went out .,pro:exist cop n pro:rel v adv .,ENG ENG ENG ENG ENG ENG,0
+638,and unos señores que fueron solos .,coord L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP,1
+639,es como todo .,cop adv det:indef .,ENG ENG ENG,0
+640,bueno tú primero te montas like we didn't know any one in the club .,L2 L2 L2 L2 L2 conj pro:sub mod v qn pro:indef prep det:art n .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+641,when we went we were just fresh into the club .,conj pro:sub v pro:sub cop adv adj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+642,.,None,,0
+643,what my dad ?,pro:int det:poss n ?,ENG ENG ENG,0
+644,my dad's been in the club already four years .,det:poss adj cop prep det:art n adv det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+645,.,None,,0
+646,my dad went into the club when I bought him his Harley .,det:poss n v prep det:art n conj pro:sub v pro:obj det:poss n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+647,I actually took him .,pro:sub adv v pro:obj .,ENG ENG ENG ENG,0
+648,because I asked the people at the dealer .,conj pro:sub v det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+649,"and they told me ""/.","coord pro:sub v pro:obj +""/.",ENG ENG ENG ENG,0
+650,no go see these people .,co v v det:dem n .,ENG ENG ENG ENG ENG,0
+651,and we went there .,coord pro:sub v adv .,ENG ENG ENG ENG,0
+652,and I took him .,coord pro:sub v pro:obj .,ENG ENG ENG ENG,0
+653,"and you know when he first went in the first it was like ""/.","coord pro:per v conj pro:sub adv v prep det:art adj pro:per cop prep +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+654,you know .,pro:per v .,ENG ENG,0
+655,pero empezaron a coger presión en eso en ...,conj v aprep inf n prep pro:dem prep +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+656,and he's he likes it .,coord pro:sub pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+657,we have issues in the club que they have to be worked out .,pro:sub v n prep det:art n L2 pro:sub v inf aux part adv .,ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG,1
+658,pero I'm pretty sure everybody has issues you know .,L2 pro:sub adv adj pro:indef aux v pro:per v .,ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+659,yeah .,co .,ENG,0
+660,yes .,co .,ENG,0
+661,.,None,,0
+662,and they have a lot of people ...,coord pro:sub v det:art n prep n +...,ENG ENG ENG ENG ENG ENG ENG,0
+663,it's a case right ?,pro:per det:art n adj ?,ENG ENG ENG ENG,0
+664,I can ...,pro:sub mod +...,ENG ENG,0
+665,the typical type problems .,det:art adj n n .,ENG ENG ENG ENG,0
+666,yes .,co .,ENG,0
+667,que yeah there's people that don't want to pay their membership .,L2 co pro:exist n pro:rel mod v inf v det:poss n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+668,I don't like it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+669,and then the membership in this place is junk money .,coord adv:tem det:art n prep det:dem n cop n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+670,and we have a club house .,coord pro:sub v det:art n n .,ENG ENG ENG ENG ENG ENG,0
+671,and they're paying ...,coord pro:sub part +...,ENG ENG ENG,0
+672,what do you call it ?,pro:int mod pro:per v pro:per ?,ENG ENG ENG ENG ENG,0
+673,I think it's eight dollars a month is what it comes out to .,pro:sub v pro:per det:num n det:art n cop pro:int pro:per v adv prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+674,that's nothing .,pro:dem pro:indef .,ENG ENG,0
+675,and then there's people that complain that that's too much money .,coord adv:tem pro:exist n pro:rel v adv pro:dem adv qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+676,"and I'm like you know ""/.","coord pro:sub prep pro:per v +""/.",ENG ENG ENG ENG ENG,0
+677,give me a break .,v pro:obj det:art n .,ENG ENG ENG ENG,0
+678,you know that's not a lot of money .,pro:per v pro:dem neg det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+679,.,None,,0
+680,and you have a place to go to .,coord pro:per v det:art n inf v prep .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+681,it's every there every Friday .,pro:per qn adv qn n:prop .,ENG ENG ENG ENG ENG,0
+682,después como /.,adv adv +/.,ENG ENG,0
+683,and everybody that has a birthday they celebrate it over there .,coord pro:indef pro:rel v det:art n pro:sub v pro:per prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+684,everybody you can take bocaditos pastelitos .,pro:indef pro:per mod v L2 L2 .,ENG ENG ENG ENG ESP ESP,1
+685,you know everything the cake .,pro:per v pro:indef det:art n .,ENG ENG ENG ENG ENG,0
+686,and everybody sings happy birthday to that person .,coord pro:indef v adj n prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+687,and you know they get all wild .,coord pro:per v pro:sub v qn adj .,ENG ENG ENG ENG ENG ENG ENG,0
+688,and you know .,coord pro:per v .,ENG ENG ENG,0
+689,and we have fun .,coord pro:sub v n .,ENG ENG ENG ENG,0
+690,no they do .,co pro:sub v .,ENG ENG ENG,0
+691,so it's really nice .,adv pro:per adv adj .,ENG ENG ENG ENG,0
+692,there's a lot of like we went to Calle_Ocho this weekend .,pro:exist det:art n prep co pro:sub v prep L2 det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG,1
+693,mama there's corn .,n pro:exist n .,ENG ENG ENG,0
+694,did you saw it ?,mod pro:per n pro:per ?,ENG ENG ENG ENG,0
+695,and I believe we sold like six thousand five hundred dollars worth of beer .,coord pro:sub v pro:sub part co det:num det:num det:num det:num n n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+696,.,None,,0
+697,in Calle_Ocho .,prep L2 .,ENG ESP,1
+698,yeah .,co .,ENG,0
+699,.,None,,0
+700,right now I believe active active active members I'd say there's about a hundred and forty that are active all the time going there .,adv adv pro:sub v n n n n pro:sub v pro:exist prep det:art det:num coord det:num pro:rel cop adj qn det:art n part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+701,there's actually I imagine I'm member six hundred and something .,pro:exist adv pro:sub v pro:sub n det:num det:num coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+702,yeah six eighty four .,co det:num det:num det:num .,ENG ENG ENG ENG,0
+703,but what happens is is that a lot of the older people some have stopped going some don't go .,conj pro:int v cop cop comp det:art n prep det:art adj n qn aux part part qn mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+704,and those are some of the issues .,coord pro:dem cop qn prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+705,because what happens is these people get lost .,conj pro:int v cop det:dem n v v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+706,and then they come back .,coord adv:tem pro:sub v adv .,ENG ENG ENG ENG ENG,0
+707,and they don't pay membership for a couple of years .,coord pro:sub mod v n prep det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+708,and then they come back .,coord adv:tem pro:sub v adv .,ENG ENG ENG ENG ENG,0
+709,and they wanna pay their one year .,coord pro:sub v v det:poss det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+710,and then like if //.,coord adv:tem v conj +//.,ENG ENG ENG ENG,0
+711,my dad was complaining .,det:poss n aux part .,ENG ENG ENG ENG,0
+712,"he said ""/.","pro:sub v +""/.",ENG ENG,0
+713,no I don't think they should do that .,co pro:sub mod v pro:sub mod v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+714,"I say ""/.","pro:sub v +""/.",ENG ENG,0
+715,if you want your original number you have to pay back everything that you haven't been paying if you wanna keep your number .,conj pro:per v det:poss adj n pro:per v inf v adv pro:indef pro:rel pro:per aux aux part conj pro:per v v det:poss v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+716,or not we kill your number .,coord neg pro:sub v det:poss v .,ENG ENG ENG ENG ENG ENG,0
+717,and you get a new number like the last person .,coord pro:per v det:art adj n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+718,pero you know the president of the club no tú sabes he's real político .,L2 pro:per v det:art n prep det:art n co L2 L2 pro:sub adj L2 .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ENG ENG ESP,1
+719,he's a good person a very good person .,pro:sub det:art adj n det:art adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+720,pero igual lo que pasó we had a camping trip .,L2 L2 L2 L2 L2 pro:sub v det:art n:gerund n .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+721,when we went camping .,conj pro:sub v part .,ENG ENG ENG ENG,0
+722,and /.,coord +/.,ENG,0
+723,oh he went .,co pro:sub v .,ENG ENG ENG,0
+724,but I didn't go .,conj pro:sub mod v .,ENG ENG ENG ENG,0
+725,she didn't wanna go .,pro:sub mod v v .,ENG ENG ENG ENG,0
+726,I didn't wanna go no .,pro:sub mod v v co .,ENG ENG ENG ENG ENG,0
+727,I had my plans for the weekend .,pro:sub v det:poss n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+728,I had a bridal shower for that weekend on Sunday .,pro:sub v det:art adj n prep det:dem n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+729,"and then I said ""/.","coord adv:tem pro:sub v +""/.",ENG ENG ENG ENG,0
+730,I'm not going to go you know early in a hurry to go camping .,pro:sub neg part inf v pro:per v adv prep det:art n inf v part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+731,and then pick up everything back .,coord adv:tem v adv pro:indef adv .,ENG ENG ENG ENG ENG ENG,0
+732,we had a good time .,pro:sub v det:art adj n .,ENG ENG ENG ENG ENG,0
+733,and then be all tired .,coord adv:tem cop adv part .,ENG ENG ENG ENG ENG,0
+734,they took karaoke .,pro:sub v n .,ENG ENG ENG,0
+735,.,None,,0
+736,they took karaokes .,pro:sub v n .,ENG ENG ENG,0
+737,they took the karaoke .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+738,they did barbeque .,pro:sub v n .,ENG ENG ENG,0
+739,everybody took their tents .,pro:indef v det:poss n .,ENG ENG ENG ENG,0
+740,they did a lot of things .,pro:sub v det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+741,and one guy which /.,coord det:num n pro:rel +/.,ENG ENG ENG ENG,0
+742,your dad ...,det:poss n +...,ENG ENG,0
+743,wasn't a member of the club paid .,cop det:art n prep det:art n v .,ENG ENG ENG ENG ENG ENG ENG,0
+744,hadn't gone to the club for like three years .,aux part prep det:art n prep co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+745,and then showed up .,coord adv:tem v adv .,ENG ENG ENG ENG,0
+746,because he wanted to go to the camping .,conj pro:sub v inf v prep det:art n:gerund .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+747,siéntate a comer ahí mi amor .,imp aprep inf adv det:pos co:voc .,ENG ENG ENG ENG ENG ENG,0
+748,he heard about it .,pro:sub v prep pro:per .,ENG ENG ENG ENG,0
+749,"and the president told him ""/.","coord det:art n v pro:obj +""/.",ENG ENG ENG ENG ENG,0
+750,you can't go .,pro:per mod v .,ENG ENG ENG,0
+751,you're not an active member .,pro:per neg det:art adj n .,ENG ENG ENG ENG ENG,0
+752,"then he goes ""/.","adv:tem pro:sub v +""/.",ENG ENG ENG,0
+753,well if I pay can I go ?,n conj pro:sub n n pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG,0
+754,"well he says ""/.","co pro:sub v +""/.",ENG ENG ENG,0
+755,yeah if you pay your membership you can go .,co conj pro:per v det:poss n pro:per mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+756,calentaste la arroz y el bistec ?,v det:art n coord det:art n ?,ENG ENG ENG ENG ENG ENG,0
+757,he paid his membership .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+758,and he showed up in a camper .,coord pro:sub v adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+759,cogiste maíz ?,v n ?,ENG ENG,0
+760,and his camper got stuck in the back all the way in the back of the thing .,coord det:poss n aux part prep det:art n qn det:art n prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+761,it got stuck because it's humid over there .,pro:per aux part conj pro:per adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+762,and it got stuck in the ground .,coord pro:per aux part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+763,and the presidente had to wait for him all day until they took his out with una grúa .,coord det:art L2 v inf v prep pro:obj adv n conj pro:sub v det:poss adv prep L2 L2 .,ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+764,yeah .,co .,ENG,0
+765,and I said you know ...,coord pro:sub v pro:per v +...,ENG ENG ENG ENG ENG,0
+766,and then he was complaining .,coord adv:tem pro:sub aux part .,ENG ENG ENG ENG ENG,0
+767,because he pulled out a big one of those big screen type T_Vs one of the projection types .,conj pro:sub v prep det:art adj pro:indef prep det:dem adj n n n:prop pro:indef prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+768,and he was watching a movie .,coord pro:sub aux part det:art n .,ENG ENG ENG ENG ENG ENG,0
+769,and imagine we had tremenda música con esta tocando .,coord v pro:sub v L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ESP ESP ESP ESP ESP,1
+770,and everybody was singing and dancing .,coord pro:indef aux part coord part .,ENG ENG ENG ENG ENG ENG,0
+771,and we were laughing jokes .,coord pro:sub aux part n .,ENG ENG ENG ENG ENG,0
+772,and he was complaining that the music was too loud .,coord pro:sub aux part comp det:art n cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+773,"and I said ""/.","coord pro:sub v +""/.",ENG ENG ENG,0
+774,look .,co .,ENG,0
+775,you don't make the rules .,pro:per mod v det:art n .,ENG ENG ENG ENG ENG,0
+776,Snappy .,n:prop .,ENG,0
+777,we are the ones that planned on doing all of this .,pro:sub cop det:art det:num pro:rel v adv n:gerund adv prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+778,no le des que ya ella comió .,adv pro:ind v pro:rel adv pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+779,if you don't agree with us that's fine then you can leave .,conj pro:per mod v prep pro:obj pro:dem adj adv:tem pro:per mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+780,but how you gonna be not even an active active member and then you gonna come and complain .,conj pro:int pro:per part cop neg adv det:art n adj n coord adv:tem pro:per part v coord v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+781,y entonces he was talking all kinda ah junk .,L2 L2 pro:sub cop n:gerund adv adv co n .,ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+782,"and I him ""/.","coord pro:sub pro:obj +""/.",ENG ENG ENG,0
+783,you know I don't really appreciate that .,pro:per v pro:sub mod adv v pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+784,I don't think we should allow people like that .,pro:sub mod v pro:sub mod v n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+785,we don't need people like that .,pro:sub mod v n prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+786,y este de verdad que tipo se ve que es un pesado de madre .,coord imp prep co prep n imp co pro:rel cop det:art part prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+787,you know ?,pro:per v ?,ENG ENG,0
+788,the other day he showed up at the club on Friday .,det:art qn n pro:sub v adv prep det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+789,and he asked for water .,coord pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+790,and they gave him a bottle of water .,coord pro:sub v pro:obj det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+791,.,None,,0
+792,give me a dollar .,v pro:obj det:art n .,ENG ENG ENG ENG,0
+793,"he goes ""/.","pro:sub v +""/.",ENG ENG,0
+794,oh you gotta pay for the water ?,co pro:per mod v prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+795,what do you think ?,pro:int mod pro:per v ?,ENG ENG ENG ENG,0
+796,you know this isn't a not for profit organization .,pro:per v det:dem cop det:art neg prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+797,yeah you gotta pay for your stuff here like everybody else does .,co pro:per mod v prep det:poss n adv prep pro:indef post v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+798,oh I didn't think that was right .,co pro:sub mod v pro:dem cop co .,ENG ENG ENG ENG ENG ENG ENG,0
+799,give me a break man .,v pro:obj det:art n n .,ENG ENG ENG ENG ENG,0
+800,what do you think ?,pro:int mod pro:per v ?,ENG ENG ENG ENG,0
+801,you gonna pay around a hundred dollars a year .,pro:per part v prep det:art det:num n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+802,and you're gonna think you're gonna get free food every Friday here ?,coord pro:per part v pro:per part v adj n qn n:prop adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+803,what's wrong with you ?,pro:int adj prep pro:per ?,ENG ENG ENG ENG,0
+804,what do you think ?,pro:int mod pro:per v ?,ENG ENG ENG ENG,0
+805,that costs money .,pro:rel v n .,ENG ENG ENG,0
+806,.,None,,0
+807,yeah the food is six dollars .,co det:art n cop det:num n .,ENG ENG ENG ENG ENG ENG,0
+808,you get your whatever it is arroz un plato lleno de comida .,pro:per v det:poss pro:int pro:per cop L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+809,.,None,,0
+810,six bucks you can't beat it .,det:num n pro:per mod n pro:per .,ENG ENG ENG ENG ENG ENG,0
+811,sometimes they have chicken wings .,adv pro:sub v n n .,ENG ENG ENG ENG ENG,0
+812,sometimes they have frenchfries hamburgers .,adv pro:sub v n n .,ENG ENG ENG ENG ENG,0
+813,it depends what .,pro:per v pro:int .,ENG ENG ENG,0
+814,sometimes people from the members will bring food .,adv n prep det:art n mod v n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+815,they'll donate the food for that Friday .,pro:sub v det:art n prep adv n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+816,yeah they can donate albóndigas lasagna depending what they do you know .,co pro:sub mod v L2 n part pro:int pro:sub v pro:per v .,ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG,1
+817,o .,coord .,ENG,0
+818,with yuca and carne asada .,prep L2 coord L2 L2 .,ENG ESP ENG ESP ESP,1
+819,.,None,,0
+820,the other day fue una señora que es española .,det:art qn n L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+821,y hizo esta creo que es o whatever they do ...,L2 L2 L2 L2 L2 L2 L2 pro:int pro:sub v +...,ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+822,.,None,,0
+823,los españoles .,det:art adj .,ENG ENG,0
+824,and it was pretty good .,coord pro:per cop adv adj .,ENG ENG ENG ENG ENG,0
+825,con arroz blanco .,prep n adj .,ENG ENG ENG,0
+826,and they had ...,coord pro:sub v +...,ENG ENG ENG,0
+827,qué más hicieron ?,pro:int adv v ?,ENG ENG ENG,0

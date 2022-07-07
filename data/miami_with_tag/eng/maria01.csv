@@ -1,0 +1,389 @@
+,sentence,pos,language,switch
+0,my sister inlaw quiere que haga you know .,det:poss n n L2 L2 L2 pro:per v .,ENG ENG ENG ESP ESP ESP ENG ENG,1
+1,she she is a linguist .,pro:sub pro:sub cop det:art n .,ENG ENG ENG ENG ENG,0
+2,and so she wants to sort of track you know spanglish .,coord co pro:sub v inf v prep n pro:per v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+3,so she asked me if I would wear it at work /.,co pro:sub v pro:obj conj pro:sub mod v pro:per prep n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+4,.,None,,0
+5,para ver como es el cambio de un idioma al otro .,prep inf adv cop det:art v prep det:art n aprep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+6,so if you see me with this thing I look kinda goofy .,adv conj pro:per v pro:obj prep det:dem n pro:sub v adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,.,None,,0
+8,yeah it records it and all como los chips de la camarita .,co pro:per v pro:per coord adv L2 L2 n L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ESP ESP ENG ESP ESP ESP,1
+9,.,None,,0
+10,you know the tiny little one ?,pro:per v det:art adj adj pro:indef ?,ENG ENG ENG ENG ENG ENG,0
+11,.,None,,0
+12,and then if you know /.,coord adv:tem conj pro:per v +/.,ENG ENG ENG ENG ENG,0
+13,.,None,,0
+14,she has some sort of program cause she is doing you know .,pro:sub v qn n prep n n pro:sub aux part pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+15,she's got like a grant or something .,pro:sub part co det:art n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+16,.,None,,0
+17,yeah and they transcribe it .,co coord pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+18,and then I guess they figure out you know whatever she does something to do with transcribing and Spanglish and you know lo que hablas and everything .,coord adv:tem pro:sub v pro:sub v adv pro:per v pro:int pro:sub v pro:indef inf v prep n:gerund coord n:prop coord pro:per v L2 L2 L2 coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ENG ENG,1
+19,.,None,,0
+20,right right .,co co .,ENG ENG,0
+21,pero no !,conj adv !,ENG ENG,0
+22,lo apago .,pro:obj v .,ENG ENG,0
+23,y si yo sé que estamos you know todo el mundo hablando inglés o como dice mi hermano si tú no quieres que nadie oyen or personal or something .,L2 L2 L2 L2 L2 L2 pro:per v L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 coord adj coord pro:indef .,ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+24,.,None,,0
+25,so ...,co +...,ENG,0
+26,.,None,,0
+27,y tu amiga ?,coord det:pos n ?,ENG ENG ENG,0
+28,.,None,,0
+29,no ha ni llamado ?,adv aux coord part ?,ENG ENG ENG ENG,0
+30,.,None,,0
+31,y tú no puedes salir en esa vaina ?,coord pro:sub adv v inf prep det:dem n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+32,hello si es four wheel drive ?,co L2 L2 det:num n n ?,ENG ESP ESP ENG ENG ENG,1
+33,nieve .,v .,ENG,0
+34,mi hermana vive en Georgia .,det:pos n v prep n:prop .,ENG ENG ENG ENG ENG,0
+35,y no ha habido nada de nieve .,coord adv aux part imp prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+36,.,None,,0
+37,bueno yo no sé dónde está la casa de ella .,co pro:sub adv v pro:int cop det:art n prep pro:sub .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+38,.,None,,0
+39,bueno puede que sí en las montañas sí sí haya .,co v pro:rel co prep det:art n co co v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+40,.,None,,0
+41,ya más muerta que viva .,adv adv part prep co .,ENG ENG ENG ENG ENG,0
+42,.,None,,0
+43,pero a qué hora te llamó a las ocho de la mañana ?,conj aprep pro:int n pro:obj v aprep det:art n prep det:art adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+44,anoche ?,adv ?,ENG,0
+45,.,None,,0
+46,ah anoche .,co adv .,ENG ENG,0
+47,.,None,,0
+48,eso queda como por la mitad del estado .,pro:dem v adv prep det:art n prep part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+49,.,None,,0
+50,no no no !,adv adv adv !,ENG ENG ENG,0
+51,eso está en el medio del estado .,pro:dem cop prep det:art adj prep part .,ENG ENG ENG ENG ENG ENG ENG,0
+52,está o al norte o al sur de Gainesville .,aux coord aprep n coord aprep n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+53,.,None,,0
+54,eso es horse country .,L2 L2 n n .,ESP ESP ENG ENG,1
+55,eso es horse country .,L2 L2 n n .,ESP ESP ENG ENG,1
+56,.,None,,0
+57,it's really pretty actually when you //.,pro:per adv adv adv conj pro:per +//.,ENG ENG ENG ENG ENG ENG,0
+58,.,None,,0
+59,I think it's before Gainesville .,pro:sub v pro:per conj n:prop .,ENG ENG ENG ENG ENG,0
+60,.,None,,0
+61,I think it's before Gainesville .,pro:sub v pro:per conj n:prop .,ENG ENG ENG ENG ENG,0
+62,when you drive on seventy five //.,conj pro:per v prep det:num det:num +//.,ENG ENG ENG ENG ENG ENG,0
+63,.,None,,0
+64,I think it's seventy five .,pro:sub v pro:per det:num det:num .,ENG ENG ENG ENG ENG,0
+65,.,None,,0
+66,it's real pretty .,pro:per adj adj .,ENG ENG ENG,0
+67,I mean you can see las pieces of property que parece que estuvieras en you know en Virginia where they have the horses .,pro:sub v pro:per mod v L2 n prep n L2 L2 L2 L2 L2 pro:per v L2 n:prop pro:rel pro:sub v det:art n .,ENG ENG ENG ENG ENG ESP ENG ENG ENG ESP ESP ESP ESP ESP ENG ENG ESP ENG ENG ENG ENG ENG ENG,1
+68,it's horse country .,pro:per n n .,ENG ENG ENG,0
+69,you see the big //.,pro:per v det:art adj +//.,ENG ENG ENG ENG,0
+70,cause porque ahí esa parte del estado has a little bit of hills not like a lot of hills .,n L2 L2 L2 L2 L2 L2 v det:art adj n prep n neg prep det:art n prep n .,ENG ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+71,.,None,,0
+72,el seventy five right .,L2 det:num det:num co .,ESP ENG ENG ENG,1
+73,.,None,,0
+74,no no no .,adv adv adv .,ENG ENG ENG,0
+75,.,None,,0
+76,entonces it is like horse country .,L2 pro:per cop co n n .,ESP ENG ENG ENG ENG ENG,1
+77,so you see the big properties with you know the trees .,co pro:per v det:art adj n prep pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+78,and you know you see the horses .,coord pro:per v pro:per v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+79,it's very pretty actually I mean .,pro:per adv adv adv pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+80,.,None,,0
+81,los dos ella dice que lo tenían puesto ayer también .,det:art det:num pro:sub v pro:rel pro:obj v part adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+82,.,None,,0
+83,y salieron los dos .,coord v det:art det:num .,ENG ENG ENG ENG,0
+84,.,None,,0
+85,es que están perfect .,L2 L2 L2 adj .,ESP ESP ESP ENG,1
+86,good job dear .,adj n co .,ENG ENG ENG,0
+87,.,None,,0
+88,qué monada !,pro:int n !,ENG ENG,0
+89,.,None,,0
+90,y no el tamaño no lo pudisteis escoger mejor porque no es posible .,coord adv det:art n adv pro:obj v inf adj conj adv cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+91,.,None,,0
+92,right it is so cute .,adv pro:per cop adv adj .,ENG ENG ENG ENG ENG,0
+93,it's very cute .,pro:per adv adj .,ENG ENG ENG,0
+94,.,None,,0
+95,qué ?,pro:int ?,ENG,0
+96,.,None,,0
+97,pero también que a mí se me parece a la madre .,conj adv pro:rel aprep pro:prep pro:refl pro:obj v aprep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+98,si tú ves las /.,conj pro:sub v det:art +/.,ENG ENG ENG ENG,0
+99,.,None,,0
+100,si tú ves la foto de la madre de la /.,conj pro:sub v det:art n prep det:art n prep det:art +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+101,.,None,,0
+102,.,None,,0
+103,ay qué mala !,co pro:int adj !,ENG ENG ENG,0
+104,.,None,,0
+105,very cute .,adv adj .,ENG ENG,0
+106,está de lo más mono el chiquito .,cop prep pro:obj adv adj det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+107,.,None,,0
+108,coño hasta frío .,co prep v .,ENG ENG ENG,0
+109,pero yo no oigo el calor tú sabes //.,conj pro:sub adv v det:art n pro:sub v +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+110,digo lo huelo .,v pro:obj v .,ENG ENG ENG,0
+111,tú sabes que cuando tú pones la calefacción /.,pro:sub v pro:rel conj pro:sub v det:art n +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+112,.,None,,0
+113,la primera vez que se prende tiene un colorcito .,det:art adj:num n pro:rel pro:refl v v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+114,.,None,,0
+115,el lado allá hace sesenta y uno .,det:art n adv v det:num coord pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+116,.,None,,0
+117,uno .,det:art .,ENG,0
+118,es el north side .,L2 L2 adj n .,ESP ESP ENG ENG,1
+119,so it doesn't get any sun .,co pro:per mod v qn n .,ENG ENG ENG ENG ENG ENG,0
+120,.,None,,0
+121,bueno .,co .,ENG,0
+122,.,None,,0
+123,"cuál el que vive aquí al lado , no ?",pro:int det:art pro:rel v adv aprep n cm adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+124,.,None,,0
+125,cóbrale .,imp .,ENG,0
+126,.,None,,0
+127,qué fresco !,pro:int adj !,ENG ENG,0
+128,.,None,,0
+129,.,None,,0
+130,.,None,,0
+131,you can call it this .,pro:per mod v pro:per pro:dem .,ENG ENG ENG ENG ENG,0
+132,.,None,,0
+133,.,None,,0
+134,.,None,,0
+135,ah los manda solos y él no viene ?,co pro:obj v adj coord pro:sub adv v ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+136,.,None,,0
+137,oye qué frescura !,co pro:int n !,ENG ENG ENG,0
+138,.,None,,0
+139,qué frescura /.,pro:int n +/.,ENG ENG,0
+140,.,None,,0
+141,bueno too bad .,L2 adv adj .,ESP ENG ENG,1
+142,.,None,,0
+143,.,None,,0
+144,no .,adv .,ENG,0
+145,.,None,,0
+146,ché right .,L2 co .,ESP ENG,1
+147,.,None,,0
+148,right right right right right right right .,co adj adj adj adj adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+149,y te han hecho para que nadie entienda lo que dicen .,coord pro:obj aux part prep pro:rel pro:indef v pro:obj pro:rel v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+150,.,None,,0
+151,porque si te hubieran escrito en el lenguaje de todo el mundo maybe pero ...,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 adv L2 +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP,1
+152,.,None,,0
+153,pues sí el vi //.,co co det:art v +//.,ENG ENG ENG ENG,0
+154,cómo se llama Helen ?,L2 L2 L2 n:prop ?,ESP ESP ESP ENG,1
+155,yo me paro .,pro:sub pro:obj v .,ENG ENG ENG,0
+156,"y digo ""/.","coord v +""/.",ENG ENG,0
+157,coño qué frío hace !,co pro:int adj v !,ENG ENG ENG ENG,0
+158,voy .,v .,ENG,0
+159,y veo ahí en el //.,coord v adv prep det:art +//.,ENG ENG ENG ENG ENG,0
+160,y es el sesenta y uno .,coord cop det:art det:num coord pro:dem .,ENG ENG ENG ENG ENG ENG,0
+161,esa no yo lo siento mucho .,det:dem adv pro:sub pro:obj v adv .,ENG ENG ENG ENG ENG ENG,0
+162,hace demasiado frío .,v adj v .,ENG ENG ENG,0
+163,yo sé que ya para las cuarto de la tarde no hace frío .,pro:sub v pro:rel adv prep det:art n prep det:art adv adv v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+164,voy .,v .,ENG,0
+165,y vamos a prender la calefacción .,coord v aprep inf det:art n .,ENG ENG ENG ENG ENG ENG,0
+166,"y me dice Jennifer ""/.","L2 L2 L2 n:prop +""/.",ESP ESP ESP ENG,1
+167,tú crees que tiene ?,pro:sub v pro:rel v ?,ENG ENG ENG ENG,0
+168,y yo heat .,L2 L2 n .,ESP ESP ENG,1
+169,.,None,,0
+170,que no hay calefacción ?,pro:rel adv v n ?,ENG ENG ENG ENG,0
+171,.,None,,0
+172,lo más probable es que no haya .,pro:obj adv adj cop pro:rel adv v .,ENG ENG ENG ENG ENG ENG ENG,0
+173,.,None,,0
+174,entonces entró donde Helen .,L2 L2 L2 n:prop .,ESP ESP ESP ENG,1
+175,y fue para allá .,coord v prep adv .,ENG ENG ENG ENG,0
+176,y me mira Esmeralda porque yo le dije que yo la he prendido .,L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+177,y yo me hice la que yo no tengo nada que decir .,coord pro:sub pro:obj v det:art pro:rel pro:sub adv v pro:indef pro:rel inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+178,ha sido un comentario .,aux cop det:art n .,ENG ENG ENG ENG,0
+179,"yo voy a decir "".","pro:sub v aprep inf +"".",ENG ENG ENG ENG,0
+180,sí hacía mucho frío .,co v adv v .,ENG ENG ENG ENG,0
+181,se levanta a los cinco minutos Lilian .,L2 L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ENG,1
+182,"y dice ""/.","coord v +""/.",ENG ENG,0
+183,ahora dice sesenta y tres .,adv v det:num coord det:num .,ENG ENG ENG ENG ENG,0
+184,"y le digo ""/.","coord pro:ind v +""/.",ENG ENG ENG,0
+185,bueno por lo menos subió two degrees cause it used to be sixty one .,L2 L2 L2 L2 L2 det:num n v pro:per v inf cop det:num det:num .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+186,.,None,,0
+187,y acá decía seventy four .,L2 L2 L2 det:num det:num .,ESP ESP ESP ENG ENG,1
+188,"le digo ""/.","pro:ind v +""/.",ENG ENG,0
+189,a eso lo tocó él porque Jennifer y yo pusimos setenta .,L2 L2 L2 L2 L2 L2 n:prop L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP,1
+190,.,None,,0
+191,Jennifer y yo lo pusimos en setenta .,n:prop L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP,1
+192,.,None,,0
+193,sí pero no se ha quitado la chaqueta .,co conj adv pro:refl aux part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+194,así que también tiene frío .,adv pro:rel adv v adj .,ENG ENG ENG ENG ENG,0
+195,.,None,,0
+196,y eso que allá atrás por lo menos les cae el sol .,coord pro:dem pro:rel adv adv prep pro:obj adv pro:ind v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+197,pero aquí en el north side we don't ever get direct sun .,L2 L2 L2 L2 adj n pro:sub mod adv v adj n .,ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+198,.,None,,0
+199,we get no direct sun we get .,pro:sub v qn adj n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+200,.,None,,0
+201,a veces sesenta y uno sesenta y uno .,aprep n det:num coord pro:dem det:num coord pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+202,.,None,,0
+203,cuándo regresa ?,pro:int v ?,ENG ENG,0
+204,.,None,,0
+205,él está loco .,pro:sub cop adj .,ENG ENG ENG,0
+206,.,None,,0
+207,y a él la sangre se le ha puesto un /.,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+208,.,None,,0
+209,he doesn't miss it in other words .,pro:sub mod v pro:per prep qn n .,ENG ENG ENG ENG ENG ENG ENG,0
+210,.,None,,0
+211,no .,L2 .,ESP,0
+212,.,None,,0
+213,hace como cinco años .,v adv det:num n .,ENG ENG ENG ENG,0
+214,that's what they said about five years .,pro:dem pro:int pro:sub v prep det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+215,.,None,,0
+216,y yo esta mañana que salí de la casa que si //.,coord pro:sub imp adv pro:rel v prep det:art n pro:rel conj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+217,tenía que ir al súper cause I had no milk .,L2 L2 L2 L2 L2 n pro:sub v qn n .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+218,mi carro tiene un thermostat que te dice you know //.,L2 L2 L2 L2 n L2 L2 L2 pro:per v +//.,ESP ESP ESP ESP ENG ESP ESP ESP ENG ENG,1
+219,you heat it .,pro:per v pro:per .,ENG ENG ENG,0
+220,y te dice what it is .,L2 L2 L2 pro:int pro:per cop .,ESP ESP ESP ENG ENG ENG,1
+221,thirty six .,det:num det:num .,ENG ENG,0
+222,yo me cago en la madre .,pro:sub pro:obj v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+223,vaya cuando ya regresé del grocery /.,L2 L2 L2 L2 L2 n +/.,ESP ESP ESP ESP ESP ENG,1
+224,.,None,,0
+225,el grocer decía cuarenta_y_uno .,L2 n L2 L2 .,ESP ENG ESP ESP,1
+226,pero cuando I dropped the groceries and I left decía treinta_y_nueve .,L2 L2 pro:sub v det:art n coord pro:sub v L2 L2 .,ESP ESP ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+227,y le digo coño .,coord pro:ind v co .,ENG ENG ENG ENG,0
+228,.,None,,0
+229,maybe .,adv .,ENG,0
+230,no cause it has a sensor .,qn n pro:per aux det:art n .,ENG ENG ENG ENG ENG ENG,0
+231,and the sensor is on the dashboard .,coord det:art n cop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+232,so I guess it takes it .,co pro:sub v pro:per v pro:per .,ENG ENG ENG ENG ENG ENG,0
+233,.,None,,0
+234,I mean this car provides heat .,pro:sub v det:dem n v n .,ENG ENG ENG ENG ENG ENG,0
+235,pero no es como los carros normales que si tú quieres calor tú lo mueves a rojito .,conj adv cop adv pro:obj n adj pro:rel conj pro:sub v n pro:sub pro:obj v aprep adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+236,the only way I can turn the heat is I have to tell it auto /.,det:art qn n pro:sub mod v det:art n cop pro:sub v inf v pro:per n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+237,.,None,,0
+238,and turn the temperature up .,coord v det:art n adv .,ENG ENG ENG ENG ENG,0
+239,.,None,,0
+240,because then the sensor will know that is cold outside and it throws hot air like you can have /.,conj adv:tem det:art n mod v pro:dem cop adv adv coord pro:per v adj n prep pro:per mod v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+241,.,None,,0
+242,and it takes time .,coord pro:per v n .,ENG ENG ENG ENG,0
+243,versus the old fashion you turn the knob to the red /.,prep det:art adj n pro:per v det:art n prep det:art n +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+244,.,None,,0
+245,when the car is warm it throws hot air .,conj det:art n cop adj pro:per v adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+246,.,None,,0
+247,it takes time because engine your engine's too cold .,pro:per v n conj n det:poss n adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+248,.,None,,0
+249,"pero the first time I went to use this heat a few years ago I'm like ""/.","L2 det:art adj n pro:sub v inf v det:dem n det:art qn n post pro:sub prep +""/.",ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+250,where is the heat ?,pro:int cop det:art n ?,ENG ENG ENG ENG,0
+251,you know .,pro:per v .,ENG ENG,0
+252,and then /.,coord adv:tem +/.,ENG ENG,0
+253,.,None,,0
+254,right .,co .,ENG,0
+255,because it's auto /.,conj pro:per n +/.,ENG ENG ENG,0
+256,.,None,,0
+257,electrical .,adj .,ENG,0
+258,right .,co .,ENG,0
+259,.,None,,0
+260,pero el aire acondicionado sí te da el chance .,L2 L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+261,you can hit on .,pro:per mod v adv .,ENG ENG ENG ENG,0
+262,and you turn the you know you /.,coord pro:per v det:art pro:per v pro:per +/.,ENG ENG ENG ENG ENG ENG ENG,0
+263,.,None,,0
+264,I don't like that they do the //.,pro:sub mod v adv pro:sub v det:art +//.,ENG ENG ENG ENG ENG ENG ENG,0
+265,it's kinda weird .,pro:per adv adj .,ENG ENG ENG,0
+266,I don't like it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+267,I mean I like the old fashion knobs .,pro:sub v pro:sub co det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+268,brr !,co !,ENG,0
+269,you know .,pro:per v .,ENG ENG,0
+270,.,None,,0
+271,right .,co .,ENG,0
+272,.,None,,0
+273,I mean it warms up .,pro:sub v pro:per v adv .,ENG ENG ENG ENG ENG,0
+274,but it's weird .,conj pro:per adj .,ENG ENG ENG,0
+275,.,None,,0
+276,it's it's it's not it's counterintuitive because you're used to saying okay I want warm .,pro:per pro:per pro:per neg pro:per counter#adj conj pro:per part prep n:gerund adj pro:sub v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+277,lo pongo al rojo .,pro:obj v aprep adj .,ENG ENG ENG ENG,0
+278,.,None,,0
+279,.,None,,0
+280,.,None,,0
+281,déjame decirte .,imp inf .,ENG ENG,0
+282,mi carro tiene heated seats .,L2 L2 L2 v n .,ESP ESP ESP ENG ENG,1
+283,nunca lo he usado .,adv pro:obj aux part .,ENG ENG ENG ENG,0
+284,ayer que me monté con Irene fuimos a comer .,L2 L2 L2 L2 L2 n:prop L2 L2 L2 .,ESP ESP ESP ESP ESP ENG ESP ESP ESP,1
+285,ella lo prendió .,pro:sub pro:obj v .,ENG ENG ENG,0
+286,"y dije ""/.","coord v +""/.",ENG ENG,0
+287,ay coño Irene tengo el calentito .,L2 L2 n:prop L2 L2 L2 .,ESP ESP ENG ESP ESP ESP,1
+288,"me dice ""/.","pro:obj v +""/.",ENG ENG,0
+289,no es que tienen el heating thing .,L2 L2 L2 L2 L2 part n .,ESP ESP ESP ESP ESP ENG ENG,1
+290,"so when I got in the car yesterday I went ""/.","co conj pro:sub v prep det:art n adv:tem pro:sub v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+291,oh !,co !,ENG,0
+292,mine has it too !,n aux pro:per adv !,ENG ENG ENG ENG,0
+293,click I turned it on .,n pro:sub v pro:per adv .,ENG ENG ENG ENG ENG,0
+294,it's really /.,pro:per adv +/.,ENG ENG,0
+295,.,None,,0
+296,qué rico !,pro:int adj !,ENG ENG,0
+297,I didn't turn it on this morning cause I was so bundled up /.,pro:sub mod v pro:per prep det:dem n n pro:sub aux adv part adv +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+298,.,None,,0
+299,I didn't need it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+300,.,None,,0
+301,right .,co .,ENG,0
+302,it is supposedly /.,pro:per cop adv +/.,ENG ENG ENG,0
+303,.,None,,0
+304,para la espalda right right .,L2 L2 L2 co co .,ESP ESP ESP ENG ENG,1
+305,"so I was like ""/.","co pro:sub cop prep +""/.",ENG ENG ENG ENG,0
+306,cool !,adj !,ENG,0
+307,the first time I ever use it !,det:art adj n pro:sub adv v pro:per !,ENG ENG ENG ENG ENG ENG ENG,0
+308,.,None,,0
+309,but you know what I didn't use it this morning cause I was so bundled up I didn't need it .,conj pro:per v pro:int pro:sub mod v pro:per det:dem n n pro:sub aux adv part adv pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+310,.,None,,0
+311,no I didn't even turn the heat on because I figured I was going to wait .,co pro:sub mod adj n det:art n adv conj pro:sub v pro:sub aux part inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+312,.,None,,0
+313,.,None,,0
+314,where is Elba ?,pro:int cop n:prop ?,ENG ENG ENG,0
+315,.,None,,0
+316,ah .,L2 .,ESP,0
+317,.,None,,0
+318,eh Víctor está viviendo con ustedes otra vez ?,L2 n:prop L2 L2 L2 L2 L2 L2 ?,ESP ENG ESP ESP ESP ESP ESP ESP,1
+319,ay la verdad es que Jorge es muy buen marido .,L2 L2 L2 L2 L2 n:prop L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP,1
+320,.,None,,0
+321,me acuerdo que tú me dijiste .,pro:obj v pro:rel pro:sub pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+322,.,None,,0
+323,mhm .,co .,ENG,0
+324,.,None,,0
+325,él es enfermero no ?,pro:sub cop n adv ?,ENG ENG ENG ENG,0
+326,.,None,,0
+327,oh that's not fair .,co pro:dem neg adv .,ENG ENG ENG ENG,0
+328,.,None,,0
+329,right .,co .,ENG,0
+330,.,None,,0
+331,right .,co .,ENG,0
+332,.,None,,0
+333,that's not fair .,pro:dem neg adv .,ENG ENG ENG,0
+334,.,None,,0
+335,that's not fair .,pro:dem neg adv .,ENG ENG ENG,0
+336,.,None,,0
+337,"y por qué no les dices al ""/.","coord prep pro:int adv pro:ind v aprep +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+338,look I have this issue .,v pro:sub v det:dem n .,ENG ENG ENG ENG ENG,0
+339,they are not gonna give a good reference .,pro:sub aux neg part v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+340,can he just tell them ?,mod pro:sub adv v pro:obj ?,ENG ENG ENG ENG ENG,0
+341,they're not /.,pro:sub neg +/.,ENG ENG,0
+342,.,None,,0
+343,coño pues that's not fair !,L2 L2 pro:dem neg adv !,ESP ESP ENG ENG ENG,1
+344,.,None,,0
+345,but can't he do something about it .,conj mod pro:sub v pro:indef prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+346,and say that they //?,coord v comp pro:sub +//?,ENG ENG ENG ENG,0
+347,you know .,pro:per v .,ENG ENG,0
+348,.,None,,0
+349,de todo un poco .,prep det:indef det:art adv .,ENG ENG ENG ENG,0
+350,.,None,,0
+351,right right right .,adv adv co .,ENG ENG ENG,0
+352,.,None,,0
+353,right .,co .,ENG,0
+354,.,None,,0
+355,mhm .,co .,ENG,0
+356,.,None,,0
+357,you can't do that .,pro:per mod v pro:dem .,ENG ENG ENG ENG,0
+358,.,None,,0
+359,right right right .,adv adv co .,ENG ENG ENG,0
+360,.,None,,0
+361,entonces la tienen cogida contigo .,adv pro:obj v part adv .,ENG ENG ENG ENG ENG,0
+362,.,None,,0
+363,right right right they don't give you a whole lot .,adv adj n pro:sub mod v pro:per det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+364,yo no sé cómo la gente vive del unemployment .,L2 L2 L2 L2 L2 L2 L2 L2 un#n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+365,.,None,,0
+366,porque es un pain .,L2 L2 L2 n .,ESP ESP ESP ENG,1
+367,.,None,,0
+368,yo no sé cómo la gente vive del unemployment porque es un pain .,L2 L2 L2 L2 L2 L2 L2 L2 un#n L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ENG,1
+369,yo me acuerdo la única vez que /.,pro:sub pro:obj v det:art adj n pro:rel +/.,ENG ENG ENG ENG ENG ENG ENG,0
+370,.,None,,0
+371,right right .,co co .,ENG ENG,0
+372,.,None,,0
+373,that's good .,pro:dem adj .,ENG ENG,0
+374,y a si tu marido gets along with him that's great .,L2 L2 L2 L2 L2 v adv prep pro:obj pro:dem adj .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+375,.,None,,0
+376,right .,co .,ENG,0
+377,no .,L2 .,ESP,0
+378,y for Elba is good cause la tienen los dos .,L2 prep n:prop cop adj n L2 L2 L2 L2 .,ESP ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+379,.,None,,0
+380,y bueno tiene dos papás which can be a little challenging .,L2 L2 L2 L2 L2 pro:int mod cop det:art adj n:gerund .,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+381,.,None,,0
+382,that's great .,pro:dem adj .,ENG ENG,0
+383,that's great .,pro:dem adj .,ENG ENG,0
+384,.,None,,0
+385,.,None,,0
+386,which one ?,pro:rel pro:indef ?,ENG ENG,0
+387,.,None,,0

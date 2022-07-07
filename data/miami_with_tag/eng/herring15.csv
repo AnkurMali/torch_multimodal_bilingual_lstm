@@ -1,0 +1,725 @@
+,sentence,pos,language,switch
+0,so you don't even look at a computer .,co pro:per mod adv v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1,like he does it .,conj pro:sub mod pro:per .,ENG ENG ENG ENG,0
+2,but he just does as far as he gets you know what I mean ?,conj pro:sub adv v adv adv conj pro:sub v pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+3,yeah .,co .,ENG,0
+4,and like he'll have time to do like maybe //.,coord co pro:sub v n inf v co adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+5,like we have to turn in a project for //.,conj pro:sub v prep n prep det:art n prep +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+6,like every couple three weeks you turn in a project .,co qn n det:num n pro:per v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,and then we have to do like one two or three tutorials .,coord adv:tem pro:sub v inf v prep det:num det:num coord det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+8,and when he does the tutorials like he'll get through like one in each class .,coord conj pro:sub v det:art n prep pro:sub v adj co det:num prep qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+9,but he won't go over all the material .,conj pro:sub mod v adv qn det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+10,the projects take like four hours to do so mm ...,det:art n v co det:num n inf v co co +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+11,so he doesn't go over all the material .,co pro:sub mod v adv qn det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+12,and the only time that we like actually have inclass time with the computer like the teacher like can help you ...,coord det:art qn n pro:rel pro:sub v adv v adj n prep det:art n prep det:art n prep n v pro:per +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+13,uhuh .,co .,ENG,0
+14,is on Thursdays .,cop prep n:prop .,ENG ENG ENG,0
+15,and it's only /.,coord pro:per adv +/.,ENG ENG ENG,0
+16,no .,co .,ENG,0
+17,from twelve thirty to one forty five .,prep det:num det:num prep det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+18,and he looks really like strict man .,coord pro:sub v adv v adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+19,yeah bro .,co n .,ENG ENG,0
+20,when I still have my hard //.,conj pro:sub adv v det:poss adj +//.,ENG ENG ENG ENG ENG ENG,0
+21,he still has my hard drive .,pro:sub adv v det:poss adj n .,ENG ENG ENG ENG ENG ENG,0
+22,I still haven't gone to get it .,pro:sub adv aux part inf v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+23,been there for like a year .,cop adv prep co det:art n .,ENG ENG ENG ENG ENG ENG,0
+24,flash drive ?,n n ?,ENG ENG,0
+25,yeah .,co .,ENG,0
+26,yeah bro .,co n .,ENG ENG,0
+27,I've lost two already because I give them ...,pro:sub part det:num adv conj pro:sub v pro:obj +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+28,I turn them in .,pro:sub v pro:obj adv .,ENG ENG ENG ENG,0
+29,and like the next week I forget to get them back .,coord co det:art adj n pro:sub v inf v pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+30,and then like the week after that he doesn't know where the hell they are .,coord adv:tem conj det:art n prep adv pro:sub mod v pro:int det:art n pro:sub cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+31,for real ?,prep adj ?,ENG ENG,0
+32,yeah .,co .,ENG,0
+33,usually he knows where it is .,adv pro:sub v pro:int pro:per cop .,ENG ENG ENG ENG ENG ENG,0
+34,but .,conj .,ENG,0
+35,but he's like oh yeah .,conj pro:sub co co co .,ENG ENG ENG ENG ENG,0
+36,but because I don't know .,conj conj pro:sub mod v .,ENG ENG ENG ENG ENG,0
+37,he said there was something wrong with him .,pro:sub v adv cop pro:indef adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+38,watch that girl that walks like a robot .,n det:dem n adv n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+39,.,None,,0
+40,.,None,,0
+41,oh that's the girl from the gym right ?,co pro:dem det:art n prep det:art n adj ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+42,yeah she lives in the Everglades .,co pro:sub v prep det:art n:prop .,ENG ENG ENG ENG ENG ENG,0
+43,but ...,conj +...,ENG,0
+44,he doesn't //.,pro:sub mod +//.,ENG ENG,0
+45,he says he's got a heart problem or something now .,pro:sub v pro:sub part det:art n n coord pro:indef adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+46,and so he doesn't check the work .,coord co pro:sub mod v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+47,like he actually has a person that helps him in another class check all the work for him .,conj pro:sub adv v det:art n pro:rel v pro:obj prep qn n n qn det:art n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+48,"but when I asked him he's like ""/.","conj conj pro:sub v pro:obj pro:sub prep +""/.",ENG ENG ENG ENG ENG ENG ENG,0
+49,yeah yeah I have here that you did it .,co co pro:sub aux adv pro:rel pro:per mod pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+50,but I don't know like .,conj pro:sub mod v prep .,ENG ENG ENG ENG ENG,0
+51,I don't know what to tell you about your flash drive .,pro:sub mod v pro:int inf v pro:per prep det:poss n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+52,so I brought through two other .,co pro:sub v prep det:num qn .,ENG ENG ENG ENG ENG ENG,0
+53,I figured another one .,pro:sub v qn pro:indef .,ENG ENG ENG ENG,0
+54,because I did the same thing the last time we turned all our projects in .,conj pro:sub v det:art adj n det:art adj n pro:sub v qn det:poss n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+55,so he's losing the the flashdrive ?,co pro:sub part det:art det:art n ?,ENG ENG ENG ENG ENG ENG,0
+56,I don't know if it's him .,pro:sub mod v comp pro:per pro:obj .,ENG ENG ENG ENG ENG ENG,0
+57,it might be the other lady there .,pro:per mod cop det:art qn n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+58,but that's his fault man .,conj pro:dem det:poss n n .,ENG ENG ENG ENG ENG,0
+59,because we have a lady .,conj pro:sub v det:art n .,ENG ENG ENG ENG ENG,0
+60,but whatever bro .,conj pro:int n .,ENG ENG ENG,0
+61,as long as he gets the grades in and stuff .,prep adv adv pro:sub v det:art n adv coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+62,dale !,imp !,ENG,0
+63,I don't care .,pro:sub mod v .,ENG ENG ENG,0
+64,dale .,imp .,ENG,0
+65,yeah that anatomy class something is pretty hard man .,co pro:dem n n pro:indef cop adj adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+66,that's what I thought .,pro:dem pro:int pro:sub v .,ENG ENG ENG ENG,0
+67,take the nights bro .,v det:art n n .,ENG ENG ENG ENG,0
+68,you have to take anatomy ?,pro:per v inf v n ?,ENG ENG ENG ENG ENG,0
+69,oh I thought you said the advanced class of that .,co pro:sub v pro:per v det:art part n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+70,you have to take the advanced class of that .,pro:per v inf v det:art part n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+71,yeah .,co .,ENG,0
+72,doesn't Dan know everything about that ?,mod n:prop v pro:indef prep pro:dem ?,ENG ENG ENG ENG ENG ENG,0
+73,I'm sure he does .,pro:sub adv pro:sub v .,ENG ENG ENG ENG,0
+74,I'm gonna ask him .,pro:sub part v pro:obj .,ENG ENG ENG ENG,0
+75,.,None,,0
+76,he had to have taken it right ?,pro:sub v inf v part pro:per co ?,ENG ENG ENG ENG ENG ENG ENG,0
+77,yeah he did take that class .,co pro:sub mod v pro:dem v .,ENG ENG ENG ENG ENG ENG,0
+78,computer but mine was computer application for business .,n conj pro:poss cop n n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+79,and then I have advanced computer application .,coord adv:tem pro:sub aux part n n .,ENG ENG ENG ENG ENG ENG ENG,0
+80,what's your major again ?,pro:int det:poss adj adv ?,ENG ENG ENG ENG,0
+81,international business and marketing .,adj n coord part .,ENG ENG ENG ENG,0
+82,oh yeah .,co co .,ENG ENG,0
+83,double major .,adj n .,ENG ENG,0
+84,damn .,n .,ENG,0
+85,yeah bro .,co n .,ENG ENG,0
+86,now I told you how I found a lot of everything about that car bro .,adv pro:sub v pro:per pro:int pro:sub v det:art n prep pro:indef prep det:dem n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+87,what ?,pro:int ?,ENG,0
+88,that it's two grand over the cost of that car to get it fixed .,pro:rel pro:per det:num adj prep det:art n prep det:dem n inf v pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+89,oh yeah yeah a lot of .,co co co det:art n prep .,ENG ENG ENG ENG ENG ENG,0
+90,for like a two thousand one Honda_Civic like with leather .,prep co det:art det:num det:num det:num n:prop prep prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+91,and like I mean it's got a lot of extras and stuff .,coord prep pro:sub v pro:per part det:art n prep n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+92,it's like seventy one hundred .,pro:per co det:num det:num det:num .,ENG ENG ENG ENG ENG,0
+93,and the estimate came back at ninety two hundred bro .,coord det:art n v adv prep det:num det:num det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+94,how many miles did it have on it though ?,pro:int qn n mod pro:per v prep pro:per adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+95,like fifty .,co det:num .,ENG ENG,0
+96,fifty ?,det:num ?,ENG,0
+97,yeah .,co .,ENG,0
+98,fifty what thousand ?,det:num pro:int det:num ?,ENG ENG ENG,0
+99,yeah .,co .,ENG,0
+100,and what year was it ?,coord pro:int n cop pro:per ?,ENG ENG ENG ENG ENG,0
+101,two thousand one .,det:num det:num det:num .,ENG ENG ENG,0
+102,damn man .,adj n .,ENG ENG,0
+103,why such little mileage ?,pro:int qn adj n ?,ENG ENG ENG ENG,0
+104,huh ?,co ?,ENG,0
+105,why such a little mileage ?,pro:int qn det:art adj n ?,ENG ENG ENG ENG ENG,0
+106,because it was her car from like when she was in high school .,conj pro:per cop det:poss n prep co conj pro:sub cop prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+107,she bought that car when she was a sophomore .,pro:sub v comp n conj pro:sub cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+108,and then like she went to college or whatever .,coord adv:tem conj pro:sub v prep n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+109,and like didn't drive .,coord co mod v .,ENG ENG ENG ENG,0
+110,she went to USF .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+111,so at that campus it's not like Miami like you know what I mean ?,adv prep det:dem n pro:per neg v n:prop prep pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+112,yeah .,co .,ENG,0
+113,you go over there you just hang out there fraternity houses sorority houses or whatever .,pro:per v prep n pro:per adv v prep n n v n n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+114,like go to city every once in a while .,co v prep n qn adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+115,and she didn't come home .,coord pro:sub mod v adv .,ENG ENG ENG ENG ENG,0
+116,she came home like bro twice a semester .,pro:sub v adv co n adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+117,so she never really drove .,co pro:sub adv adv n .,ENG ENG ENG ENG ENG,0
+118,and then when she graduated from college and got that job working in New_Jersey ...,coord adv:tem conj pro:sub v prep n coord v det:dem n part prep n:prop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+119,uhuh .,co .,ENG,0
+120,my but she got like seventy eight grand a year like right out of college banking .,det:poss conj pro:sub v co det:num det:num adj det:art n prep n adv prep n part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+121,so my parents they bought her a new car .,adv det:poss n pro:sub v pro:obj det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+122,and she just kept that car you know what I mean ?,coord pro:sub adv v comp n pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+123,where does she live now ?,pro:int v pro:sub v adv ?,ENG ENG ENG ENG ENG,0
+124,Princeton New_Jersey .,n:prop n:prop .,ENG ENG,0
+125,she lives in Jersey ?,pro:sub v prep n:prop ?,ENG ENG ENG ENG,0
+126,yeah .,co .,ENG,0
+127,does she like it over there ?,mod pro:sub v pro:per prep n ?,ENG ENG ENG ENG ENG ENG,0
+128,yeah bro she likes it a lot .,co n pro:sub v pro:per det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+129,and I think the only reason she likes it that much though is because she started dating this kid like three or four years ago bro .,coord pro:sub v det:art qn n pro:sub v pro:per adv adv adv cop conj pro:sub v part det:dem n co det:num coord det:num n post n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+130,I don't even remember how long ago .,pro:sub mod adv v pro:int adj post .,ENG ENG ENG ENG ENG ENG ENG,0
+131,I think it was like three years ago .,pro:sub v pro:per cop co det:num n post .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+132,but he's from Pittsburgh .,conj pro:sub prep n:prop .,ENG ENG ENG ENG,0
+133,and he goes to school in Arizona .,coord pro:sub v prep n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+134,and like right about the time that like she got the job she graduated in fall //.,coord co adv prep det:art n pro:rel conj pro:sub v det:art n pro:sub v prep v +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+135,uhuh .,co .,ENG,0
+136,in spring of last year so O_seven .,prep n prep adj n adv n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+137,and then got the job like right after that .,coord adv:tem v det:art n prep n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+138,and for fall of O_seven her boyfriend came back to Pittsburgh to do internship with U_S_View .,coord prep v prep n:prop det:poss n v adv prep n:prop inf v n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+139,and so they were right next to each other .,coord co pro:sub cop adv adv prep qn qn .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+140,why what is he studying ?,pro:int pro:int cop pro:sub part ?,ENG ENG ENG ENG ENG,0
+141,I think something with business .,pro:sub v pro:indef prep n .,ENG ENG ENG ENG ENG,0
+142,like marketing or management business management something like that .,co part coord n n n pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+143,he's a smart kid bro .,pro:sub det:art adj n n .,ENG ENG ENG ENG ENG,0
+144,so what it's like a long distance relationship ?,adv pro:int pro:per conj det:art adj n n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+145,yeah it was .,co pro:per cop .,ENG ENG ENG,0
+146,and now he's back in Arizona so .,coord adv pro:sub adv prep n:prop adv .,ENG ENG ENG ENG ENG ENG ENG,0
+147,but whatever man I've been working out for three years bro .,conj pro:int v pro:sub aux part adv prep det:num n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+148,I heard Jersey is like just the sun doesn't come out a lot and they got a lot of pollution .,pro:sub v n:prop cop co adv det:art n mod v prep det:art n coord pro:sub v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+149,yes but that's how everything up north is like .,co conj pro:rel pro:rel pro:indef adv adj aux co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+150,bro when I up to New_York with Adam this summer bro it just got uglier and uglier the higher //.,n conj pro:sub adv prep n:prop prep n:prop det:dem n n pro:per adv v adj coord adj det:art adj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,.,None,,0
+152,like the farther north you go it just gets uglier .,prep det:art adj n pro:per v pro:per adv v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+153,like Florida is chill and nice sunny like palm trees you know nice and green .,conj n:prop cop v coord adj adj conj n n pro:per v adj coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+154,and then you get to like Atlanta .,coord adv:tem pro:per v inf v n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+155,and it's kind of the same .,coord pro:per n prep det:art adj .,ENG ENG ENG ENG ENG ENG,0
+156,unless you're like in the city .,conj pro:per v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+157,yeah .,co .,ENG,0
+158,whatever .,pro:int .,ENG,0
+159,and then in Georgia and in North_Carolina /.,coord adv:tem prep n:prop coord prep n:prop +/.,ENG ENG ENG ENG ENG ENG ENG,0
+160,but were you there during the summer ?,conj cop pro:per adv prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+161,bro I drove from I drove from Tampa well from four miles all the way to Buffalo New_York over the summer .,n pro:sub v prep pro:sub n prep n:prop adv prep det:num n adv det:art n prep n:prop n:prop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+162,cough .,n .,ENG,0
+163,like couple or three weeks before I started here at FIU for the fall .,co n coord det:num n adv pro:sub v adv prep n:prop prep det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+164,damn .,n .,ENG,0
+165,but it just gets uglier bro .,conj pro:per adv v adj n .,ENG ENG ENG ENG ENG ENG,0
+166,it's all sunny because of the smog .,pro:per adv adj conj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+167,because down here it's all like farming .,conj prep n pro:per adv prep n:gerund .,ENG ENG ENG ENG ENG ENG ENG,0
+168,yeah yeah .,co co .,ENG ENG,0
+169,it's not like up there .,pro:per neg v prep n .,ENG ENG ENG ENG ENG,0
+170,it's all like textiles and like factories and stuff .,pro:per adv co n coord co n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+171,yeah .,co .,ENG,0
+172,"so it says like on the highways and stuff it says like ""/.","co pro:per v co prep det:art n coord v pro:per v prep +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+173,oh smog alert today from five to seven PM or whatever .,co n n adv:tem prep det:num prep det:num n:prop coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+174,and so it's always always just looks cloudy but it's not even clouds it's just smoke and fog and ...,coord adv pro:per adv adv adv cop adj conj pro:per neg adv n pro:per adj n coord n coord +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+175,that sucks man .,pro:rel v n .,ENG ENG ENG,0
+176,yeah .,co .,ENG,0
+177,but where she lives in Princeton is like a nice area like a nice city in New_Jersey so ...,conj pro:rel pro:sub v prep n:prop cop co det:art adj n prep det:art adj n prep n:prop adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+178,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+179,it's a nice area .,pro:per det:art adj n .,ENG ENG ENG ENG,0
+180,man I told you my boss is from Jersey ...,n pro:sub v pro:per det:poss n cop prep n:prop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+181,yeah .,co .,ENG,0
+182,his whole life and he tells me that everyday like he would just be depressed because ...,det:poss adj n coord pro:sub v pro:obj det:dem adj conj pro:sub mod adv aux part conj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+183,this is how it is up there .,pro:dem cop pro:int pro:per cop prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+184,like the sun barely comes out over there and ...,prep det:art n adv v adv adv adv coord +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+185,have you ever been in New_York or anything man ?,v pro:per adv cop prep n:prop coord pro:indef n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+186,no no .,co co .,ENG ENG,0
+187,bro that's how it is always up there it just looks dark .,n pro:rel pro:rel pro:per cop adv prep n pro:per adv cop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+188,the winter is disgusting up there bro .,det:art n aux part prep n n .,ENG ENG ENG ENG ENG ENG ENG,0
+189,I hate it .,pro:sub v pro:per .,ENG ENG ENG,0
+190,like we went up there like two years ago yeah two Christmases ago .,conj pro:sub v prep n co det:num n post co det:num n:prop post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+191,to meet this kid Freddy my sister's boyfriend like we went to meet all their family .,inf v det:dem n n:prop det:poss adj n conj pro:sub v inf v qn det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+192,and we went up there .,coord pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+193,we were there for a week and a half right .,pro:sub cop adv prep det:art n coord det:art n co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+194,and seen the sun like twice maybe .,coord part det:art n prep adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+195,like it you could see it like /.,prep pro:per pro:per mod v pro:per conj +/.,ENG ENG ENG ENG ENG ENG ENG,0
+196,I can't live in a place like that man .,pro:sub mod v prep det:art n prep pro:dem v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+197,bro like it's bright out bro .,n conj pro:per adj prep n .,ENG ENG ENG ENG ENG ENG,0
+198,it's like just as bright .,pro:per conj adj adv adj .,ENG ENG ENG ENG ENG,0
+199,but you can't even see the sun .,conj pro:per mod adv v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+200,like all you see is clouds .,prep adv pro:per v cop n .,ENG ENG ENG ENG ENG ENG,0
+201,yeah that's it has to give some kind of overcast .,co pro:dem pro:per aux inf v qn n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+202,I don't like it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+203,I kinda of know a place like that man or ...,pro:sub adv prep v det:art n prep pro:dem v coord +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+204,especially when you're used to Florida .,adv conj pro:per part prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+205,huh ?,co ?,ENG,0
+206,especially when you're used to Florida bro .,adv conj pro:per part prep n:prop n .,ENG ENG ENG ENG ENG ENG ENG,0
+207,yeah no and the cold too I can't deal with snow and ...,co co coord det:art n adv pro:sub mod v prep n coord +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+208,oh my god .,co det:poss n .,ENG ENG ENG,0
+209,.,None,,0
+210,having like twenty layers of clothing on me during the winter .,part co det:num n prep n prep pro:obj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+211,yeah .,co .,ENG,0
+212,but I heard during the summer it gets super hot like a hundred .,conj pro:sub v prep det:art n pro:per v adj adj prep det:art det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+213,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+214,like hundreds and ...,co det:num coord +...,ENG ENG ENG,0
+215,.,None,,0
+216,like the nineties .,prep det:art det:num .,ENG ENG ENG,0
+217,I don't think so .,pro:sub mod v co .,ENG ENG ENG ENG,0
+218,my boss told me it'll get really hot during the summer .,det:poss n v pro:obj pro:per v adv adj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+219,oh yeah I'm sure it does .,co co pro:sub adj pro:per mod .,ENG ENG ENG ENG ENG ENG,0
+220,but it's a different kind of hot than down here .,conj pro:per det:art adj n prep adj prep n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+221,you didn't go to the beach when you were there ?,pro:per mod v prep det:art n conj pro:per cop adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+222,I was there for Christmas so .,pro:sub cop adv prep n:prop adv .,ENG ENG ENG ENG ENG ENG,0
+223,oh you were there for Christmas .,co pro:per cop adv prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+224,yeah like I've been in New_York and stuff for the summer and stuff but we went to ...,co co pro:sub cop prep n:prop coord n prep det:art n coord n conj pro:sub v prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+225,when you went to New_York in the summer did you go to the beach ?,conj pro:per v prep n:prop prep det:art n mod pro:per v prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+226,no we went we didn't go to the beach in New_York we went to the beach in damn bro what's it called ?,co pro:sub v pro:sub mod v prep det:art n prep n:prop pro:sub v prep det:art n prep n n pro:int pro:per v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+227,like a really rich expensive place .,prep det:art adv adj adj n .,ENG ENG ENG ENG ENG ENG,0
+228,we went there with my grandmother .,pro:sub v adv prep det:poss grand#n .,ENG ENG ENG ENG ENG ENG,0
+229,she used to have a house there .,pro:sub v inf v det:art n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+230,where was is it by ?,pro:int cop aux pro:per adv ?,ENG ENG ENG ENG ENG,0
+231,bro it's in New_York or New_Jersey ah the Hamptons .,n pro:per prep n:prop coord n:prop co det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+232,the Hamptons ?,det:art n:prop ?,ENG ENG,0
+233,yeah we went there because she had like a little house and we went there bro and it's mad mad nice because it's farther away from the city so there's not so much smog in the air .,co pro:sub v adv conj pro:sub v co det:art adj n coord pro:sub v adv n coord pro:per adj adj adj conj pro:per adj adv prep det:art n adv pro:exist neg adv qn n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+234,yeah but I betcha the water was freezing .,co conj pro:sub co det:art n aux part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+235,cold cold it's always cold .,n adv pro:per adv adv .,ENG ENG ENG ENG ENG,0
+236,and it was like ninety degrees out .,coord pro:per cop co det:num n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+237,like it was a nice day .,prep pro:per cop det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+238,and the water was like seventy like sixty seventy no matter what .,coord det:art n cop co det:num co det:num det:num co v pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+239,"was the water like a dark color , right ?",cop det:art n prep det:art n n cm co ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+240,really dark .,adv adj .,ENG ENG,0
+241,the sand is ugly bro .,det:art n cop adj n .,ENG ENG ENG ENG ENG,0
+242,the sand is like South_Beach sand .,det:art n cop co n:prop n .,ENG ENG ENG ENG ENG ENG,0
+243,for real ?,prep adj ?,ENG ENG,0
+244,yeah but it's real sand .,co conj pro:per adj n .,ENG ENG ENG ENG ENG,0
+245,but it feels like the fake sand here .,conj pro:per v prep det:art adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+246,when I went to the Canary_Islands it it was January .,conj pro:sub v prep det:art n:prop pro:per pro:per cop n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+247,.,None,,0
+248,and it was seventy degrees outside .,coord pro:per cop det:num n adv .,ENG ENG ENG ENG ENG ENG,0
+249,but the like the water there is like a dark blue .,conj det:art co det:art n adv cop co det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+250,.,None,,0
+251,and you can just tell that the water is super cold .,coord pro:per mod adv v comp det:art n cop adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+252,yeah .,co .,ENG,0
+253,.,None,,0
+254,bro I wanna go to Alaska and go fishing out there .,n pro:sub v v prep n:prop coord v part prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+255,Alaska I don't know .,n:prop pro:sub mod v .,ENG ENG ENG ENG,0
+256,I'll go maybe like on a cruise to Alaska or something like that .,pro:sub v adv co prep det:art n prep n:prop coord pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+257,I don't know about fishing all day .,pro:sub mod v adv part qn n .,ENG ENG ENG ENG ENG ENG ENG,0
+258,go on a fishing and hunting trip .,v prep det:art n:gerund coord part n .,ENG ENG ENG ENG ENG ENG ENG,0
+259,fish in a hole .,n prep det:art n .,ENG ENG ENG ENG,0
+260,no brother there's some good fishing out there .,qn n pro:exist qn adj n:gerund prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+261,what are you gonna fish for man ?,pro:int aux pro:per part v prep n ?,ENG ENG ENG ENG ENG ENG ENG,0
+262,whatever yeah I'm like big tuna and stuff .,pro:int co pro:sub prep adj n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+263,yeah I guess so I was right .,co pro:sub n co pro:sub cop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+264,hunting go hunting for like elk do you go hunting a lot ?,part v part prep co n v pro:per v part det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+265,no I've never gone hunting .,co pro:sub adv part part .,ENG ENG ENG ENG ENG,0
+266,my cousin has gone hunting a lot .,det:poss n aux part part det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+267,yeah we went hunting a lot just because our are hunters .,co pro:sub v part det:art n adv conj det:poss aux n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+268,man in it's like it's big over there bro .,n prep pro:per conj pro:per adj prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+269,but hunting like elk or something big like that bro that'd be awesome .,conj part co n coord pro:indef adj prep pro:dem n pro:rel cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+270,a bear .,det:art n .,ENG ENG,0
+271,shoot a bear man .,v det:art n n .,ENG ENG ENG ENG,0
+272,the nicest beach I probably ever saw was when I went to Cuba .,det:art adj n pro:sub adv adv n cop conj pro:sub v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+273,I think the nicest beach I've ever been to is in Roatan bro .,pro:sub v det:art adj n pro:sub adv cop prep aux prep n:prop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+274,.,None,,0
+275,where's that ?,pro:int pro:dem ?,ENG ENG,0
+276,the island off the coast of Honduras bro that place is beautiful man .,det:art n prep det:art n prep n:prop n det:dem n cop adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+277,and it's like ...,coord pro:per conj +...,ENG ENG ENG,0
+278,yeah .,co .,ENG,0
+279,bro the water's like green like that blue like light green because the sand is white .,n det:art n prep n prep pro:dem adj prep adj n conj det:art n cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+280,yeah yeah .,co co .,ENG ENG,0
+281,it's like white soft sand .,pro:per co adj adj n .,ENG ENG ENG ENG ENG,0
+282,that's how all the beaches are in Cuba .,pro:dem pro:int qn det:art n cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+283,yeah .,co .,ENG,0
+284,so the water's like really really green bro .,co det:art n prep adv adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+285,it's clear .,pro:per adj .,ENG ENG,0
+286,it's awesome .,pro:per adj .,ENG ENG,0
+287,our house over there is sick bro .,det:poss n prep n cop adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+288,it's like a hour drive from the city .,pro:per conj det:art n n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+289,like there's like three islands that make up Roatan .,conj pro:exist co det:num n pro:rel v adv n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+290,and Roatan is one of the islands .,coord n:prop cop pro:indef prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+291,and I can't remember what the other two are called .,coord pro:sub mod v pro:int det:art qn det:num aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+292,but we have a house in Roatan which is the biggest island .,conj pro:sub v det:art n prep n:prop pro:rel cop det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+293,and like on this side on like the left side of the island is all like hotels marinas .,coord co prep det:dem n adv prep det:art adj n prep det:art n cop adv prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+294,like because it's huge on diving because like like here's Honduras .,co conj pro:per adj prep n:gerund conj v conj pro:exist n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+295,and the islands are right here .,coord det:art n cop adv adv .,ENG ENG ENG ENG ENG ENG,0
+296,and like all of this like off the coast of Mexico and like Guatemala and stuff .,coord v pro:indef prep det:dem co prep det:art n prep n:prop coord co n:prop coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+297,all of that is like the second largest coral reef formation in the world .,pro:indef prep pro:dem cop co det:art n adj n n n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+298,all of that .,pro:indef prep pro:dem .,ENG ENG ENG,0
+299,what's it called ?,pro:int pro:per v ?,ENG ENG ENG,0
+300,I can't remember .,pro:sub mod v .,ENG ENG ENG,0
+301,but it like stretches all the way to Roatan like it ends over there .,conj pro:per v n qn det:art n prep n:prop prep pro:per v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+302,some awesome fish in there huh .,qn adj n prep n co .,ENG ENG ENG ENG ENG ENG,0
+303,oh my god yeah bro and like diving is .,co co co co n coord co n:gerund cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+304,that's where I went scuba diving for the first time .,pro:dem pro:int pro:sub v n part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+305,my dad learned how to scuba dive from Jean_Michel_Cousteau .,det:poss n v pro:rel prep n n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+306,oh yeah ?,co co ?,ENG ENG,0
+307,Jean_Cousteau's son yeah .,adj n co .,ENG ENG ENG,0
+308,he did his first night dive with him and everything .,pro:sub v det:poss adj n n prep pro:obj coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+309,they jumped out of a helicopter one time .,pro:sub v adv prep det:art n det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+310,in a dive ?,prep det:art n ?,ENG ENG ENG,0
+311,into the water at night yeah .,prep det:art n prep n co .,ENG ENG ENG ENG ENG ENG,0
+312,when you you jump like that .,conj pro:per pro:per n prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+313,and the helicopter is like twenty feet above the water .,coord det:art n cop co det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+314,and you just jump ...,coord pro:per adv n +...,ENG ENG ENG ENG,0
+315,no way !,qn n !,ENG ENG,0
+316,with full gear yeah .,prep adj n co .,ENG ENG ENG ENG,0
+317,full gear ?,adj n ?,ENG ENG,0
+318,yeah .,co .,ENG,0
+319,from like twice as high as this ...,prep co adv prep n prep pro:dem +...,ENG ENG ENG ENG ENG ENG ENG,0
+320,and how do you get picked up ?,coord pro:int mod pro:per v v adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+321,the ...,det:art +...,ENG,0
+322,a lift ?,det:art n ?,ENG ENG,0
+323,the helicopter comes down with a yeah .,det:art n v adv prep det:art co .,ENG ENG ENG ENG ENG ENG ENG,0
+324,what do you do ?,pro:int mod pro:per v ?,ENG ENG ENG ENG,0
+325,they have like a GPS on them or something for helicopters to find them at night time .,pro:sub v prep det:art n:prop prep pro:obj coord pro:indef prep n inf v pro:obj prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+326,you put a buoy .,pro:per v det:art n .,ENG ENG ENG ENG,0
+327,.,None,,0
+328,there's a buoy in certain spots .,pro:exist det:art n prep adj n .,ENG ENG ENG ENG ENG ENG,0
+329,and you have to come back to the buoy .,coord pro:per v inf v adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+330,and he said you have under water like ten or fifteen feet under water .,coord pro:sub v pro:per v adv n co det:num coord det:num n adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+331,there's a blinker that goes off on the buoy that you can see for like miles under water ...,pro:exist det:art v comp v adv prep det:art n comp pro:per mod v prep co n adv n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+332,for real ?,prep adj ?,ENG ENG,0
+333,so you just have to like ...,co pro:per adv v prep prep +...,ENG ENG ENG ENG ENG ENG,0
+334,because bro have you ever been night diving ?,conj n aux pro:per adv cop n part ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+335,no .,co .,ENG,0
+336,I've never been .,pro:sub adv cop .,ENG ENG ENG,0
+337,but my dad told me like it's the sickest craziest feeling ever .,conj det:poss n v pro:obj co pro:per det:art adj adj part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+338,because you can be be going down bro and you think you're going up .,conj pro:per mod cop aux part prep n coord pro:per v pro:per part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+339,you're going up yeah .,pro:per part adv co .,ENG ENG ENG ENG,0
+340,because you don't realize it .,conj pro:per mod v pro:per .,ENG ENG ENG ENG ENG,0
+341,so he says there's like a blinking ball just like a big light bulb .,co pro:sub v pro:exist prep det:art n:gerund n adv prep det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+342,and it just blinks and blinks and blinks like every two seconds .,coord pro:per adv v coord v coord v prep qn det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+343,so and you see it .,adv coord pro:per v pro:per .,ENG ENG ENG ENG ENG,0
+344,so and it's like ten fifteen feet under water .,co coord pro:per co det:num det:num n adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+345,so you just go back to that whenever your tank's almost out .,co pro:per adv v adv prep det:dem pro:rel det:poss adj adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+346,and the helicopter will come back .,coord det:art n mod v adv .,ENG ENG ENG ENG ENG ENG,0
+347,damn .,n .,ENG,0
+348,yeah bro the craziest story I've ever heard .,co n det:art adj n pro:sub adv part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+349,my dad told me that when he was out there building the house because my dad was in Notre_Dame he it took him six years to graduate .,det:poss n v pro:obj pro:rel conj pro:sub cop prep n n det:art n conj det:poss n cop prep n:prop pro:sub pro:per v pro:obj det:num n inf adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+350,like the School_of_Architecture at Notre_Dame takes like four and a half to five years .,prep det:art n:prop prep n:prop v co det:num coord det:art n prep det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+351,like it's a four year program .,conj pro:per det:art det:num n n .,ENG ENG ENG ENG ENG ENG,0
+352,uhuh .,co .,ENG,0
+353,but like if you don't like do summer and all that stuff like it usually takes people more than four years or whatever .,conj co conj pro:per mod v v n coord qn det:dem n prep pro:per adv v n adv prep det:num n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+354,but it took my dad six years because he took a year off and moved to Roatan and built our house out there .,conj pro:per v det:poss n det:num n conj pro:sub v det:art n adv coord v prep n:prop coord v det:poss n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+355,wow .,co .,ENG,0
+356,so he said that when he was out there bro it was like three or four o'clock one afternoon .,co pro:sub v comp conj pro:sub cop prep n n pro:per cop co det:num coord det:num n det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+357,like they just got done working .,conj pro:sub adj v part part .,ENG ENG ENG ENG ENG ENG,0
+358,he just like grabbed a case of beer and went down to the dock and our dock .,pro:sub adv co v det:art n prep n coord v adv prep det:art n coord det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+359,remember I told you my uncle had that shrimping company ?,v pro:sub v pro:per det:poss n v adv part n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+360,yeah .,co .,ENG,0
+361,my grandfather whatever .,det:poss grand#n pro:int .,ENG ENG ENG,0
+362,yeah .,co .,ENG,0
+363,wow that's like a mile down .,co pro:dem conj det:art n adv .,ENG ENG ENG ENG ENG ENG,0
+364,like we own all that land all that side of the island .,conj pro:sub v adv det:dem n adv adv n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+365,my grandparents owned like the entirety of it .,det:poss grand#n part co det:art n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+366,like they've sold a lot of it now .,co pro:sub part det:art n prep pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+367,but we own like all of it so the thing's like a mile down .,conj pro:sub v prep pro:indef prep pro:per conj det:art n prep det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+368,and the water it's not like here the beach .,coord det:art n pro:per neg conj adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+369,like it stays steady .,conj pro:per v adv .,ENG ENG ENG ENG,0
+370,like it's a steady drop .,conj pro:per det:art adj n .,ENG ENG ENG ENG ENG,0
+371,because it's like in a bay .,conj pro:per conj prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+372,like the island's right here .,prep det:art adj n adv .,ENG ENG ENG ENG ENG,0
+373,and there's a little island like a little island right here that used to be an air strip .,coord pro:exist det:art adj n prep det:art adj n adv adv pro:rel v inf cop det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+374,and then the coral reef is back here .,coord adv:tem det:art n n cop adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+375,so the water goes deep really quick .,co det:art n v n adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+376,so the dock goes out like fifty feet because bro my grandfather used to have a fifty two foot yacht out there .,co det:art n v adv co det:num n conj n det:poss grand#n v inf v det:art det:num det:num n n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+377,and the water is like a hundred feet deep at the end of the dock .,coord det:art n cop co det:art det:num n n prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+378,it's like a fifty foot dock .,pro:per conj det:art det:num n n .,ENG ENG ENG ENG ENG ENG,0
+379,so he said they were in there building the dock .,co pro:sub v pro:sub cop prep n n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+380,and they were done with like the first like twenty feet of the dock .,coord pro:sub aux part prep co det:art adj co det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+381,and he said that he saw a manta ray just like swimming bro .,coord pro:sub v comp pro:sub v det:art n n adv co part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+382,he just saw it go under the dock like farther out and then come back .,pro:sub adv v pro:per v prep det:art n prep adj adv coord adv:tem v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+383,and then he just said that he heard like a big bang .,coord adv:tem pro:sub adv v comp pro:sub v prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+384,and then he saw the dock like a piece of the dock fall into the water .,coord adv:tem pro:sub v det:art n prep det:art n prep det:art n v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+385,and he said that there was like a twelve foot hammerhead shark that was chasing the manta ray .,coord pro:sub v comp adv cop prep det:art det:num n n n pro:rel aux part det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+386,no way .,qn n .,ENG ENG,0
+387,and he went underneath the docks .,coord pro:sub v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+388,and he broke the pilings there bro .,coord pro:sub v det:art n:gerund adv n .,ENG ENG ENG ENG ENG ENG ENG,0
+389,it was probably like thirty feet deep forty feet deep where he hit it .,pro:per cop adv co det:num n adj det:num n adj pro:rel pro:sub v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+390,and the pilings are big bro .,coord det:art n:gerund cop adj n .,ENG ENG ENG ENG ENG ENG,0
+391,and he just said that he broke right through them .,coord pro:sub adv v comp pro:sub v adv prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+392,and then they just kept going .,coord adv:tem pro:sub adv v part .,ENG ENG ENG ENG ENG ENG,0
+393,oh my god .,co det:poss n .,ENG ENG ENG,0
+394,yeah bro .,co n .,ENG ENG,0
+395,that's insane man .,pro:dem in#adj n .,ENG ENG ENG,0
+396,bro we're planning a trip to Honduras next summer .,n pro:sub part det:art n prep n:prop adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+397,we're definitely going out there for like a week .,pro:sub adv part prep n prep co det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+398,well the only time I went diving was in a lake man .,co det:art qn n pro:sub v part cop prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+399,no way how was that ?,qn n pro:rel cop pro:dem ?,ENG ENG ENG ENG ENG,0
+400,it was crazy .,pro:per cop adj .,ENG ENG ENG,0
+401,dark water ?,adj n ?,ENG ENG,0
+402,yeah man it was pretty scary .,co v pro:per cop adv adj .,ENG ENG ENG ENG ENG ENG,0
+403,it was kind of like the end of the winter so the water was still cold like it had been colder the days before .,pro:per cop adj prep co det:art n prep det:art n co det:art n cop adv adj prep pro:per aux aux adj det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+404,so like I didn't even wear a wetsuit man .,adv conj pro:sub mod adv v det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+405,and lake water is colder ...,coord n n cop adj +...,ENG ENG ENG ENG ENG,0
+406,it's cold yeah .,pro:per adv co .,ENG ENG ENG,0
+407,because it's like still water .,conj pro:per conj adj n .,ENG ENG ENG ENG ENG,0
+408,mhm .,co .,ENG,0
+409,so we went diving .,co pro:sub v part .,ENG ENG ENG ENG,0
+410,and it was like forty feet deep in the lake or a little bit more so ...,coord pro:per cop prep det:num n adj prep det:art n coord det:art adj n adv adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+411,bro there's nasty stuff in lakes bro .,n pro:exist adj n prep n n .,ENG ENG ENG ENG ENG ENG ENG,0
+412,because there's something that falls in there .,conj pro:exist pro:indef pro:rel v prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+413,yeah yeah .,co co .,ENG ENG,0
+414,a hundred years later it's still there .,det:art det:num n adv pro:per adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+415,no there was like a big statue like a Jesus statue down there .,co adv cop prep det:art adj n prep det:art n:prop n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+416,no way how weird !,qn n pro:int adj !,ENG ENG ENG ENG,0
+417,yeah it was weird .,co pro:per cop adj .,ENG ENG ENG ENG,0
+418,that's creepy bro .,pro:dem adj n .,ENG ENG ENG,0
+419,no there was like signs from the street .,co adv cop prep n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+420,I was scared I was gonna be bit by something man .,pro:sub aux part pro:sub aux part cop v prep pro:indef n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+421,like the bottom of the the lake is not sand .,prep det:art n prep det:art det:art n cop neg v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+422,it's like this ...,pro:per co pro:dem +...,ENG ENG ENG,0
+423,like grass right ?,co n adj ?,ENG ENG ENG,0
+424,no it wasn't even grass man .,co pro:per cop adj n n .,ENG ENG ENG ENG ENG ENG,0
+425,.,None,,0
+426,it was like a muck man .,pro:per cop prep det:art n n .,ENG ENG ENG ENG ENG ENG,0
+427,nasty .,adj .,ENG,0
+428,like when your hand hits it it will sink into the sand .,co conj det:poss n v pro:per pro:per mod v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+429,like mud .,co n .,ENG ENG,0
+430,yeah it was ...,co pro:per cop +...,ENG ENG ENG,0
+431,nasty .,adj .,ENG,0
+432,it was like nasty mud .,pro:per cop prep adj n .,ENG ENG ENG ENG ENG,0
+433,and there was like grass all over the place .,coord adv cop co n adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+434,there was like a couple like bats swimming around .,pro:exist cop prep det:art n prep n part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+435,it's a pretty big lake .,pro:per det:art adj adj n .,ENG ENG ENG ENG ENG,0
+436,but it was so cold .,conj pro:per cop adv adv .,ENG ENG ENG ENG ENG,0
+437,I wasn't wearing a wetsuit .,pro:sub aux part det:art n .,ENG ENG ENG ENG ENG,0
+438,I got so cold that when I got out of the water my like extremities like my fingers tips ...,pro:sub v adv adv adv conj pro:sub v adv prep det:art n det:poss prep n prep det:poss n n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+439,purple .,adj .,ENG,0
+440,and my toes they got purple ...,coord det:poss n pro:sub v n +...,ENG ENG ENG ENG ENG ENG,0
+441,no way .,qn n .,ENG ENG,0
+442,and I was sitting on like the terrace .,coord pro:sub aux part adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+443,and I started shaking .,coord pro:sub v part .,ENG ENG ENG ENG,0
+444,who'd you go with ?,pro:rel pro:per v prep ?,ENG ENG ENG ENG,0
+445,it was Barry and Alex .,pro:per cop n:prop coord n:prop .,ENG ENG ENG ENG ENG,0
+446,oh yeah .,co co .,ENG ENG,0
+447,and I got out of the water .,coord pro:sub v adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+448,and I was shaking like you know like your bottom jaw starts to shake crazy .,coord pro:sub aux part conj pro:per v prep det:poss n n v inf v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+449,yeah .,co .,ENG,0
+450,and had to jump in a hot ass shower the next day .,coord v prep n prep det:art adj n n det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+451,no like right there I had to jump into a hot shower .,co v adv adv pro:sub v prep n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+452,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+453,and the next day I got the nastiest cold .,coord det:art adj n pro:sub v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+454,I was sick for like two weeks .,pro:sub cop adj prep co det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+455,yeah bro because your body stays that cold for a while .,co n conj det:poss n v adv adj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+456,yeah yeah I was cold for a while man .,co co pro:sub cop adv prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+457,I thought I was gonna like get hypothermia or something .,pro:sub v pro:sub aux part v v n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+458,yeah one time /.,co det:num n +/.,ENG ENG ENG,0
+459,I'm sure I was like at the beginning stages of hypothermia .,pro:sub adv pro:sub cop prep prep det:art n n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+460,yeah for sure .,co prep adj .,ENG ENG ENG,0
+461,but that's what most people don't like a lot of people get that like hypothermia starts like early you know what I mean ?,conj pro:dem pro:int qn n mod co det:art n prep n v adv co n v prep adv pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+462,yeah .,co .,ENG,0
+463,you can be in the first stages of it and not realize it .,pro:per mod cop prep det:art adj n prep pro:per coord neg v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+464,oh yeah for sure .,co co prep adj .,ENG ENG ENG ENG,0
+465,one time we went to Dela which is like the north coast beach in Honduras .,det:num n pro:sub v prep n:prop pro:rel cop co det:art adj n n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+466,mhm .,co .,ENG,0
+467,and we went to a Punta_Sal which is just like a little key that's off the coast or whatever .,coord pro:sub v prep det:art n:prop pro:rel cop adv prep det:art adj n pro:rel adv det:art n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+468,and bro my eyes are really really sensitive .,coord n det:poss n cop adv adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+469,like I can't like on bright days from here bro like I have to walk to class like this .,conj pro:sub mod co adv adj n prep n n conj pro:sub v inf v prep n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+470,yeah .,co .,ENG,0
+471,my eyes just water and stuff I don't know why but we went and bro I got insolado like so bad really really bad like my eyes got so swollen ...,det:poss n adj n coord n pro:sub mod v pro:int conj pro:sub v coord n pro:sub v L2 co adv adj adv adv adj prep det:poss n v adv adj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+472,.,None,,0
+473,like my eyes were swollen shut like all I can see like if you walk in front of me I can see there's somebody walking in front of me but I couldn't like see anything I couldn't like tell who you were or nothing ...,prep det:poss n aux adj part co adv pro:sub mod v co conj pro:per v prep n prep pro:obj pro:sub mod v pro:exist pro:indef part prep n prep pro:obj conj pro:sub mod v co pro:indef pro:sub mod v v pro:int pro:per cop coord pro:indef +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+474,.,None,,0
+475,I got the worst headache of my life like I don't think it was a migraine but it was the worst headache I've ever had in my life and I had to stay in bed and your whole body just feels hot bro you just feel hot the whole entire time for like a whole day bro .,pro:sub v det:art adj n prep det:poss n conj pro:sub mod v pro:per cop det:art n conj pro:per cop det:art adj n pro:sub adv part prep det:poss n coord pro:sub v inf v prep n coord det:poss adj n adv v adj n pro:per adv v adj det:art n adj n prep co det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+476,you know how I went to one I went spear fishing and and I couldn't pop my ears man I don't know why I couldn't pop my ears and I went down to get there was hot snapper on on the floor ...,pro:per v pro:int pro:sub v prep pro:indef pro:sub v n part coord coord pro:sub mod v det:poss n n pro:sub mod v pro:int pro:sub mod v det:poss n coord pro:sub v adv inf v adv cop adj n adv prep det:art n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+477,oh yeah .,co co .,ENG ENG,0
+478,we're spearing for hot snapper and I went down and my ears didn't pop and I just kept going and when I came up I got the nastiest headache .,pro:sub part prep adj n coord pro:sub v adv coord det:poss n mod v coord pro:sub adv v part coord conj pro:sub v adv pro:sub v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+479,oh yeah .,co co .,ENG ENG,0
+480,right there like .,adv adv prep .,ENG ENG ENG,0
+481,how .,pro:rel .,ENG,0
+482,it must have been like twenty feet .,pro:per mod aux aux co det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+483,and my sinuses were on fire like I ...,coord det:poss n cop prep n co pro:sub +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+484,burning .,part .,ENG,0
+485,no they weren't burning .,co pro:sub aux part .,ENG ENG ENG ENG,0
+486,the pain was ridiculous .,det:art n cop adj .,ENG ENG ENG ENG,0
+487,I had to go on the boat .,pro:sub v inf v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+488,and just close my eyes .,coord adj adj det:poss n .,ENG ENG ENG ENG ENG,0
+489,and I couldn't do anything else for the rest of that day .,coord pro:sub mod v pro:indef post prep det:art n prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+490,the worst pain I ever got I haven't told you the story .,det:art adj n pro:sub adv v pro:sub aux part pro:per det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+491,me and my cousin were messing around at my grandmother's house .,pro:obj coord det:poss n aux part adv prep det:poss grand#adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+492,and it was her birthday .,coord pro:per cop det:poss n .,ENG ENG ENG ENG ENG,0
+493,and she was having like a huge event .,coord pro:sub aux part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+494,like the newspaper was coming and stuff .,prep det:art n aux part coord n .,ENG ENG ENG ENG ENG ENG ENG,0
+495,like huge huge thing .,prep adj adj n .,ENG ENG ENG ENG,0
+496,so like right before even starting like in the morning me and my cousin went there it's like ...,adv v adv prep adv part conj prep det:art n pro:obj coord det:poss n v adv pro:per conj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+497,in Honduras like my grandmother's house like my aunt's house is inside the gates because she is the youngest one .,prep n:prop prep det:poss grand#adj n prep det:poss adj n cop prep det:art n conj pro:sub cop det:art adj pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+498,so my grandfather made her a house because she is the only one there .,adv det:poss grand#n v pro:obj det:art n conj pro:sub cop det:art qn pro:indef adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+499,like she came to school here but she moved back as soon as she graduated .,conj pro:sub v prep n adv conj pro:sub v adv adv adv conj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+500,ahhah .,co .,ENG,0
+501,everybody else in my dad's family like when they came to school here they stayed here for at least a couple years .,pro:indef post prep det:poss adj n prep pro:int pro:sub v prep n adv pro:sub v adv prep prep adj det:art qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+502,so they made her a house over there .,co pro:sub v pro:obj det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+503,and it's like my cousin's house my grandmother's house's stables and then my house .,coord pro:per co det:poss adj n det:poss grand#adj adj n coord adv:tem det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+504,so I was always at my grandmother's house with my cousin .,co pro:sub cop adv prep det:poss grand#adj n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+505,like after school you just get dropped off there .,prep prep n pro:per adv aux part prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+506,and like just chill there all day .,coord co adj n adv qn n .,ENG ENG ENG ENG ENG ENG ENG,0
+507,so we spent the night there .,co pro:sub v det:art n adv .,ENG ENG ENG ENG ENG ENG,0
+508,and like ten in the morning bro we were messing out in the backyard .,coord co det:num prep det:art n n pro:sub aux part adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+509,and I was like nine or ten and he was like twelve or thirteen .,coord pro:sub cop co det:num coord det:num coord pro:sub cop co det:num coord det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+510,and bro he starts pissing .,coord n pro:sub v part .,ENG ENG ENG ENG ENG,0
+511,and like we were both pissing .,coord co pro:sub cop qn part .,ENG ENG ENG ENG ENG ENG,0
+512,and then like in the back of my grandmother's house .,coord adv:tem v prep det:art n prep det:poss grand#adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+513,and bro he's going and then he pees on me bro .,coord n pro:sub part coord adv:tem pro:sub v prep pro:obj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+514,no .,co .,ENG,0
+515,.,None,,0
+516,.,None,,0
+517,and it's like on a hill so like there is a street there was sticking out that way so like I jumped up on the tree like that .,coord pro:per co prep det:art n adv conj adv cop det:art n adv aux part prep adv adv adv conj pro:sub v adv prep det:art n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+518,and like I started going like that like I stumbled on my foot ...,coord conj pro:sub v n:gerund co adv conj pro:sub v prep det:poss n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+519,oh .,co .,ENG,0
+520,there was a beehive ...,pro:exist cop det:art n +...,ENG ENG ENG ENG,0
+521,a beehive !,det:art n !,ENG ENG,0
+522,I couldn't the bar bro .,pro:sub mod det:art n n .,ENG ENG ENG ENG ENG,0
+523,I had to tie them and I went to hospital they said I had over sixty bees stings like they bite .,pro:sub v inf v pro:obj coord pro:sub v prep n pro:sub v pro:sub v adv det:num n n co pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+524,no way .,qn n .,ENG ENG,0
+525,"the doctor goes ""/.","det:art n v +""/.",ENG ENG ENG,0
+526,thank god you're not allergic .,v n pro:per neg adj .,ENG ENG ENG ENG ENG,0
+527,if you're allergic you would've been dead in like two minutes .,conj pro:per adj pro:per mod cop adj prep co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+528,holy shit .,adj n .,ENG ENG,0
+529,bro so I feel it in my leg first my right leg .,n conj pro:sub v pro:per prep det:poss n adv det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+530,and I jumped off the tree bro and I just it I just started running .,coord pro:sub v prep det:art n n coord pro:sub adv pro:per pro:sub adv v part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+531,.,None,,0
+532,because I'm getting attacked by bees .,conj pro:sub part part prep n .,ENG ENG ENG ENG ENG ENG,0
+533,and I listen ...,coord pro:sub v +...,ENG ENG ENG,0
+534,they follow you man they're fast .,pro:sub v pro:per n pro:sub n .,ENG ENG ENG ENG ENG ENG,0
+535,yeah .,co .,ENG,0
+536,bro I was just running .,n pro:sub aux adv part .,ENG ENG ENG ENG ENG,0
+537,and bro say I got attacked right here I didn't even start feeling the bees until I got until like the bro .,coord n v pro:sub aux part adv adv pro:sub mod adv v part det:art n conj pro:sub v prep prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+538,and I get inside and like at first I was so like following and stuff that like it didn't really even hurt .,coord pro:sub v n coord co prep adj pro:sub cop adv co part coord n pro:rel prep pro:per mod adv adv v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+539,you didn't feel it yeah .,pro:per mod v pro:per co .,ENG ENG ENG ENG ENG,0
+540,I felt swollen you know like someone .,pro:sub v adj pro:per v prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+541,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+542,when a part of your body is swollen you can feel your heart beating .,conj det:art n prep det:poss n aux part pro:per mod v det:poss n part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+543,no yeah yeah .,co co co .,ENG ENG ENG,0
+544,.,None,,0
+545,I felt like that all over my body ...,pro:sub n co adv adv prep det:poss n +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+546,.,None,,0
+547,like my head my chest my arms my feet my toes everything I'm just feeling my pulse .,prep det:poss n det:poss n det:poss n det:poss n co n pro:indef pro:sub adv part det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+548,and I get in there .,coord pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+549,and so when we're finally starting to get to the house I walk inside .,coord co pro:rel pro:sub adv part inf v prep det:art n pro:sub n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+550,and I to the kitchen and my grandmother is there .,coord pro:sub prep det:art n coord det:poss grand#n cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+551,and my cousin is like Brandon was attacked by bees .,coord det:poss n cop co n:prop aux part prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+552,and bro I was bad like I was crying ...,coord n pro:sub cop adj co pro:sub aux part +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+553,.,None,,0
+554,I was like starting to shake at this point .,pro:sub cop co part inf v prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+555,and she just looks at me and she goes esto es lo único que me faltaba de mi cumpleaños like one hour .,coord pro:sub adv v prep pro:obj coord pro:sub v L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 co det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+556,oh yeah .,co co .,ENG ENG,0
+557,after she said no no no .,conj pro:sub v co co co .,ENG ENG ENG ENG ENG ENG,0
+558,and bro she like came out of the kitchen .,coord n pro:sub v v adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+559,and like they didn't even like deal with me .,coord conj pro:sub mod adv conj n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+560,and I was just like I'm too busy for this whatever .,coord pro:sub cop adv prep pro:sub adv adj prep det:dem pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+561,oh my god man .,co det:poss n n .,ENG ENG ENG ENG,0
+562,bro we go upstairs like to the room upstairs and I just jumped .,n pro:sub v adv co prep det:art n adv coord pro:sub adv part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+563,and he called my mom .,coord pro:sub v det:poss n .,ENG ENG ENG ENG ENG,0
+564,and bro at this point like bro the most ridiculous pain in my life .,coord n prep det:dem n co n det:art qn adj n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+565,like I couldn't even handle it .,conj pro:sub mod adv v pro:per .,ENG ENG ENG ENG ENG ENG,0
+566,I was just there with my eyes closed crying like just crying crying crying bro .,pro:sub cop adv adv prep det:poss n v part conj adv part part part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+567,It was horrible .,n:prop cop adj .,ENG ENG ENG,0
+568,I was almost like I will put them in a cold shower .,pro:sub cop adv co pro:sub mod v pro:obj prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+569,because like it makes the swelling go down .,conj prep pro:per v det:art n:gerund v adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+570,yeah .,co .,ENG,0
+571,the come out .,det:art v adv .,ENG ENG ENG,0
+572,and the and bro she gets there .,coord det:art coord n pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG,0
+573,and she came over like a little bottle of .,coord pro:sub v adv prep det:art adj n prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+574,"because I guess when my cousin told her , she didn't even think it was that bad .",conj pro:sub v conj det:poss n v pro:obj cm pro:sub mod adv v pro:per cop det:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+575,and bro she just looks at me .,coord n pro:sub adv v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+576,she's like oh you gotta go to the hospital so she called the ER .,pro:sub co co pro:per mod v prep det:art n conj pro:sub v det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+577,and it was like bro I came right in .,coord pro:per cop co n pro:sub v adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+578,they took me in and they put me to sleep like as soon as I got there .,pro:sub v pro:obj prep coord pro:sub v pro:obj prep n prep adv adv conj pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+579,they were like oh my god this is bad .,pro:sub cop co co det:poss co pro:dem cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+580,the doctor looked at me .,det:art n v prep pro:obj .,ENG ENG ENG ENG ENG,0
+581,and he's been my doctor like my whole life .,coord pro:sub aux det:poss n prep det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+582,and he's like cuánto te duele ?,coord pro:sub co L2 L2 L2 ?,ENG ENG ENG ESP ESP ESP,1
+583,and bro I couldn't even see I was crying .,coord n pro:sub mod adv v pro:sub aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+584,and so they put me to sleep .,coord co pro:sub v pro:obj inf v .,ENG ENG ENG ENG ENG ENG ENG,0
+585,and the last thing I remember bro there's a syringe like the needle wasn't that big but the syringe bro was like that fat .,coord det:art adj n pro:sub v n pro:exist det:art n prep det:art n cop det:dem adj conj det:art n n cop prep pro:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+586,and they just pumped it and like I felt it going in and it felt really cold .,coord pro:sub adv v pro:per coord co pro:sub v pro:per part adv coord pro:per n adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+587,and then like ...,coord adv:tem conj +...,ENG ENG ENG,0
+588,you're just knocked out .,pro:per adv part adv .,ENG ENG ENG ENG,0
+589,I felt it's up here and then like I felt asleep .,pro:sub v pro:per prep n coord adv:tem conj pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+590,yeah .,co .,ENG,0
+591,bro but that pain it was ridiculous like just I threw up in pain in my entire body .,n conj det:dem n pro:per cop adj prep adv pro:sub v adv prep n prep det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+592,did you still have the stingers in when you went in ?,mod pro:per adj v det:art n adv conj pro:per v adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+593,yeah I still had some of them .,co pro:sub adv v pro:indef prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+594,the doctor said all of them wouldn't even come out till the next day .,det:art n v pro:indef prep pro:obj mod adv v adv v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+595,no way .,qn n .,ENG ENG,0
+596,he was like do you wanna pull each one out like do it .,pro:sub cop prep v pro:per v v qn pro:indef adv prep v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+597,but he was like we gave you something for the swelling so when the swelling will be gone by tomorrow and they'll just pop out on their own .,conj pro:sub cop co pro:sub v pro:per pro:indef prep det:art n:gerund adv conj det:art n:gerund mod aux part adv adv:tem coord pro:sub adv n adv prep det:poss adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+598,wow .,co .,ENG,0
+599,I woke up and I had the worst headache ever and then like I just bro .,pro:sub v adv coord pro:sub v det:art adj n adv coord adv:tem conj pro:sub adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+600,your all the medicine .,det:poss qn det:art n .,ENG ENG ENG ENG,0
+601,yeah .,co .,ENG,0
+602,and oh my god it was horrible bro .,coord co det:poss n pro:per cop adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+603,and I had like ten in my head .,coord pro:sub v co det:num prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+604,and that ...,coord pro:dem +...,ENG ENG,0
+605,ten ?,det:num ?,ENG,0
+606,yeah that's where I could feel the pain the worst .,co pro:dem pro:int pro:sub mod v det:art n det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+607,wow .,co .,ENG,0
+608,it was horrible .,pro:per cop adj .,ENG ENG ENG,0
+609,yeah man .,co n .,ENG ENG,0
+610,what time ?,pro:int n ?,ENG ENG,0
+611,soon you're like it .,adv pro:per v pro:per .,ENG ENG ENG ENG,0
+612,.,None,,0
+613,oh I forgot to tell you the funniest thing happened .,co pro:sub v inf v pro:per det:art adj n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+614,remember ?,co ?,ENG,0
+615,yeah .,co .,ENG,0
+616,the one that we met .,det:art pro:indef pro:rel pro:sub v .,ENG ENG ENG ENG ENG,0
+617,he went diving one time with a hose like you know they have the pump on the top .,pro:sub v part det:num n prep det:art n prep pro:per v pro:sub v det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+618,yeah .,co .,ENG,0
+619,yeah .,co .,ENG,0
+620,and then you have another hose that you can use it like for lobstering .,coord adv:tem pro:per v qn n pro:rel pro:per mod v pro:per co prep n:gerund .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+621,yeah .,co .,ENG,0
+622,and he was using it one time and he got a bubble .,coord pro:sub aux part pro:per det:num n coord pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+623,in the hose ?,prep det:art n ?,ENG ENG ENG,0
+624,in a ...,prep det:art +...,ENG ENG,0
+625,or in his chest ?,coord prep det:poss n ?,ENG ENG ENG ENG,0
+626,in his chest .,prep det:poss n .,ENG ENG ENG,0
+627,no way .,qn n .,ENG ENG,0
+628,it was like something in his lung or something in his lung hey when he called the pharmacy asking my mum she's like oh chief you know what I do .,pro:per cop prep pro:indef prep det:poss n coord pro:indef prep det:poss n co conj pro:sub v det:art n part det:poss n pro:sub co co n pro:per v pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+629,and bro when he was talking he sounded like he had a pinched nose was talking like that .,coord n conj pro:sub aux part pro:sub part co pro:sub v det:art part n cop n:gerund co pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+630,.,None,,0
+631,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+632,and my boss said oh vete para el vete para el hospital estas loco like ...,coord det:poss n v co L2 L2 L2 L2 L2 L2 L2 L2 L2 prep +...,ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+633,that was dangerous .,pro:dem cop adj .,ENG ENG ENG,0
+634,yeah you could die and he went to the hospital and I think they said he had like a nitrogen mower or something built up in his lung something like that .,co pro:per mod v coord pro:sub v prep det:art n coord pro:sub v pro:sub v pro:sub v co det:art n n coord pro:indef v adv prep det:poss n pro:indef prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+635,.,None,,0
+636,bro that can't be healthy .,n pro:rel mod aux adj .,ENG ENG ENG ENG ENG,0
+637,he could've died if one of those bowls goes to your brain you're dead .,pro:sub mod part conj pro:indef prep det:dem n v prep det:poss n pro:per adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+638,done for it .,part prep pro:per .,ENG ENG ENG,0
+639,bro she has to do with her lungs but she told me how she was going to the club one day with some of her friends .,n pro:sub aux inf v prep det:poss n conj pro:sub v pro:obj pro:int pro:sub aux part prep det:art n pro:indef n prep pro:indef prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+640,and they were in Honduras .,coord pro:sub cop prep n:prop .,ENG ENG ENG ENG ENG,0
+641,and like they got in a car accident .,coord co pro:sub v prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+642,and she had just gotten out of the car .,coord pro:sub aux adv part adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+643,and they went to like across the street to the gas station to to get cigarettes or something .,coord pro:sub v prep co prep det:art n prep det:art n n prep inf v n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+644,and they came back like they got in a bad accident or something .,coord pro:sub v adv conj pro:sub v prep det:art adj n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+645,and like the car had flipped or whatever .,coord co det:art n aux part coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+646,but everybody there was fine like the girl that was in the passenger seat like went to the hospital and she broke her arm or whatever .,conj pro:indef adv cop adj prep det:art n pro:rel cop prep det:art n n co v prep det:art n coord pro:sub v det:poss n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+647,and the dude that was driving was like no no I feel fine like my mother //.,coord det:art n pro:rel aux part cop co qn co pro:sub v adv prep det:poss n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+648,and his mom was a doctor or whatever .,coord det:poss n cop det:art n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+649,so he was like I'm just gonna go home and gonna have my mom look at it .,co pro:sub cop prep pro:sub adv part v adv coord part v det:poss n v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+650,and he went home .,coord pro:sub v adv .,ENG ENG ENG ENG,0
+651,and he died in his driveway bro in his car .,coord pro:sub v prep det:poss n n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+652,yeah .,co .,ENG,0
+653,his lungs ...,det:poss n +...,ENG ENG,0
+654,the seatbelt .,det:art n .,ENG ENG,0
+655,yeah one of his ribs broke and punctured his lung .,co det:num prep det:poss n adj coord v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+656,his lung yeah .,det:poss n co .,ENG ENG ENG,0
+657,and he choke on his blood like horrible way to die .,coord pro:sub v prep det:poss n prep adj n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+658,yeah that's how I remember it man I told you man when you got that eye symptom to get checked out because that shit can happen .,co pro:dem pro:int pro:sub v pro:per v pro:sub v pro:per n conj pro:per v det:dem n n inf aux part adv conj pro:dem n mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+659,yeah definitely .,co adv .,ENG ENG,0
+660,you can not even notice that you're like injured profusely inside .,pro:per mod neg adj n pro:rel pro:per co v adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+661,yeah bro the next day I woke up and my back was killing me bro my back hurt so bad .,co n det:art adj n pro:sub v adv coord det:poss n aux part pro:obj n det:poss n part adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+662,no not even that you could have internal bleeding somewhere and not even know it .,co neg v comp pro:per mod v adj part adv coord neg adv v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+663,yeah .,co .,ENG,0
+664,bro that scared that bro that was scaring me straight though like I haven't even thought about it for so long .,n pro:rel v det:dem n pro:rel aux part pro:obj adj adv conj pro:sub aux adj n prep pro:per prep adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+665,.,None,,0
+666,yeah man .,co n .,ENG ENG,0
+667,it was probably the worst thing that's happened to me in a year .,pro:per cop adv det:art adj n pro:rel part prep pro:obj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+668,bro I can't one year eating on my street ...,n pro:sub mod det:num n part prep det:poss n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+669,.,None,,0
+670,yeah I figure .,co pro:sub v .,ENG ENG ENG,0
+671,yeah bro .,co n .,ENG ENG,0
+672,that he was going to be looking like at your surroundings when you're driving .,comp pro:sub aux part inf aux n:gerund co prep det:poss n pro:rel pro:per part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+673,yeah .,co .,ENG,0
+674,and try not to pay attention to other things because you only have like that one little second ...,coord v neg prep n n prep qn n conj pro:per adv v co adv det:num adj n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+675,a split second man .,det:art n adj n .,ENG ENG ENG ENG,0
+676,to react and if you don't yeah you're done .,inf v coord conj pro:per mod co pro:per part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+677,you're done bro .,pro:per part n .,ENG ENG ENG,0
+678,that's so crazy man .,pro:dem adv adj n .,ENG ENG ENG ENG,0
+679,that happened to my dad when he was fifteen he got hit by an eighteen wheeler he was crossing the street and the driver didn't see him and he nailed him he was in a coma for like a long time .,pro:rel part prep det:poss n conj pro:sub cop det:num pro:sub v n prep det:art det:num n pro:sub aux part det:art n coord det:art n mod v pro:obj coord pro:sub v pro:obj pro:sub cop prep det:art n prep co det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+680,.,None,,0
+681,the doctor said that he wasn't gonna make it that he was gonna die .,det:art n v comp pro:sub aux part v pro:per pro:rel pro:sub aux part v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+682,damn .,n .,ENG,0
+683,like if you look like at his eyebrow .,v conj pro:per co co prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+684,how fast was in the eighteen wheeler ?,pro:int n cop prep det:art det:num n ?,ENG ENG ENG ENG ENG ENG ENG,0
+685,I don't know but you know way ...,pro:sub mod v conj pro:per v adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+686,mile an hour .,n det:art n .,ENG ENG ENG,0
+687,yeah it was an eighteen wheeler man do you know how much weight that thing has behind it ?,co pro:per cop det:art det:num n n v pro:per v pro:int qn n det:dem n aux adv pro:per ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+688,.,None,,0
+689,yeah .,co .,ENG,0
+690,yeah bro it's how hard it is .,co n pro:per pro:int adj pro:per cop .,ENG ENG ENG ENG ENG ENG ENG,0
+691,and so yeah he was in a coma for a long time .,coord co co pro:sub cop prep det:art n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+692,and the doctors said my grandma would say oh you know what can you do for him dies like ah it's in god's hands now .,coord det:art n v det:poss grand#n mod v co pro:per v pro:int mod pro:per v prep pro:obj n co co pro:per prep adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+693,yeah for real .,co prep adj .,ENG ENG ENG,0
+694,there's nothing we can do .,pro:exist pro:indef pro:sub mod v .,ENG ENG ENG ENG ENG,0
+695,it's horrible huh .,pro:per adj co .,ENG ENG ENG,0
+696,because imagine when you get a brain trauma like that your brain swells you get swelling in your brain if you know what I 0mean .,conj v conj pro:per v det:art n n prep pro:dem det:poss n n pro:per v part prep det:poss n conj pro:per v pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+697,yeah .,co .,ENG,0
+698,oh my god .,co det:poss n .,ENG ENG ENG,0
+699,I was watching Family_Guy .,pro:sub aux part n:prop .,ENG ENG ENG ENG,0
+700,and you've ever seen one when Richie learns how to ride a bike and then the bullies steals his bike or whatever ?,coord pro:per adv part pro:indef conj n:prop v pro:int inf v det:art n coord adv:tem det:art n v det:poss n coord pro:int ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+701,I don't remember that one .,pro:sub mod v comp pro:indef .,ENG ENG ENG ENG ENG,0
+702,what's his name is oh my god I bro .,pro:int det:poss n cop co det:poss n pro:sub n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+703,Robert .,n:prop .,ENG,0
+704,yeah Robert and he's filming Richie right on the bike .,co n:prop coord pro:sub part n:prop adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+705,and then bro like a bag around and he's like ...,coord adv:tem n prep det:art n adv coord pro:sub prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+706,he starts smiling like in American_Beauty .,pro:sub v part conj prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+707,.,None,,0
+708,yeah yeah he says oh my god it's so beautiful .,co co pro:sub v co det:poss n pro:per adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+709,or a beautiful life was it ?,coord det:art adj n cop pro:per ?,ENG ENG ENG ENG ENG ENG,0
+710,yeah I don't know .,co pro:sub mod v .,ENG ENG ENG ENG,0
+711,I think it's a beautiful mind .,pro:sub v pro:per det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+712,one yeah a beautiful mind .,det:num co det:art adj n .,ENG ENG ENG ENG ENG,0
+713,bro and you know how in Family_Guy some stuff runs on forever for like forty five seconds is like filming the bag .,n coord pro:per v pro:int prep n:prop qn n v adv adv:tem prep co det:num det:num n cop co part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+714,yeah .,co .,ENG,0
+715,and he's like oh it's so beautiful .,coord pro:sub co co pro:per adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+716,and then they like show a clip of god upstairs .,coord adv:tem pro:sub v v det:art n prep co adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+717,and he's like that's not beautiful you should take a look at your circulatory system .,coord pro:sub co pro:dem neg adj pro:per mod v det:art v prep det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+718,oh god .,co n .,ENG ENG,0
+719,I wanna take an anatomy class .,pro:sub v v det:art n n .,ENG ENG ENG ENG ENG ENG,0
+720,anatomy's hard man .,adj adj n .,ENG ENG ENG,0
+721,.,None,,0
+722,it's a lot harder than everybody thinks it is .,pro:per det:art n adj prep pro:indef v pro:per cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+723,yeah .,co .,ENG,0

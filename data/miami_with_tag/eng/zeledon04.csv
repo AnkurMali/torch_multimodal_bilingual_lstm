@@ -1,0 +1,826 @@
+,sentence,pos,language,switch
+0,el tema es del manicure y pedicure que los hombres se hacen .,L2 L2 L2 L2 n L2 n L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ENG ESP ENG ESP ESP ESP ESP ESP,1
+1,qué piensa usted de eso ?,pro:int v pro:sub prep pro:dem ?,ENG ENG ENG ENG ENG,0
+2,I think it's nice to have manicures and pedicures .,pro:sub v pro:per adj inf v n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+3,it's ...,pro:per +...,ENG,0
+4,yo pienso que es bien que /.,pro:sub v pro:rel cop adv pro:rel +/.,ENG ENG ENG ENG ENG ENG,0
+5,a ti te gusta eso ?,aprep pro:prep pro:obj v pro:dem ?,ENG ENG ENG ENG ENG,0
+6,sí no yo a mí no me gusta pero ...,co adv pro:sub aprep pro:prep adv pro:obj v conj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,yo creo que a ti te gusta no ?,pro:sub v pro:rel aprep pro:prep pro:obj v adv ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+8,no a mí no me gusta .,adv aprep pro:prep adv pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+9,yo estoy preguntándote .,pro:sub aux ger .,ENG ENG ENG,0
+10,pero si tú dices que a ti te gusta y te parece nice yo respeto tu /.,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 adj L2 L2 L2 +/.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP,1
+11,no para otra persona .,adv prep det:indef n .,ENG ENG ENG ENG,0
+12,yo respeto tu forma de pensar .,pro:sub v det:pos v prep inf .,ENG ENG ENG ENG ENG ENG,0
+13,not for me .,neg prep pro:obj .,ENG ENG ENG,0
+14,what about you ?,pro:int adv pro:per ?,ENG ENG ENG,0
+15,are you what they call a metrosexual ?,cop pro:per pro:int pro:sub v det:art adj ?,ENG ENG ENG ENG ENG ENG ENG,0
+16,yo no yo no me lo hago .,pro:sub adv pro:sub adv pro:obj pro:obj v .,ENG ENG ENG ENG ENG ENG ENG,0
+17,yo no me lo hago y /.,pro:sub adv pro:obj pro:obj v coord +/.,ENG ENG ENG ENG ENG ENG,0
+18,no pero just going on to something else .,co L2 adv part adv prep pro:indef post .,ENG ESP ENG ENG ENG ENG ENG ENG,1
+19,are you a metrosexual ?,cop pro:per det:art adj ?,ENG ENG ENG ENG,0
+20,oh no I'm not .,co co pro:sub neg .,ENG ENG ENG ENG,0
+21,tú no crees ?,pro:sub adv v ?,ENG ENG ENG,0
+22,no .,adv .,ENG,0
+23,yo creo que me lo hago simplemente para if I have a party or something like that .,L2 L2 L2 L2 L2 L2 L2 L2 conj pro:sub v det:art n coord pro:indef prep pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+24,if you have a party .,conj pro:per v det:art n .,ENG ENG ENG ENG ENG,0
+25,if I have a party you know I want to look nice that's it .,conj pro:sub v det:art n pro:per v pro:sub v inf v adj pro:dem pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+26,pero no porque necesito you know hacérmelo siempre .,L2 L2 L2 L2 pro:per v L2 L2 .,ESP ESP ESP ESP ENG ENG ESP ESP,1
+27,mhm mhm yo nunca lo he hecho .,co co L2 L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP ESP,1
+28,ah ?,co ?,ENG,0
+29,fiestas sin fiestas nunca lo he hecho yo .,n prep n adv pro:obj aux part pro:sub .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+30,no ?,adv ?,ENG,0
+31,no I'm sorry .,co pro:sub adj .,ENG ENG ENG,0
+32,pero ahora mismo tú me estabas diciendo que te gustaba y te parecía nice .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 adj .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+33,mira para otros no para mí .,L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP,0
+34,a mí no me importa .,aprep pro:prep adv pro:obj v .,ENG ENG ENG ENG ENG,0
+35,o sea que ...,coord cop pro:rel +...,ENG ENG ENG,0
+36,I don't care if somebody else does it .,pro:sub mod v comp pro:indef post mod pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+37,so in some ways you like to watch the of your friends and /.,adv prep qn n pro:per v inf v det:art prep det:poss n coord +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+38,I don't care I don't mind if somebody does .,pro:sub mod v pro:sub mod n comp pro:indef v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+39,and things like that .,coord n prep pro:dem .,ENG ENG ENG ENG,0
+40,yeah if they want to they /.,co conj pro:sub v prep pro:sub +/.,ENG ENG ENG ENG ENG ENG,0
+41,I bite my nails so I don't care .,pro:sub v det:poss n conj pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+42,oh .,co .,ENG,0
+43,yeah .,co .,ENG,0
+44,why you bite your nails because you are nervous ?,pro:int pro:per v det:poss n conj pro:per cop adj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+45,because I'm nervous .,conj pro:sub adj .,ENG ENG ENG,0
+46,I'm always nervous .,pro:sub adv adj .,ENG ENG ENG,0
+47,estoy nervioso siempre .,aux adj adv .,ENG ENG ENG,0
+48,sí ?,co ?,ENG,0
+49,siempre .,adv .,ENG,0
+50,oh my god .,co det:poss n .,ENG ENG ENG,0
+51,yeah .,co .,ENG,0
+52,y ese tipo de nervios why is that ?,L2 L2 L2 L2 L2 pro:int cop pro:dem ?,ESP ESP ESP ESP ESP ENG ENG ENG,1
+53,could be anything .,mod cop pro:indef .,ENG ENG ENG,0
+54,could be life .,mod cop n .,ENG ENG ENG,0
+55,could be about business .,mod cop prep n .,ENG ENG ENG ENG,0
+56,it could be about my children .,pro:per mod cop prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+57,something about it related to your nails also ?,pro:indef prep pro:per v prep det:poss n adv ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+58,no my nails no nada .,qn det:poss n co L2 .,ENG ENG ENG ENG ESP,1
+59,ah ?,co ?,ENG,0
+60,nada it has nothing to do with my nails .,L2 pro:per aux pro:indef inf v prep det:poss n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+61,oh parece que te preocupa mucho lo de las uñas .,co v pro:rel pro:obj v adv pro:obj v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+62,no yo sí no .,adv pro:sub co adv .,ENG ENG ENG ENG,0
+63,y usted cómo te vistes ?,coord pro:sub pro:int pro:obj v ?,ENG ENG ENG ENG ENG,0
+64,.,None,,0
+65,perdón .,co .,ENG,0
+66,yo me visto normal .,pro:sub pro:obj part adj .,ENG ENG ENG ENG,0
+67,mhm .,co .,ENG,0
+68,como militar y todo .,adv inf coord pro:indef .,ENG ENG ENG ENG,0
+69,eso no tiene nada nada que ver con las uñas .,pro:dem adv v pro:indef v pro:rel inf prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+70,.,None,,0
+71,no but it it has to do with the metrosexual thing .,co conj pro:per pro:per aux inf v prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+72,no no porque Castro viste así .,co co L2 n:prop L2 L2 .,ENG ENG ESP ENG ESP ESP,1
+73,viejo you know what I feel about Castro too right ?,L2 pro:per v pro:int pro:sub v prep n:prop post co ?,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+74,.,None,,0
+75,.,None,,0
+76,not that I care because /.,neg pro:rel pro:sub n conj +/.,ENG ENG ENG ENG ENG,0
+77,but that's why you get Cubans so /.,conj pro:rel pro:rel pro:per v n:prop adv +/.,ENG ENG ENG ENG ENG ENG ENG,0
+78,but I'm nice so I don't care .,conj pro:sub adj conj pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG,0
+79,.,None,,0
+80,but I don't care .,conj pro:sub mod v .,ENG ENG ENG ENG,0
+81,.,None,,0
+82,no but /.,co conj +/.,ENG ENG,0
+83,but that the village people also wore /.,conj adv det:art n n adv v +/.,ENG ENG ENG ENG ENG ENG ENG,0
+84,what ?,pro:int ?,ENG,0
+85,clothes like that like .,n:pt prep pro:dem prep .,ENG ENG ENG ENG,0
+86,this ?,pro:dem ?,ENG,0
+87,yeah there was a guy that was military .,co adv cop det:art n pro:rel cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+88,there was a policeman .,pro:exist cop det:art n .,ENG ENG ENG ENG,0
+89,and I've seen him dressed like that a couple of times .,coord pro:sub part pro:obj part co adv det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+90,you have moustache yeah .,pro:per v n co .,ENG ENG ENG ENG,0
+91,I see you .,pro:sub v pro:per .,ENG ENG ENG,0
+92,you know why are you getting away from that ?,pro:per v pro:int aux pro:per part adv prep pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+93,no no no no no .,adv adv adv adv adv .,ENG ENG ENG ENG ENG,0
+94,no no no .,adv adv adv .,ENG ENG ENG,0
+95,está bien //.,cop adv +//.,ENG ENG,0
+96,vamos ...,co +...,ENG,0
+97,vamos a hablar .,v aprep inf .,ENG ENG ENG,0
+98,people also have a lot of moustache .,n adv v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+99,people yeah not that much .,n co neg pro:rel adv .,ENG ENG ENG ENG ENG,0
+100,they are huge moustache you know .,pro:sub cop adj n pro:per v .,ENG ENG ENG ENG ENG ENG,0
+101,yeah but mine is very trimmed .,co conj pro:poss aux adv part .,ENG ENG ENG ENG ENG ENG,0
+102,el mío es bien ...,det:art pro:pos cop adv +...,ENG ENG ENG ENG,0
+103,ah ?,co ?,ENG,0
+104,it's manicure .,pro:per n .,ENG ENG,0
+105,.,None,,0
+106,what the yeah I know .,pro:int det:art co pro:sub v .,ENG ENG ENG ENG ENG,0
+107,so a ti te gustaría ir a Cuba con las uñas bien cortadas .,co aprep pro:prep pro:obj v inf aprep n:prop prep det:art n adv part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+108,.,None,,0
+109,a Cuba ?,aprep n:prop ?,ENG ENG,0
+110,I'm not Cuban so I wouldn't know .,pro:sub neg n:prop conj pro:sub mod v .,ENG ENG ENG ENG ENG ENG ENG,0
+111,but your wife is Cuban .,conj det:poss n cop n:prop .,ENG ENG ENG ENG ENG,0
+112,no she doesn't wanna go to Cuba .,co pro:sub mod v v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+113,now que Fidel que se va a morir .,adv L2 n:prop L2 L2 L2 L2 L2 .,ENG ESP ENG ESP ESP ESP ESP ESP,1
+114,now he is gonna be dead so probably they are gonna open the tourist .,adv pro:sub aux part cop adj adv adv pro:sub aux part v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+115,no y el hermano de él el hermano todavía está no no .,adv coord det:art n prep pro:sub det:art n adv cop adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+116,I'm not going there .,pro:sub neg part adv .,ENG ENG ENG ENG,0
+117,no ?,co ?,ENG,0
+118,no .,co .,ENG,0
+119,so it doesn't call your attention ?,co pro:per mod v det:poss n ?,ENG ENG ENG ENG ENG ENG,0
+120,no .,adv .,ENG,0
+121,para nada .,prep v .,ENG ENG,0
+122,maybe para visitar a la familia de ella pero ...,adv L2 L2 L2 L2 L2 L2 L2 L2 +...,ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+123,con el manicure hecho .,L2 L2 n L2 .,ESP ESP ENG ESP,1
+124,con el manicure hecho está bien .,L2 L2 n L2 L2 L2 .,ESP ESP ENG ESP ESP ESP,1
+125,so al comienzo you said to me that you are never gonna do it now you have said that ...,co L2 L2 pro:per v prep pro:obj comp pro:per aux adv part v pro:per adv pro:per v v pro:dem +...,ENG ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+126,.,None,,0
+127,well if I have to I have to .,co conj pro:sub v prep pro:sub v prep .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+128,.,None,,0
+129,ajá .,co .,ENG,0
+130,.,None,,0
+131,if I have to I have to .,conj pro:sub v prep pro:sub v prep .,ENG ENG ENG ENG ENG ENG ENG,0
+132,what can I tell you .,pro:int mod pro:sub v pro:per .,ENG ENG ENG ENG ENG,0
+133,so you changed your mind .,co pro:per v det:poss n .,ENG ENG ENG ENG ENG,0
+134,yeah I change my mind a lot .,co pro:sub v det:poss n det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+135,that's bad .,pro:dem adj .,ENG ENG,0
+136,yeah sometimes I have friends .,co adv pro:sub v n .,ENG ENG ENG ENG ENG,0
+137,and then sometimes I change my mind .,coord adv:tem adv pro:sub v det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+138,and then they are not my friends anymore .,coord adv:tem pro:sub cop neg det:poss n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+139,depending on the conversation .,part prep det:art n .,ENG ENG ENG ENG,0
+140,what about your friend Nick ?,pro:int adv det:poss n n:prop ?,ENG ENG ENG ENG ENG,0
+141,your friend Nick does the manicure also ?,det:poss n n:prop v det:art n adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+142,no .,co .,ENG,0
+143,not at all .,neg prep pro:indef .,ENG ENG ENG,0
+144,and pedicure ?,coord n ?,ENG ENG,0
+145,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+146,maybe he does .,adv pro:sub v .,ENG ENG ENG,0
+147,.,None,,0
+148,what about pedicure ?,pro:int prep n ?,ENG ENG ENG,0
+149,no sé posiblemente .,adv v adv:adj .,ENG ENG ENG,0
+150,ajá .,co .,ENG,0
+151,.,None,,0
+152,that's weird man .,pro:dem adj n .,ENG ENG ENG,0
+153,I can't imagine that guy you know with a pedicure .,pro:sub mod v comp n pro:per v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+154,no .,co .,ENG,0
+155,huh ?,co ?,ENG,0
+156,I don't think so .,pro:sub mod v co .,ENG ENG ENG ENG,0
+157,I don't think so .,pro:sub mod v co .,ENG ENG ENG ENG,0
+158,why you are like a so I don't know like a la defensiva ?,pro:int pro:per cop prep det:art conj pro:sub mod v prep det:art L2 L2 ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+159,I'm not defensive .,pro:sub neg adj .,ENG ENG ENG,0
+160,.,None,,0
+161,I just have certain friends that are a little strange .,pro:sub adv v adj n pro:rel cop det:art adj adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+162,.,None,,0
+163,and tú sabes .,coord L2 L2 .,ENG ESP ESP,1
+164,like Nick or ...,conj n:prop coord +...,ENG ENG ENG,0
+165,no like other people .,co prep qn n .,ENG ENG ENG ENG,0
+166,I won't mention names .,pro:sub mod v n .,ENG ENG ENG ENG,0
+167,it could be somebody in this room .,pro:per mod cop pro:indef prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+168,what about what about Mary ?,pro:int prep pro:int prep n:prop ?,ENG ENG ENG ENG ENG,0
+169,I mean what about Mary ?,pro:sub v pro:int prep n:prop ?,ENG ENG ENG ENG ENG,0
+170,Mary let's not even discuss Mary .,n:prop v neg adv v n:prop .,ENG ENG ENG ENG ENG ENG,0
+171,.,None,,0
+172,what does Mary have to do with manicure ?,pro:int mod n:prop v inf v prep n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+173,.,None,,0
+174,Philip .,n:prop .,ENG,0
+175,no Philip yo no conozco .,co n:prop L2 L2 L2 .,ENG ENG ESP ESP ESP,1
+176,.,None,,0
+177,.,None,,0
+178,ni lo conozco .,coord pro:obj v .,ENG ENG ENG,0
+179,yo una vez yo lo vi .,pro:sub det:art n pro:sub pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+180,.,None,,0
+181,yeah ?,co ?,ENG,0
+182,yeah that's it .,co pro:dem pro:per .,ENG ENG ENG,0
+183,quién más ?,pro:int adv ?,ENG ENG,0
+184,quién más ?,pro:int adv ?,ENG ENG,0
+185,so no hard feelings Mary .,adv qn adj n:gerund n:prop .,ENG ENG ENG ENG ENG,0
+186,with Mary no I have not hard feelings .,prep n:prop co pro:sub v neg adj n:gerund .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+187,and Philip .,coord n:prop .,ENG ENG,0
+188,.,None,,0
+189,I have no hard feelings for .,pro:sub v qn adj n:gerund prep .,ENG ENG ENG ENG ENG ENG,0
+190,cómo se llamaba el jefe del car dealership ?,L2 L2 L2 L2 L2 L2 n n ?,ESP ESP ESP ESP ESP ESP ENG ENG,1
+191,el jefe del car dealership cuál ?,L2 L2 L2 n n L2 ?,ESP ESP ESP ENG ENG ESP,1
+192,el el que le íbamos a hacer lo de la casa .,det:art det:art pro:rel pro:ind v aprep inf pro:obj v det:art imp .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+193,ahora no me doy cuenta .,adv adv pro:obj v co .,ENG ENG ENG ENG ENG,0
+194,.,None,,0
+195,like the Chrysler .,prep det:art n:prop .,ENG ENG ENG,0
+196,ah .,co .,ENG,0
+197,cómo se llamaba eh ...,pro:int pro:refl v co +...,ENG ENG ENG ENG,0
+198,.,None,,0
+199,Troski .,n:prop .,ENG,0
+200,Troski qué piensas tú de Troski ?,n:prop L2 L2 L2 L2 n:prop ?,ENG ESP ESP ESP ESP ENG,1
+201,ése sí ése es un ...,pro:dem co pro:dem cop det:art +...,ENG ENG ENG ENG ENG,0
+202,maricón .,adj .,ENG,0
+203,eso es lo que yo iba a decir pero .,pro:dem cop pro:obj pro:rel pro:sub v aprep inf conj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+204,.,None,,0
+205,vamos a dejar eso .,v aprep inf pro:dem .,ENG ENG ENG ENG,0
+206,.,None,,0
+207,él se hacía mucho las uñas las ...,pro:sub pro:refl v adv det:art n det:art +...,ENG ENG ENG ENG ENG ENG ENG,0
+208,él se hacía .,pro:sub pro:refl v .,ENG ENG ENG,0
+209,sí él es medio ...,co pro:sub cop adj +...,ENG ENG ENG ENG,0
+210,yo creo que sí .,pro:sub v pro:rel co .,ENG ENG ENG ENG,0
+211,.,None,,0
+212,o sea que tú lo que piensas es que la gente que se hace las uñas es //.,coord cop pro:rel pro:sub pro:obj pro:rel v cop pro:rel det:art n pro:rel pro:refl v det:art n cop +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+213,no .,adv .,ENG,0
+214,.,None,,0
+215,no yo sé lo que me vas a preguntar no .,adv pro:sub v pro:obj pro:rel pro:obj v aprep inf adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+216,carece de algún gusto .,v prep det:indef v .,ENG ENG ENG ENG,0
+217,I don't think so .,pro:sub mod v co .,ENG ENG ENG ENG,0
+218,I think that it's you know it's okay if you want to do it for you yourself .,pro:sub v adv pro:per pro:per v pro:per adj conj pro:per v inf v pro:per prep pro:per pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+219,that's it .,pro:dem pro:per .,ENG ENG,0
+220,so tú en cierta manera no apoyas eso lo de las uñas .,co pro:sub prep adj n adv v pro:dem pro:obj v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+221,I don't care .,pro:sub mod v .,ENG ENG ENG,0
+222,.,None,,0
+223,I don't care .,pro:sub mod v .,ENG ENG ENG,0
+224,"so si ahora mismo la señora que está ahí te viene y te dice ""/.","co conj adv adj det:art n pro:rel cop adv pro:obj v coord pro:obj v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+225,mire quiero hacerle las uñas a usted y el pedicure .,L2 L2 L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+226,está bien .,cop adv .,ENG ENG,0
+227,usted se lo hace ?,pro:sub pro:refl pro:obj v ?,ENG ENG ENG ENG,0
+228,el pedicure no .,L2 n co .,ESP ENG ENG,1
+229,.,None,,0
+230,el pedicure no .,L2 n co .,ESP ENG ENG,1
+231,pero sí son uñas de todos modos .,conj co cop n prep det:indef n .,ENG ENG ENG ENG ENG ENG ENG,0
+232,yeah I know yeah but give me a break .,co pro:sub v co conj v pro:obj det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+233,eso no me importa tampoco .,pro:dem adv pro:obj v adv .,ENG ENG ENG ENG ENG,0
+234,ah .,co .,ENG,0
+235,no yo no estoy interesado .,adv pro:sub adv cop part .,ENG ENG ENG ENG ENG,0
+236,nails are nails .,n cop n .,ENG ENG ENG,0
+237,that's okay .,pro:dem adj .,ENG ENG,0
+238,you can do it .,pro:per mod v pro:per .,ENG ENG ENG ENG,0
+239,tú dices que tú te comes las uñas .,pro:sub v pro:rel pro:sub pro:obj v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+240,sí .,co .,ENG,0
+241,o sea que muchas veces te comes las //.,coord cop prep det:indef n pro:obj v det:art +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+242,no yo no me lo como .,adv pro:sub adv pro:obj pro:obj adv .,ENG ENG ENG ENG ENG ENG,0
+243,me lo muerdo .,pro:obj pro:obj v .,ENG ENG ENG,0
+244,te lo muerdes .,pro:obj pro:obj v .,ENG ENG ENG,0
+245,.,None,,0
+246,es diferente .,cop adj .,ENG ENG,0
+247,te gusta la sensación de morderte las uñas ?,pro:obj v det:art n prep inf det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+248,diferente .,adj .,ENG,0
+249,no not at all .,co neg prep pro:indef .,ENG ENG ENG ENG,0
+250,entonces te comerías las uñas de los pies también .,adv pro:obj v det:art n prep det:art v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+251,no .,adv .,ENG,0
+252,no .,adv .,ENG,0
+253,no .,adv .,ENG,0
+254,I can't reach that far .,pro:sub mod v pro:dem adv .,ENG ENG ENG ENG ENG,0
+255,.,None,,0
+256,.,None,,0
+257,wow so qué vas a hacer ahora de noche ?,co L2 L2 L2 L2 L2 L2 L2 L2 ?,ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+258,adónde te vas ?,pro:int pro:obj v ?,ENG ENG ENG,0
+259,I have to go pick up my daughter .,pro:sub v inf v v adv det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+260,she's at church .,pro:sub prep n .,ENG ENG ENG,0
+261,at around eight thirty .,prep adv det:num det:num .,ENG ENG ENG ENG,0
+262,which means I only have a little bit of time .,pro:rel v pro:sub adv v det:art adj n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+263,it's Sunday night after that what are you gonna do .,pro:per n:prop n prep pro:dem pro:int aux pro:per part v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+264,.,None,,0
+265,after that I'm gonna turn off my phone so that you can't reach me .,prep pro:dem pro:sub part v prep det:poss n co comp pro:per mod v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+266,and chill out at home .,coord v adv prep n .,ENG ENG ENG ENG ENG,0
+267,oh yeah hay un lugar por aquí que es lo de los bolos .,co co L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+268,los qué ?,det:art pro:int ?,ENG ENG,0
+269,los bolos como para jugar a bolos .,det:art n adv prep inf aprep n .,ENG ENG ENG ENG ENG ENG ENG,0
+270,bolos .,n .,ENG,0
+271,tú me dijiste que había un lugar en el centro cerca de aquí como para jugar a bolos .,pro:sub pro:obj v pro:rel aux det:art n prep det:art n adv prep adv adv prep inf aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+272,yeah no know .,co co v .,ENG ENG ENG,0
+273,sí hay .,co v .,ENG ENG,0
+274,.,None,,0
+275,sí hay .,co v .,ENG ENG,0
+276,sí hay ?,co v ?,ENG ENG,0
+277,yeah .,co .,ENG,0
+278,en dónde ?,prep pro:int ?,ENG ENG,0
+279,there's one on university .,pro:exist pro:indef prep n .,ENG ENG ENG ENG,0
+280,mhm .,co .,ENG,0
+281,and right off of .,coord adj adv prep .,ENG ENG ENG ENG,0
+282,mhm .,co .,ENG,0
+283,y cuánto cuesta la entrada para ir ?,coord det:int v det:art n prep inf ?,ENG ENG ENG ENG ENG ENG ENG,0
+284,no you don't pay by /.,co pro:per mod v adv +/.,ENG ENG ENG ENG ENG,0
+285,you pay by the game .,pro:per v prep det:art n .,ENG ENG ENG ENG ENG,0
+286,you don't pay .,pro:per mod v .,ENG ENG ENG,0
+287,how much is a game ?,pro:int adv cop det:art n ?,ENG ENG ENG ENG ENG,0
+288,a game could be depending on the day Sundays is cheaper .,det:art n mod aux part prep det:art n n:prop cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+289,during the week it's like two dollars and fifty cents a game .,prep det:art n pro:per co det:num n coord det:num n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+290,so it's better for us to go /.,adv pro:per adj prep pro:obj inf v +/.,ENG ENG ENG ENG ENG ENG ENG,0
+291,to go Sunday morning .,inf v n:prop n .,ENG ENG ENG ENG,0
+292,Sunday morning .,n:prop n .,ENG ENG,0
+293,yeah .,co .,ENG,0
+294,and you go with the kids .,coord pro:per v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+295,what about shoes ?,pro:int prep n ?,ENG ENG ENG,0
+296,you can rent shoes there .,pro:per mod v n adv .,ENG ENG ENG ENG ENG,0
+297,so how much are these shoes ?,adv pro:rel adv cop det:dem n ?,ENG ENG ENG ENG ENG ENG,0
+298,shoes are probably another dollar in change .,n cop adv qn n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+299,so puedo usar los tuyos .,co v inf det:art pro:pos .,ENG ENG ENG ENG ENG,0
+300,no .,co .,ENG,0
+301,.,None,,0
+302,your feet are too small .,det:poss n cop adv adj .,ENG ENG ENG ENG ENG,0
+303,.,None,,0
+304,your feet are too small .,det:poss n cop adv adj .,ENG ENG ENG ENG ENG,0
+305,I don't think so .,pro:sub mod v co .,ENG ENG ENG ENG,0
+306,yeah .,co .,ENG,0
+307,yeah they are too small .,co pro:sub cop adv adj .,ENG ENG ENG ENG ENG,0
+308,qué size are you ?,L2 n cop pro:per ?,ESP ENG ENG ENG,1
+309,ten and a half .,det:num coord det:art n .,ENG ENG ENG ENG,0
+310,.,None,,0
+311,ten and a half .,det:num coord det:art n .,ENG ENG ENG ENG,0
+312,wow .,co .,ENG,0
+313,I'm ten and a half too .,pro:sub det:num coord det:art n adv .,ENG ENG ENG ENG ENG ENG,0
+314,wow .,co .,ENG,0
+315,I didn't know that .,pro:sub mod v pro:dem .,ENG ENG ENG ENG,0
+316,.,None,,0
+317,seriously I didn't know that you are ten and a half .,adv pro:sub mod v comp pro:per cop det:num coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+318,depending on the day .,part prep det:art n .,ENG ENG ENG ENG,0
+319,sometimes I'm a ten .,adv pro:sub det:art det:num .,ENG ENG ENG ENG,0
+320,you lied .,pro:per v .,ENG ENG,0
+321,no right now depending on the shoe it's a ten or a ten and a half .,co adv adv part prep det:art n pro:per det:art det:num coord det:art det:num coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+322,depending on the shoe .,part prep det:art n .,ENG ENG ENG ENG,0
+323,some shoes I have to get a little bit bigger .,qn n pro:sub v inf v det:art adj n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+324,I'm selling shoes right now .,pro:sub part n adv adv .,ENG ENG ENG ENG ENG,0
+325,yeah well .,co co .,ENG ENG,0
+326,are you planning to buy some ?,cop pro:per part inf v qn ?,ENG ENG ENG ENG ENG ENG,0
+327,no .,co .,ENG,0
+328,not at all .,neg prep pro:indef .,ENG ENG ENG,0
+329,brand new .,adj adj .,ENG ENG,0
+330,what kind ?,pro:int n ?,ENG ENG,0
+331,good prize .,adj n .,ENG ENG,0
+332,you are .,pro:per cop .,ENG ENG,0
+333,de qué marca ?,prep pro:int v ?,ENG ENG ENG,0
+334,tú no eres un tipo de marcas así que tú no te preocupes por la marca .,pro:sub adv cop det:art n v v adv pro:rel pro:sub adv pro:obj v prep det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+335,no medio me interesa .,adv adj pro:obj v .,ENG ENG ENG ENG,0
+336,tú me lo has dicho muy bien que a ti las marcas no te llenan .,pro:sub pro:obj pro:obj aux part adv adv pro:rel aprep pro:prep pro:obj v adv pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+337,bueno me interesa saber cuáles son .,co pro:obj v inf pro:int cop .,ENG ENG ENG ENG ENG ENG,0
+338,yo tengo diferentes ahí .,pro:sub v adj adv .,ENG ENG ENG ENG,0
+339,yo no quiero ni nada de eso .,pro:sub adv v coord imp prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+340,cuáles son ?,pro:int cop ?,ENG ENG,0
+341,de los ochenta .,prep det:art det:num .,ENG ENG ENG,0
+342,y tú tienes por ahí .,coord pro:sub v prep adv .,ENG ENG ENG ENG ENG,0
+343,no !,adv !,ENG,0
+344,no no no no no no .,adv adv adv adv adv adv .,ENG ENG ENG ENG ENG ENG,0
+345,.,None,,0
+346,no es nada de ese tipo de zapatos .,adv cop pro:indef prep det:dem n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+347,son zapatos de ahora que tengo demasiados zapatos ahí .,cop n prep adv pro:rel v adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+348,pues ?,co ?,ENG,0
+349,me la enseñas .,pro:obj pro:obj v .,ENG ENG ENG,0
+350,me gustaría venderlos .,pro:obj v inf .,ENG ENG ENG,0
+351,y esto me interesa esto .,coord pro:dem pro:obj v pro:dem .,ENG ENG ENG ENG ENG,0
+352,qué cosa ?,pro:int v ?,ENG ENG,0
+353,un rack de estos para vino .,L2 n L2 L2 L2 L2 .,ESP ENG ESP ESP ESP ESP,1
+354,.,None,,0
+355,porque yo veo aquí que tienes tres o cuatro botellas solamente .,conj pro:sub v adv pro:rel v det:num coord det:num n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+356,.,None,,0
+357,y tú coges como ciento cincuenta no ?,coord pro:sub v adv n det:num adv ?,ENG ENG ENG ENG ENG ENG ENG,0
+358,bueno la la mayoría de la gente está trayendo what they regalar todos mis amigos .,L2 L2 L2 L2 L2 L2 L2 L2 L2 pro:int pro:sub L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP,1
+359,ah exactamente lo que tú dijiste .,co adv:adj pro:obj pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+360,yeah .,co .,ENG,0
+361,todos tus amigos .,det:indef det:pos n .,ENG ENG ENG,0
+362,tú eres amigo mío .,pro:sub cop n pro:pos .,ENG ENG ENG ENG,0
+363,ay yo no sabía .,co pro:sub adv v .,ENG ENG ENG ENG,0
+364,I didn't know .,pro:sub mod v .,ENG ENG ENG,0
+365,para ponerlas ahí las botellas .,prep inf adv det:art n .,ENG ENG ENG ENG ENG,0
+366,es más yo creo que salen las botellas a tres noventa y nueve las botellas .,cop adv pro:sub v pro:rel v det:art n aprep det:num det:num coord det:num det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+367,yo espero hasta que que esté más tú sabes que estén en sale .,pro:sub v prep prep pro:rel cop adv pro:sub v pro:rel cop prep v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+368,ah ?,co ?,ENG,0
+369,if it's on sale I'll bring you a bottle .,conj pro:per prep n pro:sub v pro:per det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+370,oh well I'll be waiting for you .,co adv pro:sub aux part prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+371,it's alright .,pro:per adj .,ENG ENG,0
+372,you know what wine you can't save it forever .,pro:per v pro:int adj pro:per mod v pro:per adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+373,wine doesn't get much better with age in the bottle .,n mod v adv adv prep n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+374,that's only in the barrel .,pro:dem adv prep det:art n .,ENG ENG ENG ENG ENG,0
+375,here it gets //.,adv pro:per v +//.,ENG ENG ENG,0
+376,so you might as well drink it .,co pro:per mod adv adv v pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+377,if you want .,conj pro:per v .,ENG ENG ENG,0
+378,.,None,,0
+379,so what about ?,adv pro:int adv ?,ENG ENG ENG,0
+380,I'll bring one up now .,pro:sub v det:num adv adv .,ENG ENG ENG ENG ENG,0
+381,what about those places ?,pro:int prep det:dem n ?,ENG ENG ENG ENG,0
+382,wait wait let's open a bottle while we are talking here .,co co v v det:art n conj pro:sub aux part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+383,those are expensive bottles .,pro:dem cop adj n .,ENG ENG ENG ENG,0
+384,but you can't .,conj pro:per mod .,ENG ENG ENG,0
+385,you don't understand .,pro:per mod v .,ENG ENG ENG,0
+386,you cannot say .,pro:per mod v .,ENG ENG ENG,0
+387,it gets bad .,pro:per v adj .,ENG ENG ENG,0
+388,let's do that with a cheaper bottle .,v v pro:dem prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+389,bring a cheaper bottle .,v det:art adj n .,ENG ENG ENG ENG,0
+390,but we are saving it for .,conj pro:sub aux part pro:per prep .,ENG ENG ENG ENG ENG ENG,0
+391,but they are getting bad already why ?,conj pro:sub aux part adj adv pro:rel ?,ENG ENG ENG ENG ENG ENG ENG,0
+392,we'll save it for seven years then when we drink it .,pro:sub v pro:per prep det:num n adv:tem conj pro:sub v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+393,no .,co .,ENG,0
+394,it's .,pro:per .,ENG,0
+395,that's you are talking about in a barrel not in a bottle .,pro:dem pro:per aux part adv prep det:art n neg prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+396,.,None,,0
+397,big difference .,adj n .,ENG ENG,0
+398,so what about those places that they have this ?,adv pro:int prep det:dem n pro:rel pro:sub v pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+399,mira vamos a abrir /.,co v aprep inf +/.,ENG ENG ENG ENG,0
+400,mhm eso se vende .,co L2 L2 L2 .,ENG ESP ESP ESP,1
+401,se vende .,pro:refl v .,ENG ENG,0
+402,cada semana se vende .,det:indef n pro:refl v .,ENG ENG ENG ENG,0
+403,what about those house that they have special you know ...,pro:int prep det:dem n pro:rel pro:sub v n pro:per v +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+404,not three dollar bottles of wine .,neg det:num n v prep n .,ENG ENG ENG ENG ENG ENG,0
+405,those are not /.,pro:dem cop neg +/.,ENG ENG ENG,0
+406,let me see .,v pro:obj v .,ENG ENG ENG,0
+407,you don't mind ?,pro:per mod v ?,ENG ENG ENG,0
+408,you can do it .,pro:per mod v pro:per .,ENG ENG ENG ENG,0
+409,let me see .,v pro:obj v .,ENG ENG ENG,0
+410,ninety two .,det:num det:num .,ENG ENG,0
+411,okay .,co .,ENG,0
+412,mira .,co .,ENG,0
+413,mira .,co .,ENG,0
+414,ya se está abriendo solo .,adv pro:refl aux ger adj .,ENG ENG ENG ENG ENG,0
+415,okay .,co .,ENG,0
+416,mira .,co .,ENG,0
+417,ah okay .,co co .,ENG ENG,0
+418,I know what you mean .,pro:sub v pro:int pro:per adj .,ENG ENG ENG ENG ENG,0
+419,se está abriendo solo .,pro:refl aux ger adj .,ENG ENG ENG ENG,0
+420,vamos a abrirlo .,v aprep inf .,ENG ENG ENG,0
+421,come on .,v adv .,ENG ENG,0
+422,we are not drinking wine right now .,pro:sub aux neg part n adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+423,we are doing light .,pro:sub aux part n .,ENG ENG ENG ENG,0
+424,but that's fine .,conj pro:dem adj .,ENG ENG ENG,0
+425,this is part of the conversation .,pro:dem cop n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+426,we are having a conversation .,pro:sub aux part det:art n .,ENG ENG ENG ENG ENG,0
+427,no I know .,co pro:sub v .,ENG ENG ENG,0
+428,but you don't wanna be drinking by yourself .,conj pro:per mod v aux part prep pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+429,I don't mind .,pro:sub mod v .,ENG ENG ENG,0
+430,that's okay with me too .,pro:dem adj prep pro:obj adv .,ENG ENG ENG ENG ENG,0
+431,so that's selfish .,co pro:dem adj .,ENG ENG ENG,0
+432,I'm not selfish .,pro:sub neg adj .,ENG ENG ENG,0
+433,I'll offer you some .,pro:sub v pro:per qn .,ENG ENG ENG ENG,0
+434,if you wanna drink it fine .,conj pro:per v v pro:per adv .,ENG ENG ENG ENG ENG ENG,0
+435,if you don't wanna drink it that's okay with me too .,conj pro:per mod v v pro:per pro:dem adj prep pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+436,no no leave it .,co co v pro:per .,ENG ENG ENG ENG,0
+437,you know what .,pro:per v pro:int .,ENG ENG ENG,0
+438,leave it there .,v pro:per adv .,ENG ENG ENG,0
+439,okay .,co .,ENG,0
+440,one of these days I'm gonna invite you you know .,det:num prep det:dem n pro:sub part v pro:per pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+441,I'm gonna bring the .,pro:sub part v det:art .,ENG ENG ENG ENG,0
+442,they sell this in a ...,pro:sub v det:dem prep det:art +...,ENG ENG ENG ENG ENG,0
+443,I'm gonna bring you .,pro:sub part v pro:per .,ENG ENG ENG ENG,0
+444,what ?,pro:int ?,ENG,0
+445,in .,adv .,ENG,0
+446,no .,co .,ENG,0
+447,two ninety nine .,det:num det:num det:num .,ENG ENG ENG,0
+448,no .,co .,ENG,0
+449,yes .,co .,ENG,0
+450,but from this year probably .,conj prep det:dem n adv .,ENG ENG ENG ENG ENG,0
+451,.,None,,0
+452,.,None,,0
+453,that /.,comp +/.,ENG,0
+454,in ninety two it was a dollar ninety nine .,prep det:num det:num pro:per cop det:art n det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+455,no .,co .,ENG,0
+456,is impossible .,cop adj .,ENG ENG,0
+457,okay .,co .,ENG,0
+458,and where did you get your degree of ...,coord pro:int mod pro:per v det:poss n prep +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+459,where did you become a wine connoisseur ?,pro:int mod pro:per cop det:art n n ?,ENG ENG ENG ENG ENG ENG ENG,0
+460,cuándo abrimos una botella ?,pro:int v det:art n ?,ENG ENG ENG ENG,0
+461,no where did you become a wine connoisseur ?,co pro:int mod pro:per cop det:art n n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+462,should I take five minutes to explain ?,mod pro:sub v det:num n inf v ?,ENG ENG ENG ENG ENG ENG ENG,0
+463,okay explain me .,co v pro:obj .,ENG ENG ENG,0
+464,okay I explain .,adj pro:sub v .,ENG ENG ENG,0
+465,a connoisseur is somebody who knows a lot about something .,det:art n cop pro:indef pro:rel v det:art n prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+466,so when did you become a wine connoisseur ?,co conj mod pro:per cop det:art n n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+467,when did you ...,conj mod pro:per +...,ENG ENG ENG,0
+468,how do you know .,pro:int mod pro:per v .,ENG ENG ENG ENG,0
+469,I'm just trying to .,pro:sub adv part inf .,ENG ENG ENG ENG,0
+470,okay .,co .,ENG,0
+471,I'm just trying to .,pro:sub adv part inf .,ENG ENG ENG ENG,0
+472,forget about that .,v prep pro:dem .,ENG ENG ENG,0
+473,you know you ...,pro:per v pro:per +...,ENG ENG ENG,0
+474,where can I get one of these racks ?,pro:int mod pro:sub v pro:indef prep det:dem n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+475,can I tell you something ?,mod pro:sub v pro:per pro:indef ?,ENG ENG ENG ENG ENG,0
+476,let's do something .,v v pro:indef .,ENG ENG ENG,0
+477,when we do one of the closing /.,conj pro:sub v pro:indef prep det:art n:gerund +/.,ENG ENG ENG ENG ENG ENG ENG,0
+478,oh my god .,co det:poss n .,ENG ENG ENG,0
+479,I open one of those bottles .,pro:sub v pro:indef prep det:dem n .,ENG ENG ENG ENG ENG ENG,0
+480,oh my god .,co det:poss n .,ENG ENG ENG,0
+481,I guess we'll never open one .,pro:sub v pro:sub adv adj pro:indef .,ENG ENG ENG ENG ENG ENG,0
+482,how about one of these racks .,pro:int prep det:num prep det:dem n .,ENG ENG ENG ENG ENG ENG,0
+483,you need to talk to my wife about it .,pro:per v inf v prep det:poss n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+484,no .,co .,ENG,0
+485,didn't you have two of them ?,mod pro:per v det:num prep pro:obj ?,ENG ENG ENG ENG ENG ENG,0
+486,no .,co .,ENG,0
+487,what happened to the other one ?,pro:int v prep det:art qn pro:indef ?,ENG ENG ENG ENG ENG ENG,0
+488,there was another one .,pro:exist cop qn pro:indef .,ENG ENG ENG ENG,0
+489,no it's just the one .,co pro:per adj det:art pro:indef .,ENG ENG ENG ENG ENG,0
+490,no habían dos .,adv aux det:num .,ENG ENG ENG,0
+491,no .,adv .,ENG,0
+492,if my wife says get one for him I get one for him .,conj det:poss n v v pro:indef prep pro:obj pro:sub v pro:indef prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+493,ah .,co .,ENG,0
+494,no consígame uno .,adv imp pro:dem .,ENG ENG ENG,0
+495,I don't need /.,pro:sub mod v +/.,ENG ENG ENG,0
+496,you don't need your wife .,pro:per mod v det:poss n .,ENG ENG ENG ENG ENG,0
+497,you have asthma ?,pro:per v n ?,ENG ENG ENG,0
+498,yeah .,co .,ENG,0
+499,todo mira .,det:indef v .,ENG ENG,0
+500,you have asthma ?,pro:per v n ?,ENG ENG ENG,0
+501,mira listen .,L2 v .,ESP ENG,1
+502,I'm gonna ask my wife .,pro:sub part v det:poss n .,ENG ENG ENG ENG ENG,0
+503,is that what it is ?,cop pro:dem pro:int pro:per cop ?,ENG ENG ENG ENG ENG,0
+504,listen .,v .,ENG,0
+505,eso es lo que tú tienes asma ?,pro:dem cop pro:obj pro:rel pro:sub v n ?,ENG ENG ENG ENG ENG ENG ENG,0
+506,no no no escúchame .,adv adv adv imp .,ENG ENG ENG ENG,0
+507,de esas dos líneas no más cuestan cincuenta dólares .,prep det:dem det:num n adv adv v det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+508,eso no importa .,pro:dem adv v .,ENG ENG ENG,0
+509,sabes cuántas líneas hay ahí ?,co pro:int n v adv ?,ENG ENG ENG ENG ENG,0
+510,qué me importa ?,pro:int pro:obj v ?,ENG ENG ENG,0
+511,I just need one whole rack like this .,pro:sub adv v pro:indef adj n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+512,eso no cuesta cincuenta dólares .,pro:dem adv v det:num n .,ENG ENG ENG ENG ENG,0
+513,tú no eres materialista .,pro:sub adv cop n .,ENG ENG ENG ENG,0
+514,no .,adv .,ENG,0
+515,okay imagínate .,co imp .,ENG ENG,0
+516,eso no es escogerlo y soplar y hacer botellas adentro .,pro:dem adv cop inf coord inf coord inf n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+517,mhm .,co .,ENG,0
+518,eso vamos a tener que hablar algo .,pro:dem v aprep inf pro:rel inf pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+519,yo te consigo uno .,pro:sub pro:obj v pro:dem .,ENG ENG ENG ENG,0
+520,yo voy a tratar de conseguirte uno porque .,pro:sub v aprep inf prep inf det:art conj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+521,mira mira .,co co .,ENG ENG,0
+522,tú me dices consígueme .,pro:sub pro:obj v imp .,ENG ENG ENG ENG,0
+523,y yo te voy a abrir la puerta .,coord pro:sub pro:obj v aprep inf det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+524,y voy a ir a conseguir .,coord v aprep inf aprep inf .,ENG ENG ENG ENG ENG ENG,0
+525,mhm .,co .,ENG,0
+526,.,None,,0
+527,you know yo tengo que ir .,pro:per v L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP,1
+528,y tratar de conseguir .,coord inf prep inf .,ENG ENG ENG ENG,0
+529,y tratar .,coord inf .,ENG ENG,0
+530,eso yo traté de conseguirlo también .,pro:dem pro:sub v prep inf adv .,ENG ENG ENG ENG ENG ENG,0
+531,.,None,,0
+532,no se me hizo /.,adv pro:refl pro:obj v +/.,ENG ENG ENG ENG,0
+533,qué hiciste para conseguirlo ?,pro:int v prep inf ?,ENG ENG ENG ENG,0
+534,no se me hizo fácil .,adv pro:refl pro:obj v adj .,ENG ENG ENG ENG ENG,0
+535,no .,adv .,ENG,0
+536,eso fue una amiga que tenía algunos de esos .,pro:dem cop det:art n pro:rel v det:indef prep det:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+537,mhm mhm okay .,co co co .,ENG ENG ENG,0
+538,y no tiene más ?,coord adv v adv ?,ENG ENG ENG ENG,0
+539,y qué consigo yo si yo te consigo uno de esos ?,coord pro:int adv pro:sub conj pro:sub pro:obj v det:art prep det:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+540,.,None,,0
+541,I'll get you new binoculars .,pro:sub aux pro:per adj n .,ENG ENG ENG ENG ENG,0
+542,qué tan fuerte son los binoculars ?,L2 L2 L2 L2 L2 n ?,ESP ESP ESP ESP ESP ENG,1
+543,I'll get you new binoculars .,pro:sub aux pro:per adj n .,ENG ENG ENG ENG ENG,0
+544,hey pero qué tan fuertes son los binoculars ?,co L2 L2 L2 L2 L2 L2 n ?,ENG ESP ESP ESP ESP ESP ESP ENG,1
+545,yeah well don't worry about it .,co adv mod v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+546,I'll get you really strong ones .,pro:sub aux pro:per adv adj pro:indef .,ENG ENG ENG ENG ENG ENG,0
+547,no no no no no .,adv adv adv adv adv .,ENG ENG ENG ENG ENG,0
+548,you can you know .,pro:per mod pro:per v .,ENG ENG ENG ENG,0
+549,oh I don't know .,co pro:sub mod v .,ENG ENG ENG ENG,0
+550,you can tell me .,pro:per mod v pro:obj .,ENG ENG ENG ENG,0
+551,I don't know what the strength is .,pro:sub mod v pro:int det:art n cop .,ENG ENG ENG ENG ENG ENG ENG,0
+552,let me you know what .,v pro:obj pro:per v pro:int .,ENG ENG ENG ENG ENG,0
+553,me interesa .,pro:obj v .,ENG ENG,0
+554,so that you can do your bird watching .,adv pro:rel pro:per mod v det:poss n part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+555,yeah .,co .,ENG,0
+556,.,None,,0
+557,you know there's a lot of nice birds over here by the water over here .,pro:per v pro:exist det:art n prep adj n prep n prep det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+558,ver me interesa so déjame ...,inf pro:obj v co imp +...,ENG ENG ENG ENG ENG,0
+559,yo te voy a chequear .,pro:sub pro:obj v aprep inf .,ENG ENG ENG ENG ENG,0
+560,okay ?,co ?,ENG,0
+561,"but si me dice la tipa "".","conj L2 L2 L2 L2 L2 +"".",ENG ESP ESP ESP ESP ESP,1
+562,oh te la vendo en treinta .,co pro:obj pro:obj v prep det:num .,ENG ENG ENG ENG ENG ENG,0
+563,oh te la vendo en cincuenta .,co pro:obj pro:obj v prep det:num .,ENG ENG ENG ENG ENG ENG,0
+564,no .,adv .,ENG,0
+565,no lo quieras .,adv pro:obj v .,ENG ENG ENG,0
+566,dicen .,v .,ENG,0
+567,págalo .,imp .,ENG,0
+568,y me lo regalas .,coord pro:obj pro:obj v .,ENG ENG ENG ENG,0
+569,como un amigo .,adv det:art n .,ENG ENG ENG,0
+570,mira yo vine aquí hoy para arreglarte el ...,co pro:sub v adv adv prep inf det:art +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+571,cuántas veces yo he arreglado el disposal ?,L2 L2 L2 L2 L2 L2 n ?,ESP ESP ESP ESP ESP ESP ENG,1
+572,eso fue para atraerte .,pro:dem cop prep inf .,ENG ENG ENG ENG,0
+573,no no no espera .,adv adv adv v .,ENG ENG ENG ENG,0
+574,eso fue para atraete para ...,pro:dem cop prep imp imp +...,ENG ENG ENG ENG ENG,0
+575,.,None,,0
+576,eso nunca se dañó ahora .,pro:dem adv pro:refl v adv .,ENG ENG ENG ENG ENG,0
+577,ah .,co .,ENG,0
+578,eso fue para atraerte .,pro:dem cop prep inf .,ENG ENG ENG ENG,0
+579,eso fue para .,pro:dem cop prep .,ENG ENG ENG,0
+580,no no pues .,adv adv co .,ENG ENG ENG,0
+581,pues me voy ahora mismo .,co pro:obj v adv adj .,ENG ENG ENG ENG ENG,0
+582,.,None,,0
+583,vamos a dejar esto .,v aprep inf pro:dem .,ENG ENG ENG ENG,0
+584,me voy ahora mismo .,pro:obj v adv adj .,ENG ENG ENG ENG,0
+585,no pero si tu hubieras venido para eso no hubiera .,adv conj conj det:pos v part prep pro:dem adv v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+586,no pero .,adv conj .,ENG ENG,0
+587,pero cuántas veces ah pero te tengo que cobrar por eso ?,conj pro:int n co conj pro:obj v pro:rel inf prep pro:dem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+588,.,None,,0
+589,no .,adv .,ENG,0
+590,por el tiempo .,prep det:art n .,ENG ENG ENG,0
+591,no porque eso de ahí es por los chicos porque eso se pudre y se daña los niños .,adv conj pro:dem prep adv cop prep det:art n conj pro:dem pro:refl v coord pro:refl v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+592,pero se daña .,conj pro:refl v .,ENG ENG ENG,0
+593,ah ?,co ?,ENG,0
+594,eso no se daña si no le pones eh o sea tú sabes .,pro:dem adv pro:refl v conj adv pro:ind v co coord cop pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+595,.,None,,0
+596,cuando hagamos un cierre abrimos una de las botellas .,conj v det:art v v det:art prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+597,okay ?,co ?,ENG,0
+598,lo de los vinos yo voy a tratar .,pro:obj v det:art n pro:sub v aprep inf .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+599,eso no es .,pro:dem adv cop .,ENG ENG ENG,0
+600,no me interesa .,adv pro:obj v .,ENG ENG ENG,0
+601,ese no es y se hizo la botella .,det:dem adv cop coord pro:refl v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+602,no mira si hay un cierre yo compro el vino .,adv co conj v det:art v pro:sub v det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+603,.,None,,0
+604,ah ?,co ?,ENG,0
+605,si el cierre yo compro el vino .,conj det:art v pro:sub v det:art v .,ENG ENG ENG ENG ENG ENG ENG,0
+606,.,None,,0
+607,lo que me interesa es esto .,pro:obj pro:rel pro:obj v cop pro:dem .,ENG ENG ENG ENG ENG ENG,0
+608,okay yo voy a tratar .,co pro:sub v aprep inf .,ENG ENG ENG ENG ENG,0
+609,okay .,co .,ENG,0
+610,que te gusta tanto .,pro:rel pro:obj v adj .,ENG ENG ENG ENG,0
+611,yeah for my garage .,co prep det:poss n .,ENG ENG ENG ENG,0
+612,you know I put it in my garage .,pro:per v pro:sub v pro:per prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+613,garage ?,n ?,ENG,0
+614,yeah I have like a little wine cellar .,co pro:sub v prep det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+615,no no no no no .,co co co co co .,ENG ENG ENG ENG ENG,0
+616,no that doesn't go in the house .,qn pro:dem mod v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+617,no .,co .,ENG,0
+618,that's like a wine cellar .,pro:dem conj det:art n n .,ENG ENG ENG ENG ENG,0
+619,pero un ...,conj det:art +...,ENG ENG,0
+620,for a nice one yeah .,prep det:art adj pro:indef co .,ENG ENG ENG ENG ENG,0
+621,but this is for you know this is for like the garage .,conj pro:dem cop prep pro:per v det:dem cop prep co det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+622,you put it in there .,pro:per v pro:per prep n .,ENG ENG ENG ENG ENG,0
+623,and you put all the bottles in there .,coord pro:per v qn det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+624,para un garaje no te lo voy a dar .,prep det:art n adv pro:obj pro:obj v aprep inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+625,mhm .,co .,ENG,0
+626,don't worry about it .,mod v prep pro:per .,ENG ENG ENG ENG,0
+627,I'll take care of it .,pro:sub v n prep pro:per .,ENG ENG ENG ENG ENG,0
+628,qué pasó con el cuadro del que te di ?,pro:int v prep det:art n prep pro:rel pro:obj imp ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+629,the .,det:art .,ENG,0
+630,it's in my garage .,pro:per prep det:poss n .,ENG ENG ENG ENG,0
+631,I hung it up .,pro:sub v pro:per adv .,ENG ENG ENG ENG,0
+632,es que tú tienes botellas de wine así botadas en el piso ?,L2 L2 L2 L2 L2 L2 adj L2 L2 L2 L2 L2 ?,ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+633,no .,adv .,ENG,0
+634,ahora mismo no .,adv adj adv .,ENG ENG ENG,0
+635,en la cocina pero ...,prep det:art n conj +...,ENG ENG ENG ENG,0
+636,porque yo te haría uno .,conj pro:sub pro:obj v pro:dem .,ENG ENG ENG ENG ENG,0
+637,pero yo no sé dónde dónde lo pondría .,conj pro:sub adv v pro:int pro:int pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+638,cuál ?,pro:int ?,ENG,0
+639,wine rack .,adj n .,ENG ENG,0
+640,wine rack .,adj n .,ENG ENG,0
+641,de ese tamaño no me puede entrar en la casa .,prep det:dem n adv pro:obj v inf prep det:art imp .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+642,ah ?,co ?,ENG,0
+643,no tengo espacio en la casa .,adv v n prep det:art imp .,ENG ENG ENG ENG ENG ENG,0
+644,I have the ...,pro:sub v det:art +...,ENG ENG ENG,0
+645,al lado de la escalera te quedaría .,aprep n prep det:art n pro:obj v .,ENG ENG ENG ENG ENG ENG ENG,0
+646,nah .,L2 .,ESP,0
+647,no you know what .,co pro:per v pro:int .,ENG ENG ENG ENG,0
+648,the only place I would put it would have been where the fish tank is .,det:art qn n pro:sub mod v pro:per mod aux aux pro:int det:art n n cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+649,but the fish tank is taking up that spot so .,conj det:art n n aux part prep det:dem n co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+650,unfortunately that's it .,un#adv pro:dem pro:per .,ENG ENG ENG,0
+651,pero tú me dices que como para el garaje .,conj pro:sub pro:obj v pro:rel adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+652,que no te gusta como para dentro de la casa ?,pro:rel adv pro:obj v adv prep adv prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+653,no not this kind .,co neg det:dem adj .,ENG ENG ENG ENG,0
+654,this is very plain .,pro:dem cop adv adv .,ENG ENG ENG ENG,0
+655,I would want something that would look you know would look very nice .,pro:sub mod v pro:indef pro:rel mod v pro:per v mod v adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+656,this is just you know .,pro:dem cop adv pro:per v .,ENG ENG ENG ENG ENG,0
+657,this is rustic .,pro:dem cop adj .,ENG ENG ENG,0
+658,this is what they call rustic .,pro:dem cop pro:int pro:sub v adj .,ENG ENG ENG ENG ENG ENG,0
+659,yeah .,co .,ENG,0
+660,rústico .,adj .,ENG,0
+661,yo por eso mismo me gusta porque se ve rústico .,pro:sub prep pro:dem adj pro:obj v conj pro:refl v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+662,pero tú sabes .,conj pro:sub v .,ENG ENG ENG,0
+663,aquí no se ve bien .,adv adv pro:refl v adv .,ENG ENG ENG ENG ENG,0
+664,te voy a decir la verdad .,pro:obj v aprep inf det:art n .,ENG ENG ENG ENG ENG ENG,0
+665,aquí en tu casa no se ve bien .,adv prep det:pos imp adv pro:refl v adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+666,ah .,co .,ENG,0
+667,a Magda le gustó .,aprep n:prop pro:ind v .,ENG ENG ENG ENG,0
+668,no I don't care .,co pro:sub mod v .,ENG ENG ENG ENG,0
+669,quién es Magda ?,pro:int cop n:prop ?,ENG ENG ENG,0
+670,.,None,,0
+671,oh la amiga de Mayra .,co det:art n prep n:prop .,ENG ENG ENG ENG ENG,0
+672,sí .,co .,ENG,0
+673,okay .,co .,ENG,0
+674,Magda es diseñadora y eso .,n:prop cop n:v coord pro:dem .,ENG ENG ENG ENG ENG,0
+675,sí oh yeah .,L2 co co .,ESP ENG ENG,1
+676,what did she design ?,pro:int mod pro:sub v ?,ENG ENG ENG ENG,0
+677,yeah .,co .,ENG,0
+678,well she's been designing a lot of things .,co pro:sub aux part det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+679,like ?,prep ?,ENG,0
+680,.,None,,0
+681,you have to see her house man .,pro:per v inf v det:poss n n .,ENG ENG ENG ENG ENG ENG ENG,0
+682,who did she design for herself or for other people ?,pro:int mod pro:sub v prep pro:refl coord prep qn n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+683,.,None,,0
+684,because if she designs for herself and she tells you this looks good I'm sorry con excuse me but that does not look good .,conj conj pro:sub v prep pro:refl coord pro:sub v pro:per pro:dem cop adj pro:sub adj n v pro:obj conj det:dem mod neg v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+685,.,None,,0
+686,I'm sorry .,pro:sub adj .,ENG ENG,0
+687,huh ?,co ?,ENG,0
+688,I bet you she didn't say that .,pro:sub v pro:per pro:sub mod v comp .,ENG ENG ENG ENG ENG ENG ENG,0
+689,I bet //.,pro:sub v +//.,ENG ENG,0
+690,I don't believe it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+691,I know Magda .,pro:sub v n:prop .,ENG ENG ENG,0
+692,she wouldn't say that .,pro:sub mod v comp .,ENG ENG ENG ENG,0
+693,what ?,pro:int ?,ENG,0
+694,that this looks good back here .,comp pro:dem cop adj adv adv .,ENG ENG ENG ENG ENG ENG,0
+695,yes she said that .,co pro:sub v comp .,ENG ENG ENG ENG,0
+696,no it doesn't look good .,co pro:per mod v adj .,ENG ENG ENG ENG ENG,0
+697,I'm telling you .,pro:sub part pro:per .,ENG ENG ENG,0
+698,trust me .,v pro:obj .,ENG ENG,0
+699,so you want to put it in your garage .,co pro:per v inf v pro:per prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+700,no you can keep that one .,co pro:per mod v det:dem pro:indef .,ENG ENG ENG ENG ENG ENG,0
+701,you just give me //.,pro:per adv v pro:obj +//.,ENG ENG ENG ENG,0
+702,you can give me a nice one .,pro:per mod v pro:obj det:art adj pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+703,I've seen nicer ones than that one .,pro:sub part adj det:num prep det:dem pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+704,with the you know with the wording on it .,prep det:art pro:per v prep det:art n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+705,you know etched in you know etched inside .,pro:per v part prep pro:per v part adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+706,yeah if you go to the liquor store they have the ones with the name of the company .,co conj pro:per v prep det:art n n pro:sub v det:art det:num prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+707,you want that ?,pro:per v pro:dem ?,ENG ENG ENG,0
+708,yeah something with the name of the company .,co pro:indef prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+709,you know .,pro:per v .,ENG ENG,0
+710,what was that ?,pro:int cop pro:dem ?,ENG ENG ENG,0
+711,it sounded like there was a bomb .,pro:per v co adv cop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+712,but you wanna you wanna have dos ?,conj pro:per v pro:per v v v ?,ENG ENG ENG ENG ENG ENG ENG,0
+713,whatever .,pro:int .,ENG,0
+714,I'm not you know .,pro:sub neg pro:per v .,ENG ENG ENG ENG,0
+715,I'm easy .,pro:sub adj .,ENG ENG,0
+716,you get me whatever I'll take whatever .,pro:per v pro:obj pro:int pro:sub v pro:int .,ENG ENG ENG ENG ENG ENG ENG,0
+717,it doesn't have to be gorgeous .,pro:per mod v inf cop adj .,ENG ENG ENG ENG ENG ENG,0
+718,just something so I can put my wines in there .,adv pro:indef conj pro:sub mod v det:poss n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+719,and then when my friends come over or you come over you bring some bottles I can put them in it .,coord adv:tem conj det:poss n v adv coord pro:per v adv pro:per v qn n pro:sub mod v pro:obj prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+720,I think .,pro:sub v .,ENG ENG,0
+721,mhm but it doesn't have to be that size .,co conj pro:per mod v inf cop det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+722,it doesn't have to be that no .,pro:per mod v inf cop adv co .,ENG ENG ENG ENG ENG ENG ENG,0
+723,no it could be half of this .,co pro:per mod cop n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+724,mhm I you want one like that .,co pro:sub pro:per v det:num prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+725,no no .,adv adv .,ENG ENG,0
+726,no me interesa .,adv pro:obj v .,ENG ENG ENG,0
+727,ah ?,co ?,ENG,0
+728,no no tiene que ser de ese tamaño .,adv adv v pro:rel inf prep det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+729,puede ser más chico .,v inf adv adj .,ENG ENG ENG ENG,0
+730,.,None,,0
+731,okay yo voy a hacer una llamada .,co pro:sub v aprep inf det:art part .,ENG ENG ENG ENG ENG ENG ENG,0
+732,.,None,,0
+733,está bien .,cop adv .,ENG ENG,0
+734,pues .,co .,ENG,0
+735,lo que pasa es que todo lo que tú pidas hay que dártelo .,pro:obj pro:rel v cop pro:rel det:indef pro:obj pro:rel pro:sub v v pro:rel inf pro:clit,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+736,me entiendes ?,pro:obj v ?,ENG ENG,0
+737,bueno tal vez .,co det:dem n .,ENG ENG ENG,0
+738,entonces yo esta vez quiero //.,adv pro:sub imp n v +//.,ENG ENG ENG ENG ENG,0
+739,voy a tratar .,v aprep inf .,ENG ENG ENG,0
+740,voy a tratar porque no es fácil .,v aprep inf conj adv cop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+741,en you know en hay camisetas que te dan .,L2 pro:per v L2 L2 L2 L2 L2 L2 .,ESP ENG ENG ESP ESP ESP ESP ESP ESP,1
+742,eso no es fácil .,pro:dem adv cop adj .,ENG ENG ENG ENG,0
+743,no nada nada .,adv v v .,ENG ENG ENG,0
+744,no esos no .,adv det:dem adv .,ENG ENG ENG,0
+745,ahí no regalan nada .,adv adv v v .,ENG ENG ENG ENG,0
+746,nada .,pro:indef .,ENG,0
+747,las camisas que tú ves ahí cuestan como cien dólares .,det:art n pro:rel pro:sub v adv v adv det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+748,las camisas .,det:art n .,ENG ENG,0
+749,no en serio .,adv prep adj .,ENG ENG ENG,0
+750,no I don't like that much .,co pro:sub mod co adv adv .,ENG ENG ENG ENG ENG ENG,0
+751,I just need T_shirts for basketball .,pro:sub adv v n:prop prep n .,ENG ENG ENG ENG ENG ENG,0
+752,yo no puedo creer .,pro:sub adv v inf .,ENG ENG ENG ENG,0
+753,pero entonces pasa por .,conj adv v prep .,ENG ENG ENG ENG,0
+754,al tipo le gusta ayudar mucho a la comunidad .,aprep n pro:ind v inf adv aprep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+755,pasa por ahí .,v prep adv .,ENG ENG ENG,0
+756,y que tienes un equipo de basket .,L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ENG,1
+757,.,None,,0
+758,y que te en las camisetas .,coord pro:rel pro:obj prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+759,yo no creo que ellos te vayan a decir que no .,pro:sub adv v pro:rel pro:sub pro:obj v aprep inf pro:rel adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+760,no it's not worth it .,co pro:per neg adj pro:per .,ENG ENG ENG ENG ENG,0
+761,mhm .,co .,ENG,0
+762,don't worry about it .,mod v prep pro:per .,ENG ENG ENG ENG,0
+763,don't worry about it .,mod v prep pro:per .,ENG ENG ENG ENG,0
+764,I'll go some place like Target or something get some T_shirts .,pro:sub v pro:indef n co n:prop coord pro:indef v qn n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+765,that's all .,pro:dem pro:indef .,ENG ENG,0
+766,it's no big deal .,pro:per qn adj n .,ENG ENG ENG ENG,0
+767,so you are gonna pay in Target ?,co pro:per aux part v prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+768,yeah .,co .,ENG,0
+769,you'll rather to pay in Target .,pro:per adv prep n prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+770,yeah if somebody gives me the T_shirt that's different .,co conj pro:indef v pro:obj det:art n:prop pro:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+771,you don't rather to pay the wine rack .,pro:per mod adv inf v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+772,no the rack no .,qn det:art n co .,ENG ENG ENG ENG,0
+773,because they don't sell those wine racks .,conj pro:sub mod v det:dem adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+774,those wine racks come you know they they are ...,det:dem adj n v pro:per v pro:sub pro:sub cop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+775,usually the wine company sets them up as a display .,adv det:art n n v pro:obj adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+776,I'm gonna make a phone call .,pro:sub part v det:art n n .,ENG ENG ENG ENG ENG ENG,0
+777,and I'm gonna shake that for you .,coord pro:sub part v pro:dem prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+778,do what you gotta do .,mod pro:int pro:per mod v .,ENG ENG ENG ENG ENG,0
+779,do what you gotta do .,mod pro:int pro:per mod v .,ENG ENG ENG ENG ENG,0
+780,when do you need it ?,conj v pro:per v pro:per ?,ENG ENG ENG ENG ENG,0
+781,I don't need anything .,pro:sub mod v pro:indef .,ENG ENG ENG ENG,0
+782,I would like to have it this week .,pro:sub mod v inf v pro:per det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+783,but I really don't need it .,conj pro:sub adv mod v pro:per .,ENG ENG ENG ENG ENG ENG,0
+784,.,None,,0
+785,tú necesitarías un pedicure ?,L2 L2 L2 n ?,ESP ESP ESP ENG,1
+786,no .,adv .,ENG,0
+787,let's not get back into that .,v neg v adv prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+788,por qué ?,prep pro:int ?,ENG ENG,0
+789,I'm not interested .,pro:sub neg part .,ENG ENG ENG,0
+790,te sientes como un poco atacado en cierta manera con eso .,pro:obj v adv det:art adv part prep adj n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+791,no qué me importa .,adv pro:int pro:obj v .,ENG ENG ENG ENG,0
+792,eso no me importa .,pro:dem adv pro:obj v .,ENG ENG ENG ENG,0
+793,y ya .,coord adv .,ENG ENG,0
+794,ya casi me tengo que ir a buscar a Felisa .,adv adv pro:obj v pro:rel inf aprep inf aprep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+795,como quieras .,adv v .,ENG ENG,0
+796,que cómo cinco minutos más ?,pro:rel pro:int det:num n adv ?,ENG ENG ENG ENG ENG,0
+797,te vas ya ?,pro:obj v adv ?,ENG ENG ENG,0
+798,well depende .,co L2 .,ENG ESP,1
+799,y después de Felisa qué vas a ir a hacer ?,coord adv prep n:prop pro:int v aprep inf aprep inf ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+800,a mi casa .,aprep det:pos imp .,ENG ENG ENG,0
+801,qué vas a hacer allá ?,pro:int v aprep inf adv ?,ENG ENG ENG ENG ENG,0
+802,no limpiar y terminar lo que estaba haciendo en la casa .,adv inf coord inf pro:obj pro:rel aux ger prep det:art imp .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+803,tú no estabas haciendo nada .,pro:sub adv aux ger pro:indef .,ENG ENG ENG ENG ENG,0
+804,I was cleaning my carpets with a carpet cleaner .,pro:sub aux part det:poss n prep det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+805,qué tenía la carpeta ?,pro:int v det:art n ?,ENG ENG ENG ENG,0
+806,qué tenían las carpetas ?,pro:int v det:art n ?,ENG ENG ENG ENG,0
+807,no they are dirty you know .,co pro:sub cop v pro:per v .,ENG ENG ENG ENG ENG ENG,0
+808,Manu is playing baseball .,n:prop aux part n .,ENG ENG ENG ENG,0
+809,he runs up and down the stairs .,pro:sub v prep coord adv det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+810,and when he gets home from baseball ...,coord conj pro:sub v adv prep n +...,ENG ENG ENG ENG ENG ENG ENG,0
+811,Felisa doesn't take off her shoes .,n:prop mod v prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+812,the dog runs up and down the stairs .,det:art n v adv coord adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+813,oh .,co .,ENG,0
+814,I have to clean that every month .,pro:sub v inf adj adv qn n .,ENG ENG ENG ENG ENG ENG ENG,0
+815,every couple of months .,qn n prep n .,ENG ENG ENG ENG,0
+816,otherwise it would look disgusting .,adv pro:per mod v part .,ENG ENG ENG ENG ENG,0
+817,voy a hacer una llamada sobre el rack de vino .,L2 L2 L2 L2 L2 L2 L2 n L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+818,right .,co .,ENG,0
+819,te voy a dejar saber si tienen uno disponible igualito o uno de los de marca de los que tú dices .,pro:obj v aprep inf inf conj v det:art adj adj coord det:art prep det:art prep n prep det:art pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+820,está bien .,cop adv .,ENG ENG,0
+821,está bien .,cop adv .,ENG ENG,0
+822,lo que sea .,pro:obj pro:rel cop .,ENG ENG ENG,0
+823,okay .,co .,ENG,0
+824,okay .,co .,ENG,0

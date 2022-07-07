@@ -1,0 +1,126 @@
+,sentence,pos,language,switch
+0,uhhuh .,co .,ESP,0
+1,esperando .,ger .,ESP,0
+2,uhhuh .,co .,ESP,0
+3,uhhuh .,co .,ESP,0
+4,uhhuh .,co .,ESP,0
+5,ajá .,co .,ESP,0
+6,aquí bien eh trabajando .,adv adv co ger .,ESP ESP ESP ESP,0
+7,y aquí estaba //.,coord adv cop +//.,ESP ESP ESP,0
+8,llamé a ...,v aprep +...,ESP ESP,0
+9,ustedes tienen algo el jueves ?,pro:sub v pro:dem det:art n ?,ESP ESP ESP ESP ESP,0
+10,a las once .,aprep det:art det:num .,ESP ESP ESP,0
+11,uhhuh .,co .,ESP,0
+12,no que el número ese del teléfono que papá me ha dado que había salido en el periódico .,adv pro:rel det:art n det:dem prep n prep n pro:obj aux part pro:rel aux part prep det:art n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+13,lo llamé .,pro:obj v .,ESP ESP,0
+14,porque ya me cansé de llamar a los otros que me dijeron que .,conj adv pro:obj v prep inf aprep det:art det:indef pro:rel pro:obj v pro:rel .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+15,"el tipo me dijo ""/.","det:art n pro:obj v +""/.",ESP ESP ESP ESP,0
+16,bueno nos acercamos a más de cien mil .,co pro:obj v aprep adv prep det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+17,me preguntó cuánto era la de papi .,pro:obj v pro:int cop pro:obj v n .,ESP ESP ESP ESP ESP ESP ESP,0
+18,y yo le dije que noventa .,coord pro:sub pro:ind v pro:rel det:num .,ESP ESP ESP ESP ESP ESP,0
+19,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+20,bueno es tan cerca .,co cop adv adv .,ESP ESP ESP ESP,0
+21,se puede probar para ver si alguien está interesado .,pro:refl v inf prep inf conj pro:indef aux part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+22,aló ?,co ?,ESP,0
+23,llamé el número del ...,v det:art n prep +...,ESP ESP ESP ESP,0
+24,que ya yo había encontrado esa misma compañía en el website .,pro:rel adv pro:sub aux part det:dem adj n prep det:art L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+25,mm del el artículo ese que tú habías encontrado .,L2 prep det:art n det:dem pro:rel pro:sub aux part .,ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+26,"eh y el hombre me el muchacho agradable me dice "".","co coord det:art co:voc pro:obj det:art n adj pro:obj v +"".",ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+27,bueno por lo general ellos son más de cien mil .,co prep pro:obj adj pro:sub cop adv prep det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+28,y entonces me preguntó cuánto era la tuya .,coord adv pro:obj v det:int cop det:art pro:pos .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+29,y le dije que era más de cien mil .,coord pro:ind v pro:rel cop adv prep det:num det:num .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+30,"y le dije ""/.","coord pro:ind v +""/.",ESP ESP ESP,0
+31,bueno la tuya es de noventa .,co det:art pro:pos cop prep det:num .,ESP ESP ESP ESP ESP ESP,0
+32,"y me dice ""/.","coord pro:obj v +""/.",ESP ESP ESP,0
+33,bueno es tan cerca cien mil .,co cop adv adv det:num det:num .,ESP ESP ESP ESP ESP ESP,0
+34,por qué no vienes .,prep pro:int adv v .,ESP ESP ESP ESP,0
+35,no te cuesta nada .,adv pro:obj v v .,ESP ESP ESP ESP,0
+36,a ver si hay algún banco que esté interesado en comprarlo .,aprep inf conj v det:indef n pro:rel aux part prep inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+37,no cuesta nada .,adv v v .,ESP ESP ESP,0
+38,"entonces le digo ""/.","adv pro:ind v +""/.",ESP ESP ESP,0
+39,bueno no me habían dicho que si es turn_light ya tiene más de setenta y cinco no tiene valor .,co adv pro:obj aux part pro:rel conj cop L2 adv v adv prep det:num coord det:num adv v n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+40,no bueno no es necesariamente pasa por las //.,adv co adv cop adv:adj v prep det:art +//.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+41,si ellos pueden seguir pagando .,conj pro:sub v inf ger .,ESP ESP ESP ESP ESP,0
+42,y le ven un life expectancy report .,coord pro:ind v det:art L2 L2 L2 .,ESP ESP ESP ESP ENG ENG ENG,1
+43,eh pueden ver que sí les conviene o no les conviene .,co v inf pro:rel co pro:ind v coord adv pro:ind v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+44,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+45,no te cuesta nada venir y averiguar y eso .,adv pro:obj v v inf coord inf coord pro:dem .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+46,entonces que nos hizo una cita el el jueves a las once de la mañana .,co pro:rel pro:obj v pro:dem v det:art det:art n aprep det:art det:num prep det:art adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+47,ustedes tienen algo ?,pro:sub v pro:dem ?,ESP ESP ESP,0
+48,okay .,co .,ESP,0
+49,es en cerca del aeropuerto .,cop prep adv prep n .,ESP ESP ESP ESP ESP,0
+50,sí .,co .,ESP,0
+51,ellos se llaman es un brokers .,pro:sub pro:refl v cop det:art L2 .,ESP ESP ESP ESP ESP ENG,1
+52,"yo no lo había llamado porque Pedro había dicho ""/.","pro:sub adv pro:obj aux part conj n:prop aux part +""/.",ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+53,no que si no estaban en la lista que si no sé qué que si no sé cuánto .,adv pro:rel conj adv cop prep det:art adj pro:rel conj adv v pro:int pro:rel conj adv v det:int .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+54,pero como todas las otras demás no me han dado ningún calor déjame llamar al número que ellos tienen aquí .,conj adv det:indef det:art det:indef adj adv pro:obj aux part det:indef n imp inf aprep n prep pro:sub v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+55,entonces .,adv .,ESP,0
+56,entonces exacto .,co co .,ESP ESP,0
+57,"entonces me dice ""/.","adv pro:obj v +""/.",ESP ESP ESP,0
+58,bueno y que traiga los papeles que tiene .,co coord pro:rel v det:art n pro:rel v .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+59,"y le digo ""/.","coord pro:ind v +""/.",ESP ESP ESP,0
+60,bueno lo que él tiene es un certificate specification que la compañía se lo ha comprado con la ITT .,co pro:obj pro:rel pro:sub v cop det:art L2 L2 prep det:art n pro:refl pro:obj aux part prep det:art n:prop .,ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+61,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+62,ay mira qué casualidad .,co co pro:int n .,ESP ESP ESP ESP,0
+63,su suegro empezó la compañía de seguros con algo que estaba haciendo para la ITT .,det:pos n v det:art n prep adj prep pro:dem pro:rel aux ger prep det:art n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+64,.,None,,0
+65,uhhuh .,L2 .,ENG,0
+66,y él dice exacto .,coord pro:sub v co .,ESP ESP ESP ESP,0
+67,sí .,co .,ESP,0
+68,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+69,no te cuesta ver si alguien lo viene a comprar o no .,adv pro:obj v inf conj pro:indef pro:obj v aprep inf coord adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+70,bueno yo estaba leyendo la póliza .,co pro:sub aux ger det:art n .,ESP ESP ESP ESP ESP ESP,0
+71,y te dan tiempo .,coord pro:obj v n .,ESP ESP ESP ESP,0
+72,o sea no lo tienes que pagar inmediatamente .,coord cop adv pro:obj v pro:rel inf adv:adj .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+73,te dan treinta .,pro:obj v det:num .,ESP ESP ESP,0
+74,exacto treinta días a cuando es due o sea .,co det:num n aprep pro:rel cop L2 coord cop .,ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+75,no no hay que pagarlo instantáneamente y no /.,adv adv v pro:rel inf adv:adj coord adv +/.,ESP ESP ESP ESP ESP ESP ESP ESP,0
+76,exacto .,co .,ESP,0
+77,exacto exacto exacto .,co co co .,ESP ESP ESP,0
+78,eh bueno él es .,co co pro:sub cop .,ESP ESP ESP ESP,0
+79,bueno el effective date es julio .,co det:art L2 L2 cop n .,ESP ESP ENG ENG ESP ESP,1
+80,mira aquí el effective date de tu póliza es julio del ochenta y cinco .,co adv det:art L2 L2 prep det:pos n cop n prep n coord det:num .,ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+81,sí sí sí .,co co co .,ESP ESP ESP,0
+82,pero los pagos si no lo pagas inmediatamente no te lo quitan .,conj pro:obj n conj adv pro:obj v adv:adj adv pro:obj pro:obj v .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+83,eh inmediatamente .,co adv:adj .,ESP ESP,0
+84,lo acabo de leer .,pro:obj v prep inf .,ESP ESP ESP ESP,0
+85,pero no sé dónde lo leí .,conj adv v pro:int pro:obj v .,ESP ESP ESP ESP ESP ESP,0
+86,no sé dónde lo leí .,adv v pro:int pro:obj v .,ESP ESP ESP ESP ESP,0
+87,uhhuh .,co .,ESP,0
+88,"uhhuh me dice ""/.","L2 pro:obj v +""/.",ENG ESP ESP,1
+89,bueno está tan cerca de cien mil .,co cop adv adv prep det:num det:num .,ESP ESP ESP ESP ESP ESP ESP,0
+90,"me dice "".","pro:obj v +"".",ESP ESP,0
+91,tal vez alguien quiera comprarlo .,adj n pro:indef imp inf .,ESP ESP ESP ESP ESP,0
+92,le hacen a tu papá un life expectancy report .,pro:ind v aprep det:pos n det:art L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+93,a ver si basado en la gente de la edad de él si se mueren etcetera .,aprep inf conj part prep det:art n prep det:art n v pro:sub conj pro:refl v adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+94,"le digo ""/.","pro:ind v +""/.",ESP ESP,0
+95,bueno pero eso es lo mismo del viático .,co conj pro:dem cop pro:obj adj prep n .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+96,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+97,no eso es si a la persona le han dado dos años de vida o menos .,adv pro:dem cop conj aprep det:art n pro:ind aux part det:num n v co:voc coord adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+98,"me dice ""/.","pro:obj v +""/.",ESP ESP,0
+99,no es lo mismo que lo que sería para tu papá .,adv cop pro:obj adj pro:rel pro:obj pro:rel cop prep det:pos n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+100,"y yo ""/.","coord pro:sub +""/.",ESP ESP,0
+101,eh bueno okay .,co co co .,ESP ESP ESP,0
+102,sí yo lo busco sí .,co pro:sub pro:obj v co .,ESP ESP ESP ESP ESP,0
+103,nueve y media para llegar a las once .,det:num coord adj prep inf aprep det:art det:num .,ESP ESP ESP ESP ESP ESP ESP ESP,0
+104,eso toma /.,pro:dem v +/.,ESP ESP,0
+105,estás a las once .,aux aprep det:art det:num .,ESP ESP ESP ESP,0
+106,no no no .,adv adv adv .,ESP ESP ESP,0
+107,es a las once .,cop aprep det:art det:num .,ESP ESP ESP ESP,0
+108,uhhuh .,co .,ESP,0
+109,uhhuh .,co .,ESP,0
+110,uhhuh .,co .,ESP,0
+111,okay .,co .,ESP,0
+112,oh no nos ilusionemos .,co adv pro:obj v .,ESP ESP ESP ESP,0
+113,tú todavía tienes que encontrar todavía alguien que lo quiera comprar .,pro:sub adv v pro:rel inf adv pro:indef pro:rel pro:obj v inf .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+114,"bueno pero por lo bueno el dice ""/.","co conj prep pro:obj co det:art v +""/.",ESP ESP ESP ESP ESP ESP ESP,0
+115,no te cuesta nada .,adv pro:obj v v .,ESP ESP ESP ESP,0
+116,pues y si alguien está interesado .,co coord conj pro:indef aux part .,ESP ESP ESP ESP ESP ESP,0
+117,ellos son brokers .,pro:sub cop L2 .,ESP ESP ENG,1
+118,eso es lo que hacen ellos .,pro:dem cop pro:obj pro:rel v pro:sub .,ESP ESP ESP ESP ESP ESP,0
+119,ellos no son .,pro:sub adv cop .,ESP ESP ESP,0
+120,sí .,co .,ESP,0
+121,exacto .,co .,ESP,0
+122,yo sé que ellos venden pólizas de seguro también .,pro:sub v pro:rel pro:sub v n v co adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+123,pero eh ahora se están metiendo en en también .,conj co adv pro:refl aux ger prep prep adv .,ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+124,no le puedo decir que no .,adv pro:ind v inf pro:rel adv .,ESP ESP ESP ESP ESP ESP,0

@@ -1,0 +1,87 @@
+,sentence,pos,language,switch
+0,which movie ?,pro:rel n ?,ENG ENG,0
+1,.,None,,0
+2,good morning Susan .,adj n n:prop .,ENG ENG ENG,0
+3,it's Maria .,pro:per n:prop .,ENG ENG,0
+4,how are you ?,pro:int cop pro:per ?,ENG ENG ENG,0
+5,good good .,adj adj .,ENG ENG,0
+6,is Tom there ?,cop n:prop adv ?,ENG ENG ENG,0
+7,thanks .,co .,ENG,0
+8,buenos días mister Garcia_Pérez .,L2 L2 n n:prop .,ESP ESP ENG ENG,1
+9,happy new year .,adj adj n .,ENG ENG ENG,0
+10,oh .,co .,ENG,0
+11,cómo la pasasteis ?,pro:int pro:obj v ?,ENG ENG ENG,0
+12,you have refreshing break .,pro:per v n:gerund n .,ENG ENG ENG ENG,0
+13,fuiste a alguna parte o no ?,v aprep det:indef v coord adv ?,ENG ENG ENG ENG ENG ENG,0
+14,ah .,co .,ENG,0
+15,ahhah .,L2 .,ESP,0
+16,no .,co .,ENG,0
+17,.,None,,0
+18,ah very nice .,co adv adj .,ENG ENG ENG,0
+19,was it full ?,cop pro:per adj ?,ENG ENG ENG,0
+20,eso no está lleno ?,pro:dem adv cop v ?,ENG ENG ENG ENG,0
+21,.,None,,0
+22,too packed ?,adv part ?,ENG ENG,0
+23,porque yo me imaginaría que la época esa de después de Christmas estaría que no cabe ni ...,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+24,bueno Juana dice que ella el año pasado fue a Disney antes de Christmas y que estaba super bien porque no había nadie .,L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 n:prop L2 L2 n:prop L2 L2 L2 adj L2 L2 L2 L2 L2 .,ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ENG ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+25,like los dos tres días antes de Christmas .,co L2 L2 L2 L2 L2 L2 n:prop .,ENG ESP ESP ESP ESP ESP ESP ENG,1
+26,"y le digo ""/.","coord pro:ind v +""/.",ENG ENG ENG,0
+27,Juana tú estás loca ?,n:prop L2 L2 L2 ?,ENG ESP ESP ESP,1
+28,"me dice ""/.","pro:obj v +""/.",ENG ENG,0
+29,no no había nadie .,adv adv aux pro:indef .,ENG ENG ENG ENG,0
+30,it was perfect .,pro:per cop adj .,ENG ENG ENG,0
+31,so you never know .,co pro:per adv v .,ENG ENG ENG ENG,0
+32,right .,co .,ENG,0
+33,so eh me llamó mister Bowers .,co co L2 L2 n n:prop .,ENG ENG ESP ESP ENG ENG,1
+34,eh he wants you to do something for him .,co pro:sub v pro:per inf v pro:indef prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+35,you know el vecino de A_one que se queja que la luz de dump slide in his backyard or something .,pro:per v L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n n prep det:poss n coord pro:indef .,ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+36,that we put that light the house light shield .,comp pro:sub part adv v det:art n adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+37,he wants you to look at the photometrics .,pro:sub v pro:per inf v prep det:art n:pt .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+38,and see whether it's ...,coord v conj pro:per +...,ENG ENG ENG ENG,0
+39,once you put the light shield .,adv pro:per v det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+40,they are still complaining .,pro:sub aux adv part .,ENG ENG ENG ENG,0
+41,and they are still going to be bitching and moaning .,coord pro:sub aux adv part inf aux part coord part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+42,"and aparentemente le mandó a la principal de A_One un email de esos insultantes horribles whatever que le dijeron ""/.","coord L2 L2 L2 L2 L2 adj L2 n:prop L2 n L2 L2 L2 L2 pro:int L2 L2 L2 +""/.",ENG ESP ESP ESP ESP ESP ENG ESP ENG ESP ENG ESP ESP ESP ESP ENG ESP ESP ESP,1
+43,you know you can't communicate with her anymore .,pro:per v pro:per mod v prep pro:obj adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+44,you know one of those kind of neighbors .,pro:per v pro:indef prep det:dem adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+45,so what he says they are not going to get remove of the light or anything cause they need it for safety .,adv pro:int pro:sub v pro:sub aux neg part inf v v prep det:art n coord pro:indef n pro:sub v pro:per prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+46,but he wants to you know have time to pull evidence .,conj pro:sub v prep pro:per v v n inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+47,mira los photometrics con el light shield esa luz no tiene whatever .,L2 L2 n:pt L2 L2 adj n L2 L2 L2 L2 pro:int .,ESP ESP ENG ESP ESP ENG ENG ESP ESP ESP ESP ENG,1
+48,you know it it's acceptable .,pro:per v pro:per pro:per adj .,ENG ENG ENG ENG ENG,0
+49,well that's why I've been calling to Pedro para que me diga cuál es so that you know which is the pole that we put it on cause I don't know which one it is .,co pro:dem pro:int pro:sub aux part prep n:prop L2 L2 L2 L2 L2 L2 adv pro:rel pro:per v pro:rel cop det:art n pro:rel pro:sub v pro:per prep n pro:sub mod v pro:int pro:indef pro:per cop .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+50,it's not the neighbor in the corner .,pro:per neg det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+51,yo creo que es el de al lado .,pro:sub v pro:rel cop det:art prep aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+52,but I need to confirm so that we know which one you put it in .,conj pro:sub v inf v conj comp pro:sub v pro:rel det:num pro:per v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+53,and then his other thing he noted when he was at the U_One siding and connector road que pusimos luces .,coord adv:tem det:poss qn n pro:sub v conj pro:sub cop prep det:art L2 n coord n n L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ESP ESP ESP,1
+54,you know the new road we put in .,pro:per v det:art adj n pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+55,me dice esos están hasta más cerca todavía de los vecinos .,pro:obj v det:dem cop prep adv adv adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+56,right .,co .,ENG,0
+57,so he wants to at least have some comment from you from the photometrics saying you know the light level is acceptable you know whatever standard that is .,co pro:sub v prep prep n v qn n prep pro:per prep det:art n:pt part pro:per v det:art adj n cop adj pro:per v pro:int n pro:rel cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+58,I don't know how you wanna coach it you know they are not going to remove it but they wanna be able to say bueno you know it's no different than whatever your house your street light or something so ...,pro:sub mod v pro:int pro:per v v pro:per pro:per v pro:sub aux neg part inf v pro:per conj pro:sub v cop adj inf v L2 pro:per v pro:per qn adj prep pro:int det:poss n det:poss n n coord pro:indef adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+59,which is the pole at A_One and then at U_One did we run photometrics for that new connector road way ?,pro:rel cop det:art n prep L2 coord adv:tem prep L2 mod pro:sub v n:pt prep det:dem adj n n adv ?,ENG ENG ENG ENG ENG ESP ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+60,okay so it'll be the same thing and we may have to put house shields you know home house shields on those para por lo menos quitar un poquitico porque he wants to at least show the //.,co adv pro:per cop det:art adj n coord pro:sub mod v inf v n v pro:per v adv n v prep det:dem L2 L2 L2 L2 L2 L2 L2 L2 pro:sub v inf prep adj n det:art +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+61,mira cuando no tenía un shield este era el luz que te tocaba .,co pro:rel adv v det:art L2 imp cop det:art n pro:rel pro:obj v .,ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG,1
+62,now that he has it it's a little bit lower .,adv pro:rel pro:sub aux pro:per pro:per det:art adj n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+63,go away .,v adv .,ENG ENG,0
+64,all right .,post co .,ENG ENG,0
+65,thank you much anybody need anything from .,v pro:per adv pro:indef n pro:indef prep .,ENG ENG ENG ENG ENG ENG ENG,0
+66,.,None,,0
+67,no she is gonna send you something .,co pro:sub aux part v pro:per pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+68,is that Hannah ?,cop comp n:prop ?,ENG ENG ENG,0
+69,yes that is Hannah .,co pro:dem cop n:prop .,ENG ENG ENG ENG,0
+70,she's smiling .,pro:sub part .,ENG ENG,0
+71,.,None,,0
+72,.,None,,0
+73,did you hear Hannah ?,mod pro:per v n:prop ?,ENG ENG ENG ENG,0
+74,Peter James and Lauren .,n:prop n:prop coord n:prop .,ENG ENG ENG ENG,0
+75,.,None,,0
+76,all right .,post co .,ENG ENG,0
+77,okay bye .,co co +.,ENG ENG,0
+78,.,None,,0
+79,all right bye .,qn n co .,ENG ENG ENG,0
+80,he said he talked to Juana he talked to Katherine and he says who do I have left over there to bring in the new year .,pro:sub v pro:sub v prep n:prop pro:sub v prep n:prop coord pro:sub v pro:int mod pro:sub v v prep n inf v prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+81,.,None,,0
+82,yes .,co .,ENG,0
+83,"the person who is gonna try and transcribe this is gonna say ""/.","det:art n pro:int aux part v coord v det:dem aux part v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+84,oh you are talking about us .,co pro:per aux part prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+85,.,None,,0

@@ -1,0 +1,381 @@
+,sentence,pos,language,switch
+0,no pero vino porque he came to check on my machine .,co L2 L2 L2 pro:sub v prep n prep det:poss n .,ENG ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+1,.,None,,0
+2,because it wasn't recording .,conj pro:per aux part .,ENG ENG ENG ENG,0
+3,.,None,,0
+4,I guess yes .,pro:sub v co .,ENG ENG ENG,0
+5,I was being sporadic .,pro:sub aux part adj .,ENG ENG ENG ENG,0
+6,but I guess now I'm wearing it every day .,conj pro:sub v adv pro:sub part pro:per qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,.,None,,0
+8,huh ?,co ?,ENG,0
+9,.,None,,0
+10,supposedly .,adv .,ENG,0
+11,I mean it's not gonna kill me .,pro:sub v pro:per neg part v pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+12,no si él me lo dijo el domingo because he went to my mother in law's house .,co L2 L2 L2 L2 L2 L2 L2 conj pro:sub v prep det:poss n prep adj n .,ENG ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+13,yo le invité pa Easter porque me daba pena el pobre aquí solo sin familia ni nada .,L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+14,so we had him over for Easter .,co pro:sub v pro:obj adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+15,"me dice ""/.","pro:obj v +""/.",ENG ENG,0
+16,ay sí I feel so bad !,L2 L2 pro:sub v adv adj !,ESP ESP ENG ENG ENG ENG,1
+17,poor Katie and Rosa and you know .,adj n:prop coord L2 coord pro:per v .,ENG ENG ENG ESP ENG ENG ENG,1
+18,oye y compraron un suitcase con un briefcase ?,L2 L2 L2 L2 n L2 L2 L2 ?,ESP ESP ESP ESP ENG ESP ESP ESP,1
+19,.,None,,0
+20,did he just get it ?,mod pro:sub adv aux pro:per ?,ENG ENG ENG ENG ENG,0
+21,.,None,,0
+22,no te lo creo .,adv pro:obj pro:obj v .,ENG ENG ENG ENG,0
+23,.,None,,0
+24,esto diez dólares ?,pro:dem det:num n ?,ENG ENG ENG,0
+25,.,None,,0
+26,coño está /.,co cop +/.,ENG ENG,0
+27,.,None,,0
+28,quién that one ?,L2 det:dem pro:indef ?,ESP ENG ENG,1
+29,Miguel .,L2 .,ESP,0
+30,.,None,,0
+31,coño that diez dólares na más !?,L2 adv L2 L2 L2 L2 +!?,ESP ENG ESP ESP ESP ESP,1
+32,that's really cheap !,pro:dem adv adj !,ENG ENG ENG,0
+33,.,None,,0
+34,qué pidieron ?,pro:int v ?,ENG ENG,0
+35,.,None,,0
+36,cuánto le habrán pagado pa las fotos de los niños ?,pro:int pro:ind aux part co det:art n prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+37,.,None,,0
+38,y qué hicieron con ello ?,coord pro:int v prep pro:sub ?,ENG ENG ENG ENG ENG,0
+39,lo dieron con charity I hope ?,L2 L2 L2 n pro:sub v ?,ESP ESP ESP ENG ENG ENG,1
+40,.,None,,0
+41,a ver .,aprep inf .,ENG ENG,0
+42,.,None,,0
+43,what do you mean she's doing a triathlon ?,pro:int mod pro:per v pro:sub part det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+44,.,None,,0
+45,like the kids are gonna be proud of a six weeks and you know .,prep det:art n aux part cop adj prep det:art det:num n coord pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+46,.,None,,0
+47,ay por favor .,co prep n .,ENG ENG ENG,0
+48,.,None,,0
+49,ssh por favor !,co prep n !,ENG ENG ENG,0
+50,a ver déjame ver dónde están las fotos de la casa .,aprep inf imp inf pro:int cop det:art n prep det:art imp .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+51,.,None,,0
+52,el cuarto ...,det:art n +...,ENG ENG,0
+53,déjame but ...,L2 conj +...,ESP ENG,1
+54,.,None,,0
+55,y él no tiene una pila de hijos con otra mujer ?,coord pro:sub adv v det:art n prep n prep det:indef co ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+56,.,None,,0
+57,con la portorriqueña .,prep det:art n .,ENG ENG ENG,0
+58,.,None,,0
+59,le gustan las portorriqueñas //.,pro:ind v det:art n +//.,ENG ENG ENG ENG,0
+60,bueno él es portorro también .,co pro:sub cop n adv .,ENG ENG ENG ENG ENG,0
+61,.,None,,0
+62,.,None,,0
+63,ay sí too adult .,L2 L2 adv adj .,ESP ESP ENG ENG,1
+64,ay no //.,co co +//.,ENG ENG,0
+65,.,None,,0
+66,there's nothing fun about it .,pro:exist pro:indef adj prep pro:per .,ENG ENG ENG ENG ENG,0
+67,.,None,,0
+68,and very /.,coord adv +/.,ENG ENG,0
+69,.,None,,0
+70,no it looks like eighteen fifties room .,co pro:per v co det:num det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+71,.,None,,0
+72,it's eighteen fifties you know .,pro:per det:num det:num pro:per v .,ENG ENG ENG ENG ENG,0
+73,.,None,,0
+74,there's nothing pink .,pro:exist pro:indef adj .,ENG ENG ENG,0
+75,there's nothing .,pro:exist pro:indef .,ENG ENG,0
+76,.,None,,0
+77,espérate .,imp .,ENG,0
+78,aquí tienen lo mismo que tienen los hijos míos la medalla .,adv v pro:obj adj pro:rel v det:art n pro:pos det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+79,.,None,,0
+80,aquí está la azul .,adv cop det:art adj .,ENG ENG ENG ENG,0
+81,y aquí está el rosado .,coord adv cop det:art adj .,ENG ENG ENG ENG ENG,0
+82,es todo blanco .,cop pro:indef adj .,ENG ENG ENG,0
+83,muy formal .,adv adj .,ENG ENG,0
+84,es muy formal .,cop adv adj .,ENG ENG ENG,0
+85,.,None,,0
+86,when the umbilical cords fell off I cried .,conj det:art adj n v adv pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+87,that was the last attachment we had .,pro:dem cop det:art n n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+88,where it was just us .,pro:int pro:per cop adv pro:obj .,ENG ENG ENG ENG ENG,0
+89,ay please .,L2 co .,ESP ENG,1
+90,espérate .,imp .,ENG,0
+91,I miss feeling them inside of me .,pro:sub v part pro:obj adv prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+92,"says Jennifer "".","v n:prop +"".",ENG ENG,0
+93,it's funny .,pro:per adj .,ENG ENG,0
+94,when their little umbilical cords fell off I cried .,conj det:poss adj adj n v adv pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+95,.,None,,0
+96,sí estaba gordita .,co cop adj .,ENG ENG ENG,0
+97,.,None,,0
+98,cincuenta libras .,det:num v .,ENG ENG,0
+99,.,None,,0
+100,even with twins .,adv prep n .,ENG ENG ENG,0
+101,.,None,,0
+102,maybe even forty or forty five with twins .,adv adj det:num coord det:num det:num prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+103,.,None,,0
+104,sí exacto .,co co .,ENG ENG,0
+105,.,None,,0
+106,no olvídate al día siguiente //.,co L2 L2 L2 L2 +//.,ENG ESP ESP ESP ESP,1
+107,.,None,,0
+108,designers Dolce and Gabbana presented the babies with custom made fur wraps .,n n:prop coord n:prop v det:art n prep n v n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+109,.,None,,0
+110,dónde están ?,pro:int cop ?,ENG ENG,0
+111,.,None,,0
+112,oh the one here where they were laying in them ?,co det:art det:num adv pro:rel pro:sub aux part prep pro:obj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+113,.,None,,0
+114,el pink .,L2 n .,ESP ENG,1
+115,y dónde está el azul ?,coord pro:int cop det:art adj ?,ENG ENG ENG ENG ENG,0
+116,el pobre Max lo rodean de rosadito .,L2 L2 n:prop L2 L2 L2 L2 .,ESP ESP ENG ESP ESP ESP ESP,1
+117,it's just made me feel so good .,pro:per adj v pro:obj v adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+118,that my children were being welcomed into the //.,comp det:poss n aux part part prep det:art +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+119,ay por favor .,co prep n .,ENG ENG ENG,0
+120,.,None,,0
+121,olvídate si tiene como tres trainers !,L2 L2 L2 L2 L2 n !,ESP ESP ESP ESP ESP ENG,1
+122,tiene un cocinero !,v det:art n !,ENG ENG ENG,0
+123,.,None,,0
+124,oh she's not breastfeeding .,co pro:sub neg part .,ENG ENG ENG ENG,0
+125,.,None,,0
+126,my mom didn't breastfeed because she didn't have any milk .,det:poss n mod v conj pro:sub mod v qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+127,my mother had no milk .,det:poss n v qn n .,ENG ENG ENG ENG ENG,0
+128,neither did my sister .,coord v det:poss n .,ENG ENG ENG ENG,0
+129,no producía .,L2 L2 .,ESP ESP,0
+130,I mean like dos goticas de nada .,pro:sub v prep L2 L2 L2 L2 .,ENG ENG ENG ESP ESP ESP ESP,1
+131,with none four .,prep pro:indef det:num .,ENG ENG ENG,0
+132,con el primero dice mi mamá que probó y probó .,prep det:art adv v det:pos n pro:rel v coord v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+133,le daban toda clase de you know shakes and things to //.,L2 L2 L2 L2 L2 pro:per v n coord n prep +//.,ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+134,nada .,pro:indef .,ENG,0
+135,.,None,,0
+136,nada .,pro:indef .,ENG,0
+137,con el segundo dice que probó .,prep det:art adj:num v pro:rel v .,ENG ENG ENG ENG ENG ENG,0
+138,"y ya con mi hermana dijo ""/.","coord adv prep det:pos n v +""/.",ENG ENG ENG ENG ENG ENG,0
+139,phew forget it .,co v pro:per .,ENG ENG ENG,0
+140,I'm not even gonna bother .,pro:sub neg adv part v .,ENG ENG ENG ENG ENG,0
+141,y mi hermana tampoco ni con el grande ni con el chiquito .,coord det:pos n adv coord prep det:art adj coord prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+142,what's with this let's put your feet up ?,pro:int prep det:dem v v det:poss n adv ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+143,I mean that's so posed .,pro:sub v pro:dem adv part .,ENG ENG ENG ENG ENG,0
+144,.,None,,0
+145,está puñetero .,cop adj .,ENG ENG,0
+146,he looks very queer .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+147,matching three thousand .,part det:num det:num .,ENG ENG ENG,0
+148,gifts from pals Eva Longoria and hairstylist Ken Paves .,n prep n L2 n:prop coord n n:prop n:prop .,ENG ENG ENG ESP ENG ENG ENG ENG ENG,1
+149,ay please .,L2 co .,ESP ENG,1
+150,the nineteen sixty two Mercedes was a Christmas gift for Jennifer from Marc along with a Himalayan cat named Misty .,det:art det:num det:num det:num n:prop cop det:art n:prop n prep n:prop prep n:prop adv prep det:art n:prop n v n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,ay por favor .,co prep n .,ENG ENG ENG,0
+152,.,None,,0
+153,sí un convertible .,L2 L2 n .,ESP ESP ENG,1
+154,está lindo .,cop adj .,ENG ENG,0
+155,ha looking glam in full makeup and a bathrobe .,co part n prep adj n coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+156,.,None,,0
+157,three months of seclusion .,det:num n prep n .,ENG ENG ENG ENG,0
+158,ay please .,L2 co .,ESP ENG,1
+159,.,None,,0
+160,I didn't have any morning sickness .,pro:sub mod v qn n n .,ENG ENG ENG ENG ENG ENG,0
+161,.,None,,0
+162,.,None,,0
+163,ay por favor !,co prep n !,ENG ENG ENG,0
+164,.,None,,0
+165,a public school .,det:art adj n .,ENG ENG ENG,0
+166,no porque vive en Long Island so the public schools are probably good .,co L2 L2 L2 n:prop n:prop conj det:art n n cop adv adj .,ENG ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+167,.,None,,0
+168,they're so ugly .,pro:sub adv adj .,ENG ENG ENG,0
+169,.,None,,0
+170,you don't !,pro:per mod !,ENG ENG,0
+171,.,None,,0
+172,you don't .,pro:per mod .,ENG ENG,0
+173,that thing doesn't //.,det:dem n mod +//.,ENG ENG ENG,0
+174,I mean they don't fold down .,pro:sub v pro:sub mod v adv .,ENG ENG ENG ENG ENG ENG,0
+175,pero es una //.,conj cop det:art +//.,ENG ENG ENG,0
+176,it's not a //.,pro:per neg det:art +//.,ENG ENG ENG,0
+177,it is a showing off coche .,pro:per cop det:art n:gerund prep L2 .,ENG ENG ENG ENG ENG ESP,1
+178,.,None,,0
+179,it's not a practical /.,pro:per neg det:art adj +/.,ENG ENG ENG ENG,0
+180,.,None,,0
+181,pero work is relative term .,L2 n cop adj n .,ESP ENG ENG ENG ENG,1
+182,it's not you and my work .,pro:per neg pro:per coord det:poss n .,ENG ENG ENG ENG ENG ENG,0
+183,.,None,,0
+184,con dos full ...,L2 L2 adj +...,ESP ESP ENG,1
+185,qué decía aquí ?,pro:int v adv ?,ENG ENG ENG,0
+186,.,None,,0
+187,two baby nurses on around_the_clock duty .,det:num n v adv adj n .,ENG ENG ENG ENG ENG ENG,0
+188,.,None,,0
+189,two .,det:num .,ENG,0
+190,y con todo eso dicen que ellos son los que se levantan a alimentar a los niños .,coord prep det:indef pro:dem v pro:rel pro:sub cop det:art pro:rel pro:refl v aprep inf aprep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+191,.,None,,0
+192,entonces pa que rayos tú tienes dos mujeres ?,co co pro:rel n pro:sub v det:num n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+193,le estás regalando el dinero .,pro:ind aux ger det:art n .,ENG ENG ENG ENG ENG,0
+194,.,None,,0
+195,ay oye !,co co !,ENG ENG,0
+196,.,None,,0
+197,.,None,,0
+198,qué mala !,pro:int adj !,ENG ENG,0
+199,.,None,,0
+200,no they look normal .,co pro:sub v adv .,ENG ENG ENG ENG,0
+201,they look normal Jackie por favor .,pro:sub v adv n:prop L2 L2 .,ENG ENG ENG ENG ESP ESP,1
+202,.,None,,0
+203,yes they will .,co pro:sub mod .,ENG ENG ENG,0
+204,.,None,,0
+205,no te acuerdas que ese era el lío con Tom Cruise porque la niña no se le veía la foto por casi seis meses que //.,L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+206,te acuerdas que decían que la chiquita tenía /?,pro:obj v pro:rel v pro:rel det:art n v +/?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+207,.,None,,0
+208,ay por favor .,co prep n .,ENG ENG ENG,0
+209,.,None,,0
+210,ay please .,L2 co .,ESP ENG,1
+211,.,None,,0
+212,they claim that they didn't do in vitro .,pro:sub v comp pro:sub mod v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+213,.,None,,0
+214,so that's nothing to do with in vitro ?,co pro:dem pro:indef inf v prep prep n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+215,.,None,,0
+216,in vitro is your own genes .,prep n cop det:poss adj n .,ENG ENG ENG ENG ENG ENG,0
+217,.,None,,0
+218,they're fertilized outside and then injected in you .,pro:sub part adv coord adv:tem v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+219,.,None,,0
+220,no .,co .,ENG,0
+221,.,None,,0
+222,es que fraternal twins are not common at all .,L2 L2 adj n cop neg adj prep pro:indef .,ESP ESP ENG ENG ENG ENG ENG ENG ENG,1
+223,fraternal twins would /.,adj n mod +/.,ENG ENG ENG,0
+224,.,None,,0
+225,no what runs in her family are identical twins not fraternal .,co pro:int v adv det:poss n cop adj n neg adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+226,fraternal is two eggs getting fertilized separately .,adj aux det:num n part part adv .,ENG ENG ENG ENG ENG ENG ENG,0
+227,that normally is //.,pro:rel adv cop +//.,ENG ENG ENG,0
+228,that I know .,comp pro:sub v .,ENG ENG ENG,0
+229,and I could be wrong .,coord pro:sub mod cop adj .,ENG ENG ENG ENG ENG,0
+230,I was always heard that the one that runs in the family is the identical .,pro:sub aux adv part comp det:art pro:indef pro:rel v adv det:art n cop det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+231,one egg splits into two .,det:num n n prep det:num .,ENG ENG ENG ENG ENG,0
+232,.,None,,0
+233,pero in_vitro no significa que no son los genes de ellos .,conj L2 adv v pro:rel adv cop det:art n prep pro:sub .,ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+234,.,None,,0
+235,they take /.,pro:sub v +/.,ENG ENG,0
+236,.,None,,0
+237,outside .,adv .,ENG,0
+238,and then they put the embryo in .,coord adv:tem pro:sub v det:art n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+239,hoping it'll take .,part pro:per v .,ENG ENG ENG,0
+240,.,None,,0
+241,which is why people get multiple births .,pro:rel cop pro:rel n v adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+242,.,None,,0
+243,because normally they don't .,conj adv pro:sub mod .,ENG ENG ENG ENG,0
+244,in fact I was watching las noticias .,prep n pro:sub aux part L2 L2 .,ENG ENG ENG ENG ENG ESP ESP,1
+245,y había una mujer que salió con identical triplets .,L2 L2 L2 L2 L2 L2 L2 adj n .,ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+246,.,None,,0
+247,and they did in vitro .,coord pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+248,pero ellos no querían multiple kids .,L2 L2 L2 L2 adj n .,ESP ESP ESP ESP ENG ENG,1
+249,so they only put one egg in .,co pro:sub adv part det:num n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+250,the thing split .,det:art n v .,ENG ENG ENG,0
+251,.,None,,0
+252,it's like super rare .,pro:per conj adj adj .,ENG ENG ENG ENG,0
+253,"they said ""/.","pro:sub v +""/.",ENG ENG,0
+254,here we only wanted one kid you know to take it slow .,adv pro:sub adv v det:num n pro:per v inf v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+255,.,None,,0
+256,because that's why you see so many twins now because people do multiple eggs .,conj pro:dem pro:rel pro:per v adv qn n adv conj n v adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+257,.,None,,0
+258,and they'll get two boys a boy and a girl two girls whatever it is .,coord pro:sub v det:num n det:art n coord det:art n det:num n pro:int pro:per cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+259,and he said no they didn't want that .,coord pro:sub v co pro:sub mod v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+260,le pusieron un solo embryo pa que bueno si cogía bien perfecto .,L2 L2 L2 L2 n L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP,1
+261,.,None,,0
+262,y cayeron tres idénticos /.,coord v det:num adj +/.,ENG ENG ENG ENG,0
+263,.,None,,0
+264,tres idénticos .,det:num adj .,ENG ENG,0
+265,like each of them have a different colored nail painted so they can tell them apart because they're identical .,prep qn prep pro:obj v det:art adj part n part adv pro:sub mod v pro:obj adv conj pro:sub adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+266,tú te imaginas .,pro:sub pro:obj v .,ENG ENG ENG,0
+267,"y dice el marido ""/.","coord v det:art n +""/.",ENG ENG ENG ENG,0
+268,here they were doing everything right .,adv pro:sub aux part pro:indef adj .,ENG ENG ENG ENG ENG ENG,0
+269,we only want one kid .,pro:sub adv v det:num n .,ENG ENG ENG ENG ENG,0
+270,let's not do them /.,v neg v pro:obj +/.,ENG ENG ENG ENG,0
+271,.,None,,0
+272,ya gasta !,adv v !,ENG ENG,0
+273,.,None,,0
+274,cómo .,L2 .,ESP,0
+275,cuál es la diferencia ?,pro:int cop det:art n ?,ENG ENG ENG ENG,0
+276,.,None,,0
+277,oh no I don't like the baby blue .,co co pro:sub mod co det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+278,el suéter de Ramona .,L2 L2 L2 L2 .,ESP ESP ESP ESP,0
+279,Pam dio esa opción ?,n:prop L2 L2 L2 ?,ENG ESP ESP ESP,1
+280,.,None,,0
+281,no I like this better .,co pro:sub v pro:dem adj .,ENG ENG ENG ENG ENG,0
+282,yo ví el de Ramona y /.,pro:sub v det:art prep n:prop coord +/.,ENG ENG ENG ENG ENG ENG,0
+283,.,None,,0
+284,lo había cambiado /.,pro:obj aux part +/.,ENG ENG ENG,0
+285,.,None,,0
+286,y por qué ?,coord prep pro:int ?,ENG ENG ENG,0
+287,.,None,,0
+288,las mías todas vinieron azules .,det:art pro:pos det:indef v adj .,ENG ENG ENG ENG ENG,0
+289,.,None,,0
+290,oye gracias Katie te lo agradezco because I hate that one .,L2 L2 n:prop L2 L2 L2 conj pro:sub v det:dem pro:indef .,ESP ESP ENG ESP ESP ESP ENG ENG ENG ENG ENG,1
+291,I really don't like it .,pro:sub adv mod v pro:per .,ENG ENG ENG ENG ENG,0
+292,yo se lo vi en el suéter de /.,pro:sub pro:refl pro:obj v prep det:art n prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+293,.,None,,0
+294,I'll have to bring my black tee shirt again because I think it's this color .,pro:sub v inf v det:poss n n n adv conj pro:sub v pro:per det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+295,I think it's black .,pro:sub v pro:per adj .,ENG ENG ENG ENG,0
+296,I'll have to bring it in .,pro:sub v inf v pro:per adv .,ENG ENG ENG ENG ENG ENG,0
+297,.,None,,0
+298,looks horrible .,v adj .,ENG ENG,0
+299,no me gustó .,adv pro:obj v .,ENG ENG ENG,0
+300,yo pensé que lo Ramona era por equivocación .,pro:sub v pro:rel pro:obj n:prop cop prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+301,.,None,,0
+302,"y no le dijiste ""/.","coord adv pro:ind v +""/.",ENG ENG ENG ENG,0
+303,María te lo va a tirar por la cabeza !,n:prop pro:obj pro:obj v aprep inf prep det:art n !,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+304,.,None,,0
+305,"then he goes ""/.","adv:tem pro:sub v +""/.",ENG ENG ENG,0
+306,oh never mind .,co adv n .,ENG ENG ENG,0
+307,.,None,,0
+308,why was he changing them ?,pro:int cop pro:sub part pro:obj ?,ENG ENG ENG ENG ENG,0
+309,ay porque es la Julia I know .,L2 L2 L2 L2 n:prop pro:sub v .,ESP ESP ESP ESP ENG ENG ENG,1
+310,.,None,,0
+311,I had one of the best pregnancies ever .,pro:sub v det:num prep det:art adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+312,and I have to say one of the best husbands who helped me through every emotional /.,coord pro:sub v inf v pro:indef prep det:art adj n pro:rel v pro:obj prep qn adj +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+313,.,None,,0
+314,ay por favor !,co prep n !,ENG ENG ENG,0
+315,qué cursi !,pro:int adj !,ENG ENG,0
+316,"como diría mi hermana "".","adv v det:pos n +"".",ENG ENG ENG ENG,0
+317,.,None,,0
+318,sí porque si las venden a un dólar .,co conj conj pro:obj v aprep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+319,a un dólar las venden ?,aprep det:art n pro:obj v ?,ENG ENG ENG ENG ENG,0
+320,.,None,,0
+321,más chiquitico que el normal ?,adv n pro:rel det:art adj ?,ENG ENG ENG ENG ENG,0
+322,.,None,,0
+323,lo dividen a la mitad ?,pro:obj v aprep det:art n ?,ENG ENG ENG ENG ENG,0
+324,.,None,,0
+325,more than normal no .,qn prep adj co .,ENG ENG ENG ENG,0
+326,.,None,,0
+327,they buy the sign out front that says whatever .,pro:sub v det:art n prep adj adv v pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+328,.,None,,0
+329,oh okay .,co co .,ENG ENG,0
+330,they find something else .,pro:sub v pro:indef post .,ENG ENG ENG ENG,0
+331,.,None,,0
+332,tú ves a Katie en un PTA meeting ?,L2 L2 L2 n:prop L2 L2 n:prop part ?,ESP ESP ESP ENG ESP ESP ENG ENG,1
+333,tú ves /?,pro:sub v +/?,ENG ENG,0
+334,.,None,,0
+335,shh .,co .,ENG,0
+336,.,None,,0
+337,ay dios mío .,co co pro:pos .,ENG ENG ENG,0
+338,.,None,,0
+339,.,None,,0
+340,it's cold .,pro:per n .,ENG ENG,0
+341,.,None,,0
+342,I had a long sleeved shirt too .,pro:sub v det:art adj adj n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+343,it's cold .,pro:per n .,ENG ENG,0
+344,I got on the bus this morning .,pro:sub v prep det:art n det:dem n .,ENG ENG ENG ENG ENG ENG ENG,0
+345,and I forgot to look at the number .,coord pro:sub v inf v prep det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+346,damn !,n !,ENG,0
+347,.,None,,0
+348,yeah .,co .,ENG,0
+349,.,None,,0
+350,I know the one from my house .,pro:sub v det:art pro:indef prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+351,but this is at the dealer .,conj pro:dem cop prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+352,damn !,n !,ENG,0
+353,.,None,,0
+354,enfrente de South Motors .,L2 L2 n:prop n:prop .,ESP ESP ENG ENG,1
+355,I took the car to be serviced .,pro:sub v det:art n inf aux part .,ENG ENG ENG ENG ENG ENG ENG,0
+356,.,None,,0
+357,yeah South Motor .,co n:prop n:prop .,ENG ENG ENG,0
+358,.,None,,0
+359,ahí te mando el número de Joanna Toole .,L2 L2 L2 L2 L2 L2 n:prop n:prop .,ESP ESP ESP ESP ESP ESP ENG ENG,1
+360,.,None,,0
+361,she she comes to our board you know when they wanna chop off down a tree or something .,pro:sub pro:sub v prep det:poss n pro:per v conj pro:sub v v adv prep det:art n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+362,.,None,,0
+363,or not as a case maybe .,coord neg prep det:art n adv .,ENG ENG ENG ENG ENG ENG,0
+364,.,None,,0
+365,yes .,co .,ENG,0
+366,.,None,,0
+367,where ?,pro:rel ?,ENG,0
+368,.,None,,0
+369,is this the road that's right next to ..?,cop pro:dem det:art n pro:rel adv adv prep +..?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+370,.,None,,0
+371,uhhuh .,co .,ENG,0
+372,.,None,,0
+373,how did you pick the stores ?,pro:int mod pro:per v det:art n ?,ENG ENG ENG ENG ENG ENG,0
+374,.,None,,0
+375,don't they have stuff outside ?,mod pro:sub v n adv ?,ENG ENG ENG ENG ENG,0
+376,.,None,,0
+377,yeah .,co .,ENG,0
+378,I've driven by it because our dojo where we go do taekwondo is down the street .,pro:sub part prep pro:per conj det:poss n pro:rel pro:sub v v n cop adv det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+379,.,None,,0

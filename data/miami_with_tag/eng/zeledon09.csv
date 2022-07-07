@@ -1,0 +1,727 @@
+,sentence,pos,language,switch
+0,ah Jacky está en Colombia para Navidad un año .,co n:prop L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ESP ESP ESP ESP ESP ESP ESP,1
+1,yo fui la día primero un poquito días de Navidad .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+2,and then I stayed there for a week or like couple days or something like ...,coord adv:tem pro:sub v adv prep det:art n coord co qn n coord pro:indef prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+3,I came like a week before Christmas you know .,pro:sub v prep det:art n conj n:prop pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+4,uhuh yes .,co co .,ENG ENG,0
+5,and so I stayed for like a week and a half .,coord co pro:sub v prep co det:art n coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+6,and when I came back I opened all my presents and stuff .,coord conj pro:sub v n pro:sub v qn co n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,chévere .,adj .,ENG,0
+8,y qué te dieron ?,coord pro:int pro:obj v ?,ENG ENG ENG ENG,0
+9,you know .,pro:per v .,ENG ENG,0
+10,en Colombia qué te dieron de regalos para Navidad ?,prep n:prop pro:int pro:obj v prep imp prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+11,don't remember .,mod v .,ENG ENG,0
+12,of course you remember .,prep n pro:per v .,ENG ENG ENG ENG,0
+13,you remember of course .,pro:per v prep n .,ENG ENG ENG ENG,0
+14,you remember I was there with you ?,pro:per v pro:sub cop adv prep pro:per ?,ENG ENG ENG ENG ENG ENG ENG,0
+15,oh oh right .,co co co .,ENG ENG ENG,0
+16,they gave me this really cute shirt .,pro:sub v pro:obj pro:dem adv adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+17,yeah they gave me a Barbie car .,co pro:sub v pro:obj det:art n:prop n .,ENG ENG ENG ENG ENG ENG ENG,0
+18,it was so fun .,pro:per cop adv adj .,ENG ENG ENG ENG,0
+19,my good childhood memories .,det:poss adj n n .,ENG ENG ENG ENG,0
+20,so cuándo tú cogiste tus braces ?,adv L2 L2 L2 L2 n ?,ENG ESP ESP ESP ESP ENG,1
+21,yo mis braces me lo colocaron hace tres semanas .,L2 L2 n L2 L2 L2 L2 L2 L2 .,ESP ESP ENG ESP ESP ESP ESP ESP ESP,1
+22,cool .,adj .,ENG,0
+23,my dentist she said I had to take very good care of them .,det:poss n pro:sub v pro:sub v inf v adv adj n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+24,and they hurt you know horribly .,coord pro:sub v pro:per v adv .,ENG ENG ENG ENG ENG ENG,0
+25,oh my gosh I can make like six pages of list that you can't eat .,co det:poss co pro:sub mod v co det:num n prep n pro:rel pro:per mod v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+26,sometimes no soda no popcorn no gum no tootsie rolls I could go on and on .,adv qn n qn n qn n qn n n pro:sub mod v adv coord adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+27,it's horrible .,pro:per adj .,ENG ENG,0
+28,pero te tienes que acostumbrar a eso .,conj pro:obj v pro:rel inf aprep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+29,yeah I'm gonna get my top braces on soon during the summer .,co pro:sub part v co adj n adv adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+30,oh .,co .,ENG,0
+31,I I'm sure you'll be fine you know .,pro:sub pro:sub adj pro:per cop adj pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+32,so what's your favorite color ?,adv pro:int det:poss n n ?,ENG ENG ENG ENG ENG,0
+33,my favorite color is rosado .,det:poss n n cop L2 .,ENG ENG ENG ENG ESP,1
+34,it's a very pretty color .,pro:per det:art adv adj n .,ENG ENG ENG ENG ENG,0
+35,it would translate to pink .,pro:per mod v prep n .,ENG ENG ENG ENG ENG,0
+36,what about yours ?,pro:int adv pro:poss ?,ENG ENG ENG,0
+37,mine is red because in the Bible Jesus spoke in red .,n cop adj conj prep det:art n:prop n:prop n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+38,that's very cool .,pro:dem adv adj .,ENG ENG ENG,0
+39,let's talk about our hobbies .,v v prep det:poss n .,ENG ENG ENG ENG ENG,0
+40,what are you favorite hobbies ?,pro:int cop pro:per n n ?,ENG ENG ENG ENG ENG,0
+41,I draw .,pro:sub v .,ENG ENG,0
+42,I sing .,pro:sub v .,ENG ENG,0
+43,and sometimes I go play golf .,coord adv pro:sub v n n .,ENG ENG ENG ENG ENG ENG,0
+44,muy chévere .,adv adj .,ENG ENG,0
+45,I /.,pro:sub +/.,ENG,0
+46,and swimming .,coord part .,ENG ENG,0
+47,I love to play basketball .,pro:sub v prep n n .,ENG ENG ENG ENG ENG,0
+48,I'm in my team in my school .,pro:sub prep det:poss n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG,0
+49,I also love to swim .,pro:sub adv n inf v .,ENG ENG ENG ENG ENG,0
+50,you know in the pool it's very very fun .,pro:per v prep det:art n pro:per adv adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+51,I know .,pro:sub v .,ENG ENG,0
+52,remember the other day when cuando nosotros fuimos a la piscina aquí ?,v det:art qn n conj L2 L2 L2 L2 L2 L2 L2 ?,ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP,1
+53,y fue tan chévere .,coord v adv adj .,ENG ENG ENG ENG,0
+54,te acuerdas ?,pro:obj v ?,ENG ENG,0
+55,"just said ""/.","adv part +""/.",ENG ENG,0
+56,tan chévere .,adv adj .,ENG ENG,0
+57,estamos haciendo como vueltas y todo eso en la piscina .,aux ger adv n coord det:indef pro:dem prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+58,estamos nadando mucho .,aux ger adv .,ENG ENG ENG,0
+59,mhm .,co .,ENG,0
+60,también nos solíamos un poquito .,adv pro:obj v det:art pro:indef .,ENG ENG ENG ENG ENG,0
+61,we got a great tan .,pro:sub v det:art adj n .,ENG ENG ENG ENG ENG,0
+62,hablamos mucho de la parque de café Sergio Diana .,L2 L2 L2 L2 L2 L2 L2 n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+63,y hablamos de las tías .,coord v prep det:art n .,ENG ENG ENG ENG ENG,0
+64,sí let's talk about our aunts .,L2 v v prep det:poss n .,ESP ENG ENG ENG ENG ENG,1
+65,well your mom my tía Ana is so nice you know .,co det:poss n det:poss L2 n:prop cop adv adj pro:per v .,ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG,1
+66,yo Ana Howell .,L2 n:prop n:prop .,ESP ENG ENG,1
+67,que yo sé .,pro:rel pro:sub v .,ENG ENG ENG,0
+68,ella es muy chévere .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+69,she's very muy chévere .,pro:sub adv L2 L2 .,ENG ENG ESP ESP,1
+70,es muy linda .,cop adv adj .,ENG ENG ENG,0
+71,e mi tía Francesca es muy linda .,L2 L2 L2 n:prop L2 L2 L2 .,ESP ESP ESP ENG ESP ESP ESP,1
+72,tiene dos niños Sergio y David .,L2 L2 L2 n:prop L2 n:prop .,ESP ESP ESP ENG ESP ENG,1
+73,.,None,,0
+74,David tiene cuatro años .,n:prop L2 L2 L2 .,ENG ESP ESP ESP,1
+75,y Sergio tiene diecisiete .,L2 n:prop L2 L2 .,ESP ENG ESP ESP,1
+76,diecisiete .,det:num .,ENG,0
+77,well /.,co +/.,ENG,0
+78,y yo tengo mi tía Magdalena .,L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ENG,1
+79,that's my mom .,pro:dem det:poss n .,ENG ENG ENG,0
+80,y ella tiene dos hijas .,L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP,0
+81,una que se llama Valerie que es cinco años y que está en kindergarten .,L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+82,y otra que se llama the lovely Chantal que es twelve .,L2 L2 L2 L2 L2 det:art adj n:prop L2 L2 det:num .,ESP ESP ESP ESP ESP ENG ENG ENG ESP ESP ENG,1
+83,y está en sixth grade .,L2 L2 L2 adj n .,ESP ESP ESP ENG ENG,1
+84,yes sixth grade .,co adj n .,ENG ENG ENG,0
+85,well let's talk about our uncles by marriage .,co v v prep det:poss n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+86,well let's talk about uncle dad your dad .,co v v prep n n det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+87,as you know I call him uncle dad because he's my uncle and he's like my dad .,conj pro:per v pro:sub v pro:obj n n conj pro:sub det:poss n coord pro:sub prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+88,oh my dad .,co det:poss n .,ENG ENG ENG,0
+89,so it's like uncle slash dad right ?,co pro:per co n n n adj ?,ENG ENG ENG ENG ENG ENG ENG,0
+90,sí .,co .,ENG,0
+91,yo lo amo mucho .,pro:sub pro:obj v adv .,ENG ENG ENG ENG,0
+92,I know he's like so cool .,pro:sub v pro:sub v adv adj .,ENG ENG ENG ENG ENG ENG,0
+93,I love him very much .,pro:sub v pro:obj adv adv .,ENG ENG ENG ENG ENG,0
+94,he's very very cool .,pro:sub adv adv adj .,ENG ENG ENG ENG,0
+95,remember yesterday when he took us like shopping ?,v adv:tem conj pro:sub v pro:obj prep n:gerund ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+96,that was fun .,pro:dem cop adj .,ENG ENG ENG,0
+97,de compras .,prep v .,ENG ENG,0
+98,"as he would say in Spanish "".","conj pro:sub mod v prep n:prop +"".",ENG ENG ENG ENG ENG ENG,0
+99,you know these old jeans estaban tan lindos .,pro:per v det:dem adj n L2 L2 L2 .,ENG ENG ENG ENG ENG ESP ESP ESP,1
+100,I love the jeans .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+101,let's talk about Andrew now .,v v prep n:prop adv .,ENG ENG ENG ENG ENG,0
+102,he's new in our family .,pro:sub adj prep det:poss n .,ENG ENG ENG ENG ENG,0
+103,but he's a great person .,conj pro:sub det:art adj n .,ENG ENG ENG ENG ENG,0
+104,yeah they actually just got married in June .,co pro:sub adv adj v v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+105,exactly .,adv .,ENG,0
+106,you were there .,pro:per cop adv .,ENG ENG ENG,0
+107,you did a great job .,pro:per v det:art adj n .,ENG ENG ENG ENG ENG,0
+108,I was there .,pro:sub cop adv .,ENG ENG ENG,0
+109,thank you .,v pro:per .,ENG ENG,0
+110,we came in a limo .,pro:sub v prep det:art n .,ENG ENG ENG ENG ENG,0
+111,remember ?,co ?,ENG,0
+112,that was really fun you know .,pro:dem cop adv adj pro:per v .,ENG ENG ENG ENG ENG ENG,0
+113,that was like OMG .,pro:dem cop co n:prop .,ENG ENG ENG ENG,0
+114,Andrew has a lot of childhood in him .,n:prop v det:art n prep n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+115,easter egg hunting ...,adj n part +...,ENG ENG ENG,0
+116,oh yeah totally .,co co adv .,ENG ENG ENG,0
+117,that's very very funny .,pro:rel adv adv adj .,ENG ENG ENG ENG,0
+118,and rare .,coord adj .,ENG ENG,0
+119,I know .,pro:sub v .,ENG ENG,0
+120,he is not afraid to sit down with you and laugh .,pro:sub cop neg adj inf v adv prep pro:per coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+121,él es muy chistoso .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+122,y también nació en Honduras which makes him much more funnier because they say a lot of good jokes .,L2 L2 L2 L2 n:prop pro:rel v pro:obj adv adv adj conj pro:sub v det:art n prep adj n .,ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+123,so let's move on to you and me .,adv v v adv prep pro:per coord pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+124,you've been here since Thursday last Thursday which was the nineteenth .,pro:per cop adv prep n:prop adj n:prop pro:rel cop det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+125,yes .,co .,ENG,0
+126,el ...,det:art +...,ENG,0
+127,el diecinueve exactly .,L2 L2 adv .,ESP ESP ENG,1
+128,no it was the twentieth .,co pro:per cop det:art adj .,ENG ENG ENG ENG ENG,0
+129,yeah no it was the nineteenth .,co co pro:per cop det:art adj .,ENG ENG ENG ENG ENG ENG,0
+130,yeah the nineteenth .,co det:art adj .,ENG ENG ENG,0
+131,and you actually got there .,coord pro:per adv v adv .,ENG ENG ENG ENG ENG,0
+132,and we started decorating for my easter party class .,coord pro:sub v part prep det:poss adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+133,sí el día de pascua .,co det:art n prep n .,ENG ENG ENG ENG ENG,0
+134,así no para celebrar de Jesus y también del easter bunny .,L2 L2 L2 L2 L2 L2 L2 L2 L2 adj n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+135,yeah fue tan chévere .,co L2 L2 L2 .,ENG ESP ESP ESP,1
+136,like we had the party and everything .,conj pro:sub v det:art n coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+137,and we wrote this really funny letter to uncle dad slash dad .,coord pro:sub v det:dem adv adj n prep n n n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+138,and can I tell them about it ?,coord mod pro:sub v pro:obj prep pro:per ?,ENG ENG ENG ENG ENG ENG ENG,0
+139,sure then why don't we talk about it .,adj adv:tem pro:int mod pro:sub v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+140,yeah it said happy easter on the front .,co pro:per v adj adj prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+141,"and then it said ""/.","coord adv:tem pro:per v +""/.",ENG ENG ENG ENG,0
+142,dear uncle dad slash dad .,adj n n n n .,ENG ENG ENG ENG ENG,0
+143,uncle dad slash dad .,n n n n .,ENG ENG ENG ENG,0
+144,we love you .,pro:sub v pro:per .,ENG ENG ENG,0
+145,and we appreciate everything you do for us .,coord pro:sub v pro:indef pro:per v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+146,I know .,pro:sub v .,ENG ENG,0
+147,we do .,pro:sub v .,ENG ENG,0
+148,this should be your easter present .,pro:dem mod cop det:poss adj n .,ENG ENG ENG ENG ENG ENG,0
+149,we will hang you by your toes if you don't give us more money .,pro:sub mod v pro:per prep det:poss n conj pro:per mod v pro:obj adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+150,happy easter !,adj adj !,ENG ENG,0
+151,"and then we put ""/.","coord adv:tem pro:sub v +""/.",ENG ENG ENG ENG,0
+152,just kidding !,adv part !,ENG ENG,0
+153,in really tiny letters .,prep adv adj n .,ENG ENG ENG ENG,0
+154,"and then in even tinier letters we put ""/.","coord adv:tem adv adv adj n pro:sub v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG,0
+155,not !,neg !,ENG,0
+156,nope .,co .,ENG,0
+157,"and then we put ""/.","coord adv:tem pro:sub v +""/.",ENG ENG ENG ENG,0
+158,love Chacha and Gili .,n n:prop coord n:prop .,ENG ENG ENG ENG,0
+159,"and then we wrote ""/.","coord adv:tem pro:sub v +""/.",ENG ENG ENG ENG,0
+160,always read the small print .,adv v det:art adj n .,ENG ENG ENG ENG ENG,0
+161,we also wrote one to my mother right ?,pro:sub adv v det:num prep det:poss n adj ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+162,yes .,co .,ENG,0
+163,I'm gonna read it also .,pro:sub part v pro:per adv .,ENG ENG ENG ENG ENG,0
+164,.,None,,0
+165,.,None,,0
+166,happy easter .,adj adj .,ENG ENG,0
+167,dear tía slash mommy .,adj L2 n n .,ENG ESP ENG ENG,1
+168,happy easter .,adj adj .,ENG ENG,0
+169,we love you .,pro:sub v pro:per .,ENG ENG ENG,0
+170,you have been very good with both of us .,pro:per v aux adv adj prep qn prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+171,we love you a lot .,pro:sub v pro:per det:art n .,ENG ENG ENG ENG ENG,0
+172,thank you for helping us learn about the path of Jesus .,v pro:per prep n:gerund pro:obj v prep det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+173,we love you .,pro:sub v pro:per .,ENG ENG ENG,0
+174,and in this easter season we wish you the best .,coord prep det:dem adj n pro:sub v pro:per det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+175,PS for your present it's a certificate for free jokes when you need them .,n:prop prep det:poss n pro:per det:art n prep adv n conj pro:per v pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+176,five dollars per joke LOL .,det:num n prep n n:prop .,ENG ENG ENG ENG ENG,0
+177,that is so funny you know .,pro:rel cop adv adj pro:per v .,ENG ENG ENG ENG ENG ENG,0
+178,mucha creatividad en nuestras cabezas .,det:indef n prep pro:pos n .,ENG ENG ENG ENG ENG,0
+179,we have a lot of creativity .,pro:sub v det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+180,do you remember when we went ice skating today ?,mod pro:per v conj pro:sub v n part adv:tem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+181,oh patinando en el hielo .,co L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+182,that was fun .,pro:dem cop adj .,ENG ENG ENG,0
+183,that was really fun .,pro:dem cop adv adj .,ENG ENG ENG ENG,0
+184,yeah remember after the Zamboni came it was like so glossy .,co v prep det:art n:prop v pro:per cop prep adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+185,sí .,co .,ENG,0
+186,it was really fun you know .,pro:per cop adv adj pro:per v .,ENG ENG ENG ENG ENG ENG,0
+187,yo sé .,pro:sub v .,ENG ENG,0
+188,te acuerdas cuando llegamos a la casa ?,pro:obj v conj v aprep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+189,y después mi papi puso un huevos con plata adentro .,coord adv det:pos n v det:art n prep n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+190,fue cuatro huevos .,v det:num n .,ENG ENG ENG,0
+191,tres tenían un dólar .,det:num v det:art n .,ENG ENG ENG ENG,0
+192,y solo una de la cuatro tenía diez adentro .,coord adj pro:dem prep det:art det:num v det:num adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+193,I know .,pro:sub v .,ENG ENG,0
+194,I know .,pro:sub v .,ENG ENG,0
+195,that was so fun you know hunting for money .,pro:dem cop adv adj pro:per v part prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+196,o_m_g I found the ten dollar one .,co pro:sub v det:art det:num n det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+197,you found the ten dollar I know .,pro:per v det:art det:num n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+198,but it was fun .,conj pro:per cop adj .,ENG ENG ENG ENG,0
+199,I'll split it with you .,pro:sub v pro:per prep pro:per .,ENG ENG ENG ENG ENG,0
+200,don't worry .,mod v .,ENG ENG,0
+201,it's fine .,pro:per adj .,ENG ENG,0
+202,so well it's been really fun these couple days I've been here .,adv adv pro:per cop adv adj det:dem qn n pro:sub cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+203,I've been practicing my Spanish a lot .,pro:sub aux part det:poss n:prop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+204,mucho español con mi tía y Juanjo and you .,L2 L2 L2 L2 L2 L2 n:prop coord pro:per .,ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+205,yeah .,co .,ENG,0
+206,we've been lately watching home videos of me .,pro:sub cop adv part adv v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+207,and I was about three or two and a half in one .,coord pro:sub cop prep det:num coord det:num coord det:art n prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+208,and we were watching videos of my Christmas .,coord pro:sub aux part n prep det:poss n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+209,and when we were going to places .,coord conj pro:sub aux part prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+210,and it was awesome you know .,coord pro:per cop adj pro:per v .,ENG ENG ENG ENG ENG ENG,0
+211,I know .,pro:sub v .,ENG ENG,0
+212,and one of the videos we saw my cousin Chantal in them .,coord pro:indef prep det:art n pro:sub v det:poss n n:prop prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+213,you know what I ...,pro:per v pro:int pro:sub +...,ENG ENG ENG ENG,0
+214,yes you know what I've seen from the videos ?,co pro:per v pro:int pro:sub part prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+215,we've been really close since we were little girls .,pro:sub cop adv adj conj pro:sub cop adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+216,you know dancing to Shakira .,pro:per v part prep n:prop .,ENG ENG ENG ENG ENG,0
+217,and it was really fun .,coord pro:per cop adv adj .,ENG ENG ENG ENG ENG,0
+218,you know in Columbia when you came to visit it was awesome .,pro:per v prep n:prop conj pro:per v inf v pro:per cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+219,before Venesa and Diana were around things were a lot different .,prep n:prop coord n:prop cop prep n cop det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+220,not much noise .,neg qn n .,ENG ENG ENG,0
+221,very peaceful .,adv adj .,ENG ENG,0
+222,you know .,pro:per v .,ENG ENG,0
+223,mucha paz en la familia .,det:indef n prep det:art n .,ENG ENG ENG ENG ENG,0
+224,.,None,,0
+225,very peaceful .,adv adj .,ENG ENG,0
+226,but we love them so much .,conj pro:sub v pro:obj adv adv .,ENG ENG ENG ENG ENG ENG,0
+227,even if they chipped our tooth .,adv conj pro:sub v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+228,from a distance .,prep det:art n .,ENG ENG ENG,0
+229,so Venesa she's like so close to us .,co n:prop pro:sub v adv adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+230,we love her so much .,pro:sub v pro:obj adv adv .,ENG ENG ENG ENG ENG,0
+231,and we think she's like the best ever .,coord pro:sub v pro:sub prep det:art adj adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+232,and you know she's five .,coord pro:per v pro:sub det:num .,ENG ENG ENG ENG ENG,0
+233,and she's about to graduate kinder .,coord pro:sub adv inf v adj .,ENG ENG ENG ENG ENG ENG,0
+234,I know she's so big for her age .,pro:sub v pro:sub adv adj prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+235,es muy grande muy muy grande para su edad .,cop adv adj adv adv adj prep det:pos n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+236,she's very talkative .,pro:sub adv adj .,ENG ENG ENG,0
+237,they live in New_Jersey .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+238,yeah in New_Jersey .,co prep n:prop .,ENG ENG ENG,0
+239,said mucha gente que habla español allá .,v L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP,1
+240,I know that's like so surprising .,pro:sub v comp v adv part .,ENG ENG ENG ENG ENG ENG,0
+241,mucha gente .,det:indef n .,ENG ENG,0
+242,yo sé .,pro:sub v .,ENG ENG,0
+243,I mean casi todo el mundo de los países suramericanos se van para New_Jersey or New_York you know .,pro:sub v L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop coord n:prop pro:per v .,ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+244,yeah I know remember when we /.,co pro:sub v v conj pro:sub +/.,ENG ENG ENG ENG ENG ENG,0
+245,porque there's a lot of chance of jobs .,L2 pro:exist det:art n prep n prep n .,ESP ENG ENG ENG ENG ENG ENG ENG,1
+246,remember when we went to New_York ?,v conj pro:sub v prep n:prop ?,ENG ENG ENG ENG ENG ENG,0
+247,and like we went in all these awesome stores like the M_and_M store .,coord co pro:sub v prep adv det:dem adj n prep det:art n:prop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+248,it had like four floors .,pro:per v co det:num n .,ENG ENG ENG ENG ENG,0
+249,I know all chocolate .,pro:sub v qn n .,ENG ENG ENG ENG,0
+250,mucho mucho chocolate .,adv adv n .,ENG ENG ENG,0
+251,there's this one floor that you had a total view of Times_Square .,pro:exist pro:dem pro:indef n pro:rel pro:per v det:art n n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+252,serious .,adj .,ENG,0
+253,I know it was fun .,pro:sub v pro:per cop adj .,ENG ENG ENG ENG ENG,0
+254,so /.,co +/.,ENG,0
+255,and if you ever go to New_York like you have to go in the giant MacDonalds .,coord conj pro:per adv v prep n:prop prep pro:per v inf v prep det:art n n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+256,it's like awesome right ?,pro:per conj adj co ?,ENG ENG ENG ENG,0
+257,I know MacDonalds you know .,pro:sub v n:prop pro:per v .,ENG ENG ENG ENG ENG,0
+258,that MacDonalds is always in the movies .,comp n:prop cop adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+259,haven't you noticed ?,aux pro:per v ?,ENG ENG ENG,0
+260,yeah I know !,co pro:sub v !,ENG ENG ENG,0
+261,like the Pink_Panther the inspector I think .,prep det:art n:prop det:art n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+262,I think it was in this other movie .,pro:sub v pro:per cop prep det:dem qn n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+263,he comes to New_York .,pro:sub v prep n:prop .,ENG ENG ENG ENG,0
+264,and he /.,coord pro:sub +/.,ENG ENG,0
+265,orders a hamburger .,v det:art n .,ENG ENG ENG,0
+266,yeah he calls it hamburger .,co pro:sub v pro:per n .,ENG ENG ENG ENG ENG,0
+267,but you know the exciting thing is he was standing exactly where me and my cousin Chantal //.,conj pro:per v det:art adj n cop pro:sub aux part adv pro:int pro:obj coord det:poss n n:prop +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+268,"the people doing this are like ""/.","det:art n part pro:dem cop prep +""/.",ENG ENG ENG ENG ENG ENG,0
+269,we're standing .,pro:sub part .,ENG ENG,0
+270,and it was like awesome !,coord pro:per cop prep adj !,ENG ENG ENG ENG ENG,0
+271,how do you say hamburger in Spanish ?,pro:int mod pro:per v n prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG,0
+272,I'm just wondering .,pro:sub adv part .,ENG ENG ENG,0
+273,hamburguesa .,n .,ENG,0
+274,that's muy chévere .,pro:dem L2 L2 .,ENG ESP ESP,1
+275,so why don't we talk about our grandfather .,adv pro:int mod pro:sub v prep det:poss grand#n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+276,yeah we have a grandfather named abuelito Alfredo .,co pro:sub v det:art grand#n v L2 n:prop .,ENG ENG ENG ENG ENG ENG ESP ENG,1
+277,Alfredo .,n:prop .,ENG,0
+278,he is very cool .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+279,yes muy muy chistoso .,co L2 L2 L2 .,ENG ESP ESP ESP,1
+280,he's pretty much the only grandfather we have .,pro:sub adv adv det:art qn grand#n pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+281,tú te sientas con él ...,pro:sub pro:obj v prep pro:sub +...,ENG ENG ENG ENG ENG,0
+282,tú te sientas con él y te ríes por años y años .,pro:sub pro:obj v prep pro:head coord pro:obj v prep n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+283,porque él es una persona muy muy chistosa .,conj pro:sub cop det:art n adv adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+284,very funny you know .,adv adj pro:per v .,ENG ENG ENG ENG,0
+285,he makes us laugh until we drop .,pro:sub v pro:obj v prep pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+286,let's talk about our grandmothers .,v v prep det:poss grand#n .,ENG ENG ENG ENG ENG,0
+287,let's start with Marge Howell .,v v prep n:prop n:prop .,ENG ENG ENG ENG ENG,0
+288,Marge well she is let's she's a very good cook .,n:prop n pro:sub cop v pro:sub det:art adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+289,cocina super rico .,n n adj .,ENG ENG ENG,0
+290,yes .,co .,ENG,0
+291,rico sí .,adj co .,ENG ENG,0
+292,yo y ella estamos mucho tiempo con nosotros en la casa de ella haciendo chévere cosas .,pro:sub coord pro:sub cop adv n prep pro:sub prep det:art n v pro:sub ger adj v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+293,y a nosotros les gusta hacer como cakes and stuff .,L2 L2 L2 L2 L2 L2 L2 n coord n .,ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+294,it's awesome .,pro:per adj .,ENG ENG,0
+295,I know you guys cook a lot you know since she's from the south of Texas .,pro:sub v pro:per n v det:art n pro:per v prep pro:sub prep det:art adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+296,I know she makes the best cornbread .,pro:sub v pro:sub v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+297,she ...,pro:sub +...,ENG,0
+298,exactly .,adv .,ENG,0
+299,she's a really good cook .,pro:sub det:art adv adj n .,ENG ENG ENG ENG ENG,0
+300,yeah so that's the point of view .,co co pro:dem det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+301,she teaches /.,pro:sub v +/.,ENG ENG,0
+302,yes .,co .,ENG,0
+303,POV .,n:prop .,ENG,0
+304,point of view .,n prep n .,ENG ENG ENG,0
+305,so let's move on to abuelita Anita .,adv v v adv prep L2 n:prop .,ENG ENG ENG ENG ENG ESP ENG,1
+306,Anita .,n:prop .,ENG,0
+307,well she is dedicated to God one hundred and ten percent .,co pro:sub aux part prep n:prop det:num det:num coord det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+308,she is like dedicated .,pro:sub cop co v .,ENG ENG ENG ENG,0
+309,no more like one thousand and ten percent .,co adv prep det:num det:num coord det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+310,you know ?,pro:per v ?,ENG ENG,0
+311,no she is a great person .,co pro:sub cop det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+312,and te enseña mucho .,coord L2 L2 L2 .,ENG ESP ESP ESP,1
+313,te enseña mucho de Dios mucho mucho de Dios .,pro:obj v adv prep n:prop adv adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+314,y ella le encanta ir a la iglesia las cuatro de la mañana praying like literally praying praying .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 part conj adv part part .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+315,four o'clock in the morning .,det:num n prep det:art n .,ENG ENG ENG ENG ENG,0
+316,you know her life is praying praying from three o'clock in the morning until midnight .,pro:per v det:poss n aux part part prep det:num n prep det:art n prep mid#n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+317,she's very very amazing .,pro:sub adv adv part .,ENG ENG ENG ENG,0
+318,now that we talked enough about family let's talk about our kind of home states .,adv pro:rel pro:sub v adv prep n v v prep det:poss n prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+319,I was born here in Florida .,pro:sub cop adj adv prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+320,and we're gonna ask each other what is our favorite things to do here .,coord pro:sub part v qn qn pro:int cop det:poss n n inf v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+321,well let me talk about my background first .,co v pro:obj v prep det:poss n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+322,well both of my parents are from Columbia .,co qn prep det:poss n cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+323,and I was also born in Columbia .,coord pro:sub cop adv adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+324,so my first language was Spanish .,adv det:poss adj n cop n:prop .,ENG ENG ENG ENG ENG ENG,0
+325,yeah .,co .,ENG,0
+326,español es mi prioridad en mis idiomas .,adj cop det:pos n prep det:pos n .,ENG ENG ENG ENG ENG ENG ENG,0
+327,but you know I've immunized to English more than Spanish .,conj pro:per v pro:sub part prep n:prop qn prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+328,over the years I had noticed that at first you were like blanked out on the English .,prep det:art n pro:sub aux part comp prep adj pro:per cop co v adv prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+329,and I'm like ...,coord pro:sub prep +...,ENG ENG ENG,0
+330,I had to talk to you in like total total Spanish .,pro:sub v prep n prep pro:per prep co n n n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+331,I know .,pro:sub v .,ENG ENG,0
+332,but like look at you pro now .,conj co v prep pro:per n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+333,I know .,pro:sub v .,ENG ENG,0
+334,you know /.,pro:per v +/.,ENG ENG,0
+335,my background of my stay is I was born here in the city of Pembrooke_Pines .,det:poss n prep det:poss v cop pro:sub cop adj adv prep det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+336,and I was born at the hospital Memorial_West here in Florida .,coord pro:sub cop adj prep det:art n n:prop adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+337,and I have two parents of course .,coord pro:sub v det:num n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+338,.,None,,0
+339,and I live in the neighborhood .,coord pro:sub v prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+340,and there's this big neighborhood named Grand_Palms .,coord pro:exist det:dem adj n v n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+341,my dad lives in the front .,det:poss n n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+342,me and my grandma my mom all live in like the little same community .,pro:obj coord det:poss grand#n det:poss n adv adj adv prep det:art adj adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+343,and it's like awesome .,coord pro:per conj adj .,ENG ENG ENG ENG,0
+344,my home language is English .,det:poss adv n cop n:prop .,ENG ENG ENG ENG ENG,0
+345,but my first word was in Spanish .,conj det:poss adj n cop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+346,it was agua .,pro:per cop L2 .,ENG ENG ESP,1
+347,I'm guessing that means water .,pro:sub part adv v n .,ENG ENG ENG ENG ENG,0
+348,translation .,n .,ENG,0
+349,duh .,co .,ENG,0
+350,so tell us more about your mom and your dad's backgrounds from where they come from .,adv v pro:obj pro:indef prep det:poss n coord det:poss adj n prep pro:int pro:sub v prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+351,my dad comes from the United States from Texas .,det:poss n v prep det:art n:prop n:prop prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+352,he was born in Tyler Texas .,pro:sub cop adj prep n:prop n:prop .,ENG ENG ENG ENG ENG ENG,0
+353,he only spent a couple years though there though you know .,pro:sub adv v det:art qn n adv adv adv pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+354,fue mucho calor .,v adv n .,ENG ENG ENG,0
+355,he said and you know he said he had a good childhood there .,pro:sub v coord pro:per v pro:sub v pro:sub v det:art adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+356,but he spent most of his years here in Florida and Atlanta and California and a lot of different places you know .,conj pro:sub v qn prep det:poss n adv prep n:prop coord n:prop coord n:prop coord det:art n prep adj n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+357,yes .,co .,ENG,0
+358,you know and then here comes my mom .,pro:per v coord adv:tem adv v det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+359,she's from like a whole different country like Columbia .,pro:sub prep co det:art n adj n conj n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+360,that's where most of my family comes from you know .,pro:dem pro:int qn prep det:poss n v prep pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+361,and she was raised on a farm .,coord pro:sub aux part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+362,and she loved it there you know .,coord pro:sub v pro:per adv pro:per v .,ENG ENG ENG ENG ENG ENG ENG,0
+363,and she had two sisters .,coord pro:sub v det:num n .,ENG ENG ENG ENG ENG,0
+364,yes I know .,co pro:sub v .,ENG ENG ENG,0
+365,y mamá también me dijo de la farm .,L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ENG,1
+366,she told me it was big .,pro:sub v pro:obj pro:per cop adj .,ENG ENG ENG ENG ENG ENG,0
+367,what did your mom tell you about the farm ?,pro:int mod det:poss n v pro:per prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+368,my mom told me that they didn't have pools you know .,det:poss n v pro:obj comp pro:sub mod v v pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+369,so she'd just take a like a swim in the pond .,adv pro:sub adv v det:art co det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+370,in the pond en el lago .,prep det:art n L2 L2 L2 .,ENG ENG ENG ESP ESP ESP,1
+371,ugh that sounds stinky .,co adv v adj .,ENG ENG ENG ENG,0
+372,I can't go swim in a pond .,pro:sub mod v n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+373,yeah so the rest of my mom's background is now she's remarried to Andrew as we talked about earlier .,co conj det:art n prep det:poss adj n cop adv pro:sub re#part prep n:prop conj pro:sub v adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+374,and she's here sitting right now live at this interview hearing us so this chat .,coord pro:sub adv part adv adv v prep det:dem n part pro:obj conj det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+375,listening to us talking about this .,part prep pro:obj part prep pro:dem .,ENG ENG ENG ENG ENG ENG,0
+376,she finds our conversations very interesting .,pro:sub v det:poss n adv adj .,ENG ENG ENG ENG ENG ENG,0
+377,well ...,co +...,ENG,0
+378,she is a very interesting woman .,pro:sub cop det:art adv adj n .,ENG ENG ENG ENG ENG ENG,0
+379,she's very interesting you know .,pro:sub adv adj pro:per v .,ENG ENG ENG ENG ENG,0
+380,okay let's move on to your parents' background .,co v v adv prep det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+381,well it's not very interesting .,co pro:per neg adv adj .,ENG ENG ENG ENG ENG,0
+382,but my mom is from Columbia .,conj det:poss n cop prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+383,mhm .,co .,ENG,0
+384,she was born on a farm just like your mom because they're both sisters .,pro:sub cop adj prep det:art n adv prep det:poss n conj pro:sub qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+385,and my father was born in Columbia also .,coord det:poss n cop adj prep n:prop adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+386,so there's basically no other different country than Columbia .,adv pro:exist adv qn qn adj n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+387,that's their main country .,pro:dem det:poss adj n .,ENG ENG ENG ENG,0
+388,that's cool .,pro:dem adj .,ENG ENG,0
+389,y hablamos mucho español .,coord v adv adj .,ENG ENG ENG ENG,0
+390,cool .,adj .,ENG,0
+391,en mi casa .,prep det:pos imp .,ENG ENG ENG,0
+392,we speak Spanish .,pro:sub v n:prop .,ENG ENG ENG,0
+393,but since I go to school of course I have to speak most of my time in English .,conj conj pro:sub v prep n prep n pro:sub v inf v qn prep det:poss n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+394,so let's see .,adv v v .,ENG ENG ENG,0
+395,what else can we talk about ?,pro:int post mod pro:sub v adv ?,ENG ENG ENG ENG ENG ENG,0
+396,so who what is your favorite number ?,adv pro:rel pro:int cop det:poss n v ?,ENG ENG ENG ENG ENG ENG ENG,0
+397,my favorite number is nueve nine because that was the day I was born .,det:poss n n cop L2 det:num conj pro:dem cop det:art n pro:sub cop adj .,ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+398,February ninth .,n:prop adj .,ENG ENG,0
+399,so that's my favorite number .,co pro:dem det:poss n v .,ENG ENG ENG ENG ENG,0
+400,it's just very weird .,pro:per adj adv adj .,ENG ENG ENG ENG,0
+401,but that's my favorite number .,conj pro:dem det:poss n v .,ENG ENG ENG ENG ENG,0
+402,mi favorito número .,det:pos adj n .,ENG ENG ENG,0
+403,so what about you ?,adv pro:int adv pro:per ?,ENG ENG ENG ENG,0
+404,tell me about your birthday .,v pro:obj prep det:poss n .,ENG ENG ENG ENG ENG,0
+405,my birthday is on July two five twenty fifth .,det:poss n cop prep n:prop det:num det:num det:num adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+406,and my mom's birthday really weird is four days before on the twenty first of July .,coord det:poss adj n adv adj aux det:num n adv prep det:art det:num adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+407,so she had me like like like four days before .,co pro:sub v pro:obj prep co co det:num n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+408,four days .,det:num n .,ENG ENG,0
+409,after her birthday you know .,prep pro:obj n pro:per v .,ENG ENG ENG ENG ENG,0
+410,wow .,co .,ENG,0
+411,like awesome .,prep adj .,ENG ENG,0
+412,tú fuiste el regalo de ella .,pro:sub v det:art v prep pro:sub .,ENG ENG ENG ENG ENG ENG,0
+413,you were her birthday present .,pro:per cop det:poss n adv .,ENG ENG ENG ENG ENG,0
+414,yeah I was her birthday present like four days late birthday present .,co pro:sub cop det:poss n adv co det:num n adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+415,that was great .,pro:dem cop adj .,ENG ENG ENG,0
+416,when and my dad I think he is born in ...,conj coord det:poss n pro:sub v pro:sub cop adj adv +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+417,born in ...,adj adv +...,ENG ENG,0
+418,October twelfth .,n:prop adj .,ENG ENG,0
+419,twelfth yes .,adj co .,ENG ENG,0
+420,and to say a little bit about him you know ...,coord inf v det:art adj n prep pro:obj pro:per v +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+421,he's bald .,pro:sub adj .,ENG ENG,0
+422,.,None,,0
+423,he's bald !,pro:sub adj !,ENG ENG,0
+424,yeah he's bald .,co pro:sub adj .,ENG ENG ENG,0
+425,but you know he still has little hairs sticking up .,conj pro:per v pro:sub adv aux adj n part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+426,you know I saw that picture .,pro:per v pro:sub v adv n .,ENG ENG ENG ENG ENG ENG,0
+427,yo vi esa foto de él con pelo largo y mono .,pro:sub v det:dem n v pro:sub prep v adj coord adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+428,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+429,I know like back //.,pro:sub v prep adj +//.,ENG ENG ENG ENG,0
+430,no no mono .,co co L2 .,ENG ENG ESP,1
+431,no it wasn't blond .,co pro:per cop adj .,ENG ENG ENG ENG,0
+432,yes it was .,co pro:per cop .,ENG ENG ENG,0
+433,no it wasn't !,co pro:per cop !,ENG ENG ENG,0
+434,okay .,co .,ENG,0
+435,it was orange .,pro:per cop adj .,ENG ENG ENG,0
+436,okay orange .,co n .,ENG ENG,0
+437,en la foto con él con el pelo largo y naranja .,prep det:art n prep pro:sub prep det:art n adj coord adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+438,yeah it was like down to his butt .,co pro:per cop prep adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+439,I'm serious .,pro:sub adj .,ENG ENG,0
+440,wow .,co .,ENG,0
+441,okay .,co .,ENG,0
+442,so when ah were your parents born ?,co conj co aux det:poss n adj ?,ENG ENG ENG ENG ENG ENG ENG,0
+443,well my mom was born in Tulúa which is a very small town in Columbia .,co det:poss n cop adj prep n:prop pro:rel cop det:art adv adj n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+444,and she was born on April sixth .,coord pro:sub cop adj prep n:prop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+445,and my dad was born in Armenia was born in Columbia .,coord det:poss n cop adj prep n:prop cop adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+446,he was born December ninth .,pro:sub cop adj n:prop adj .,ENG ENG ENG ENG ENG,0
+447,yeah cool .,co v .,ENG ENG,0
+448,yes so what did you think about that rainstorm today ?,co co pro:int mod pro:per v prep det:dem n adv:tem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+449,cómo cayó la lluvia .,pro:int v det:art n .,ENG ENG ENG ENG,0
+450,I know that rainstorm totally wiped out .,pro:sub v comp n adv v adv .,ENG ENG ENG ENG ENG ENG ENG,0
+451,totally ruined our egg hunt .,adv v det:poss n n .,ENG ENG ENG ENG ENG,0
+452,you know and then like you know the movie Ten_thousand_b_c ?,pro:per v coord adv:tem v pro:per v det:art n n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+453,wasn't it awesome ?,cop pro:per adj ?,ENG ENG ENG,0
+454,pues super chévere .,co n adj .,ENG ENG ENG,0
+455,chévere .,adj .,ENG,0
+456,I know you know .,pro:sub v pro:per v .,ENG ENG ENG ENG,0
+457,jinx you owe me a soda .,v pro:per v pro:obj det:art n .,ENG ENG ENG ENG ENG ENG,0
+458,oh okay I'll give you that soda later .,co co pro:sub v pro:per det:dem n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+459,so ah school .,co co n .,ENG ENG ENG,0
+460,tell me about school .,v pro:obj prep n .,ENG ENG ENG ENG,0
+461,your grades your friends your teachers .,det:poss n det:poss n det:poss n .,ENG ENG ENG ENG ENG ENG,0
+462,we've been doing fractions lately .,pro:sub aux part n adv .,ENG ENG ENG ENG ENG,0
+463,and I've actually been doing okay .,coord pro:sub adv aux part adj .,ENG ENG ENG ENG ENG ENG,0
+464,I got a pretty good grade on my math test .,pro:sub v det:art adj adj n prep det:poss n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+465,and I also had a social studies test .,coord pro:sub adv v det:art n v n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+466,tell me about your friends .,v pro:obj prep det:poss n .,ENG ENG ENG ENG ENG,0
+467,your friends .,det:poss n .,ENG ENG,0
+468,are they nice ?,cop pro:sub adj ?,ENG ENG ENG,0
+469,they're nice ?,pro:sub adj ?,ENG ENG,0
+470,yeah .,co .,ENG,0
+471,mhm yeah .,co co .,ENG ENG,0
+472,your teacher what's her name ?,det:poss n pro:int det:poss n ?,ENG ENG ENG ENG ENG,0
+473,miss White .,n n:prop .,ENG ENG,0
+474,is she nice ?,cop pro:sub adj ?,ENG ENG ENG,0
+475,is she a good teacher ?,cop pro:sub det:art adj n ?,ENG ENG ENG ENG ENG,0
+476,that's the first main priority yes ?,pro:dem det:art adj adj n co ?,ENG ENG ENG ENG ENG ENG,0
+477,yes .,co .,ENG,0
+478,okay .,co .,ENG,0
+479,what's your favorite plant ?,pro:int det:poss n n ?,ENG ENG ENG ENG,0
+480,my favorite plant is a daisy .,det:poss adj n cop det:art n .,ENG ENG ENG ENG ENG ENG,0
+481,just because well the white and the yellow I think are two very beautiful colors combined together .,adv conj adv det:art n coord det:art n pro:sub v aux det:num adv adj n v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+482,.,None,,0
+483,so ...,co +...,ENG,0
+484,what's your favorite clothing store ?,pro:int det:poss n n n ?,ENG ENG ENG ENG ENG,0
+485,Love_couture .,n:prop .,ENG,0
+486,mine too .,n adv .,ENG ENG,0
+487,like the other day I bought these really cute jeans there .,prep det:art qn n pro:sub v det:dem adv adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+488,really ?,adv ?,ENG,0
+489,yeah .,co .,ENG,0
+490,sí ?,co ?,ENG,0
+491,también hay una tienda en Colombia que se llama Azucar which translates to sugar .,L2 L2 L2 L2 L2 n:prop L2 L2 L2 n:prop pro:rel v prep n .,ESP ESP ESP ESP ESP ENG ESP ESP ESP ENG ENG ENG ENG ENG,1
+492,it's so cute there .,pro:per adv adj adv .,ENG ENG ENG ENG,0
+493,I love that store .,pro:sub v det:dem n .,ENG ENG ENG ENG,0
+494,I love that store .,pro:sub v det:dem n .,ENG ENG ENG ENG,0
+495,yeah cool .,co v .,ENG ENG,0
+496,it's awesome .,pro:per adj .,ENG ENG,0
+497,look like you know what is your favorite thing to do in Columbia ?,v conj pro:per v pro:int cop det:poss adj n inf v prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+498,oh my favorite thing to do mi favorita cosa de hacer es estar con mi familia .,co det:poss adj n inf v L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+499,yo adoro estar con mi familia .,pro:sub v inf prep det:pos n .,ENG ENG ENG ENG ENG ENG,0
+500,ellos son lo they're the best .,L2 L2 L2 pro:sub det:art adj .,ESP ESP ESP ENG ENG ENG,1
+501,that's all I can say .,pro:dem pro:indef pro:sub mod v .,ENG ENG ENG ENG ENG,0
+502,I also love about Columbia is that it's beautiful climate .,pro:sub adv v prep n:prop cop adv pro:per adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+503,and there's great there's a lot of fun things to do you know like el parque el café the rivers .,coord pro:exist adj pro:exist det:art n prep n n inf v pro:per v prep L2 L2 L2 L2 det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ENG ENG,1
+504,y a veces también Cartagena .,L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ENG,1
+505,but the best thing about it ...,conj det:art adj n prep pro:per +...,ENG ENG ENG ENG ENG ENG,0
+506,but the best thing I love to do is hang out with my abuelito Alfredo .,conj det:art adj n pro:sub v inf v cop v adv prep det:poss L2 n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG,1
+507,he's like my dad you know .,pro:sub prep det:poss n pro:per v .,ENG ENG ENG ENG ENG ENG,0
+508,he raised me since I was a little girl .,pro:sub v pro:obj conj pro:sub cop det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+509,and I love him .,coord pro:sub v pro:obj .,ENG ENG ENG ENG,0
+510,I know .,pro:sub v .,ENG ENG,0
+511,yeah you know you know he's like the best .,co pro:per v pro:per v pro:sub prep det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+512,and what do you have to say about Anahí ?,coord pro:int mod pro:per v inf v prep n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+513,his girlfriend .,det:poss n .,ENG ENG,0
+514,la novia de abuelito Alfredo .,L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ENG,1
+515,well la primera cosa ella es muy muy linda .,co L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+516,she's super nice .,pro:sub adj adj .,ENG ENG ENG,0
+517,and she has the cutest dog ever .,coord pro:sub v det:art adj n adv .,ENG ENG ENG ENG ENG ENG ENG,0
+518,it's so fluffy .,pro:per adv adj .,ENG ENG ENG,0
+519,she is so pretty .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+520,es muy muy bella ella .,cop adv adv adj pro:sub .,ENG ENG ENG ENG ENG,0
+521,muy bella .,adv adj .,ENG ENG,0
+522,and she's she's very pleasant to be around with .,coord pro:sub pro:sub adv adj inf aux adv prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+523,and Anahí ya con mi abuelito Alfredo de novios .,coord n:prop L2 L2 L2 L2 n:prop L2 L2 .,ENG ENG ESP ESP ESP ESP ENG ESP ESP,1
+524,yeah remember once when you and me went with my mom para para un parque .,co v adv conj pro:per coord pro:obj v prep det:poss n L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+525,it was like so cool .,pro:per cop prep adv adj .,ENG ENG ENG ENG ENG,0
+526,and my mom you and me first went on this cool ride where you like sit down .,coord det:poss n pro:per coord pro:obj adv v prep det:dem adj n pro:rel pro:per v v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+527,and there's this little rope that you hold on to .,coord pro:exist det:dem adj n pro:rel pro:per v adv prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+528,and you go /.,coord pro:per v +/.,ENG ENG ENG,0
+529,.,None,,0
+530,kind of .,adj prep .,ENG ENG,0
+531,but it's not like as high .,conj pro:per neg v prep n .,ENG ENG ENG ENG ENG ENG,0
+532,and you go around like a circle like twice .,coord pro:per v adv prep det:art n prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+533,and then I went on .,coord adv:tem pro:sub v adv .,ENG ENG ENG ENG ENG,0
+534,then you went on it .,adv:tem pro:per v prep pro:per .,ENG ENG ENG ENG ENG,0
+535,and they said that only people thirteen and under could go on it .,coord pro:sub v comp qn n det:num coord adv mod v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+536,but my mom went on it .,conj det:poss n v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+537,and she was like in her thirties .,coord pro:sub cop prep prep det:poss det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+538,and like she went around .,coord co pro:sub v adv .,ENG ENG ENG ENG ENG,0
+539,and right when she ended the cord almost broke .,coord adj conj pro:sub v det:art n adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+540,it went .,pro:per v .,ENG ENG,0
+541,that was so funny .,pro:dem cop adv adj .,ENG ENG ENG ENG,0
+542,that was hilarious .,pro:dem cop adj .,ENG ENG ENG,0
+543,I know .,pro:sub v .,ENG ENG,0
+544,it went .,pro:per v .,ENG ENG,0
+545,.,None,,0
+546,that was really funny .,pro:dem cop adv adj .,ENG ENG ENG ENG,0
+547,I remember that like it was yesterday .,pro:sub v comp v pro:per cop adv:tem .,ENG ENG ENG ENG ENG ENG ENG,0
+548,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+549,it was really funny .,pro:per cop adv adj .,ENG ENG ENG ENG,0
+550,let's keep talking about that restaurant .,v v part prep det:dem n .,ENG ENG ENG ENG ENG ENG,0
+551,.,None,,0
+552,it's a very outdoor restaurant .,pro:per det:art adv adj n .,ENG ENG ENG ENG ENG,0
+553,and it has a lot of games like the sky lining game .,coord pro:per aux det:art n prep n prep det:art n part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+554,yeah .,co .,ENG,0
+555,that was funny .,pro:dem cop adj .,ENG ENG ENG,0
+556,I think they had to take it down after mom went on there .,pro:sub v pro:sub v inf v pro:per adv prep n v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+557,.,None,,0
+558,.,None,,0
+559,okay .,co .,ENG,0
+560,so what's your favorite fruit ?,adv pro:int det:poss adj n ?,ENG ENG ENG ENG ENG,0
+561,since we're talking about fruits my favorite fruit is a strawberry .,conj pro:sub part prep n det:poss adj n cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+562,mine is a mango .,n cop det:art n .,ENG ENG ENG ENG,0
+563,mango ?,n ?,ENG,0
+564,I love mango smoothies .,pro:sub n n n .,ENG ENG ENG ENG,0
+565,mango smoothies .,n n .,ENG ENG,0
+566,you know what's funny ?,pro:per v pro:int adj ?,ENG ENG ENG ENG,0
+567,what ?,pro:int ?,ENG,0
+568,remember when we were in the car ?,v conj pro:sub cop prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+569,and we were with Francesca talking Spanish .,coord pro:sub aux prep n:prop part n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+570,"and your grandma says ""/.","coord det:poss grand#n v +""/.",ENG ENG ENG ENG,0
+571,stop screaming !,n part !,ENG ENG,0
+572,because you're gonna disconcentrate me .,conj pro:per part dis#v pro:obj .,ENG ENG ENG ENG ENG,0
+573,and I'm gonna think that we're gonna crash .,coord pro:sub part v comp pro:sub part n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+574,and all of a sudden she starts screaming louder than us .,coord pro:indef prep det:art adj pro:sub v part adj prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+575,I know .,pro:sub v .,ENG ENG,0
+576,and then we're thinking oh my gosh .,coord adv:tem pro:sub part co det:poss co .,ENG ENG ENG ENG ENG ENG ENG,0
+577,how could she be disconcentrated when she's screaming even louder than us ?,pro:int mod pro:sub aux dis#part conj pro:sub part adv adj prep pro:obj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+578,well sometimes .,adv adv .,ENG ENG,0
+579,she's very nervous .,pro:sub adv adj .,ENG ENG ENG,0
+580,she's very funny person .,pro:sub adv adj n .,ENG ENG ENG ENG,0
+581,yeah .,co .,ENG,0
+582,muy muy chistosa .,adv adv adj .,ENG ENG ENG,0
+583,yeah .,co .,ENG,0
+584,during the easter egg hunt at my school the last day before spring break ...,prep det:art adj n n prep det:poss n det:art adj n prep n n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+585,mhm .,co .,ENG,0
+586,you know this kid found an egg with money in it .,pro:per v det:dem n v det:art n prep n prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+587,"and then he yelled "".","coord adv:tem pro:sub v +"".",ENG ENG ENG ENG,0
+588,money in the bank !,n prep det:art n !,ENG ENG ENG ENG,0
+589,oh my gosh .,co det:poss co .,ENG ENG ENG,0
+590,kids are really funny in your school really funny in your school .,n cop adv adj prep det:poss n adv adj prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+591,hablando de tu colegio tu colegio is really big and really outdoors .,L2 L2 L2 L2 L2 L2 aux adv adj coord adv adv .,ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+592,and it's very exposed to the outdoors .,coord pro:per adv part prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+593,I know .,pro:sub v .,ENG ENG,0
+594,you know the second floor when you're heading to the library and the fifth grade hallway and the administrated office ?,pro:per v det:art adj n conj pro:per n prep det:art n coord det:art adj n n coord det:art part n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+595,yes .,co .,ENG,0
+596,yes .,co .,ENG,0
+597,there's like this pretty balcony that shows like trees and like a lot of pretty stuff you know .,pro:exist prep pro:dem adj n adv n prep n coord co det:art n prep adj n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+598,yes it let's you go outside you know I'm guessing to breathe fresh air .,co pro:per v pro:per v adv pro:per v pro:sub part inf v adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+599,your school ...,det:poss n +...,ENG ENG,0
+600,what's your favorite holiday ?,pro:int det:poss adj n ?,ENG ENG ENG ENG,0
+601,Christmas of course Christmas Navidad .,n:prop prep n n:prop L2 .,ENG ENG ENG ENG ESP,1
+602,pero I prefer Christmas in Colombia .,L2 pro:sub v n:prop prep n:prop .,ESP ENG ENG ENG ENG ENG,1
+603,very exciting .,adv part .,ENG ENG,0
+604,very exciting .,adv part .,ENG ENG,0
+605,what about you ?,pro:int adv pro:per ?,ENG ENG ENG,0
+606,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+607,easter and Christmas get like all tied up .,adj coord n:prop v prep adv part adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+608,I'm not really sure which one is like the best .,pro:sub neg adv v pro:int pro:indef cop co det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+609,because you know Jesus was born on Christmas .,conj pro:per v n:prop cop adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+610,and he died on easter .,coord pro:sub v adv adj .,ENG ENG ENG ENG ENG,0
+611,yes he did .,co pro:sub v .,ENG ENG ENG,0
+612,he had about thirty five years to live I think .,pro:sub v prep det:num det:num n inf adj pro:sub v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+613,thirty three .,det:num det:num .,ENG ENG,0
+614,treinta y tres años .,det:num coord det:num n .,ENG ENG ENG ENG,0
+615,he started his ministry at thirty and ended at thirty three .,pro:sub v det:poss n prep det:num coord v prep det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+616,I know .,pro:sub v .,ENG ENG,0
+617,well we've talked a lot about you know our thoughts and our family .,co pro:sub part det:art n prep pro:per v det:poss n coord det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+618,so ...,co +...,ENG,0
+619,yes ...,co +...,ENG,0
+620,so what's your favorite cartoon ?,adv pro:int det:poss adj n ?,ENG ENG ENG ENG ENG,0
+621,you know who I love ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+622,I love the Rug_Rats .,pro:sub v det:art n:prop .,ENG ENG ENG ENG,0
+623,they are so cute .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+624,son tan lindos .,cop adv adj .,ENG ENG ENG,0
+625,I like Fairly_Odd_Parents .,pro:sub v n:prop .,ENG ENG ENG,0
+626,magical fairies ?,adj n ?,ENG ENG,0
+627,yes .,co .,ENG,0
+628,I like them too .,pro:sub v pro:obj adv .,ENG ENG ENG ENG,0
+629,they just came out with a new episode .,pro:sub adv v adv prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+630,oh yeah their baby is so cute so round .,co co det:poss n cop adv adj adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+631,yeah round .,co n .,ENG ENG,0
+632,so who's your favorite author ?,adv pro:rel det:poss n n ?,ENG ENG ENG ENG ENG,0
+633,I like Judy Bloom .,pro:sub v n:prop n:prop .,ENG ENG ENG ENG,0
+634,I love her books .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+635,yo amo sus libros .,pro:sub v co adj .,ENG ENG ENG ENG,0
+636,pero me gustaría que ella escribiera más libros en español para yo puedo practicar mi español .,conj pro:obj v pro:rel pro:sub v adv adj prep adj imp pro:sub v inf det:pos adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+637,what about you ?,pro:int adv pro:per ?,ENG ENG ENG,0
+638,Mark Twain .,n:prop n:prop .,ENG ENG,0
+639,tell me about his books .,v pro:obj prep det:poss n .,ENG ENG ENG ENG ENG,0
+640,tell me about his books .,v pro:obj prep det:poss n .,ENG ENG ENG ENG ENG,0
+641,he made a book about Tom Sawyer .,pro:sub v det:art n prep n:prop n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+642,mhm .,co .,ENG,0
+643,it's very good .,pro:per adv adj .,ENG ENG ENG,0
+644,very good ?,adv adj ?,ENG ENG,0
+645,why don't you tell me about the book ?,pro:int mod pro:per v pro:obj prep det:art n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+646,yeah you know it's about this kid who always tricks people into doing stuff for him .,co pro:per v pro:per prep det:dem n pro:rel adv v n prep n:gerund n prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+647,uhuh .,co .,ENG,0
+648,you know yeah .,pro:per v co .,ENG ENG ENG,0
+649,that's awesome .,pro:dem adj .,ENG ENG,0
+650,well /.,co +/.,ENG,0
+651,but you know his real name is Samuel Clemens ?,conj pro:per v det:poss adj n cop n:prop n:prop ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+652,Samuel Clemens ?,n:prop n:prop ?,ENG ENG,0
+653,yeah .,co .,ENG,0
+654,wow .,co .,ENG,0
+655,he got out from Mark Twain because he used to work as someone who helped like and stuff .,pro:sub v adv prep n:prop n:prop conj pro:sub v inf v prep pro:indef pro:rel part co coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+656,sí ?,co ?,ENG,0
+657,"and then they shouted out "".","coord adv:tem pro:sub v adv +"".",ENG ENG ENG ENG ENG,0
+658,Mark Twain !,n:prop n:prop !,ENG ENG,0
+659,so he thought that was a very interesting new name .,co pro:sub v adv cop det:art adv adj adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+660,so he named himself Mark Twain .,co pro:sub v pro:refl n:prop n:prop .,ENG ENG ENG ENG ENG ENG,0
+661,wow a actually very interesting story .,co det:art adv adv adj n .,ENG ENG ENG ENG ENG ENG,0
+662,let me tell you a very funny story about our presidents .,v pro:obj v pro:per det:art adv adj n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+663,you know when the Indians used to see pictures of George Washington they would see the pictures of waist up .,pro:per v conj det:art n:prop v inf v n prep n:prop n:prop pro:sub mod v det:art n prep n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+664,I know and like I heard this story before .,pro:sub v coord co pro:sub v det:dem n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+665,they didn't know how tall he was .,pro:sub mod v pro:int adj pro:sub cop .,ENG ENG ENG ENG ENG ENG ENG,0
+666,so they just added feet .,co pro:sub adv part n .,ENG ENG ENG ENG ENG,0
+667,I know so when they were gonna make the statue he was just this little mini guy muy muy chiquito como una enanito .,pro:sub v co conj pro:sub aux part v det:art n pro:sub cop adv det:dem adj adj n L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP,1
+668,he was so little .,pro:sub cop adv adj .,ENG ENG ENG ENG,0
+669,it was funny you know .,pro:per cop adj pro:per v .,ENG ENG ENG ENG ENG,0
+670,I learned about that in a book in my social studies class .,pro:sub v prep pro:dem prep det:art n prep det:poss n v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+671,what month were you born ?,pro:int n cop pro:per adj ?,ENG ENG ENG ENG ENG,0
+672,February as I previously told you .,n:prop conj pro:sub adv v pro:per .,ENG ENG ENG ENG ENG ENG,0
+673,cool .,adj .,ENG,0
+674,February .,n:prop .,ENG,0
+675,yeah .,co .,ENG,0
+676,so you're visiting here in Florida right now .,adv pro:per part adv prep n:prop adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+677,so your family's up in New_jersey .,co det:poss n adv prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+678,yes they are in New_jersey .,co pro:sub cop prep n:prop .,ENG ENG ENG ENG ENG,0
+679,my mom and her husband and my sister are there .,det:poss n coord det:poss n coord det:poss n cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+680,well I love spending time with you guys you know .,co pro:sub v part n prep pro:per n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+681,me fascina estar contigo y con mi tía with George and uncle dad .,L2 L2 L2 L2 L2 L2 L2 L2 prep n:prop coord n n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+682,yeah so just like to wrap it all up because we don't have much time left .,co adv adj co inf v pro:per adv adv conj pro:sub mod v adv n v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+683,let's see .,v v .,ENG ENG,0
+684,what is //.,pro:int cop +//.,ENG ENG,0
+685,just honestly what is your favorite ...,adv adv pro:int cop det:poss n +...,ENG ENG ENG ENG ENG ENG,0
+686,let's see .,v v .,ENG ENG,0
+687,what is there ?,pro:int cop adv ?,ENG ENG ENG,0
+688,well why don't we talk about this .,co pro:int mod pro:sub v prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+689,let me put a conversation .,v pro:obj v det:art n .,ENG ENG ENG ENG ENG,0
+690,what are your main priorities to accomplish in life ?,pro:int cop det:poss adj n inf v prep n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+691,goal ?,n ?,ENG,0
+692,yes .,co .,ENG,0
+693,your goal for your life .,det:poss n prep det:poss n .,ENG ENG ENG ENG ENG,0
+694,I'm not sure .,pro:sub neg adj .,ENG ENG ENG,0
+695,I'm just gonna wait and see what I need to do when I grow up .,pro:sub adv part v coord v pro:int pro:sub v inf v conj pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+696,right now I'm just getting the grades doing good doing my best and trying hard .,adv adv pro:sub adv part det:art n part adj n:gerund det:poss adj coord part adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+697,and when I grow up I'll see what attracts to me .,coord conj pro:sub v adv pro:sub v pro:int v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+698,I'm just ...,pro:sub adv +...,ENG ENG,0
+699,you know people they do like gymnastics or something .,pro:per v n pro:sub v prep n:pt coord pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+700,they stick to it .,pro:sub v prep pro:per .,ENG ENG ENG ENG,0
+701,if I don't like it I don't do it .,conj pro:sub mod v pro:per pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+702,I'm just waiting to see what I like .,pro:sub adv part inf v pro:int pro:sub co .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+703,oh very interesting .,co adv adj .,ENG ENG ENG,0
+704,how about you ?,pro:int adv pro:per ?,ENG ENG ENG,0
+705,well my goals in life are to get involved with international businesses .,co det:poss n prep n cop inf aux part prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+706,I would like to learn about you know businesses in all the countries .,pro:sub mod v inf v prep pro:per v n prep qn det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+707,lawyer ?,n ?,ENG,0
+708,yeah a lawyer too .,co det:art n post .,ENG ENG ENG ENG,0
+709,but but you know international business I can talk Spanish with people .,conj conj pro:per v n n pro:sub mod v n:prop prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+710,hablar español or different types of languages .,L2 L2 coord adj n prep n .,ESP ESP ENG ENG ENG ENG ENG,1
+711,get to travel around .,v inf v adv .,ENG ENG ENG ENG,0
+712,I wanna learn how to speak different languages .,pro:sub v v pro:int inf v adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+713,I have a lot of goals to accomplish in my life .,pro:sub v det:art n prep n inf v prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+714,I'm just like I said before I'm just gonna wait and see what I like or I want to accomplish because right now I don't wanna make a decision and then try to go after it .,pro:sub adj co pro:sub v adv pro:sub adv part v coord v pro:int pro:sub v coord pro:sub v inf v conj adv adv pro:sub mod v v det:art n coord adv:tem v inf v prep pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+715,and I don't really want it .,coord pro:sub mod adv v pro:per .,ENG ENG ENG ENG ENG ENG,0
+716,well that's a very very interesting thing of thinking ways .,co pro:dem det:art adv adv adj n prep part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+717,yeah .,co .,ENG,0
+718,entonces ya para cerrar la conversación cómo tú te sientes con tu familia ?,adv adv prep inf det:art n co pro:sub pro:obj v prep det:pos n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+719,I feel very warm with them .,pro:sub v adv adj prep pro:obj .,ENG ENG ENG ENG ENG ENG,0
+720,I just love it when we can just be together and bond just by ourselves .,pro:sub adv v pro:per conj pro:sub mod adj cop adv coord n adv prep pro:refl .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+721,and you know I love bonding with my parents because we get a chance to chitchat and talk about what's going on with each other and about stuff that just we get comfortable around .,coord pro:per v pro:sub v part prep det:poss n conj pro:sub v det:art n inf v coord n prep pro:int part adv prep qn qn coord prep n pro:rel adv pro:sub v adj adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+722,it looks like you have a lot of confidence .,pro:per v conj pro:per v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+723,and /.,coord +/.,ENG,0
+724,I had a lot of self confidence .,pro:sub v det:art n prep n n .,ENG ENG ENG ENG ENG ENG ENG,0
+725,yes with yourself .,co prep pro:refl .,ENG ENG ENG,0

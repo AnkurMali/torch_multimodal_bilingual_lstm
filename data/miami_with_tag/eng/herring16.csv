@@ -1,0 +1,529 @@
+,sentence,pos,language,switch
+0,ya saliste ?,adv v ?,ENG ENG,0
+1,.,None,,0
+2,no pero todavía no cada palabra hace and and ...,L2 L2 L2 L2 L2 L2 L2 coord coord +...,ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+3,ay Dios mío .,co n:prop pro:pos .,ENG ENG ENG,0
+4,.,None,,0
+5,hace .,imp .,ENG,0
+6,oh my God .,co det:poss n:prop .,ENG ENG ENG,0
+7,.,None,,0
+8,.,None,,0
+9,.,None,,0
+10,.,None,,0
+11,mira y qué haces ?,co coord pro:int v ?,ENG ENG ENG ENG,0
+12,mira cuando los otros van para el carnival center a las tres ...,L2 L2 L2 L2 L2 L2 L2 n n L2 L2 L2 +...,ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP,1
+13,mhm .,co .,ENG,0
+14,y a las cinco vamos para el Miami Fair .,L2 L2 L2 L2 L2 L2 L2 n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+15,hello .,co .,ENG,0
+16,el carnival center ?,L2 n n ?,ESP ENG ENG,1
+17,que hay como una cosa en el carnival center .,L2 L2 L2 L2 L2 L2 L2 n n .,ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+18,ahí al lado de la escuela en el carnival center .,L2 L2 L2 L2 L2 L2 L2 L2 n n .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+19,hay alguna actividad de tres a cinco como live music y todas estas cosas .,L2 L2 L2 L2 L2 L2 L2 L2 adj n L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP,1
+20,y luego vamos para el Miami_fair donde están los roller_coasters a las cinco .,coord adv v prep det:art n:prop pro:rel cop det:art L2 aprep det:art det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG,1
+21,pero tú tienes la boda hoy verdad ?,conj pro:sub v det:art n adv co ?,ENG ENG ENG ENG ENG ENG ENG,0
+22,bueno pues ...,co co +...,ENG ENG,0
+23,si no estás haciendo nada me llamas .,conj adv aux ger v pro:obj v .,ENG ENG ENG ENG ENG ENG ENG,0
+24,okay .,co .,ENG,0
+25,un besote .,det:art n .,ENG ENG,0
+26,ay mija salí a las once de la noche de allá .,co co:voc v aprep det:art det:num prep det:art n prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+27,cállate .,imp .,ENG,0
+28,cállate que me quiero morir .,imp pro:rel pro:obj v inf .,ENG ENG ENG ENG ENG,0
+29,ah ?,co ?,ENG,0
+30,"ay , sí .",co cm co .,ENG ENG ENG,0
+31,pero como quieran no me lo han pagado .,conj adv imp adv pro:obj pro:obj aux part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+32,con cheque .,prep v .,ENG ENG,0
+33,claro que no .,co pro:rel adv .,ENG ENG ENG,0
+34,a nadie .,aprep pro:indef .,ENG ENG,0
+35,let's see .,v v .,ENG ENG,0
+36,si no .,conj adv .,ENG ENG,0
+37,okay un beso a ella también bye bye .,co L2 L2 L2 L2 L2 co co .,ENG ESP ESP ESP ESP ESP ENG ENG,1
+38,yo sé que ella no va a salir con nosotros hoy a beber porque hoy es el día que ella sale con Ronald .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+39,pero como me da ...,conj adv pro:obj v +...,ENG ENG ENG ENG,0
+40,no no no no that's nice .,co co co co pro:dem adj .,ENG ENG ENG ENG ENG ENG,0
+41,that's nice .,pro:dem adj .,ENG ENG,0
+42,mira ven a ver la foto de la nueva Miss Miss USA .,L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop n:prop n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+43,cómo es ?,pro:int cop ?,ENG ENG,0
+44,oh .,co .,ENG,0
+45,se parece a Tyra Banks .,L2 L2 L2 n:prop n:prop .,ESP ESP ESP ENG ENG,1
+46,you think ?,pro:per v ?,ENG ENG,0
+47,yeah .,co .,ENG,0
+48,she is pretty .,pro:sub cop adv .,ENG ENG ENG,0
+49,is really pretty .,aux adv adv .,ENG ENG ENG,0
+50,Miss USA .,n:prop n:prop .,ENG ENG,0
+51,Miss US of A .,n:prop n:prop prep n:prop .,ENG ENG ENG ENG,0
+52,y entonces .,coord adv .,ENG ENG,0
+53,.,None,,0
+54,.,None,,0
+55,tienes que poner conversación tal vez porque hello .,L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ENG,1
+56,I think it's supposed to be natural .,pro:sub v pro:per part inf cop adj .,ENG ENG ENG ENG ENG ENG ENG,0
+57,okay okay .,co co .,ENG ENG,0
+58,tu invento no quema ni nada de eso no ?,det:pos v adv v coord imp prep pro:dem adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+59,bueno pero tenemos que ...,co conj v pro:rel +...,ENG ENG ENG ENG,0
+60,ay pues sí .,co co co .,ENG ENG ENG,0
+61,oye Majo .,v n:prop .,ENG ENG,0
+62,sure .,adj .,ENG,0
+63,le hablo .,pro:ind v .,ENG ENG,0
+64,no pero es muy temprano todavía está durmiendo .,adv conj cop adv adj adv aux ger .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+65,qué pena .,L2 L2 .,ESP ESP,0
+66,.,None,,0
+67,dile a mami que si viene no podemos invitar a más nadie .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+68,mhm .,co .,ENG,0
+69,no cabemos .,adv v .,ENG ENG,0
+70,va a ir este ...,v aprep inf imp +...,ENG ENG ENG ENG,0
+71,bueno creo que ella pero no Kathy .,L2 L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ENG,1
+72,mhm .,co .,ENG,0
+73,oh tengo los volunteer forms para lo de el Aids Walk .,co L2 L2 n v L2 L2 L2 L2 n:prop n:prop .,ENG ESP ESP ENG ENG ESP ESP ESP ESP ENG ENG,1
+74,oh vamos a llenar eso .,co L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+75,a ver eh bueno ...,L2 L2 co L2 +...,ESP ESP ENG ESP,1
+76,oh okay my microphone .,co co det:poss n .,ENG ENG ENG ENG,0
+77,.,None,,0
+78,when we volunteer vas a tener también Pam y la hermana del Majo .,conj pro:sub v L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 .,ENG ENG ENG ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+79,so .,co .,ENG,0
+80,no I'm telling you so that you know .,co pro:sub part pro:per adv pro:rel pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+81,pero van a poner a los cinco juntos ?,conj v aprep inf aprep det:art det:num adj ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+82,uhuh .,co .,ENG,0
+83,"o tú y Lucía juntos y luego Pam , y yo juntos .",L2 L2 L2 n:prop L2 L2 L2 n:prop cm L2 L2 L2 .,ESP ESP ESP ENG ESP ESP ESP ENG ENG ESP ESP ESP,1
+84,uhuh .,co .,ENG,0
+85,por qué yo con Lucía ?,L2 L2 L2 L2 n:prop ?,ESP ESP ESP ESP ENG,1
+86,because she likes you .,conj pro:sub v pro:per .,ENG ENG ENG ENG,0
+87,ah right .,co co .,ENG ENG,0
+88,a ver ...,aprep inf +...,ENG ENG,0
+89,she likes Pam too .,pro:sub v n:prop post .,ENG ENG ENG ENG,0
+90,huh ?,co ?,ENG,0
+91,she's only seen her that one time .,pro:sub adv part pro:obj comp det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+92,you got a pen ?,pro:per v det:art n ?,ENG ENG ENG ENG,0
+93,whatever .,pro:int .,ENG,0
+94,you have a pen ?,pro:per v det:art n ?,ENG ENG ENG ENG,0
+95,okey_dokey .,co .,ENG,0
+96,okay .,co .,ENG,0
+97,a ver a ver ...,aprep inf aprep inf +...,ENG ENG ENG ENG,0
+98,a ti te encanta ponerme de mal humor because I know te encanta ...,L2 L2 L2 L2 L2 L2 L2 L2 conj pro:sub v L2 L2 +...,ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ENG ESP ESP,1
+99,.,None,,0
+100,a ver .,aprep inf .,ENG ENG,0
+101,ay bueno whatever maybe I won't do it .,co L2 pro:int adv pro:sub mod v pro:per .,ENG ESP ENG ENG ENG ENG ENG ENG,1
+102,fine you don't want me to do yours okay .,adj pro:per mod v pro:obj inf v pro:poss co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+103,because I need to submit it online by Monday .,conj pro:sub v inf v pro:per adj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+104,are you sure you don't want me to do it then ?,cop pro:per adj pro:per mod v pro:obj inf v pro:per adv:tem ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+105,no .,co .,ENG,0
+106,okay .,co .,ENG,0
+107,I'm joking .,pro:sub part .,ENG ENG,0
+108,all together .,post adv .,ENG ENG,0
+109,a ver .,aprep inf .,ENG ENG,0
+110,cuáles son las preguntas ?,pro:int cop det:art n ?,ENG ENG ENG ENG,0
+111,él debe tener mil preguntas .,pro:sub v inf det:num v .,ENG ENG ENG ENG ENG,0
+112,okay .,co .,ENG,0
+113,okay what's your phone number ?,co pro:int det:poss n v ?,ENG ENG ENG ENG ENG,0
+114,you don't know my phone number ?,pro:per mod v det:poss n v ?,ENG ENG ENG ENG ENG ENG,0
+115,you know I don't .,pro:per v pro:sub mod .,ENG ENG ENG ENG,0
+116,five eight seven six two .,det:num det:num det:num det:num det:num .,ENG ENG ENG ENG ENG,0
+117,five eight seven .,det:num det:num det:num .,ENG ENG ENG,0
+118,six two .,det:num det:num .,ENG ENG,0
+119,okay four five five .,co det:num det:num det:num .,ENG ENG ENG ENG,0
+120,north street unit Miami Florida three three one three seven .,adj n n n:prop n:prop det:num det:num det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+121,three three seven right .,det:num det:num det:num co .,ENG ENG ENG ENG,0
+122,three three one three seven .,det:num det:num det:num det:num det:num .,ENG ENG ENG ENG ENG,0
+123,hey what's your email address ?,co pro:int det:poss n n ?,ENG ENG ENG ENG ENG,0
+124,wwwlal uno a .,None None None None,ENG ENG ENG,0
+125,we are actually gonna be working on a project for set up at the botanical gardens .,pro:sub aux adv part aux part prep det:art n prep n adv prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+126,we have to be there at six thirty in the morning .,pro:sub v inf cop adv prep det:num det:num prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+127,hm ?,co ?,ENG,0
+128,and it's from six thirty to eleven .,coord pro:per prep det:num det:num prep det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+129,okay .,co .,ENG,0
+130,hm ?,co ?,ENG,0
+131,are you serious ?,cop pro:per adj ?,ENG ENG ENG,0
+132,yeah .,co .,ENG,0
+133,on Saturday ?,prep n:prop ?,ENG ENG,0
+134,no it's actually Sunday Sunday the twentieth .,co pro:per adv n:prop n:prop det:art adj .,ENG ENG ENG ENG ENG ENG ENG,0
+135,y cuando es que viene tu amiga ?,coord conj cop pro:rel v det:pos n ?,ENG ENG ENG ENG ENG ENG ENG,0
+136,no era hoy que llegaba ?,adv cop adv pro:rel v ?,ENG ENG ENG ENG ENG,0
+137,she comes that weekend .,pro:sub v comp n .,ENG ENG ENG ENG,0
+138,but I think I'm gonna hang out with her on Saturday .,conj pro:sub v pro:sub part v adv prep pro:obj prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+139,mhm .,co .,ENG,0
+140,imagínate .,imp .,ENG,0
+141,I don't know where she gets in if she gets in on Friday .,pro:sub mod v pro:int pro:sub v adv conj pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+142,and then we have that stupid concert thing right ?,coord adv:tem pro:sub v det:dem adj n n adj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+143,on the nineteenth .,prep det:art adj .,ENG ENG ENG,0
+144,what concert ?,pro:int n ?,ENG ENG,0
+145,the Bacardi_Live .,det:art n:prop .,ENG ENG,0
+146,concert .,n .,ENG,0
+147,if you want to if I can't go do you wanna go with somebody else ?,conj pro:per v prep conj pro:sub mod v v pro:per v v prep pro:indef post ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+148,no the Bacardi concert you would love it .,qn det:art n:prop n pro:per mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+149,I'm okay seriously .,pro:sub adj adv .,ENG ENG ENG,0
+150,I mean we haven't been to a concert ever .,pro:sub v pro:sub aux cop prep det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,but I mean if you have to hang out with her on Friday instead of Saturday that's fine .,conj pro:sub v comp pro:per v inf v adv prep pro:obj prep n:prop adv prep n:prop pro:dem adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+152,but if not we just go to the concert .,conj conj neg pro:sub adv v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+153,okay ?,co ?,ENG,0
+154,okay come and sign this .,co v coord v pro:dem .,ENG ENG ENG ENG ENG,0
+155,this is the consent form .,pro:dem cop det:art n n .,ENG ENG ENG ENG ENG,0
+156,and you gotta sign both right there and date it .,coord pro:per mod v qn adv adv coord v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+157,.,None,,0
+158,mhm .,co .,ENG,0
+159,and then print your name sign and date this one .,coord adv:tem v det:poss n n coord v det:dem pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+160,what's today's date ?,pro:int adv:tem n ?,ENG ENG ENG,0
+161,just put the twelve .,adv v det:art det:num .,ENG ENG ENG ENG,0
+162,July four twelve right ?,n:prop det:num det:num co ?,ENG ENG ENG ENG,0
+163,here .,adv .,ENG,0
+164,thank you sir .,v pro:per n .,ENG ENG ENG,0
+165,you got Majo's ?,pro:per v adj ?,ENG ENG ENG,0
+166,I got Majo's Pam's and Lucía's .,pro:sub v adj adj coord adj .,ENG ENG ENG ENG ENG ENG,0
+167,but you know what let me go ahead .,conj pro:per v pro:int v pro:obj v adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+168,I'm gonna also email Majo and Pam their forms .,pro:sub part adv n n:prop coord n:prop det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+169,so that they know .,adv pro:rel pro:sub v .,ENG ENG ENG ENG,0
+170,sí por favor .,co prep n .,ENG ENG ENG,0
+171,.,None,,0
+172,hm hm hm .,co co co .,ENG ENG ENG,0
+173,parece que se me antoja un café de Starbucks .,L2 L2 L2 L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+174,ay that sounds good .,co adv v adj .,ENG ENG ENG ENG,0
+175,wasn't it near the Starbucks they opened that one the one the ?,cop pro:per prep det:art n:prop pro:sub v comp det:num det:art det:num det:art ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+176,the other one right there in front of the Publix .,det:art qn pro:indef adv adv prep n prep det:art n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+177,.,None,,0
+178,hm ?,co ?,ENG,0
+179,we can go to that one too .,pro:sub mod v prep det:dem pro:indef adv .,ENG ENG ENG ENG ENG ENG ENG,0
+180,.,None,,0
+181,okay let's see .,co v v .,ENG ENG ENG,0
+182,attached .,part .,ENG,0
+183,can you ..?,mod pro:per +..?,ENG ENG,0
+184,will find the consent application form to volunteer .,mod v det:art n n n inf v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+185,okay .,co .,ENG,0
+186,we all have been assigned .,pro:sub adv v aux part .,ENG ENG ENG ENG ENG,0
+187,tú sabes .,pro:sub v .,ENG ENG,0
+188,wait a second .,v det:art n .,ENG ENG ENG,0
+189,for the same project a setup of the botanical gardens .,prep det:art adj n det:art n prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+190,tú sabes que nosotros no hemos ido a tu casa a recoger la sheet .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+191,y hay que lavar todo eso de cuando Helena estaba allá .,L2 L2 L2 L2 L2 L2 L2 L2 n:prop L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+192,sí ella lo lavó .,co pro:sub pro:obj v .,ENG ENG ENG ENG,0
+193,y el cubrecamas y todo ?,coord det:art n coord pro:indef ?,ENG ENG ENG ENG ENG,0
+194,sí .,co .,ENG,0
+195,por el perrito digo .,prep det:art n v .,ENG ENG ENG ENG,0
+196,porque si yo me voy para allá luego me da alergia .,conj conj pro:sub pro:obj v prep adv adv pro:obj v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+197,hm no .,co L2 .,ENG ESP,1
+198,pues no vayas .,co adv v .,ENG ENG ENG,0
+199,gracias si quieres vete tú .,n conj v imp pro:sub .,ENG ENG ENG ENG ENG,0
+200,te quedas por allá .,pro:obj v prep adv .,ENG ENG ENG ENG,0
+201,y yo quemo todo aquí .,coord pro:sub v det:indef adv .,ENG ENG ENG ENG ENG,0
+202,.,None,,0
+203,ahora la televisión te la quemo .,adv det:art n pro:obj pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+204,huh ?,co ?,ENG,0
+205,.,None,,0
+206,el ladrón que roba al ladrón tiene cien años de .,det:art n pro:rel v aprep n v det:num n prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+207,mira deberíamos de hacer la dieta esta semana otra vez .,co v prep inf det:art n imp n det:indef n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+208,ay no .,co adv .,ENG ENG,0
+209,oye dónde está la hoja de events and promotions porque ...,L2 L2 L2 L2 L2 L2 n coord n L2 +...,ESP ESP ESP ESP ESP ESP ENG ENG ENG ESP,1
+210,ah tú la tenías anoche .,co L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+211,tú la pusiste en uno de los folders .,L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ENG,1
+212,hoy tenemos que faxearlo .,adv v pro:rel inf .,ENG ENG ENG ENG,0
+213,pero lo faxeo el lunes igual .,conj pro:obj v det:art n co .,ENG ENG ENG ENG ENG ENG,0
+214,llega la fax del trabajo ahora .,v det:art n prep v adv .,ENG ENG ENG ENG ENG ENG,0
+215,qué ?,pro:int ?,ENG,0
+216,si llega la fax del trabajo ahora ...,conj v det:art n prep v adv +...,ENG ENG ENG ENG ENG ENG ENG,0
+217,a qué horas trabajas ?,aprep pro:int n v ?,ENG ENG ENG ENG,0
+218,no trabajo .,adv v .,ENG ENG,0
+219,dijo que iba a pasar a dejar la película .,v pro:rel v aprep inf aprep inf det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+220,y pasar por el trabajo un momento .,coord inf prep det:art n det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+221,.,None,,0
+222,adelante .,adv .,ENG,0
+223,pero tú me puedes acompañar unos cinco minutos .,conj pro:sub pro:obj v inf pro:dem det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+224,nos vamos al Starbucks .,L2 L2 L2 n:prop .,ESP ESP ESP ENG,1
+225,sabes lo que quiere hacer el que estaba ahí ?,co pro:obj pro:rel v inf det:art pro:rel cop adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+226,él la trabaja para ...,pro:sub pro:obj v prep +...,ENG ENG ENG ENG,0
+227,cuál el flaquito ?,pro:int det:art adj ?,ENG ENG ENG,0
+228,ah no no el moreno .,co L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+229,bajito ?,adj ?,ENG,0
+230,mhm .,co .,ENG,0
+231,compañía que sí .,n pro:rel co .,ENG ENG ENG,0
+232,these are your resources yo creo .,pro:dem cop det:poss n L2 L2 .,ENG ENG ENG ENG ESP ESP,1
+233,ah dámelo déjame verlo .,co L2 L2 L2 .,ENG ESP ESP ESP,1
+234,que se llama marketing works .,L2 L2 L2 part n .,ESP ESP ESP ENG ENG,1
+235,mhm .,co .,ENG,0
+236,and then he said that they are really good actually to work with ...,coord adv:tem pro:sub v comp pro:sub cop adv adj adv prep n prep +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+237,sí precisamente están a mi altura .,co adv:adj aux aprep det:pos n .,ENG ENG ENG ENG ENG ENG,0
+238,mira .,co .,ENG,0
+239,one twenty seven over eighty nine es mi blood pressure .,det:num det:num det:num adv det:num det:num L2 L2 n n .,ENG ENG ENG ENG ENG ENG ESP ESP ENG ENG,1
+240,y debe estar en ...,coord v inf prep +...,ENG ENG ENG ENG,0
+241,en one twenty eighty .,L2 det:num det:num det:num .,ESP ENG ENG ENG,1
+242,el cholesterol tengo ciento veinte gramos .,L2 n L2 L2 L2 L2 .,ESP ENG ESP ESP ESP ESP,1
+243,and what should it be ?,coord pro:int mod pro:per cop ?,ENG ENG ENG ENG ENG,0
+244,less than two .,adj prep det:num .,ENG ENG ENG,0
+245,less than two hundred .,adj prep det:num det:num .,ENG ENG ENG ENG,0
+246,and where are you ?,coord pro:int cop pro:per ?,ENG ENG ENG ENG,0
+247,ciento veinte .,n det:num .,ENG ENG,0
+248,that's good .,pro:dem adj .,ENG ENG,0
+249,sí yo no tengo colesterol .,co pro:sub adv v n .,ENG ENG ENG ENG ENG,0
+250,blood glucose .,n n .,ENG ENG,0
+251,if one meal last eight hours .,conj det:num n adj det:num n .,ENG ENG ENG ENG ENG ENG,0
+252,yo no había comido verdad .,pro:sub adv aux part co .,ENG ENG ENG ENG ENG,0
+253,eighty seven .,det:num det:num .,ENG ENG,0
+254,so I'm low in glucose .,adv pro:sub n prep n .,ENG ENG ENG ENG ENG,0
+255,body composition .,n n .,ENG ENG,0
+256,twenty to twenty nine twenty one to thirty two .,det:num prep det:num det:num det:num det:num prep det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+257,I have twenty five percent .,pro:sub v det:num det:num n .,ENG ENG ENG ENG ENG,0
+258,the body mass density .,det:art n n n .,ENG ENG ENG ENG,0
+259,I think those people are still walking .,pro:sub v det:dem n aux adv part .,ENG ENG ENG ENG ENG ENG ENG,0
+260,I think it was twenty four hours .,pro:sub v pro:per cop det:num det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+261,bueno .,co .,ENG,0
+262,for the Cancer Walk .,prep det:art n:prop n:prop .,ENG ENG ENG ENG,0
+263,qué horror coming up .,L2 L2 part adv .,ESP ESP ENG ENG,1
+264,ah pero tú ves dice que no tengo osteoporosis todavía .,co L2 L2 L2 L2 L2 L2 L2 n L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ENG ESP,1
+265,mira .,co .,ENG,0
+266,qué te dice ?,pro:int pro:obj v ?,ENG ENG ENG,0
+267,normal es above negative one .,L2 L2 adv adj pro:indef .,ESP ESP ENG ENG ENG,1
+268,I have negative one point seven .,pro:sub v n det:num n det:num .,ENG ENG ENG ENG ENG ENG,0
+269,so I'm point seven below what I have to be .,adv pro:sub v det:num prep pro:int pro:sub v inf cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+270,hm no tengo la menor idea fíjate .,co L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP,1
+271,okay .,co .,ENG,0
+272,negative one is right here .,adj pro:indef cop adv adv .,ENG ENG ENG ENG ENG,0
+273,negative one point seven es past that .,adj det:num n det:num L2 adj pro:dem .,ENG ENG ENG ENG ESP ENG ENG,1
+274,so you have to be above that to be to be going to the positive you know .,co pro:per v inf cop prep pro:dem inf cop inf aux part prep det:art n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+275,mhm .,co .,ENG,0
+276,so like negative point seven or zero or one or two or three .,co co adj n det:num coord det:num coord det:num coord det:num coord det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+277,and normal is above that .,coord adv cop prep pro:dem .,ENG ENG ENG ENG ENG,0
+278,osteopenia qué es eso osteopenia ?,n L2 L2 L2 n ?,ENG ESP ESP ESP ENG,1
+279,búscalo en el internet .,imp prep det:art n .,ENG ENG ENG ENG,0
+280,okay .,co .,ENG,0
+281,es between one and two point five negative one and negative two point five so I have osteopenia .,L2 prep det:num coord det:num n det:num adj pro:indef coord adj det:num n det:num conj pro:sub v n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+282,and osteoporosis is below negative two point five so right now my body doesn't have osteoporosis .,coord n cop prep n det:num n det:num adv adv adv det:poss n mod v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+283,but it's still low .,conj pro:per adv adj .,ENG ENG ENG ENG,0
+284,body mass index .,n n n .,ENG ENG ENG,0
+285,twenty six point eight .,det:num det:num n det:num .,ENG ENG ENG ENG,0
+286,I'm overweight .,pro:sub adj .,ENG ENG,0
+287,and my waist is fine .,coord det:poss n cop adv .,ENG ENG ENG ENG ENG,0
+288,.,None,,0
+289,we need to start working out .,pro:sub v inf v part adv .,ENG ENG ENG ENG ENG ENG,0
+290,I was talking to Pam el otro día .,pro:sub aux part prep n:prop L2 L2 L2 .,ENG ENG ENG ENG ENG ESP ESP ESP,1
+291,mhm .,co .,ENG,0
+292,and she is saying that he is willing to come here .,coord pro:sub aux part comp pro:sub cop adj inf v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+293,and that we can jog to the house and beach .,coord comp pro:sub mod v prep det:art n coord n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+294,pero why don't we all go to the gym if he is willing to come here ?,L2 pro:int mod pro:sub post v prep det:art n conj pro:sub cop adj inf v adv ?,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+295,no like jogging is the this ...,co prep n:gerund cop det:art pro:dem +...,ENG ENG ENG ENG ENG ENG,0
+296,but you know what you guys can jog in to lose the weight blah blah blah .,conj pro:per v pro:int pro:per n mod v adv inf v det:art n co co co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+297,but you have no arms .,conj pro:per v qn n .,ENG ENG ENG ENG ENG,0
+298,you need to do arms .,pro:per v inf v n .,ENG ENG ENG ENG ENG,0
+299,you need to lift weighs to get arm .,pro:per v prep n v inf v n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+300,mhm .,co .,ENG,0
+301,you know your body ...,pro:per v det:poss n +...,ENG ENG ENG ENG,0
+302,and I have to do situps because I don't have to lose weight in my whole body .,coord pro:sub v inf v n conj pro:sub mod v inf v n prep det:poss adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+303,I have to lose weight in my stomach .,pro:sub v inf v n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+304,maybe we can do both things .,adv pro:sub mod v qn n .,ENG ENG ENG ENG ENG ENG,0
+305,no you guys concentrate on one thing .,co pro:per n n prep det:num n .,ENG ENG ENG ENG ENG ENG ENG,0
+306,that's why your legs are so strong because that's the only thing that you are exercising .,pro:dem pro:int det:poss n cop adv adj conj pro:rel det:art qn n pro:rel pro:per aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+307,vale .,co .,ENG,0
+308,see like how nice would be if you had your brother's arms ?,v prep pro:int adj mod cop conj pro:per v det:poss adj n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+309,te gustaban los de .,pro:obj v det:art prep .,ENG ENG ENG ENG,0
+310,ah ?,co ?,ENG,0
+311,porque te gustaban los ...,conj pro:obj v det:art +...,ENG ENG ENG ENG,0
+312,ah pues hello .,co L2 n .,ENG ESP ENG,1
+313,.,None,,0
+314,hi brother .,co n .,ENG ENG,0
+315,.,None,,0
+316,.,None,,0
+317,I think we should do gym three times a week and run two times a week .,pro:sub v pro:sub mod v n det:num n det:art n coord v det:num n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+318,I don't wanna run with you .,pro:sub mod v v prep pro:per .,ENG ENG ENG ENG ENG ENG,0
+319,hm ?,co ?,ENG,0
+320,I don't wanna run with you I'll go gym though .,pro:sub mod v v prep pro:per pro:sub v n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+321,why don't you wanna run with me ?,pro:int mod pro:per v v prep pro:obj ?,ENG ENG ENG ENG ENG ENG ENG,0
+322,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+323,let's see ...,v v +...,ENG ENG,0
+324,thank you .,v pro:per .,ENG ENG,0
+325,because I'm handicapped .,conj pro:sub part .,ENG ENG ENG,0
+326,let's see .,v v .,ENG ENG,0
+327,you can go run with Sian .,pro:per mod v v prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+328,and go to the gym with Sian .,coord v prep det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+329,I'll go to the gym by myself .,pro:sub v prep det:art n prep pro:refl .,ENG ENG ENG ENG ENG ENG ENG,0
+330,or we can go to the gym together .,coord pro:sub mod v prep det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+331,no thank you .,co v pro:per .,ENG ENG ENG,0
+332,oyes qué decía antes de que ...,v pro:int v adv prep pro:rel +...,ENG ENG ENG ENG ENG ENG,0
+333,no .,adv .,ENG,0
+334,tenemos que hablar .,v pro:rel inf .,ENG ENG ENG,0
+335,.,None,,0
+336,qué hay en el cine en el AMC ?,L2 L2 L2 L2 L2 L2 L2 n:prop ?,ESP ESP ESP ESP ESP ESP ESP ENG,1
+337,.,None,,0
+338,tienes la película de que tienen ahora en español también .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+339,no .,co .,ENG,0
+340,.,None,,0
+341,y qué otra película tienen ?,coord pro:int det:indef n v ?,ENG ENG ENG ENG ENG,0
+342,hm .,co .,ENG,0
+343,a ver .,aprep inf .,ENG ENG,0
+344,por qué no vamos al cine mañana mejor ?,prep pro:int adv v aprep n adv adj ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+345,después quedan no sé o Sun_Set_Plaza .,L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ENG,1
+346,.,None,,0
+347,a ver .,aprep inf .,ENG ENG,0
+348,no either one .,qn qn pro:indef .,ENG ENG ENG,0
+349,I think Sun_Set place would be easier to find parking .,pro:sub v n:prop n mod cop adj inf v part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+350,it would be cheaper too .,pro:per mod cop adj adv .,ENG ENG ENG ENG ENG,0
+351,.,None,,0
+352,tiene Ten_Thousand_B_C .,L2 n:prop .,ESP ENG,1
+353,Twenty_One College_Road_Trip .,n:prop n:prop .,ENG ENG,0
+354,.,None,,0
+355,Leatherheads .,n:prop .,ENG,0
+356,Love_Sickness esa película mal de amores la puertorriqueña .,n:prop L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP,1
+357,that looks interesting .,adv v adj .,ENG ENG ENG,0
+358,hm .,co .,ENG,0
+359,Prom_Night The_Ruins .,n:prop n:prop .,ENG ENG,0
+360,lo has .,pro:obj v .,ENG ENG,0
+361,oh Smart_People looks good actually .,co n:prop v adj adv .,ENG ENG ENG ENG ENG,0
+362,what ?,pro:int ?,ENG,0
+363,Smart_People .,n:prop .,ENG,0
+364,.,None,,0
+365,that has Sarah_Jessica_Parker the girl from Juno .,pro:rel v n:prop det:art n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+366,that one ?,det:dem pro:indef ?,ENG ENG,0
+367,mhm .,co .,ENG,0
+368,Sarah_Jessica_Parker and the girl from Juno in what movie ?,n:prop coord det:art n prep n:prop prep pro:int n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+369,it's called Smart_People .,pro:per part n:prop .,ENG ENG ENG,0
+370,okay we wanna watch that one .,adj pro:sub v v det:dem pro:indef .,ENG ENG ENG ENG ENG ENG,0
+371,and they have a showing actually at twelve twenty .,coord pro:sub v det:art n:gerund adv prep det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+372,and one at two thirty five .,coord det:num prep det:num det:num det:num .,ENG ENG ENG ENG ENG ENG,0
+373,we can watch that one .,pro:sub mod v det:dem pro:indef .,ENG ENG ENG ENG ENG,0
+374,and then we can just come over here .,coord adv:tem pro:sub mod adv v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+375,and go to the carnival center .,coord v prep det:art n n .,ENG ENG ENG ENG ENG ENG,0
+376,the two thirty ?,det:art det:num det:num ?,ENG ENG ENG,0
+377,mhm .,co .,ENG,0
+378,come back .,v adv .,ENG ENG,0
+379,bueno ya .,co adv .,ENG ENG,0
+380,es que eso will be over by three four .,L2 L2 L2 mod cop adv prep det:num det:num .,ESP ESP ESP ENG ENG ENG ENG ENG ENG,1
+381,it will be over by four .,pro:per mod cop adv prep det:num .,ENG ENG ENG ENG ENG ENG,0
+382,oh at three .,co prep det:num .,ENG ENG ENG,0
+383,fine three and three to five .,v det:num coord det:num prep det:num .,ENG ENG ENG ENG ENG ENG,0
+384,you wanna go to Two_Twenty_One ?,pro:per v v prep n:prop ?,ENG ENG ENG ENG ENG,0
+385,we could .,pro:sub mod .,ENG ENG,0
+386,it's gonna make for a long day there no ?,pro:per part v prep det:art adj n adv co ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+387,we can .,pro:sub mod .,ENG ENG,0
+388,but why don't be go tomorrow ?,conj pro:int mod aux v adv:tem ?,ENG ENG ENG ENG ENG ENG,0
+389,we have something else to do tomorrow .,pro:sub v pro:indef post inf v adv:tem .,ENG ENG ENG ENG ENG ENG ENG,0
+390,okay .,co .,ENG,0
+391,we decide .,pro:sub v .,ENG ENG,0
+392,bueno así mañana porque es que qué hay que hacer mañana ?,co adv adv conj cop pro:rel pro:int v pro:rel inf adv ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+393,.,None,,0
+394,no sé .,L2 L2 .,ESP ESP,0
+395,oye I need to get a haircut soon .,L2 pro:sub v inf v det:art n adv .,ESP ENG ENG ENG ENG ENG ENG ENG,1
+396,.,None,,0
+397,.,None,,0
+398,I want to get a haircut .,pro:sub v inf v det:art n .,ENG ENG ENG ENG ENG ENG,0
+399,should we do it today or tomorrow ?,mod pro:sub v pro:per adv:tem coord adv:tem ?,ENG ENG ENG ENG ENG ENG ENG,0
+400,we can do that today instead you know we can go out because it's by the Starbucks the haircut place over here cuts .,pro:sub mod v det:dem adv:tem adv pro:per v pro:sub mod v adv conj pro:per prep det:art n:prop det:art n n prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+401,okay .,co .,ENG,0
+402,I can't believe my mom didn't mention that she was going to Mexico today .,pro:sub mod v det:poss n mod v comp pro:sub aux part prep n:prop adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+403,yeah .,co .,ENG,0
+404,mhm .,co .,ENG,0
+405,and she is coming up for a whole week .,coord pro:sub aux part adv prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+406,porque te conté de la que se ?,conj pro:obj v prep det:art pro:rel pro:refl ?,ENG ENG ENG ENG ENG ENG ENG,0
+407,mhm .,co .,ENG,0
+408,parece ser que tenía planes de ir en julio .,v inf pro:rel v n prep inf prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+409,y después tenía planes de ir en mayo .,coord adv v n prep inf prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+410,verdad que así es really bad .,L2 L2 L2 L2 adv adj .,ESP ESP ESP ESP ENG ENG,1
+411,.,None,,0
+412,nunca fue de allá .,adv v prep adv .,ENG ENG ENG ENG,0
+413,hm .,co .,ENG,0
+414,have you seen that talking stain commercial ?,v pro:per part pro:dem part n adj ?,ENG ENG ENG ENG ENG ENG ENG,0
+415,yeah .,co .,ENG,0
+416,verdad ?,co ?,ENG,0
+417,super .,adj .,ENG,0
+418,.,None,,0
+419,ya lo tienes ahí ?,adv pro:obj v adv ?,ENG ENG ENG ENG,0
+420,mhm .,co .,ENG,0
+421,.,None,,0
+422,ves ?,co ?,ENG,0
+423,no finish your call .,co v det:poss n .,ENG ENG ENG ENG,0
+424,.,None,,0
+425,I can feel .,pro:sub mod v .,ENG ENG ENG,0
+426,isn't that funny ?,cop det:dem adj ?,ENG ENG ENG,0
+427,yes .,co .,ENG,0
+428,.,None,,0
+429,que preguntarle a si me quiere hacer el corte de pelo hoy .,pro:rel inf aprep conj pro:obj v inf det:art v prep v adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+430,.,None,,0
+431,hoy ?,adv ?,ENG,0
+432,yo no tengo dinero para estar jodiendo .,pro:sub adv v n prep inf ger .,ENG ENG ENG ENG ENG ENG ENG,0
+433,ay tan .,co adv .,ENG ENG,0
+434,no pero es para que me haga esto .,adv conj cop prep pro:rel pro:obj v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+435,Tania te voy a buscar en un ratito para que me hagas el trim de mi pelo por favor con la máquina .,n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 adj L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+436,pero yo te llamo así como en una hora .,conj pro:sub pro:obj v adv adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+437,bye .,co .,ENG,0
+438,okay .,co .,ENG,0
+439,.,None,,0
+440,y la llevo para atrás para que se vaya a ver a todo el mundo .,coord pro:obj v prep adv prep pro:rel pro:refl co aprep inf aprep det:indef det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+441,mhm .,co .,ENG,0
+442,.,None,,0
+443,es así tan rude con mis amigos Dios mío .,L2 L2 L2 adj L2 L2 L2 L2 L2 .,ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+444,si quieres yo voy a y luego a recogerte .,conj v pro:sub v aprep coord adv aprep re#inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+445,huh .,co .,ENG,0
+446,while I'm doing my haircut .,conj pro:sub part det:poss n .,ENG ENG ENG ENG ENG,0
+447,mhm .,co .,ENG,0
+448,you can ...,pro:per mod +...,ENG ENG,0
+449,your haircut is fine really .,det:poss n cop adv adv .,ENG ENG ENG ENG ENG,0
+450,.,None,,0
+451,por qué así no pueden ser mis amigos ?,prep pro:int adv adv v inf det:pos n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+452,yo no la máquina para que bien .,pro:sub adv det:art n prep pro:rel adv .,ENG ENG ENG ENG ENG ENG ENG,0
+453,ves como que ella .,v adv pro:rel pro:sub .,ENG ENG ENG ENG,0
+454,bueno ya son las y cuarenta casi casi .,co adv cop det:art coord det:num adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+455,pero él tiene que venir de camino .,conj pro:sub v pro:rel inf prep v .,ENG ENG ENG ENG ENG ENG ENG,0
+456,deja que llame .,v pro:rel v .,ENG ENG ENG,0
+457,como quiera .,adv v .,ENG ENG,0
+458,deja que llame .,v pro:rel v .,ENG ENG ENG,0
+459,sí sí sí no tranquilo ya .,co co co adv adj adv .,ENG ENG ENG ENG ENG ENG,0
+460,tranquilo .,adj .,ENG,0
+461,vamos allá .,v adv .,ENG ENG,0
+462,no no espérate espérate espérate .,adv adv imp imp imp .,ENG ENG ENG ENG ENG,0
+463,I was so tired yesterday .,pro:sub aux adv part adv:tem .,ENG ENG ENG ENG ENG,0
+464,but I really wanted to go out .,conj pro:sub adv v inf v adv .,ENG ENG ENG ENG ENG ENG ENG,0
+465,tú ni siquiera te bañaste .,pro:sub coord conj pro:obj v .,ENG ENG ENG ENG ENG,0
+466,I went to the beach too .,pro:sub v prep det:art n adv .,ENG ENG ENG ENG ENG ENG,0
+467,quieres que quedar contigo ?,v pro:rel inf adv ?,ENG ENG ENG ENG,0
+468,mhm .,co .,ENG,0
+469,me asustas .,pro:obj v .,ENG ENG,0
+470,y el tuyo ?,coord det:art pro:pos ?,ENG ENG ENG,0
+471,mhm I have it ...,co pro:sub v pro:per +...,ENG ENG ENG ENG,0
+472,a ver cómo ?,aprep inf pro:int ?,ENG ENG ENG,0
+473,deben estar en la sala esta .,v inf prep det:art n imp .,ENG ENG ENG ENG ENG ENG,0
+474,right maybe we should head over there then .,adv adv pro:sub mod v prep n adv:tem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+475,.,None,,0
+476,.,None,,0
+477,oíste tú sabes la /.,v pro:sub v det:art +/.,ENG ENG ENG ENG,0
+478,mhm .,co .,ENG,0
+479,ah esta detrás de la .,co imp adv prep det:art .,ENG ENG ENG ENG ENG,0
+480,esto está dando vueltas así .,pro:dem imp ger n adv .,ENG ENG ENG ENG ENG,0
+481,oye sabes qué el se está muriendo .,co v pro:int det:art pro:refl aux ger .,ENG ENG ENG ENG ENG ENG ENG,0
+482,ponlo a cargar .,imp aprep inf .,ENG ENG ENG,0
+483,okay .,co .,ENG,0
+484,.,None,,0
+485,no brother .,qn n .,ENG ENG,0
+486,no wait un momento porque sino las cosas ...,co co L2 L2 L2 L2 L2 L2 +...,ENG ENG ESP ESP ESP ESP ESP ESP,1
+487,ay .,co .,ENG,0
+488,it's a nice day for the beach actually .,pro:per det:art adj n prep det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+489,you wanna go .,pro:per v v .,ENG ENG ENG,0
+490,maybe tomorrow .,adv adv:tem .,ENG ENG,0
+491,.,None,,0
+492,.,None,,0
+493,where are my cigarettes ?,pro:int cop det:poss n ?,ENG ENG ENG ENG,0
+494,.,None,,0
+495,maybe we can have a cigarette .,adv pro:sub mod v det:art n .,ENG ENG ENG ENG ENG ENG,0
+496,.,None,,0
+497,.,None,,0
+498,mhm .,co .,ENG,0
+499,.,None,,0
+500,.,None,,0
+501,te compraste un lighter finalmente ?,L2 L2 L2 adj L2 ?,ESP ESP ESP ENG ESP,1
+502,hm ?,co ?,ENG,0
+503,compraste un lighter ?,L2 L2 adj ?,ESP ESP ENG,1
+504,oh they are mine buddy .,co pro:sub cop n n .,ENG ENG ENG ENG ENG,0
+505,mine and yours .,n coord pro:poss .,ENG ENG ENG,0
+506,uhhuh uhhuh .,co co .,ENG ENG,0
+507,toma .,imp .,ENG,0
+508,no I have my own .,co pro:sub v det:poss adj .,ENG ENG ENG ENG ENG,0
+509,pero por eso te estoy preguntando que si compraste un lighter porque no lo conozco .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 adj L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP,1
+510,I had this for a long time .,pro:sub v pro:dem prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+511,but you always think that it's yours .,conj pro:per adv v adv pro:per pro:poss .,ENG ENG ENG ENG ENG ENG ENG,0
+512,ay ya please .,L2 L2 co .,ESP ESP ENG,1
+513,.,None,,0
+514,.,None,,0
+515,que ya venga no .,pro:rel adv co adv .,ENG ENG ENG ENG,0
+516,con Pam .,L2 n:prop .,ESP ENG,1
+517,.,None,,0
+518,it's fine .,pro:per adj .,ENG ENG,0
+519,is that okay ?,cop comp co ?,ENG ENG ENG,0
+520,it's fine .,pro:per adj .,ENG ENG,0
+521,porque nunca hacemos nada solos me entiendes ?,conj adv v v adj pro:obj v ?,ENG ENG ENG ENG ENG ENG ENG,0
+522,that's fine .,pro:dem adj .,ENG ENG,0
+523,you don't have to explain anything .,pro:per mod v inf v pro:indef .,ENG ENG ENG ENG ENG ENG,0
+524,ahora .,adv .,ENG,0
+525,.,None,,0
+526,tengo una hambre de mil diablos te cuento eh .,L2 L2 L2 L2 L2 L2 L2 L2 co .,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+527,ahora te dio hambre ?,adv pro:obj v n ?,ENG ENG ENG ENG,0

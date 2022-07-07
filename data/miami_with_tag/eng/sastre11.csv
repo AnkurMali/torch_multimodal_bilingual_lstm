@@ -1,0 +1,1072 @@
+,sentence,pos,language,switch
+0,para todo lo que tiene que ver con psychology tú no puedes empezar sin masters .,prep det:indef pro:obj pro:rel v pro:rel inf prep L2 pro:sub adv v inf prep L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ENG ENG ENG ENG ENG ESP,1
+1,en todas las escuelas todos los counselors .,prep det:indef det:art n det:indef L2 L2 .,ENG ENG ENG ENG ENG ESP ESP,1
+2,y ella no tiene master todavía ?,L2 L2 L2 L2 adj L2 ?,ESP ESP ESP ESP ENG ESP,1
+3,she has the bachelor .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+4,ya .,adv .,ENG,0
+5,pero en todas las escuelas si tú quieres ir de school counselor .,conj prep det:indef det:art n conj pro:sub v inf prep L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+6,you have to have a masters in psychology in behavioral education or one of these things like that .,pro:per v inf v det:art n prep n prep adj n coord pro:indef prep det:dem n prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+7,no lo va a sacar ?,adv pro:obj v aprep inf ?,ENG ENG ENG ENG ENG,0
+8,but it has to be a masters .,conj pro:per aux inf cop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+9,yeah .,co .,ENG,0
+10,but I'm gonna finish school .,conj pro:sub part v n .,ENG ENG ENG ENG ENG,0
+11,she's gonna start school .,pro:sub part v n .,ENG ENG ENG ENG,0
+12,and then I think I'm gonna either go to law school //.,coord adv:tem pro:sub v pro:sub part coord v prep n n +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+13,I have three options right now .,pro:sub v det:num n adv adv .,ENG ENG ENG ENG ENG ENG,0
+14,and I'm so undecided .,coord pro:sub adv un#part .,ENG ENG ENG ENG,0
+15,I don't know .,pro:sub mod v .,ENG ENG ENG,0
+16,I'm either gonna do law school my M_b_a .,pro:sub adv part v n n det:poss n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+17,or I'm gonna do a doctorate in my field because I have the masters done in my field .,coord pro:sub part v det:art n prep det:poss n conj pro:sub v det:art n part prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+18,I did a bachelors in computer sciences and in management information systems which was from the school of business .,pro:sub v det:art n prep n n coord prep n n n pro:rel cop prep det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+19,my master now it's in management is a master of science in management information systems .,det:poss adj adv pro:per adv n cop det:art n prep n prep n n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+20,so es todo tecnología .,L2 cop pro:indef n .,ESP ENG ENG ENG,1
+21,ah no sí ahora todo es //.,co L2 L2 L2 L2 L2 +//.,ENG ESP ESP ESP ESP ESP,1
+22,that's what I did .,pro:dem pro:int pro:sub v .,ENG ENG ENG ENG,0
+23,.,None,,0
+24,so puedo seguir en ese camino con dos años más .,adv L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+25,y sacar el doctoral .,L2 L2 L2 adj .,ESP ESP ESP ENG,1
+26,doctorado .,n .,ENG,0
+27,mhm .,co .,ENG,0
+28,está bien .,cop adv .,ENG ENG,0
+29,but the problem is they require a residency that you go do research with them .,conj det:art n cop pro:sub v det:art adj adv pro:per v mod v prep pro:obj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+30,that's the problem .,pro:dem det:art n .,ENG ENG ENG,0
+31,ay pero tú lo puedes hacer .,co conj pro:sub pro:obj v inf .,ENG ENG ENG ENG ENG ENG,0
+32,tú eres smart .,L2 L2 adj .,ESP ESP ENG,1
+33,.,None,,0
+34,.,None,,0
+35,olvídate que eso es ...,imp pro:rel pro:dem cop +...,ENG ENG ENG ENG,0
+36,I like it .,pro:sub v pro:per .,ENG ENG ENG,0
+37,and that's the thing .,coord pro:dem det:art n .,ENG ENG ENG ENG,0
+38,if you like something it's easy .,conj pro:per conj pro:indef pro:per adj .,ENG ENG ENG ENG ENG ENG,0
+39,oh yeah yeah it's easy for you .,co co co pro:per adj prep pro:per .,ENG ENG ENG ENG ENG ENG ENG,0
+40,Jack y entonces ya empezaron a buscar muebles o todavía ?,n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 ?,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+41,no .,co .,ENG,0
+42,.,None,,0
+43,everything is there .,pro:indef cop adv .,ENG ENG ENG,0
+44,they painted .,pro:sub v .,ENG ENG,0
+45,laid tile .,v n .,ENG ENG,0
+46,put the baseboards .,v det:art n .,ENG ENG ENG,0
+47,and put all the muebles .,coord v qn det:art L2 .,ENG ENG ENG ENG ESP,1
+48,ah ya lo tienen allí ?,co L2 L2 L2 L2 ?,ENG ESP ESP ESP ESP,1
+49,yeah the whole thing ya está puesto .,co det:art adj n L2 L2 L2 .,ENG ENG ENG ENG ESP ESP ESP,1
+50,ah yo pensé que ahora iban a empezar a comprarlos .,co pro:sub v pro:rel adv v aprep inf aprep inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+51,no I closed march third or march fourth .,co pro:sub v n adj coord n adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+52,and we had bought everything .,coord pro:sub aux part pro:indef .,ENG ENG ENG ENG ENG,0
+53,so we had all the delivery set up .,co pro:sub v qn det:art n part adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+54,but I had to get the tile laid .,conj pro:sub v inf v det:art n v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+55,so they finished tile last week .,co pro:sub v n adv n .,ENG ENG ENG ENG ENG ENG,0
+56,and then her grandfather painted .,coord adv:tem det:poss grand#n v .,ENG ENG ENG ENG ENG,0
+57,her grandfather started painting right after that .,det:poss grand#n v part adv prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+58,and he's almost done .,coord pro:sub adv part .,ENG ENG ENG ENG,0
+59,and then we started to installing the furniture Friday .,coord adv:tem pro:sub v prep n:gerund det:art n n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+60,Friday they started to deliver it .,n:prop pro:sub v inf v pro:per .,ENG ENG ENG ENG ENG ENG,0
+61,but Friday we had a big day like six people did deliveries .,conj n:prop pro:sub v det:art adj n co det:num n v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+62,so I was like one after the other .,co pro:sub cop prep pro:indef prep det:art qn .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+63,.,None,,0
+64,y todo el mundo entrando .,coord det:indef det:art n ger .,ENG ENG ENG ENG ENG,0
+65,y ya le han puesto todo en su lugar y todo ?,coord adv pro:ind aux part det:indef prep det:pos n coord pro:indef ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+66,y colocando .,coord ger .,ENG ENG,0
+67,más o menos .,adv coord adv .,ENG ENG ENG,0
+68,ya .,adv .,ENG,0
+69,yeah none of the the electronics are in .,co pro:indef prep det:art det:art n:pt cop adv .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+70,and we still have to do ...,coord pro:sub adv v inf v +...,ENG ENG ENG ENG ENG ENG,0
+71,we have this guy .,pro:sub v det:dem n .,ENG ENG ENG ENG,0
+72,I don't know if you've noticed .,pro:sub mod v comp pro:per part .,ENG ENG ENG ENG ENG ENG,0
+73,but there's in my mom's house there's this ceiling .,conj pro:exist prep det:poss adj n pro:exist det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+74,that's all wood .,pro:rel adv n .,ENG ENG ENG,0
+75,and the guy who made that .,coord det:art n pro:rel v comp .,ENG ENG ENG ENG ENG ENG,0
+76,he made it from scratch by hand the whole thing .,pro:sub v pro:per prep n prep n det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+77,is this Brazilian guy that's a woodworker .,cop det:dem n:prop n pro:rel det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+78,and he's just gifted .,coord pro:sub adv adj .,ENG ENG ENG ENG,0
+79,that's what he does .,pro:dem pro:int pro:sub v .,ENG ENG ENG ENG,0
+80,yeah .,co .,ENG,0
+81,se la pasa ahí con cortando cortando cortando .,pro:refl pro:obj v adv prep ger ger ger .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+82,and he does all the stuff .,coord pro:sub v qn det:art n .,ENG ENG ENG ENG ENG ENG,0
+83,so he's building the closet .,co pro:sub n det:art n .,ENG ENG ENG ENG ENG,0
+84,and he built //.,coord pro:sub v +//.,ENG ENG ENG,0
+85,they wanted to charge us like fifteen thousands dollars to do one of these closets that's very modular .,pro:sub v inf v pro:obj co det:num det:num n inf v det:num prep det:dem n pro:rel adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+86,and everything's super organized .,coord adj n part .,ENG ENG ENG ENG,0
+87,olvídate like he's doing the closet for peanuts .,L2 conj pro:sub part det:art n prep n .,ESP ENG ENG ENG ENG ENG ENG ENG,1
+88,and it's the same .,coord pro:per det:art adj .,ENG ENG ENG ENG,0
+89,when you gonna see Oliver's .,conj pro:per part v adj .,ENG ENG ENG ENG ENG,0
+90,okay .,co .,ENG,0
+91,Oliver's closet .,adj n .,ENG ENG,0
+92,it's awesome .,pro:per adj .,ENG ENG,0
+93,y qué es lo que es ?,coord pro:int cop pro:obj pro:rel cop ?,ENG ENG ENG ENG ENG ENG,0
+94,amigo de tu mamá ?,n prep det:pos n ?,ENG ENG ENG ENG,0
+95,no y es un contrator ya .,adv coord cop det:art n adv .,ENG ENG ENG ENG ENG ENG,0
+96,he's a contractor that has he did my grandmother stuff .,pro:sub det:art n pro:rel v pro:sub v det:poss grand#n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+97,he did my mom's stuff .,pro:sub v det:poss adj n .,ENG ENG ENG ENG ENG,0
+98,we use him on everything because the guy is super responsible you know like we are .,pro:sub v pro:obj prep pro:indef conj det:art n cop adj adj pro:per v conj pro:sub cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+99,and he does his stuff .,coord pro:sub v det:poss n .,ENG ENG ENG ENG ENG,0
+100,and he knows his stuff .,coord pro:sub v det:poss n .,ENG ENG ENG ENG ENG,0
+101,he got us the tile guy because the tile guy was expensive .,pro:sub v pro:obj det:art n n conj det:art n n cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+102,pero está quedando bonito ?,conj aux ger adj ?,ENG ENG ENG ENG,0
+103,pero ...,conj +...,ENG,0
+104,they came out perfect .,pro:sub v prep adj .,ENG ENG ENG ENG,0
+105,they came out perfect .,pro:sub v prep adj .,ENG ENG ENG ENG,0
+106,they came up beautiful they came up beautiful .,pro:sub v adv adj pro:sub v adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+107,pero the tile guy you know had to lay the tile like marble .,L2 det:art n n pro:per v v inf v det:art n co n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+108,lo que pasa .,pro:obj pro:rel v .,ENG ENG ENG,0
+109,lo que pasa Jack es que todo eso se demora .,pro:obj pro:rel v n:prop cop pro:rel det:indef pro:dem pro:refl v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+110,so ...,co +...,ENG,0
+111,they did it in a week .,pro:sub mod pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+112,te dicen una semana .,pro:obj v det:art n .,ENG ENG ENG ENG,0
+113,they did it in a week .,pro:sub mod pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+114,they did the whole tile in a week .,pro:sub v det:art adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+115,ah bueno .,co L2 .,ENG ESP,1
+116,they brought like nine people con las máquinas con las bolsas de cemento con todo .,pro:sub v co det:num n L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+117,and right there boom boom con otros tipos marcando otros tipos cortando .,coord adv adv n n L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP,1
+118,and they just went .,coord pro:sub adv v .,ENG ENG ENG ENG,0
+119,and they finished it in a week .,coord pro:sub v pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+120,I couldn't believe it .,pro:sub mod v pro:per .,ENG ENG ENG ENG,0
+121,they laid the tile perfect .,pro:sub v det:art n adj .,ENG ENG ENG ENG ENG,0
+122,.,None,,0
+123,perfect perfect perfect .,adj adj adj .,ENG ENG ENG,0
+124,that it's beautiful .,pro:rel pro:per adj .,ENG ENG ENG,0
+125,but when you go to the balcony you see that they really looked at it from end to end and they laid everything so in line .,conj conj pro:per v prep det:art n pro:per v comp pro:sub adv v prep pro:per prep n prep n coord pro:sub v pro:indef conj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+126,you know really really nice very very clean .,pro:per v adv adv adj adv adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+127,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+128,y qué es lo que tienen de vista la calle o la bahía .,coord pro:int cop pro:obj pro:rel v prep imp pro:obj v coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+129,tenemos los dos lados .,v det:art det:num n .,ENG ENG ENG ENG,0
+130,tenemos el mar .,v det:art n .,ENG ENG ENG,0
+131,el mar .,det:art n .,ENG ENG,0
+132,adelante .,adv .,ENG,0
+133,que es la vista principal donde están las puertas .,pro:rel cop det:art n adj pro:rel cop det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+134,entonces el cuarto de ella da al aeropuerto .,adv det:art n v pro:sub v aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+135,al lado mirando al oeste .,aprep n ger aprep n .,ENG ENG ENG ENG ENG,0
+136,ya .,adv .,ENG,0
+137,it's awesome .,pro:per adj .,ENG ENG,0
+138,está bueno .,cop co .,ENG ENG,0
+139,and it's on the twenty seventh floor .,coord pro:per adv det:art det:num adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+140,imagínate .,imp .,ENG,0
+141,so you're like everything's right there .,adv pro:per prep adj n adv .,ENG ENG ENG ENG ENG ENG,0
+142,what we see like if you drew a line straight out it would be the hard rock in Bay_side .,pro:int pro:sub v prep conj pro:per v det:art n n adv pro:per mod cop det:art adj n prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+143,that's like a line straight off from our balcony .,pro:dem prep det:art n adj adv prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+144,because the building is at an angle .,conj det:art n cop prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+145,so if you say that this is we look like this .,co conj pro:per v comp pro:dem cop pro:sub co co pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+146,okay this is the building .,co pro:dem cop det:art n .,ENG ENG ENG ENG ENG,0
+147,we're on this side .,pro:sub prep det:dem n .,ENG ENG ENG ENG,0
+148,.,None,,0
+149,so we look like towards .,co pro:sub v co adv .,ENG ENG ENG ENG ENG,0
+150,the other side of the building looks like up the .,det:art qn n prep det:art n v prep prep det:art .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+151,yeah .,co .,ENG,0
+152,you know what I mean ?,pro:per v pro:int pro:sub v ?,ENG ENG ENG ENG ENG,0
+153,like up towards north Miami_Beach .,co adv prep n n:prop .,ENG ENG ENG ENG ENG,0
+154,sí sí .,co co .,ENG ENG,0
+155,yo sé dónde está eso .,pro:sub v pro:int cop pro:dem .,ENG ENG ENG ENG ENG,0
+156,entonces está bonito todo .,adv cop adj det:indef .,ENG ENG ENG ENG,0
+157,it really is .,pro:per adv cop .,ENG ENG ENG,0
+158,it's very small .,pro:per adv adj .,ENG ENG ENG,0
+159,it's very small .,pro:per adv adj .,ENG ENG ENG,0
+160,small ?,adj ?,ENG,0
+161,very very small .,adv adv adj .,ENG ENG ENG,0
+162,y eso ?,coord pro:dem ?,ENG ENG,0
+163,tienes dos cuartos .,v det:num n .,ENG ENG ENG,0
+164,it has two bedrooms .,pro:per aux det:num n .,ENG ENG ENG ENG,0
+165,it has like a library like a den which is our office where we're putting the sofa bed and we're putting the computers and that stuff .,pro:per aux prep det:art n prep det:art n pro:rel cop det:poss n pro:rel pro:sub part det:art n n coord pro:sub part det:art n coord det:dem n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+166,and then it has the living room the kitchen the the two bathrooms and the entry way and the balcony .,coord adv:tem pro:per aux det:art n:gerund n det:art n det:art det:art det:num n coord det:art n adv coord det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+167,that's it .,pro:dem pro:per .,ENG ENG,0
+168,.,None,,0
+169,yeah .,co .,ENG,0
+170,it's not a lot of space .,pro:per neg det:art n prep n .,ENG ENG ENG ENG ENG ENG,0
+171,bueno pero .,co conj .,ENG ENG,0
+172,it's about thirty hundred and fifty square feets .,pro:per prep det:num det:num coord det:num n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+173,so when you think about that that's a lot of space .,co conj pro:per v prep det:dem pro:dem det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+174,mhm .,co .,ENG,0
+175,Jack pero para tú sabes .,n:prop L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+176,para empezar .,prep inf .,ENG ENG,0
+177,no and we didn't know Oliver was coming when we made the commitment .,co coord pro:sub mod v n:prop aux part conj pro:sub v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+178,.,None,,0
+179,when we put the deposit we didn't know Oliver was coming .,conj pro:sub v det:art n pro:sub mod v n:prop aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+180,right .,co .,ENG,0
+181,well .,co .,ENG,0
+182,so we're super happy you know .,adv pro:sub adj adj pro:per v .,ENG ENG ENG ENG ENG ENG,0
+183,pero /.,conj +/.,ENG,0
+184,with her we're fine .,prep det:poss pro:sub adv .,ENG ENG ENG ENG,0
+185,just with one more fine .,adv prep det:num adv adv .,ENG ENG ENG ENG ENG,0
+186,sí seguimos para el segundo ?,co v prep det:art adj:num ?,ENG ENG ENG ENG ENG,0
+187,olvídate .,imp .,ENG,0
+188,.,None,,0
+189,estamos jodidos .,aux part .,ENG ENG,0
+190,por ahí se aparece otro .,prep adv pro:refl v det:indef .,ENG ENG ENG ENG ENG,0
+191,menos mal que ...,adv adv pro:rel +...,ENG ENG ENG,0
+192,no no no no no no no .,adv adv adv adv adv adv adv .,ENG ENG ENG ENG ENG ENG ENG,0
+193,bueno una cama de litera .,co det:art n prep n .,ENG ENG ENG ENG ENG,0
+194,lo que yo creo que como lo estamos preparando lo podemos alquilar por dos mil quinientos .,pro:obj pro:rel pro:sub v pro:rel adv pro:obj aux ger pro:obj v inf prep det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+195,y a lo mejor cargar los restos que serán un poquito más y ...,coord aprep pro:obj adj inf det:art n pro:rel cop det:art pro:indef adv coord +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+196,and move or rent in a house or something I guess you know .,coord n coord n prep det:art n coord pro:indef pro:sub v pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+197,you figure it out .,pro:per v pro:per adv .,ENG ENG ENG ENG,0
+198,sí mijo sí .,co co:voc co .,ENG ENG ENG,0
+199,you always figure it out .,pro:per adv v pro:per adv .,ENG ENG ENG ENG ENG,0
+200,el mercado está duro eso sí .,det:art n cop v pro:dem co .,ENG ENG ENG ENG ENG ENG,0
+201,siempre siempre aparece una opción que uno pueda hacer .,adv adv v det:art n prep det:art imp inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+202,ya .,adv .,ENG,0
+203,no ahora la situación no está ni para vender ni para comprar ni ...,adv adv det:art n adv cop coord prep inf coord prep inf coord +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+204,porque lo que pasa es que si compras ...,conj pro:obj pro:rel v cop pro:rel conj v +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+205,pero después cuando vienen lo todo todo lo que se pega //.,conj adv conj v pro:obj det:indef det:indef pro:obj pro:rel pro:refl v +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+206,la locura de antes .,det:art n prep adv .,ENG ENG ENG ENG,0
+207,es que aquí se volvieron locos Jack .,cop pro:rel adv pro:refl v adj n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+208,locos .,adj .,ENG,0
+209,entonces los bancos los bancos entonces le daban préstamo a gente que no calificaban .,adv pro:obj n pro:obj n adv pro:ind v n aprep n pro:rel adv v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+210,no había razón .,adv aux n .,ENG ENG ENG,0
+211,a todos .,aprep det:indef .,ENG ENG,0
+212,porque no ganaban lo suficiente para poder pagar ese //.,conj adv v pro:obj adv prep inf inf det:dem +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+213,tú sabes y entonces ahora un embarque que todo el mundo está ...,pro:sub v coord adv adv det:art v pro:rel det:indef det:art n cop +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+214,everybody's screwed .,adj part .,ENG ENG,0
+215,it's like musical chairs and who's gonna get stuck without the chair .,pro:per conj adj n coord pro:rel part v v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+216,you know then when the music stop /.,pro:per v adv:tem conj det:art n n +/.,ENG ENG ENG ENG ENG ENG ENG,0
+217,quién se queda afuera .,pro:int pro:refl v adv .,ENG ENG ENG ENG,0
+218,who's screwed .,pro:rel part .,ENG ENG,0
+219,.,None,,0
+220,a ver quién se queda afuera .,aprep inf pro:int pro:refl v adv .,ENG ENG ENG ENG ENG ENG,0
+221,oh my god .,co det:poss n .,ENG ENG ENG,0
+222,eso mismo es .,pro:dem adj cop .,ENG ENG ENG,0
+223,eso mismo es qué de cosa .,pro:dem adj cop pro:int v v .,ENG ENG ENG ENG ENG ENG,0
+224,imagínate y la gente está con las casas dice tú tía Ramírez que por //.,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop L2 L2 +//.,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+225,may I ?,mod pro:sub ?,ENG ENG,0
+226,sí sí yo tengo más ahí .,co co pro:sub v adv adv .,ENG ENG ENG ENG ENG ENG,0
+227,que por la casa del barrio de ella dice que hay cantidad de casas on foreclosure .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 prep n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+228,malísimo está la cosa .,adj cop det:art n .,ENG ENG ENG ENG,0
+229,foreclosure ?,n ?,ENG,0
+230,get out of here .,v adv prep adv .,ENG ENG ENG ENG,0
+231,my grandmother sold at a perfect time .,det:poss grand#n part prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+232,mira /.,co +/.,ENG,0
+233,the perfect //.,det:art adj +//.,ENG ENG,0
+234,ella se puso con un suerte Jack porque imagínate //.,L2 L2 L2 L2 L2 L2 n:prop L2 L2 +//.,ESP ESP ESP ESP ESP ESP ENG ESP ESP,1
+235,the perfect time .,det:art adj n .,ENG ENG ENG,0
+236,if she would not have sold that the pressure everybody would be under right now the stress that everybody would be carrying .,conj pro:sub mod neg v part adv det:art n pro:indef mod cop adv adv adv det:art n comp pro:indef mod aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+237,no y después tu tío se quedó sin trabajo .,adv coord adv det:pos n pro:refl v prep v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+238,y oye ...,coord v +...,ENG ENG,0
+239,no thank god thank god he has a great job now .,co v n v n pro:sub v det:art adj n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+240,thank god she found her place .,v n pro:sub v det:poss n .,ENG ENG ENG ENG ENG ENG,0
+241,and she's all set up .,coord pro:sub adv part adv .,ENG ENG ENG ENG ENG,0
+242,yeah .,co .,ENG,0
+243,everybody is squared away .,pro:indef aux part adv .,ENG ENG ENG ENG,0
+244,because if they would have stayed with the house holy shit .,conj conj pro:sub mod aux v prep det:art n adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+245,no no pueden no pueden dormir .,adv adv v adv v inf .,ENG ENG ENG ENG ENG ENG,0
+246,no no no .,adv adv adv .,ENG ENG ENG,0
+247,yo te voy a decir que la situación nada buena .,pro:sub pro:obj v aprep inf prep det:art n imp adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+248,.,None,,0
+249,por eso tú sabes uno tiene que tratar de gastar lo menos posible .,prep pro:dem pro:sub v pro:dem v pro:rel inf prep inf pro:obj adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+250,la gente no entienden con los foreclosures .,L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ENG,1
+251,se va tremendo cantidad de property taxes .,L2 L2 L2 L2 L2 n n .,ESP ESP ESP ESP ESP ENG ENG,1
+252,pero claro .,conj co .,ENG ENG,0
+253,que no se lo van a pagar .,pro:rel adv pro:refl pro:obj v aprep inf .,ENG ENG ENG ENG ENG ENG ENG,0
+254,claro quién lo va a pagar si están perdiendo la casa .,co pro:int pro:obj v aprep inf conj aux ger det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+255,quién lo va a pagar .,pro:int pro:obj v aprep inf .,ENG ENG ENG ENG ENG,0
+256,y todos los servicios van a quedar cortos de todo .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,0
+257,los bancos están imagínate .,det:art n aux imp .,ENG ENG ENG ENG,0
+258,but the city the municipalities are all gonna come up short on their budgets .,conj det:art n det:art n aux post part v adv adj prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+259,they're not gonna be able to make it because how are they're gonna do it ?,pro:sub neg part cop adj inf v pro:per conj pro:int cop pro:sub part v pro:per ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+260,que empiecen a bajar los sueldos a toda esa gente que ganan bastante dinero .,pro:rel v aprep inf det:art n aprep pro:indef det:dem n pro:rel v adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+261,that's never gonna happen .,pro:rel adv part v .,ENG ENG ENG ENG,0
+262,ah bueno pues entonces .,co co co adv .,ENG ENG ENG ENG,0
+263,in the history of man people don't go down not if they can help it .,prep det:art n prep n n mod v adv neg conj pro:sub mod v pro:per .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+264,bueno pero tú sabes .,co conj pro:sub v .,ENG ENG ENG ENG,0
+265,toda esta gente que tienen ahí en los directores de esto de aquello todo gente del condado todos ganan doscientos mil pesos al año .,det:indef imp n pro:rel v adv prep det:art n prep pro:dem prep det:dem pro:indef n prep n det:indef v det:num det:num n aprep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+266,tú sabes ?,pro:sub v ?,ENG ENG,0
+267,entonces eso es un dinero que ...,co pro:dem cop det:art n pro:rel +...,ENG ENG ENG ENG ENG ENG,0
+268,no and in Miami two hundred thousand dollars ?,co coord prep n:prop det:num det:num det:num n ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+269,to know go buy a house .,inf v v v det:art n .,ENG ENG ENG ENG ENG ENG,0
+270,five hundred thousand dollars .,det:num det:num det:num n .,ENG ENG ENG ENG,0
+271,you gotta make tremendous money .,pro:per mod v adj n .,ENG ENG ENG ENG ENG,0
+272,no puedes .,adv v .,ENG ENG,0
+273,and oye a house now is five hundred thousand dollars .,coord L2 det:art n adv cop det:num det:num det:num n .,ENG ESP ENG ENG ENG ENG ENG ENG ENG ENG,1
+274,three hundred thousand dollars now actually you can get a decent house for .,det:num det:num det:num n adv adv pro:per mod v det:art adj n prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+275,pero decent houses or starter house .,L2 adj n coord n n .,ESP ENG ENG ENG ENG ENG,1
+276,el muchachito este de al lado puso la casa a vender .,det:art n det:dem v aprep n v det:art n aprep inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+277,pero ...,conj +...,ENG,0
+278,yeah .,co .,ENG,0
+279,tú sabes qué ?,pro:sub v pro:int ?,ENG ENG ENG,0
+280,they told me .,pro:sub v pro:obj .,ENG ENG ENG,0
+281,setecientos mil dólares .,n n n .,ENG ENG ENG,0
+282,quién le va a dar eso ?,pro:int pro:ind v aprep inf pro:dem ?,ENG ENG ENG ENG ENG ENG,0
+283,setecientos o ochocientos creo que están pidiendo por la casa .,n coord det:num v pro:rel aux ger prep det:art imp .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+284,cómo está la situación ahora ?,pro:int cop det:art n adv ?,ENG ENG ENG ENG ENG,0
+285,no creo Jack que ...,adv v n:prop pro:rel +...,ENG ENG ENG ENG,0
+286,the you know what though ?,det:art pro:per v pro:int adv ?,ENG ENG ENG ENG ENG,0
+287,the danger is how much it comes down to .,det:art n cop pro:int adv pro:per v adv prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+288,but the fact is if he even comes close to that what you guys have if you guys can get a comp now at that price this neighborhood is gonna stay great .,conj det:art n cop conj pro:sub adv v adj inf adv pro:int pro:per n v conj pro:per n mod v det:art n adv prep det:dem n det:dem n aux part v adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+289,that's a heck of a selling price .,pro:dem det:art n prep det:art n:gerund n .,ENG ENG ENG ENG ENG ENG ENG,0
+290,gracias a dios que nosotros compramos esta casa .,n aprep co pro:rel pro:sub v det:dem imp .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+291,that was a home run .,pro:dem cop det:art n v .,ENG ENG ENG ENG ENG,0
+292,porque /.,conj +/.,ENG,0
+293,that was a grand slam .,pro:dem cop det:art adj n .,ENG ENG ENG ENG ENG,0
+294,sí .,co .,ENG,0
+295,que mira no a veces .,pro:rel co adv aprep n .,ENG ENG ENG ENG ENG,0
+296,oye ganaste ganaste el juego .,co v v det:art v .,ENG ENG ENG ENG ENG,0
+297,.,None,,0
+298,ese ese es el .,det:dem det:dem cop det:art .,ENG ENG ENG ENG,0
+299,oye .,co .,ENG,0
+300,that one at bat .,comp det:num prep n .,ENG ENG ENG ENG,0
+301,olvídate .,imp .,ENG,0
+302,and that's how it is .,coord pro:dem pro:int pro:per cop .,ENG ENG ENG ENG ENG,0
+303,that's how it is .,pro:dem pro:int pro:per cop .,ENG ENG ENG ENG,0
+304,look at that .,v prep pro:dem .,ENG ENG ENG,0
+305,that's ...,pro:dem +...,ENG,0
+306,y aquí lo que nos quedan por pagar son cinco años ya .,coord adv pro:obj pro:rel pro:obj v prep inf cop det:num n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+307,que si dios quiere vaya .,pro:rel conj co v co .,ENG ENG ENG ENG ENG,0
+308,cuando nos retiremos ya esté paga .,conj pro:obj re#v adv cop v .,ENG ENG ENG ENG ENG ENG,0
+309,porque si no imagínate .,conj conj adv imp .,ENG ENG ENG ENG,0
+310,no no no that's a great feeling .,co co co pro:dem det:art adj n:gerund .,ENG ENG ENG ENG ENG ENG ENG,0
+311,that's a great feeling .,pro:dem det:art adj n:gerund .,ENG ENG ENG ENG,0
+312,no Jack esto está ...,L2 n:prop L2 L2 +...,ESP ENG ESP ESP,1
+313,tú ves las personas por ahí que se retiran .,pro:sub v det:art n prep adv pro:rel pro:refl re#v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+314,y después tienen que seguir trabajando porque no no les alcanza .,coord adv v pro:rel inf ger conj adv adv pro:ind v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+315,no way no .,qn n co .,ENG ENG ENG,0
+316,los pobres viejos estos se están comiendo tremendo cable .,pro:head adj adj det:dem pro:refl aux ger adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+317,yo no sé .,pro:sub adv v .,ENG ENG ENG,0
+318,yo no sé .,pro:sub adv v .,ENG ENG ENG,0
+319,men .,n .,ENG,0
+320,es algo vaya uno como que de queda un poco loco .,cop pro:dem co pro:dem adv pro:rel prep imp det:art adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+321,esto está que uno se pone loco oíste .,pro:dem cop prep det:art pro:refl v adj v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+322,pero bueno .,conj co .,ENG ENG,0
+323,y Carla como se porta Jack ?,L2 n:prop L2 L2 L2 n:prop ?,ESP ENG ESP ESP ESP ENG,1
+324,she's interesting .,pro:sub adj .,ENG ENG,0
+325,se porta bien ?,pro:refl v adv ?,ENG ENG ENG,0
+326,yeah .,co .,ENG,0
+327,she has her days .,pro:sub v det:poss n .,ENG ENG ENG ENG,0
+328,she has //.,pro:sub v +//.,ENG ENG,0
+329,she's all over the place .,pro:sub adv prep det:art n .,ENG ENG ENG ENG ENG,0
+330,you see everything .,pro:per v pro:indef .,ENG ENG ENG,0
+331,you see everything .,pro:per v pro:indef .,ENG ENG ENG,0
+332,it's like the rainbow .,pro:per conj det:art n .,ENG ENG ENG ENG,0
+333,you see everything .,pro:per v pro:indef .,ENG ENG ENG,0
+334,she's so amazing though .,pro:sub adv part adv .,ENG ENG ENG ENG,0
+335,.,None,,0
+336,she's so amazing .,pro:sub adv part .,ENG ENG ENG,0
+337,qué linda .,pro:int adj .,ENG ENG,0
+338,pero óyeme .,conj imp .,ENG ENG,0
+339,if I can do anything in the world right now I would take care of her all the time .,conj pro:sub mod v pro:indef prep det:art n adv adv pro:sub mod v n prep pro:obj qn det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+340,y qué //?,coord pro:int +//?,ENG ENG,0
+341,that's what I would do .,pro:dem pro:int pro:sub mod v .,ENG ENG ENG ENG ENG,0
+342,if I had a million dollars .,conj pro:sub v det:art det:num n .,ENG ENG ENG ENG ENG ENG,0
+343,ven acá y quién va a pagar lo del condominio ?,imp adv coord pro:int v aprep inf pro:obj prep n ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+344,yo .,pro:sub .,ENG,0
+345,ten more years in my business and I'll be able to step back a lot more .,det:num adv n prep det:poss n coord pro:sub cop adj inf v adv det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+346,but ...,conj +...,ENG,0
+347,y está bien el negocio ?,coord aux adv det:art v ?,ENG ENG ENG ENG ENG,0
+348,yeah .,co .,ENG,0
+349,we're at five years .,pro:sub prep det:num n .,ENG ENG ENG ENG,0
+350,we're at five years .,pro:sub prep det:num n .,ENG ENG ENG ENG,0
+351,and we did almost two millions dollars in sales last year .,coord pro:sub v adv det:num det:num n prep n adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+352,and that's of selling labor .,coord pro:dem prep n:gerund n .,ENG ENG ENG ENG ENG,0
+353,of our hours .,prep det:poss n .,ENG ENG ENG,0
+354,like we charge a hundred and seventy five an hour more less .,conj pro:sub v det:art det:num coord det:num det:num det:art n adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+355,and this year we'll probably sell like two and a half millions .,coord det:dem n pro:sub adv v co det:num coord det:art n det:num .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+356,wow .,co .,ENG,0
+357,yeah it's amazing .,co pro:per part .,ENG ENG ENG,0
+358,we are like at the highest level .,pro:sub cop prep prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+359,of partnership with Microsoft .,prep n prep n:prop .,ENG ENG ENG ENG,0
+360,we're Microsoft gold manage partners .,pro:sub n:prop n v n .,ENG ENG ENG ENG ENG,0
+361,mm .,co .,ENG,0
+362,and they give us a lot of the customers now .,coord pro:sub v pro:obj det:art n prep det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+363,and they give us money to do marketing .,coord pro:sub v pro:obj n inf v part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+364,and they give us money to do events and host things and all sort of stuff .,coord pro:sub v pro:obj n inf v n coord n n coord qn n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+365,so that's really it .,co pro:dem adv pro:per .,ENG ENG ENG ENG,0
+366,we do a lot of Microsoft Cisco and two other companies that also are really high in technology .,pro:sub v det:art n prep n:prop n:prop coord det:num qn n adv adv aux adv adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+367,and we do all sorts of customers .,coord pro:sub v qn n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+368,we have like thirty car dealerships .,pro:sub v co det:num n n .,ENG ENG ENG ENG ENG ENG,0
+369,we had a lot of real estate customers that have all died .,pro:sub v det:art n prep adj n n pro:rel v adv part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+370,no ahora todos están ...,adv adv det:indef cop +...,ENG ENG ENG ENG,0
+371,all the developers are almost out of business .,qn det:art n cop adv adv prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+372,we had seventeen I think we have like two left .,pro:sub v det:num pro:sub v pro:sub v co det:num v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+373,yeah .,co .,ENG,0
+374,it's incredible .,pro:per in#adj .,ENG ENG,0
+375,that whole market that whole vertical has just gone .,det:dem adj n det:dem adj adj aux adv part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+376,no todo .,adv det:indef .,ENG ENG,0
+377,y tú sabes y con eso las cosas todo es una cadena porque Homedepot está que no está vendiendo porque a nadie no hay ventas nadie arregla casas nadie ...,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 +...,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+378,uhuh .,co .,ENG,0
+379,porque cuando tú compras una casa tú le quieres hacer esto nuevo aquello nuevo y esto .,conj conj pro:sub v det:art imp pro:sub pro:ind v inf pro:dem adj det:dem adj coord pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+380,y entonces eso es el dinero como se mueve .,coord adv pro:dem cop det:art n adv pro:refl v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+381,pero si nadie está haciendo nada ...,conj conj pro:indef aux ger v +...,ENG ENG ENG ENG ENG ENG,0
+382,no and it's not cheap .,co coord pro:per neg adj .,ENG ENG ENG ENG ENG,0
+383,and there's not people buying houses and flipping houses and building houses .,coord pro:exist neg n part n coord part n coord n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+384,so even though that it's a great opportunity to make money there it's not there .,adv adv adv pro:rel pro:per det:art adj n inf v n adv pro:per neg adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+385,you're right .,pro:per co .,ENG ENG,0
+386,it's invisible .,pro:per in#adj .,ENG ENG,0
+387,los jardines la gente que hace jardines también dice que //.,det:art n det:art n pro:rel v n adv v pro:rel +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+388,tú sabes .,pro:sub v .,ENG ENG,0
+389,sufriendo .,ger .,ENG,0
+390,que no hay /.,pro:rel adv v +/.,ENG ENG ENG,0
+391,ahí es donde cortan .,adv cop pro:rel v .,ENG ENG ENG ENG,0
+392,ahí corta .,adv v .,ENG ENG,0
+393,.,None,,0
+394,sabes todas las cositas así ahora //.,v det:indef det:art n adv adv +//.,ENG ENG ENG ENG ENG ENG,0
+395,y tú vas ahora al periódico y ya esas cosas //.,coord pro:sub v adv aprep n coord adv det:dem v +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+396,y tú ves que hablan de how you cut cost how you're gonna reduce your monthly expenditures where can you save three hundred dollars a month .,L2 L2 L2 L2 L2 L2 pro:int pro:per v n pro:rel pro:per part v det:poss n n pro:rel mod pro:per v det:num det:num n det:art n .,ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+397,you know .,pro:per v .,ENG ENG,0
+398,and they show you how to penny pinch .,coord pro:sub v pro:per pro:rel prep n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+399,claro .,co .,ENG,0
+400,cositas aquí aquí .,n adv adv .,ENG ENG ENG,0
+401,y todo el mundo lo está haciendo .,coord det:indef det:art n pro:obj aux ger .,ENG ENG ENG ENG ENG ENG ENG,0
+402,yeah you stretch out the cleaning .,co pro:per v prep det:art n:gerund .,ENG ENG ENG ENG ENG ENG,0
+403,instead of this and all the stuff .,adv prep pro:dem coord qn det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+404,and before you know it you save three or four hundred dollars a month that if you put into something you are saving money .,coord conj pro:per v pro:per pro:per v det:num coord det:num det:num n det:art n pro:rel conj pro:per v prep pro:indef pro:per aux part n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+405,mhm .,co .,ENG,0
+406,and saving money is the hardest thing to do .,coord part n cop det:art adj n inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+407,that's the hardest thing to do because there's no extra there is never extra .,pro:dem det:art adj n inf v conj pro:exist qn n adv cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+408,vas al grocery coño ...,L2 L2 n L2 +...,ESP ESP ENG ESP,1
+409,coño coño trescientos trescientos .,co co det:num det:num .,ENG ENG ENG ENG,0
+410,.,None,,0
+411,yo no salgo de ahí sin gastar trescientos .,pro:sub adv v prep adv prep inf det:num .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+412,fíjate que siempre yo siempre hacía aquí los weekends //.,L2 L2 L2 L2 L2 L2 L2 L2 n +//.,ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+413,tú sabes siempre hacía comida .,pro:sub v adv v part .,ENG ENG ENG ENG ENG,0
+414,y venían a comer y eso .,coord v aprep inf coord pro:dem .,ENG ENG ENG ENG ENG ENG,0
+415,ya yo eso no lo hago .,adv pro:sub pro:dem adv pro:obj v .,ENG ENG ENG ENG ENG ENG,0
+416,el periódico hoy tenía tremendo artículo //.,det:art n adv v adj n +//.,ENG ENG ENG ENG ENG ENG,0
+417,lo hago una vez pero porque no se puede .,pro:obj v det:art n conj conj adv pro:refl v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+418,mhm I'm sorry .,co pro:sub adj .,ENG ENG ENG,0
+419,pero no se puede .,conj adv pro:refl v .,ENG ENG ENG ENG,0
+420,the Sunday_Herald today had a big section on how the price of food is going up exponentially .,det:art n:prop adv:tem v det:art adj n prep pro:int det:art n prep n aux part adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+421,here and around the world because oats and wheat have through the roof .,adv coord prep det:art n conj n coord n v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+422,oh yeah uhuh .,co co co .,ENG ENG ENG,0
+423,they're //.,pro:sub +//.,ENG,0
+424,and the other thing that's gone really high is corn because people are now using it to make the gas the ethanol .,coord det:art qn n pro:rel part adv n cop n conj n aux adv part pro:per inf v det:art n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+425,right ?,co ?,ENG,0
+426,so a lot of people are buying corn so it's creating competition and demand and all these areas that are driving //.,co det:art n prep n aux part n conj pro:per part n coord n coord qn det:dem n pro:rel aux part +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+427,mm .,co .,ENG,0
+428,oye the people that are General_Mills that do the oat and the wheats they make all the cereals .,L2 det:art n pro:rel cop n:prop pro:rel v det:art n coord det:art n pro:sub v qn det:art n .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+429,I know .,pro:sub v .,ENG ENG,0
+430,like every time their cost goes up like by a dollar on the market the cost of our cereal goes up by a penny .,conj qn n det:poss n v prep co prep det:art n prep det:art n det:art n prep det:poss n v adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+431,yeah .,co .,ENG,0
+432,and that'll jump twenty dollars and boom .,coord pro:rel v det:num n coord co .,ENG ENG ENG ENG ENG ENG ENG,0
+433,they have to raise it twenty cents on the cost .,pro:sub v inf v pro:per det:num n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+434,la leche .,det:art n .,ENG ENG,0
+435,the milk .,det:art n .,ENG ENG,0
+436,cinco pesos .,det:num n .,ENG ENG,0
+437,no no no and now everybody is buying organic .,co co co coord adv pro:indef aux part adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+438,so that's like six dollars .,co pro:dem co det:num n .,ENG ENG ENG ENG ENG,0
+439,they get you .,pro:sub v pro:per .,ENG ENG ENG,0
+440,te clavan .,pro:obj v .,ENG ENG,0
+441,sí .,co .,ENG,0
+442,por donde quieran te cogen .,prep pro:rel imp pro:obj v .,ENG ENG ENG ENG ENG,0
+443,no pero tú sabes que nosotros nos quejamos Jack aquí .,L2 L2 L2 L2 L2 L2 L2 L2 n:prop L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP,1
+444,y es verdad que la cosa está dura .,coord cop co prep det:art n cop v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+445,pero tenemos la oportunidad .,conj v det:art n .,ENG ENG ENG ENG,0
+446,pero ...,conj +...,ENG,0
+447,si lo quieres está ahí .,conj pro:obj v cop adv .,ENG ENG ENG ENG ENG,0
+448,sí pero que te quiero decir en Europa la gente está pagando carísimo por la gasolina .,L2 L2 L2 L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP,1
+449,más que aquí .,adv pro:rel adv .,ENG ENG ENG,0
+450,oh bastante más casi el doble más que el doble con todo los impuestos que hay que poner .,co L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+451,mucho más .,adv adv .,ENG ENG,0
+452,mucho más que aquí .,adv adv pro:rel adv .,ENG ENG ENG ENG,0
+453,pero en Europa están haciendo cosas tan interesantes que aquí por toda la complicación de políticos del sistema de mierda que tenemos que es mejor que exista pero mierda .,L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+454,si tú miras a Alemania //.,L2 L2 L2 L2 n:prop +//.,ESP ESP ESP ESP ENG,1
+455,Alemania tiene un programa que le pagan a la gente que pueden producir energía .,n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+456,y entregar la energía al sistema energético de la ciudad o de de la del condado lo que sea .,coord inf det:art n aprep n adj prep det:art n coord prep prep det:art prep n pro:obj pro:rel cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+457,so la gente ahora están comprando .,adv L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP,1
+458,y poniendo en todas partes en su casa .,coord ger prep det:indef v prep det:pos imp .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+459,para ahorrar en ...,prep inf prep +...,ENG ENG ENG,0
+460,y el día entero tú vas produciendo .,coord det:art n adj pro:sub v ger .,ENG ENG ENG ENG ENG ENG ENG,0
+461,mhm .,co .,ENG,0
+462,y entregándolo al sistema .,coord ger aprep n .,ENG ENG ENG ENG,0
+463,ah the grid you're contributing power into the grid .,co det:art n pro:per part n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+464,claro .,co .,ENG,0
+465,all day .,qn n .,ENG ENG,0
+466,and your meter is basically rolling backward and you're getting credited .,coord det:poss n aux adv part adv coord pro:per part part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+467,and then at night it uses electricity .,coord adv:tem prep n pro:per v n .,ENG ENG ENG ENG ENG ENG ENG,0
+468,sí .,co .,ENG,0
+469,right ?,co ?,ENG,0
+470,pero people in Germany know that they passed the law that's good for twenty years that every like kilowatt that you put back is twenty cents or twenty five cents or something fixed .,L2 n prep n:prop v comp pro:sub v det:art n pro:rel adj prep det:num n pro:rel qn co n pro:rel pro:per v adj aux det:num n coord det:num det:num n coord pro:indef v .,ESP ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,1
+471,so now farmers are building fields .,co adv n cop n n .,ENG ENG ENG ENG ENG ENG,0
+472,como tú te das cuenta donde viven los abuelos .,adv pro:sub pro:obj v co pro:rel v det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+473,y tenía uno por la finca .,coord v det:art prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+474,ajá .,co .,ENG,0
+475,tú te acuerdas ?,pro:sub pro:obj v ?,ENG ENG ENG,0
+476,con la finca .,prep det:art n .,ENG ENG ENG,0
+477,los fields of paint .,L2 n prep n .,ESP ENG ENG ENG,1
+478,ajá .,co .,ENG,0
+479,they look just like that but they're fields of solar panel .,pro:sub v adv prep pro:dem conj pro:sub n prep adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+480,and they collect energy all day .,coord pro:sub v n qn n .,ENG ENG ENG ENG ENG ENG,0
+481,right ?,co ?,ENG,0
+482,and they sell that energy back to this grid because the government is the one that is paying a subsidy .,coord pro:sub v comp n adv prep det:dem n conj det:art n cop det:art pro:indef pro:rel aux part det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+483,right ?,co ?,ENG,0
+484,sí lo está //.,co pro:obj imp +//.,ENG ENG ENG,0
+485,for any body .,prep qn n .,ENG ENG ENG,0
+486,lo está subsidiando para que ...,pro:obj aux ger prep pro:rel +...,ENG ENG ENG ENG ENG,0
+487,that wants to do it .,pro:rel v inf v pro:per .,ENG ENG ENG ENG ENG,0
+488,and that is saving so much energy production that that's less coal less oil less you know natural gas less whatever .,coord pro:rel aux part adv qn n n pro:rel pro:dem adj n adj n adj pro:per v adj n adj pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+489,sí .,co .,ENG,0
+490,y después una dependencia del petróleo que es increíble .,coord adv pro:dem n prep n pro:rel cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+491,y el sol no se acaba .,coord det:art n adv pro:refl v .,ENG ENG ENG ENG ENG ENG,0
+492,hoy sol hay más que bastante .,adv n v adv prep adv .,ENG ENG ENG ENG ENG ENG,0
+493,y más que pasa el tiempo mejor se va a poner la tecnología .,coord adv pro:rel v det:art n adj pro:refl v aprep inf det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+494,y más energía tú vas a poder colectar .,coord adv n pro:sub v aprep inf inf .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+495,so vamos a decir hoy en una pulgada cuadrado tú puedes recoger tal energía cada hora .,adv L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+496,eso va a seguir subiendo .,pro:dem v aprep inf ger .,ENG ENG ENG ENG ENG,0
+497,y en el mismo espacio .,coord prep det:art adj n .,ENG ENG ENG ENG ENG,0
+498,.,None,,0
+499,tú vas a poder colectar doble diez veces cien veces .,pro:sub v aprep inf inf n det:num n det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+500,they have to do something about it because you know eh //.,pro:sub v inf v pro:indef prep pro:per conj pro:per v L2 +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+501,no this is crazy .,qn pro:dem cop adj .,ENG ENG ENG ENG,0
+502,it's crazy yeah .,pro:per adj co .,ENG ENG ENG,0
+503,this crazy /.,det:dem adj +/.,ENG ENG,0
+504,and now you have China and all these other countries that are exploding with growth .,coord adv pro:per v n:prop coord qn det:dem qn n pro:rel aux part prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+505,yeah .,co .,ENG,0
+506,and they're where we were fifty years ago .,coord pro:sub pro:rel pro:sub cop det:num n post .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+507,so they're gonna start expending and burning and using so much .,co pro:sub part v part coord part coord part adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+508,that we have to switch .,comp pro:sub v prep n .,ENG ENG ENG ENG ENG,0
+509,because if not we're gonna get pulled back for them to move forward .,conj conj neg pro:sub part v part adj prep pro:obj prep n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+510,there's interesting things that I've read about you know how everything //.,pro:exist adj n pro:rel pro:sub v prep pro:per v pro:int pro:indef +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+511,there's a book called it's a flat world that talks about how the whole world is now because of the way technology and everything is we're all in a little village .,pro:exist det:art n v pro:per det:art adj n pro:rel v prep pro:int det:art adj n cop adv conj prep det:art n n coord pro:indef cop pro:sub adv prep det:art adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+512,and what one person does affects the other one .,coord pro:int det:num n mod v det:art qn pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+513,claro que sí .,co pro:rel co .,ENG ENG ENG,0
+514,and everybody's gotta realize we have such direct impact .,coord adj mod v pro:sub v qn adv v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+515,we're not often little islands anymore .,pro:sub neg adv adj n adv .,ENG ENG ENG ENG ENG ENG,0
+516,it's not like that .,pro:per neg prep pro:dem .,ENG ENG ENG ENG,0
+517,even if you're you know ninety miles it's nothing .,adv conj pro:per pro:per v det:num n pro:per pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+518,a hundred miles you know a hundred thousands miles you know .,det:art det:num n pro:per v det:art det:num det:num n pro:per v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+519,sí sí con la tecnología que hay ahora muchacho .,co co prep det:art n pro:rel v adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+520,it's a .,pro:per det:art .,ENG ENG,0
+521,esto es increíble .,pro:dem cop adj .,ENG ENG ENG,0
+522,pero todo es a base de tecnología .,conj det:indef cop aprep v prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+523,qué increíble no ?,pro:int adj adv ?,ENG ENG ENG,0
+524,las cosas que se pueden hacer .,pro:obj v pro:rel pro:refl v inf .,ENG ENG ENG ENG ENG ENG,0
+525,eso .,pro:dem .,ENG,0
+526,esas cositas lo teléfonos que ustedes tienen .,det:dem n pro:obj n pro:rel pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+527,que tienen de todo ahí adentro .,pro:rel v prep det:indef adv adv .,ENG ENG ENG ENG ENG ENG,0
+528,de todo de todo trae de todo .,prep det:indef prep det:indef v prep det:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+529,lo que casi te piensan hacen la pensamiento para uno para no tener que hacer nada .,pro:obj pro:rel adv pro:obj v v det:art n prep det:art prep adv inf pro:rel inf pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+530,uhuh .,co .,ENG,0
+531,mira en mi teléfono yo tengo mi calendario entero que la gente en mi oficina tienen acceso .,v prep det:pos n pro:sub v det:pos n adj pro:rel det:art n prep det:pos n v n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+532,y todo el mundo maneja poner las cosas en mi calendario cuando hay cita a meeting o lo que sea .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 det:art n:gerund L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG ESP ESP ESP ESP,1
+533,yo tengo sincronizado el teléfono con la computadora en la oficina con los servidores que yo pueda accesar de cualquier computadora por el web todos mis contactos todos mis contactos .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP,1
+534,so I have everybody's information in there .,co pro:sub v adj n prep n .,ENG ENG ENG ENG ENG ENG ENG,0
+535,then I have all my email .,adv:tem pro:sub v qn det:poss n .,ENG ENG ENG ENG ENG ENG,0
+536,in my email when you call my cellular phone and you leave a voice mail right it records a computer file that puts that into my email .,prep det:poss n conj pro:per v det:poss adj n coord pro:per v det:art n n adv pro:per v det:art n n pro:rel v comp prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+537,right and then I listen to all my voice mail on my email .,adv coord adv:tem pro:sub v prep qn det:poss n n prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+538,so I sit down once a week or whatever .,co pro:sub v adv adv det:art n coord pro:int .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+539,just grab all my email that are voice mail .,adv v adv det:poss n pro:rel cop n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+540,.,None,,0
+541,and I listen to them .,coord pro:sub v prep pro:obj .,ENG ENG ENG ENG ENG,0
+542,.,None,,0
+543,or my faxes .,coord det:poss n .,ENG ENG ENG,0
+544,the faxes all come in when you send it you hear the number .,det:art n adv v adv conj pro:per v pro:per pro:per v det:art v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+545,it's sounds like a regular fax machine .,pro:per n prep det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG,0
+546,pero it captures it in the computer .,L2 pro:per v pro:per prep det:art n .,ESP ENG ENG ENG ENG ENG ENG,1
+547,and puts it in my email .,coord v pro:per prep det:poss n .,ENG ENG ENG ENG ENG ENG,0
+548,and it's a P_d_f .,coord pro:per det:art n:prop .,ENG ENG ENG ENG,0
+549,and then I can look in the faxes .,coord adv:tem pro:sub mod v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+550,so everything's right there .,adv adj n adv .,ENG ENG ENG ENG,0
+551,everything's in my phone .,adj prep det:poss n .,ENG ENG ENG ENG,0
+552,I can look at the P_d_f on my phone .,pro:sub mod v prep det:art n:prop prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+553,I can look at the fax on my phone any time .,pro:sub mod v prep det:art n prep det:poss n qn n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+554,I can listen to the voice mail because the email's on the phone .,pro:sub mod v prep det:art n n conj det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+555,está bueno eso .,cop co pro:dem .,ENG ENG ENG,0
+556,the email's on the phone .,det:art n prep det:art n .,ENG ENG ENG ENG ENG,0
+557,you know how //.,pro:per v pro:rel +//.,ENG ENG ENG,0
+558,you use Microsoft_outlook at work ?,pro:per v n:prop prep n ?,ENG ENG ENG ENG ENG,0
+559,yeah .,co .,ENG,0
+560,you know how you have the tasks ?,pro:per v pro:int pro:per v det:art n ?,ENG ENG ENG ENG ENG ENG ENG,0
+561,like the to_do's ?,prep det:art adj ?,ENG ENG ENG,0
+562,those synchronize on my phone .,pro:dem v prep det:poss n .,ENG ENG ENG ENG ENG,0
+563,and on my phone I have the tasks synchronized with the computer of the office .,coord prep det:poss n pro:sub v det:art n v prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+564,so wherever I am it's the tasks .,adv pro:rel pro:sub cop pro:per det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+565,all that stuff as you tie it together it //.,qn pro:dem n conj pro:per v pro:per adv pro:per +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+566,you know I remember when everybody used to remember all the telephone numbers .,pro:per v pro:sub v conj pro:indef v inf v qn det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+567,I know .,pro:sub v .,ENG ENG,0
+568,right ?,co ?,ENG,0
+569,or you had a little black book o la cosita donde tú le movías para la letra y .,coord pro:per v det:art adj n n L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+570,.,None,,0
+571,salía todo .,v det:indef .,ENG ENG,0
+572,salía .,v .,ENG,0
+573,te acuerdas ?,pro:obj v ?,ENG ENG,0
+574,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+575,el nombre el teléfono .,det:art v det:art n .,ENG ENG ENG ENG,0
+576,todo .,det:indef .,ENG,0
+577,but that stuff now is in that little device .,conj det:dem n adv cop prep det:dem adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+578,but now you look at Mary's .,conj adv pro:per v prep adj .,ENG ENG ENG ENG ENG ENG,0
+579,the I_Phone .,det:art n:prop .,ENG ENG,0
+580,it has a camera that is full of megapixels .,pro:per aux det:art n pro:rel cop adj prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+581,when we went to the island I bought a camera for like a thousand dollars that was great .,conj pro:sub v prep det:art n pro:sub v det:art n prep co det:art det:num n pro:rel cop adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+582,a Sony camera several years ago .,det:art n:prop n qn n post .,ENG ENG ENG ENG ENG ENG,0
+583,sí esa fue cuando fueron /.,co det:dem v conj cop +/.,ENG ENG ENG ENG ENG,0
+584,tú te acuerdas ?,pro:sub pro:obj v ?,ENG ENG ENG,0
+585,cuando fuimos en el //.,conj v prep det:art +//.,ENG ENG ENG ENG,0
+586,the camera in her phone now is better than that one .,det:art n prep det:poss n adv cop adv prep det:dem pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+587,the camera in her phone it's a higher megapixel and better quality camera than that one was .,det:art n prep det:poss n pro:per det:art adj n coord adj n n prep det:dem pro:indef cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+588,and it's this big .,coord pro:per det:dem adj .,ENG ENG ENG ENG,0
+589,it's microscopic .,pro:per adj .,ENG ENG,0
+590,it's a speakerphone .,pro:per det:art n .,ENG ENG ENG,0
+591,it has the the I_Pod it's in the phone .,pro:per aux det:art det:art n:prop pro:per prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+592,so she has eight gigabytes of music which is at least a few hundred songs maybe a few thousands songs .,co pro:sub v det:num n prep n pro:rel cop prep adj det:art n det:num n adv det:art n det:num n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+593,Jack pero es que a mí me compran un teléfono de esos y yo no sé ni que voy a hacer con él .,n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+594,no no no I I haven't even started .,co co co pro:sub pro:sub aux adv part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+595,.,None,,0
+596,it has a G_p_s with a map software .,pro:per aux det:art n:prop prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+597,so when you drive it'll tell you where to go .,co conj pro:per v pro:per v pro:per pro:int inf v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+598,it'll actually talk to you .,pro:per adv v prep pro:per .,ENG ENG ENG ENG ENG,0
+599,"and tell you ""/.","coord v pro:per +""/.",ENG ENG ENG,0
+600,make a left here .,v det:art adj adv .,ENG ENG ENG ENG,0
+601,make a right here .,v det:art adj adv .,ENG ENG ENG ENG,0
+602,lo hace todo el teléfono .,pro:obj v det:indef det:art n .,ENG ENG ENG ENG ENG,0
+603,estoy perdido .,cop part .,ENG ENG,0
+604,you can go buy stock .,pro:per mod v n n .,ENG ENG ENG ENG ENG,0
+605,they sell stock on the phone .,pro:sub v n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+606,through the same thing that is a Mary trader or any of these places where you do it from your computer .,prep det:art adj n pro:rel cop det:art n:prop n coord qn prep det:dem n pro:rel pro:per v pro:per prep det:poss n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+607,the internet on the telephone is so incredible .,det:art n prep det:art n cop adv in#adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+608,tú te imaginas que tú miras un telefonito así .,pro:sub pro:obj v pro:rel pro:sub v det:art n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+609,y tú no ves nada .,coord pro:sub adv v pro:indef .,ENG ENG ENG ENG ENG,0
+610,es tan pequeño .,cop adv adj .,ENG ENG ENG,0
+611,yeah .,co .,ENG,0
+612,so they develop the technology that ah //.,co pro:sub v det:art n pro:rel co +//.,ENG ENG ENG ENG ENG ENG ENG,0
+613,I'll have to show you this on the phone .,pro:sub v inf v pro:per pro:dem prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+614,then when you look at the web page tú coges tus dedos .,adv:tem conj pro:per v prep det:art n n L2 L2 L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP ESP ESP,1
+615,y si tú lo observaras así it zooms you in .,L2 L2 L2 L2 L2 L2 pro:per v pro:per adv .,ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG,1
+616,.,None,,0
+617,and if you do this it zooms you out .,coord conj pro:per v pro:dem pro:per v pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+618,and you can move around the page .,coord pro:per mod v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+619,so you zoom in .,co pro:per v adv .,ENG ENG ENG ENG,0
+620,and if you touch like the link like on the internet if you touch the hyperlink te entra .,coord conj pro:per n prep det:art n co prep det:art n conj pro:per v det:art n L2 L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP ESP,1
+621,pero todo es con tu dedo .,conj det:indef cop prep det:pos n .,ENG ENG ENG ENG ENG ENG,0
+622,it's incredible .,pro:per in#adj .,ENG ENG,0
+623,it's so natural .,pro:per adv adj .,ENG ENG ENG,0
+624,to use it's so easy .,inf v pro:per adv adj .,ENG ENG ENG ENG ENG,0
+625,like it's intuitive .,conj pro:per adj .,ENG ENG ENG,0
+626,and that's what makes Apple different .,coord pro:dem pro:int v n:prop adj .,ENG ENG ENG ENG ENG ENG,0
+627,all of the Apple products are very natural .,pro:indef prep det:art n:prop n cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+628,they're very intuitive .,pro:sub adv adj .,ENG ENG ENG,0
+629,they //.,pro:sub +//.,ENG,0
+630,I'm a Microsoft company .,pro:sub det:art n:prop n .,ENG ENG ENG ENG,0
+631,I know what Microsoft does .,pro:sub v pro:int n:prop v .,ENG ENG ENG ENG ENG,0
+632,it's great for business .,pro:per adj prep n .,ENG ENG ENG ENG,0
+633,but for just being easy to use and enjoyable man the Apple stuff .,conj prep adj n adj inf v coord adj v det:art n:prop n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+634,tú coges el teléfono de allá cuando tú estabas oyendo la música .,pro:sub v det:art n prep adv conj pro:sub aux ger det:art adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+635,tú lo pones al lado .,pro:sub pro:obj v aprep n .,ENG ENG ENG ENG ENG,0
+636,y te cambia .,coord pro:obj v .,ENG ENG ENG,0
+637,sabe que tú lo pusiste al lado .,v pro:rel pro:sub pro:obj v aprep n .,ENG ENG ENG ENG ENG ENG ENG,0
+638,ahí te abre todos los albums .,adv pro:obj v det:indef det:art L2 .,ENG ENG ENG ENG ENG ESP,1
+639,y todos los covers de todos los albums .,coord pro:indef det:art L2 prep det:indef det:art L2 .,ENG ENG ENG ESP ENG ENG ENG ESP,1
+640,y tú le das así .,coord pro:sub pro:ind v adv .,ENG ENG ENG ENG ENG,0
+641,y te va cambiando las páginas al mirar todos los albums .,coord pro:obj v ger det:art n aprep inf det:indef det:art L2 .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ESP,1
+642,tú tocas el cover del álbum que tú quieres .,pro:sub v det:art L2 prep L2 pro:rel pro:sub v .,ENG ENG ENG ESP ENG ESP ENG ENG ENG,1
+643,y lo haces al revés .,coord pro:obj v aprep n .,ENG ENG ENG ENG ENG,0
+644,y tú ves la lista de todas las canciones .,coord pro:sub v det:art adj prep det:indef det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+645,mm .,co .,ENG,0
+646,tocas la canción .,v det:art n .,ENG ENG ENG,0
+647,y te lo y te te lo .,coord pro:obj pro:obj coord pro:obj pro:obj pro:obj .,ENG ENG ENG ENG ENG ENG ENG,0
+648,.,None,,0
+649,.,None,,0
+650,te lo tengo que enseñar .,pro:obj pro:obj v pro:rel inf .,ENG ENG ENG ENG ENG,0
+651,.,None,,0
+652,it's amazing it's amazing .,pro:per part pro:per part .,ENG ENG ENG ENG,0
+653,pero that's where everything is going like .,L2 pro:dem pro:int pro:indef aux part conj .,ESP ENG ENG ENG ENG ENG ENG,1
+654,.,None,,0
+655,it's amazing .,pro:per part .,ENG ENG,0
+656,tú sabes ahora .,pro:sub v adv .,ENG ENG ENG,0
+657,tú usas Google ?,L2 L2 n:prop ?,ESP ESP ENG,1
+658,sí .,co .,ENG,0
+659,te vas a Google tú .,L2 L2 L2 n:prop L2 .,ESP ESP ESP ENG ESP,1
+660,type una palabra .,n L2 L2 .,ENG ESP ESP,1
+661,y te lo lleva .,coord pro:obj pro:obj v .,ENG ENG ENG ENG,0
+662,ahora hay algo que está en lo que es beta .,L2 L2 L2 L2 L2 L2 L2 L2 L2 n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+663,mejor .,adj .,ENG,0
+664,beta es como un testing ...,n L2 L2 L2 part +...,ENG ESP ESP ESP ENG,1
+665,.,None,,0
+666,que ha salido al público .,pro:rel aux part aprep adj .,ENG ENG ENG ENG ENG,0
+667,es que creo que quedan como novecientos oportunidades para beta testers .,L2 L2 L2 L2 L2 L2 L2 L2 L2 n n .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG ENG,1
+668,se llama Searchme_dot-com .,L2 L2 n:prop .,ESP ESP ENG,1
+669,que es igualito al Google .,L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ENG,1
+670,pero hace algo muy diferente .,conj v pro:dem adv adj .,ENG ENG ENG ENG ENG,0
+671,cuando tú pones las palabras .,conj pro:sub v det:art n .,ENG ENG ENG ENG ENG,0
+672,y tú haces search .,L2 L2 L2 n .,ESP ESP ESP ENG,1
+673,en vez de entregártelo en una lista de palabras ...,prep n imp inf pro:clit pro:dem adj prep n +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+674,te lo da en previews_of_the_website .,pro:obj pro:obj v prep L2 .,ENG ENG ENG ENG ESP,1
+675,so you actually see the website .,co pro:per adv v det:art n .,ENG ENG ENG ENG ENG ENG,0
+676,and then you hit to the arrow on the keyboard .,coord adv:tem pro:per v prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+677,y te lo lleva al próximo website .,coord pro:obj pro:obj v aprep adj L2 .,ENG ENG ENG ENG ENG ENG ESP,1
+678,the next arrow boom al próximo website .,det:art adj n n L2 L2 n .,ENG ENG ENG ENG ESP ESP ENG,1
+679,the next arrow boom al próximo website .,det:art adj n n L2 L2 n .,ENG ENG ENG ENG ESP ESP ENG,1
+680,so you can see everything like if you were flipping through a catalogue you're seeing already the front of the web page .,co pro:per mod v pro:indef prep conj pro:per aux part prep det:art v pro:per part adv det:art n prep det:art n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+681,so when you're looking for something if you can see the visuals //.,co pro:rel pro:per part prep pro:indef conj pro:per mod v det:art n:adj +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+682,claro /.,co +/.,ENG,0
+683,oh that's exactly what I'm looking for boom and you're there .,co pro:dem adv pro:int pro:sub part prep n coord pro:per adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+684,so instead of presenting it to you in a word list of all of the blue links with all the words and all that stuff it's giving you the website .,adv adv prep part pro:per prep pro:per prep det:art n n prep pro:indef prep det:art n v prep qn det:art n coord qn pro:dem v pro:per part pro:per det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+685,but on the bottom if you still wanna see the words you press button .,conj prep det:art n conj pro:per adj v co det:art n pro:per n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+686,y te abren todas las palabras at the bottom .,L2 L2 L2 L2 L2 L2 prep det:art n .,ESP ESP ESP ESP ESP ESP ENG ENG ENG,1
+687,and you can scroll through the box on the bottom .,coord pro:per mod v adv det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+688,.,None,,0
+689,it's Searchme_dot-com and it's really really good .,pro:per n:prop coord pro:per adv adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+690,pero eso lo están testing ahora .,L2 L2 L2 L2 n:gerund L2 .,ESP ESP ESP ESP ENG ESP,1
+691,yeah they're testing they're testing .,co pro:sub part pro:sub part .,ENG ENG ENG ENG ENG,0
+692,and it's an interesting engine .,coord pro:per det:art adj n .,ENG ENG ENG ENG ENG,0
+693,that's the question .,pro:dem det:art n .,ENG ENG ENG,0
+694,is will the engine of what they bring back when you type a word in be as advanced in the algorithm as Google is .,aux mod det:art n prep pro:int pro:sub v adv conj pro:per v det:art n prep cop adv part prep det:art n prep n:prop cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+695,if it is then you have something really unique .,conj pro:per cop adv:tem pro:per v pro:indef adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+696,because that's what it's a visual component with a very powerful search engine .,conj pro:dem pro:int pro:per det:art adj n prep det:art adv adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+697,Google is a very powerful search engine .,n:prop cop det:art adv adj n n .,ENG ENG ENG ENG ENG ENG ENG,0
+698,it gives you good returns like when you put something in it gets close to what you're looking for .,pro:per v pro:per adj n prep conj pro:per v pro:indef prep pro:per v adj prep pro:int pro:per part prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+699,it is a good process .,pro:per cop det:art adj n .,ENG ENG ENG ENG ENG,0
+700,and think about it .,coord v prep pro:per .,ENG ENG ENG ENG,0
+701,their software Google .,det:poss n n:prop .,ENG ENG ENG,0
+702,it's a software .,pro:per det:art n .,ENG ENG ENG,0
+703,uhuh .,co .,ENG,0
+704,that it's a giant company right ?,pro:rel pro:per det:art adj n adj ?,ENG ENG ENG ENG ENG ENG,0
+705,hundreds of billions of dollars .,det:num prep det:num prep n .,ENG ENG ENG ENG ENG,0
+706,but their software scans the entire internet .,conj det:poss n v det:art adj n .,ENG ENG ENG ENG ENG ENG ENG,0
+707,.,None,,0
+708,esa no era la que Microsoft estaba tratando de comprar ?,L2 L2 L2 L2 L2 n:prop L2 L2 L2 L2 ?,ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP,1
+709,everyday //.,adj +//.,ENG,0
+710,no they're trying to buy Yahoo .,co pro:sub part prep n n:prop .,ENG ENG ENG ENG ENG ENG,0
+711,ya .,adv .,ENG,0
+712,who's Google's biggest competitor .,pro:int adj adj n .,ENG ENG ENG ENG,0
+713,but the Yahoo owners the board of directors that runs the company says it's too little money .,conj det:art n:prop n det:art n prep n pro:rel v det:art n v pro:per adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+714,they offered forty two billion .,pro:sub v det:num det:num det:num .,ENG ENG ENG ENG ENG,0
+715,they said it's too little .,pro:sub v pro:per adv adj .,ENG ENG ENG ENG ENG,0
+716,they said no for forty two billion .,pro:sub v qn prep det:num det:num det:num .,ENG ENG ENG ENG ENG ENG ENG,0
+717,coño .,co .,ENG,0
+718,yeah .,co .,ENG,0
+719,you're talking about a company that didn't exist ten years ago .,pro:per part prep det:art n pro:rel mod v det:num n post .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+720,yo sé .,pro:sub v .,ENG ENG,0
+721,yo sé .,pro:sub v .,ENG ENG,0
+722,and then forty two billion is too little .,coord adv:tem det:num det:num det:num cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+723,sí porque antes era solamente Microsoft internet .,L2 L2 L2 L2 L2 n:prop n .,ESP ESP ESP ESP ESP ENG ENG,1
+724,and that's it .,coord pro:dem pro:per .,ENG ENG ENG,0
+725,yeah I know know and ...,co pro:sub v v coord +...,ENG ENG ENG ENG ENG,0
+726,Microsoft's good .,adj adj .,ENG ENG,0
+727,Microsoft knows how to win .,n:prop v pro:int inf v .,ENG ENG ENG ENG ENG,0
+728,and specially when Microsoft's coming in second place they know how to jump and beat the guy in first place .,coord adv pro:rel n:prop part adv adj n pro:sub v pro:int inf v coord n det:art n adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+729,they're not very good at being in the first place from the beginning .,pro:sub neg adv adj prep n:gerund prep det:art adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+730,Apple is very good at being in first place at the beginning .,n:prop cop adv adj prep n:gerund adv adj n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+731,Apple is really really interesting .,n:prop cop adv adv adj .,ENG ENG ENG ENG ENG,0
+732,está bueno .,cop co .,ENG ENG,0
+733,yeah yeah yeah .,co co co .,ENG ENG ENG,0
+734,pero bueno .,conj co .,ENG ENG,0
+735,no no no y ...,adv adv adv coord +...,ENG ENG ENG ENG,0
+736,el costo de la capacidad para procesar sigue bajando .,det:art n prep det:art n prep inf v ger .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+737,so hoy en día tú compras una computadora .,adv L2 L2 L2 L2 L2 L2 L2 .,ENG ESP ESP ESP ESP ESP ESP ESP,1
+738,que tú te acuerdas la computadora que nosotros teníamos en el cuartico en la casa vieja ?,pro:rel pro:sub pro:obj v det:art n prep pro:sub v prep det:art n prep det:art n adj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+739,tú sabes qué ?,pro:sub v pro:int ?,ENG ENG ENG,0
+740,ajá .,co .,ENG,0
+741,tú estás hablando hoy de una computadora que tiene mil veces la potencia .,pro:sub aux ger adv prep det:art n pro:rel v n n det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+742,la capacidad y el ...,det:art n coord det:art +...,ENG ENG ENG ENG,0
+743,those computers used to be able to process like twelve million instructions per second right ?,pro:dem n v inf cop adj prep n co det:num det:num n prep adj adj ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+744,these are gigahertz computers .,pro:dem cop n n .,ENG ENG ENG ENG,0
+745,these can do like four billion instructions per second .,pro:dem mod v co det:num det:num n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+746,and when anything can calculate that fast ...,coord conj pro:indef mod v adv adj +...,ENG ENG ENG ENG ENG ENG ENG,0
+747,you know ...,pro:per v +...,ENG ENG,0
+748,I can't think what it can calculate .,pro:sub mod v pro:int pro:per mod v .,ENG ENG ENG ENG ENG ENG ENG,0
+749,you know .,pro:per v .,ENG ENG,0
+750,ven acá cómo cuánto cuesta un laptop ?,L2 L2 L2 L2 L2 L2 n ?,ESP ESP ESP ESP ESP ESP ENG,1
+751,para qué ?,prep pro:int ?,ENG ENG,0
+752,para mi papá ?,prep det:pos n ?,ENG ENG ENG,0
+753,para el cumpleaños de tu papá .,prep det:art n prep det:pos n .,ENG ENG ENG ENG ENG ENG,0
+754,oh my god .,co det:poss n .,ENG ENG ENG,0
+755,el cumpleaños de tu papá es la semana que viene .,det:art n prep det:pos n cop det:art n pro:rel v .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+756,I know I know .,pro:sub v pro:sub v .,ENG ENG ENG ENG,0
+757,es que ...,cop pro:rel +...,ENG ENG,0
+758,no para comprar .,adv prep inf .,ENG ENG ENG,0
+759,yo se la compro .,pro:sub pro:refl pro:obj v .,ENG ENG ENG ENG,0
+760,.,None,,0
+761,pero más o menos cómo en cuánto están ahora algo así que le //.,conj adv coord adv co prep det:int cop adv pro:dem adv pro:rel pro:ind +//.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+762,tú crees que es mejor comprarle un laptop ?,L2 L2 L2 L2 L2 L2 L2 n ?,ESP ESP ESP ESP ESP ESP ESP ENG,1
+763,yo creo que es mejor porque está pasando trabajo con esa que era la de Olguita .,L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+764,pero yo tengo /.,conj pro:sub v +/.,ENG ENG ENG,0
+765,pero que no le carga la batería .,conj pro:rel adv pro:ind v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+766,yo tengo tremendo tremendo conexión para arreglar eso .,pro:sub v adj adj n prep inf pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+767,so yo se lo pedí .,adv L2 L2 L2 L2 .,ENG ESP ESP ESP ESP,1
+768,yo yo lo llevé el mío a arreglar al mismo lugar la semana pasada .,pro:sub pro:sub pro:obj v det:art pro:pos aprep inf aprep adj n det:art n part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+769,está bueno .,cop co .,ENG ENG,0
+770,y me lo arreglaron ahí mismo .,coord pro:obj pro:obj v adv adj .,ENG ENG ENG ENG ENG ENG,0
+771,porque el tuyo también estaba malo ?,conj det:art pro:pos adv cop adj ?,ENG ENG ENG ENG ENG ENG,0
+772,cuando fuimos al camping Mary estaba moviendo la maleta atrás en el carro para sacar el coche .,L2 L2 L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+773,y el laptop se se cayó de la maleta en el piso .,L2 L2 n L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+774,tremendo it was banged up .,L2 pro:per aux part adv .,ESP ENG ENG ENG ENG,1
+775,se dañó ?,pro:refl v ?,ENG ENG,0
+776,so I took it over there .,co pro:sub v pro:per prep n .,ENG ENG ENG ENG ENG ENG,0
+777,and they fixed it right away .,coord pro:sub v pro:per adv adv .,ENG ENG ENG ENG ENG ENG,0
+778,and they are people that I'm doing business with too .,coord pro:sub cop n pro:rel pro:sub part n prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+779,and they're a Toshiba repair shop .,coord pro:sub det:art n:prop n n .,ENG ENG ENG ENG ENG ENG,0
+780,and they fix like ...,coord pro:sub v prep +...,ENG ENG ENG ENG,0
+781,they're one of the only laptop repair shops in all of Miami .,pro:sub pro:indef prep det:art qn n n n prep pro:indef prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+782,and they have I_b_m like //.,coord pro:sub v n:prop prep +//.,ENG ENG ENG ENG ENG,0
+783,entonces tú crees que esa se puede arreglar ?,adv pro:sub v pro:rel det:dem pro:refl v inf ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+784,yeah .,co .,ENG,0
+785,we'll take it over there .,pro:sub v pro:per prep n .,ENG ENG ENG ENG ENG,0
+786,and get that fixed because the problem with my dad is that buying a new computer for him is is crazy because he's not gonna use /.,coord v adv part conj det:art n prep det:poss n cop comp part det:art adj n prep pro:obj cop cop adj conj pro:sub neg part v +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+787,okay .,co .,ENG,0
+788,no el no tiene tanto porque aquí en la casa es donde él más trabaja en la computadora .,adv det:art adv v adj conj adv prep det:art n cop pro:rel pro:sub adv v prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+789,he does very very simple things .,pro:sub v adv adv adj n .,ENG ENG ENG ENG ENG ENG,0
+790,and yeah my dad is doing very simple things .,coord co det:poss n aux part adv adj n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+791,some picture thing .,qn n n .,ENG ENG ENG,0
+792,you know stuff like that .,pro:per v n prep pro:dem .,ENG ENG ENG ENG ENG,0
+793,it's not a ...,pro:per neg det:art +...,ENG ENG ENG,0
+794,no hay necesidad para él meterle con ...,adv v n imp pro:sub inf prep +...,ENG ENG ENG ENG ENG ENG ENG,0
+795,you know the heavy duty .,pro:per v det:art adj n .,ENG ENG ENG ENG ENG,0
+796,I'm trying to think what else he can really really enjoy that he would like .,pro:sub part inf v pro:int post pro:sub mod adv adv v comp pro:sub mod prep .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+797,.,None,,0
+798,sí porque es que no sé no sé qué le voy a comprar hijo .,co conj cop pro:rel adv v adv v pro:int pro:ind v aprep inf co:voc .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+799,porque yo óyeme ...,conj pro:sub imp +...,ENG ENG ENG,0
+800,me vuelvo loquita pensando .,pro:obj v adj ger .,ENG ENG ENG ENG,0
+801,y no sé .,coord adv v .,ENG ENG ENG,0
+802,mm .,co .,ENG,0
+803,ya estoy cansada de comprarle zapatos ropa ...,adv cop part prep inf n n +...,ENG ENG ENG ENG ENG ENG ENG,0
+804,él no te ha dicho nada así que te dé una idea de /.,pro:sub adv pro:obj aux part v adv pro:rel pro:obj imp det:art n prep +/.,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+805,no no no no I haven't talked to him .,L2 L2 L2 L2 pro:sub aux part prep pro:obj .,ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+806,there's you know I'm trying to think like in terms of electronics .,pro:exist pro:per v pro:sub part inf v prep prep n prep n:pt .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+807,there's some cool electronics .,pro:exist qn adj n:pt .,ENG ENG ENG ENG,0
+808,you know .,pro:per v .,ENG ENG,0
+809,eso podemos ir todos juntos a la tienda .,pro:dem v inf det:indef adj aprep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+810,y yo te enseño varias cosas .,coord pro:sub pro:obj v v v .,ENG ENG ENG ENG ENG ENG,0
+811,pero I'm trying to think //.,L2 pro:sub part inf v +//.,ESP ENG ENG ENG ENG,1
+812,sí pero acuérdate que es next week .,L2 L2 L2 L2 L2 adj n .,ESP ESP ESP ESP ESP ENG ENG,1
+813,yeah .,co .,ENG,0
+814,es el día tres .,cop det:art n det:num .,ENG ENG ENG ENG,0
+815,y ya mañana es treinta uno .,coord adv adv cop det:num pro:dem .,ENG ENG ENG ENG ENG ENG,0
+816,así que creo que es el jueves .,adv pro:rel v pro:rel cop det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+817,yeah next week .,co adv n .,ENG ENG ENG,0
+818,creo no ?,v adv ?,ENG ENG,0
+819,miércoles o jueves .,n coord n .,ENG ENG ENG,0
+820,el jueves .,det:art n .,ENG ENG,0
+821,uhuh .,co .,ENG,0
+822,there's some really really really nice digital cameras that they've come out with now .,pro:exist qn adv adv adv adj adj n pro:rel pro:sub v adv prep adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+823,pero él se acaba de comprar una cámara .,conj pro:sub pro:refl v prep inf det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+824,yeah I know .,co pro:sub v .,ENG ENG ENG,0
+825,these are like the old school ones .,pro:dem cop prep det:art adj n pro:indef .,ENG ENG ENG ENG ENG ENG ENG,0
+826,the single lens reflex .,det:art n n n .,ENG ENG ENG ENG,0
+827,sí .,co .,ENG,0
+828,tú sabes lo que van .,pro:sub v pro:obj pro:rel v .,ENG ENG ENG ENG ENG,0
+829,y tienen todo .,coord v det:indef .,ENG ENG ENG,0
+830,but they're digital now .,conj pro:sub adj adv .,ENG ENG ENG ENG,0
+831,like that really high quality .,prep pro:dem adv adj n .,ENG ENG ENG ENG ENG,0
+832,él se compró una que tira hasta vídeos .,pro:sub pro:refl v det:art pro:rel v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+833,tú sabes .,pro:sub v .,ENG ENG,0
+834,the other thing is there's nice digital video cameras now .,det:art qn n cop pro:exist adj adj n n adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+835,very very fancy video cameras .,adv adv adj n n .,ENG ENG ENG ENG ENG,0
+836,so what else do we have ?,adv pro:int post mod pro:sub v ?,ENG ENG ENG ENG ENG ENG,0
+837,we have //.,pro:sub v +//.,ENG ENG,0
+838,there's always accessories .,pro:exist adv n .,ENG ENG ENG,0
+839,there's software ...,pro:exist n +...,ENG ENG,0
+840,to do different things .,inf v adj n .,ENG ENG ENG ENG,0
+841,there's ...,pro:exist +...,ENG,0
+842,.,None,,0
+843,home theater .,adv n .,ENG ENG,0
+844,would he like this stuff ?,mod pro:sub co det:dem n ?,ENG ENG ENG ENG ENG,0
+845,there's the flat screen televisions .,pro:exist det:art adj n n .,ENG ENG ENG ENG ENG,0
+846,which are really nice .,pro:rel cop adv adj .,ENG ENG ENG ENG,0
+847,sí pero eso todavía no porque ya compramos uno .,co conj pro:dem adv adv conj adv v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+848,para el cuarto no ?,prep det:art n adv ?,ENG ENG ENG ENG,0
+849,?,None,,0
+850,no para camping .,L2 L2 part .,ESP ESP ENG,1
+851,.,None,,0
+852,tú no lo vistes ?,pro:sub adv pro:obj v ?,ENG ENG ENG ENG,0
+853,oh yeah .,co co .,ENG ENG,0
+854,aren't they great ?,aux pro:sub adj ?,ENG ENG ENG,0
+855,yeah .,co .,ENG,0
+856,they have no glare .,pro:sub v qn n .,ENG ENG ENG ENG,0
+857,there's no reflection on the glass .,pro:exist qn n prep det:art n .,ENG ENG ENG ENG ENG ENG,0
+858,de lo más bueno que está .,prep pro:obj adv co pro:rel cop .,ENG ENG ENG ENG ENG ENG,0
+859,you just .,pro:per adv .,ENG ENG,0
+860,pero eso fue para valentine .,L2 L2 L2 L2 n .,ESP ESP ESP ESP ENG,1
+861,nice .,adj .,ENG,0
+862,.,None,,0
+863,what else ?,pro:int post ?,ENG ENG,0
+864,what else what else what else .,pro:int post pro:int post pro:int post .,ENG ENG ENG ENG ENG ENG,0
+865,no sé .,adv v .,ENG ENG,0
+866,piensa a ver .,v aprep inf .,ENG ENG ENG,0
+867,porque tú sabes yo lo vi con el problema de la computadora .,conj pro:sub v pro:sub pro:obj v prep det:art n prep det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+868,siempre tiene le //.,adv v pro:ind +//.,ENG ENG ENG,0
+869,digo bueno vamos a ver si le compro una .,v co v aprep inf conj pro:ind v det:art .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+870,si tú dices que esa se puede arreglar porque en realidad esa no es una computadora vieja ...,conj pro:sub v pro:rel det:dem pro:refl v inf conj prep n det:dem adv cop det:art n adj +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+871,no it's more than what he needs .,co pro:per qn prep pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG ENG,0
+872,esa computadora está buenísima .,det:dem n cop adj .,ENG ENG ENG ENG,0
+873,it's more than what he needs absolutely .,pro:per qn prep pro:int pro:sub v adv .,ENG ENG ENG ENG ENG ENG ENG,0
+874,lo único que tiene es eso que no le está cargando la la batería .,pro:obj adj pro:rel v cop pro:dem pro:rel adv pro:ind aux ger det:art det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+875,parece que tiene un contacto ahí que no //.,v pro:rel v det:art v adv pro:rel adv +//.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+876,tú sabes que no coge bien .,pro:sub v pro:rel adv v adv .,ENG ENG ENG ENG ENG ENG,0
+877,uhuh .,co .,ENG,0
+878,eso es típico .,pro:dem cop adj .,ENG ENG ENG,0
+879,eso es típico .,pro:dem cop adj .,ENG ENG ENG,0
+880,sí ?,co ?,ENG,0
+881,yeah the power port on the motherboard's coming loose more than anything because that particular port takes a lot of abuse takes a lot of abuse .,co det:art n adj prep det:art n part adj qn prep pro:indef conj det:dem adj n v det:art n prep n v det:art n prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+882,mm .,co .,ENG,0
+883,so ...,co +...,ENG,0
+884,y tú mamá está aquí ahora o está paseando ?,coord pro:sub n cop adv adv coord aux ger ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+885,no .,co .,ENG,0
+886,she's out .,pro:sub adv .,ENG ENG,0
+887,she's out .,pro:sub adv .,ENG ENG,0
+888,and then I think on Thursday she goes to Arizona .,coord adv:tem pro:sub v prep n:prop pro:sub v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+889,so .,co .,ENG,0
+890,she's traveling .,pro:sub part .,ENG ENG,0
+891,.,None,,0
+892,she travels a lot .,pro:sub v det:art n .,ENG ENG ENG ENG,0
+893,.,None,,0
+894,last time she came back so sick .,adj n pro:sub v adv adv adj .,ENG ENG ENG ENG ENG ENG ENG,0
+895,ah just with tremendous flu that she got down there .,co adv prep adj n pro:rel pro:sub v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+896,and just really really sick .,coord adv adv adv adj .,ENG ENG ENG ENG ENG,0
+897,and that's the thing .,coord pro:dem det:art n .,ENG ENG ENG ENG,0
+898,when you're out there there's no medicine .,conj pro:per prep n pro:exist qn n .,ENG ENG ENG ENG ENG ENG ENG,0
+899,it's not like being here .,pro:per neg prep n:gerund adv .,ENG ENG ENG ENG ENG,0
+900,I know .,pro:sub v .,ENG ENG,0
+901,you know .,pro:per v .,ENG ENG,0
+902,it's not like being here .,pro:per neg prep n:gerund adv .,ENG ENG ENG ENG ENG,0
+903,it's different .,pro:per adj .,ENG ENG,0
+904,eso es lo que tú sabes uno /.,pro:dem cop pro:obj pro:rel pro:sub v pro:dem +/.,ENG ENG ENG ENG ENG ENG ENG,0
+905,you got to get back here .,pro:per v inf v adv adv .,ENG ENG ENG ENG ENG ENG,0
+906,uno se queja de esto aquí pero mijo ...,det:art pro:refl v prep pro:dem adv conj co:voc +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+907,oye it's the best there is .,L2 pro:per det:art adj adv cop .,ESP ENG ENG ENG ENG ENG,1
+908,nobody has to pretend .,pro:indef aux inf v .,ENG ENG ENG ENG,0
+909,this is the best there is .,pro:dem cop det:art adj adv cop .,ENG ENG ENG ENG ENG ENG,0
+910,no no cómo es no es perfecto pero ...,adv adv pro:int cop adv cop adj conj +...,ENG ENG ENG ENG ENG ENG ENG ENG,0
+911,.,None,,0
+912,pero yo creo que uno de los mejores oíste ?,conj pro:sub v pro:rel pro:dem prep det:art adj v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+913,it's a disaster .,pro:per det:art n .,ENG ENG ENG,0
+914,but it's still pretty amazing .,conj pro:per adv adv part .,ENG ENG ENG ENG ENG,0
+915,sí señor .,co co:voc .,ENG ENG,0
+916,entonces ahora vienen las elecciones Jack .,L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ENG,1
+917,oh my god .,co det:poss n .,ENG ENG ENG,0
+918,we're gonna have a black president .,pro:sub part v det:art n n .,ENG ENG ENG ENG ENG ENG,0
+919,and not only that we're gonna have a total change in everything .,coord neg adv comp pro:sub part v det:art n n prep pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+920,taxes are gonna go up like crazy .,n aux part v adv co adj .,ENG ENG ENG ENG ENG ENG ENG,0
+921,oh my god taxes are gonna go up so much .,co det:poss co n aux part v adv adv adv .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+922,it's gonna get insane .,pro:per part v in#adj .,ENG ENG ENG ENG,0
+923,sí porque los demócratas dicen que son del pueblo .,co conj pro:obj n v pro:rel cop prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+924,pero son los que más taxes suben oíste ?,L2 L2 L2 L2 L2 n L2 L2 ?,ESP ESP ESP ESP ESP ENG ESP ESP,1
+925,yeah .,co .,ENG,0
+926,you have to pay for everything .,pro:per v inf v prep pro:indef .,ENG ENG ENG ENG ENG ENG,0
+927,.,None,,0
+928,they wanna give everybody your money .,pro:sub v v pro:indef det:poss n .,ENG ENG ENG ENG ENG ENG,0
+929,no .,co .,ENG,0
+930,pero por qué ?,conj prep pro:int ?,ENG ENG ENG,0
+931,por qué aquí tiene que existir un welfare para mantener a la gente ?,L2 L2 L2 L2 L2 L2 L2 n L2 L2 L2 L2 L2 ?,ESP ESP ESP ESP ESP ESP ESP ENG ESP ESP ESP ESP ESP,1
+932,un welfare es para ayudarte a encaminarte esto un año o dos años .,L2 n L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+933,recogerte vaya .,re#inf co .,ENG ENG,0
+934,okay if you're disabled .,adj conj pro:per part .,ENG ENG ENG ENG,0
+935,if you're cripple .,conj pro:per n .,ENG ENG ENG,0
+936,dale .,imp .,ENG,0
+937,you know .,pro:per v .,ENG ENG,0
+938,ponte a trabajar .,imp aprep inf .,ENG ENG ENG,0
+939,por qué tengo yo que mantenerte a ti ?,prep pro:int v pro:sub pro:rel inf aprep pro:prep ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+940,that's insane .,pro:dem in#adj .,ENG ENG,0
+941,okay .,co .,ENG,0
+942,entonces las mujeres éstas pariendo .,adv det:art n pro:dem ger .,ENG ENG ENG ENG ENG,0
+943,tienen todos los años tienen un hijo .,v det:indef det:art n v det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+944,no tienen marido .,adv v n .,ENG ENG ENG,0
+945,yo no sé los hijos cómo los hacen .,pro:sub adv v det:art n pro:int pro:obj v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+946,.,None,,0
+947,entonces ?,adv ?,ENG,0
+948,hay que mantenerle el muchacho //.,v pro:rel inf det:art n +//.,ENG ENG ENG ENG ENG,0
+949,mientras más hijos tienen más dinero le dan .,adv adv n v adv n pro:ind v .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+950,no trabajan .,adv v .,ENG ENG,0
+951,y quién es ?,coord pro:int cop ?,ENG ENG ENG,0
+952,los demócratas son los responsables de eso .,det:art n cop det:art adj prep pro:dem .,ENG ENG ENG ENG ENG ENG ENG,0
+953,porque yo entiendo que a una persona hay que ayudarla .,conj pro:sub v pro:rel aprep pro:dem n v pro:rel inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+954,no y Barack es tremendo demócrata .,L2 L2 n:prop L2 L2 L2 .,ESP ESP ENG ESP ESP ESP,1
+955,ese es un tremendo come mierda .,det:dem cop det:art adj imp n .,ENG ENG ENG ENG ENG ENG,0
+956,y ese lo que trae es una agenda muy oscura muy escondida oíste ?,coord det:dem pro:obj pro:rel v cop det:art n adv adj adv part v ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+957,escondida .,part .,ENG,0
+958,y él escondido .,coord pro:sub part .,ENG ENG ENG,0
+959,él es un político como cualquier //.,pro:sub cop det:art n adv pro:indef +//.,ENG ENG ENG ENG ENG ENG,0
+960,y tú sabes qué ?,coord pro:sub v pro:int ?,ENG ENG ENG ENG,0
+961,que no se tire mucho porque tú sabes que vaya .,pro:rel adv pro:refl v adv conj pro:sub v prep co .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+962,él es igualito .,pro:sub cop adj .,ENG ENG ENG,0
+963,eso del momento que empezó ha estado ahí la lucecita roja .,pro:dem prep n pro:rel v aux part adv det:art n adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+964,los pollitos rojos esos tú sabes que no son muy suaves .,det:art n adj det:dem pro:sub v pro:rel adv cop adv adj .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+965,no no no no .,adv adv adv adv .,ENG ENG ENG ENG,0
+966,cuando no le convenga la cosa vaya .,conj adv pro:ind v det:art n co .,ENG ENG ENG ENG ENG ENG ENG,0
+967,no no no no no olvídate .,adv adv adv adv adv imp .,ENG ENG ENG ENG ENG ENG,0
+968,que ponga a Hillary de vicepresidente .,L2 L2 L2 n:prop L2 L2 .,ESP ESP ESP ENG ESP ESP,1
+969,.,None,,0
+970,entonces nadie porque nadie quiere a ella .,adv pro:indef conj pro:indef v aprep pro:sub .,ENG ENG ENG ENG ENG ENG ENG,0
+971,ella es peor todavía .,pro:sub cop adv adv .,ENG ENG ENG ENG,0
+972,nadie lo mata porque peor quedarse con ella .,pro:indef pro:obj v conj adv inf prep pro:sub .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+973,esa mujer sí trae ...,det:dem n co v +...,ENG ENG ENG ENG,0
+974,no no no no she's a shark .,co co co co pro:sub det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+975,esa mujer ...,det:dem n +...,ENG ENG,0
+976,she's a shark .,pro:sub det:art n .,ENG ENG ENG,0
+977,ella es peor que el marido .,pro:sub cop adv pro:rel det:art n .,ENG ENG ENG ENG ENG ENG,0
+978,oh my gosh .,co det:poss co .,ENG ENG ENG,0
+979,she's the one that knows what she's doing .,pro:sub det:art pro:indef pro:rel v pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+980,he was just there for the ride .,pro:sub cop adv adv prep det:art n .,ENG ENG ENG ENG ENG ENG ENG,0
+981,and he's just a great talker .,coord pro:sub adv det:art adj n .,ENG ENG ENG ENG ENG ENG,0
+982,man he's charismatic .,n pro:sub adj .,ENG ENG ENG,0
+983,he's very charismatic .,pro:sub adv adj .,ENG ENG ENG,0
+984,he is .,pro:sub cop .,ENG ENG,0
+985,and he's a natural speaker .,coord pro:sub det:art adj n .,ENG ENG ENG ENG ENG,0
+986,and he's got a gift to connect with people .,coord pro:sub part det:art n inf v prep n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+987,but he's a tremendous party animal .,conj pro:sub det:art adj n n .,ENG ENG ENG ENG ENG ENG,0
+988,and a bullshitter .,coord det:art n .,ENG ENG ENG,0
+989,.,None,,0
+990,and he's someone that //.,coord pro:sub pro:indef pro:rel +//.,ENG ENG ENG ENG,0
+991,"he's a politician when whenever he had to make a decision he'd look around and then he'd say ""/.","pro:sub det:art n conj pro:rel pro:sub v inf v det:art n pro:sub v adv coord adv:tem pro:sub v +""/.",ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+992,no if you do that they're gonna kick your ass if you do that ...,co conj pro:per v adv pro:sub part v det:poss n conj pro:per v pro:dem +...,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+993,so he just did whatever the easy thing was .,co pro:sub adv v pro:int det:art adj n cop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+994,but sometimes you gotta do some fucked up shit .,conj adv pro:per mod v pro:indef v adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+995,lo que es //.,pro:obj pro:rel cop +//.,ENG ENG ENG,0
+996,cómo es ?,pro:int cop ?,ENG ENG,0
+997,políticamente correcto .,adv:adj adj .,ENG ENG,0
+998,mira .,co .,ENG,0
+999,nosotros cagamos Somalia cuando era presidente .,pro:sub v n:prop conj cop n .,ENG ENG ENG ENG ENG ENG,0
+1000,.,None,,0
+1001,entramos ahí .,v adv .,ENG ENG,0
+1002,después de eso en Kenya creo que es los Tutsis y los Hulis mataron ocho cientos mil personas en como cuarenta días .,L2 L2 L2 L2 n:prop L2 L2 L2 L2 n:prop L2 L2 n:prop L2 L2 L2 L2 L2 L2 L2 L2 L2 .,ESP ESP ESP ESP ENG ESP ESP ESP ESP ENG ESP ESP ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP,1
+1003,sí eso fue ...,co pro:dem v +...,ENG ENG ENG,0
+1004,algo así .,pro:dem adv .,ENG ENG,0
+1005,sí sí sí .,co co co .,ENG ENG ENG,0
+1006,era como veinte mil personas al día ...,cop adv det:num det:num n aprep n +...,ENG ENG ENG ENG ENG ENG ENG,0
+1007,uhuh .,co .,ENG,0
+1008,que estaban matando .,pro:rel aux ger .,ENG ENG ENG,0
+1009,y el otro no hizo nada .,coord det:art pro:indef adv v pro:indef .,ENG ENG ENG ENG ENG ENG,0
+1010,y todo el mundo sabía qué estaba pasando .,coord det:indef det:art n v pro:int aux ger .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1011,y le dejaron .,coord pro:ind v .,ENG ENG ENG,0
+1012,mira estaba pasando //.,v aux ger +//.,ENG ENG ENG,0
+1013,.,None,,0
+1014,"y ellos estaban diciendo ""/.","coord pro:sub aux ger +""/.",ENG ENG ENG ENG,0
+1015,mira si hacemos algo los republicanos nos van a crucificar .,co conj v pro:dem det:art adj pro:obj v aprep inf .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1016,él estaba muy busy .,L2 L2 L2 adj .,ESP ESP ESP ENG,1
+1017,.,None,,0
+1018,.,None,,0
+1019,estaba ocupado .,aux part .,ENG ENG,0
+1020,está muy ocupado .,cop adv part .,ENG ENG ENG,0
+1021,.,None,,0
+1022,qué tipo .,pro:int n .,ENG ENG,0
+1023,qué clase de tipo dios mío .,pro:int n prep n co pro:pos .,ENG ENG ENG ENG ENG ENG,0
+1024,yo no sé dónde vamos a parar Jack .,L2 L2 L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ESP ENG,1
+1025,y el otro pobrecito está viejito .,coord det:art pro:indef adj cop adj .,ENG ENG ENG ENG ENG ENG,0
+1026,el otro está //.,det:art pro:indef cop +//.,ENG ENG ENG,0
+1027,pero he knows what he's doing okay .,L2 pro:sub v pro:int pro:sub part adj .,ESP ENG ENG ENG ENG ENG ENG,1
+1028,you know what he does know what he's doing .,pro:per v pro:int pro:sub mod v pro:int pro:sub part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1029,and he's a smart politician .,coord pro:sub det:art adj n .,ENG ENG ENG ENG ENG,0
+1030,he's a politician of politicians .,pro:sub det:art n prep n .,ENG ENG ENG ENG ENG,0
+1031,yo voy a votar por él .,pro:sub v aprep inf prep pro:sub .,ENG ENG ENG ENG ENG ENG,0
+1032,he knows how to work everybody .,pro:sub v pro:int inf v pro:indef .,ENG ENG ENG ENG ENG ENG,0
+1033,and that's it .,coord pro:dem pro:per .,ENG ENG ENG,0
+1034,you want somebody that can work the whole field the left the right the middle everybody .,pro:per v pro:indef pro:rel mod v det:art adj v det:art adj det:art adj det:art n pro:indef .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1035,he's a true politician you know .,pro:sub det:art n n pro:per v .,ENG ENG ENG ENG ENG ENG,0
+1036,and he understands if he just says everything right there out there you know his bus is called the straight talk express .,coord pro:sub v conj pro:sub adv v pro:indef adv adv prep n pro:per v det:poss n aux part det:art adj n n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1037,.,None,,0
+1038,because that's what he says .,conj pro:dem pro:int pro:sub v .,ENG ENG ENG ENG ENG,0
+1039,when I talk to you it's straight talk .,conj pro:sub v prep pro:per pro:per adj n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1040,I'm talking to you straight .,pro:sub part prep pro:per adv .,ENG ENG ENG ENG ENG,0
+1041,that's right .,pro:dem co .,ENG ENG,0
+1042,there's nothing hidden over here .,pro:exist pro:indef part prep n .,ENG ENG ENG ENG ENG,0
+1043,there's none of that .,pro:exist pro:indef prep pro:dem .,ENG ENG ENG ENG,0
+1044,I'm telling you what I think .,pro:sub part pro:per pro:int pro:sub v .,ENG ENG ENG ENG ENG ENG,0
+1045,you might like it .,pro:per mod v pro:per .,ENG ENG ENG ENG,0
+1046,you might not .,pro:per mod neg .,ENG ENG ENG,0
+1047,you might hit me .,pro:per mod v pro:obj .,ENG ENG ENG ENG,0
+1048,but that's what I think .,conj pro:dem pro:int pro:sub v .,ENG ENG ENG ENG ENG,0
+1049,mhm .,co .,ENG,0
+1050,the other ones are like you know I'll think this if you want me to think that .,det:art qn det:num cop prep pro:per v pro:sub v det:dem conj pro:per v pro:obj inf v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1051,no no no no .,adv adv adv adv .,ENG ENG ENG ENG,0
+1052,I'll think this if you want me to think that .,pro:sub v det:dem conj pro:per v pro:obj inf v pro:dem .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1053,ellos quieren quedar bien con todo el mundo .,pro:sub v inf adv prep det:indef det:art n .,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1054,con todo el mundo .,prep det:indef det:art n .,ENG ENG ENG ENG,0
+1055,y tú no puedes .,coord pro:sub adv v .,ENG ENG ENG ENG,0
+1056,of course not .,prep n neg .,ENG ENG ENG,0
+1057,"como ellos ""/.","adv pro:sub +""/.",ENG ENG,0
+1058,estaban en Ohio .,L2 L2 n:prop .,ESP ESP ENG,1
+1059,donde mucha gente han perdido sus trabajos razón de Nafta .,L2 L2 L2 L2 L2 L2 L2 L2 L2 n:prop .,ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+1060,porque that just happened to me manufacturing state .,L2 adv adv part prep pro:obj part n .,ESP ENG ENG ENG ENG ENG ENG ENG,1
+1061,pero /.,conj +/.,ENG,0
+1062,"so they all go Ohio and the say ""/.","co pro:sub post v n:prop coord det:art co +""/.",ENG ENG ENG ENG ENG ENG ENG ENG,0
+1063,we're gonna get rid of Nafta .,pro:sub part v v prep n:prop .,ENG ENG ENG ENG ENG ENG,0
+1064,pero /.,conj +/.,ENG,0
+1065,and then they go up to Canada .,coord adv:tem pro:sub v adv prep n:prop .,ENG ENG ENG ENG ENG ENG ENG,0
+1066,"and they say ""/.","coord pro:sub v +""/.",ENG ENG ENG,0
+1067,hey don't worry we're not gonna mess with Nafta .,co mod n pro:sub neg part v prep n:prop .,ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+1068,we love Nafta .,pro:sub v n:prop .,ENG ENG ENG,0
+1069,but in this day you know whatever .,conj prep det:dem n pro:per v pro:int .,ENG ENG ENG ENG ENG ENG ENG,0
+1070,and then the Canadian government leaked to the media that that was happening .,coord adv:tem det:art n:prop n v prep det:art n pro:rel pro:rel aux part .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0

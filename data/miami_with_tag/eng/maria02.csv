@@ -1,0 +1,61 @@
+,sentence,pos,language,switch
+0,I saw that we have some proposal due /.,pro:sub v comp pro:sub v qn n adj +/.,ENG ENG ENG ENG ENG ENG ENG ENG,0
+1,.,None,,0
+2,on the tenth .,prep det:art adj .,ENG ENG ENG,0
+3,.,None,,0
+4,are you gonna want me to review it ?,cop pro:per part v pro:obj inf v pro:per ?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+5,.,None,,0
+6,okay .,co .,ENG,0
+7,.,None,,0
+8,okay .,co .,ENG,0
+9,.,None,,0
+10,are you sure you don't wanna me to /?,cop pro:per adj pro:per mod v pro:obj prep +/?,ENG ENG ENG ENG ENG ENG ENG ENG,0
+11,.,None,,0
+12,really how come ?,adv pro:rel v ?,ENG ENG ENG,0
+13,.,None,,0
+14,oh for hospital .,co prep n .,ENG ENG ENG,0
+15,.,None,,0
+16,.,None,,0
+17,oh .,co .,ENG,0
+18,oh !,co !,ENG,0
+19,.,None,,0
+20,so are we doing it as a joint venture or //?,co cop pro:sub part pro:per adv det:art adj n coord +//?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+21,.,None,,0
+22,bueno okay .,L2 co .,ESP ENG,1
+23,.,None,,0
+24,and this is for MDCPS ?,coord pro:dem cop prep n:prop ?,ENG ENG ENG ENG ENG,0
+25,.,None,,0
+26,okay .,co .,ENG,0
+27,.,None,,0
+28,do you want me to look at it for a while or not ?,mod pro:per v pro:obj inf v prep pro:per prep det:art n coord neg ?,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+29,.,None,,0
+30,no te sientes cómoda de enseñármelo to showing it to me ?,L2 L2 L2 L2 L2 L2 inf n:gerund pro:per prep pro:obj ?,ESP ESP ESP ESP ESP ESP ENG ENG ENG ENG ENG,1
+31,.,None,,0
+32,okay no me lo enseñes en dos horas antes de due .,co L2 L2 L2 L2 L2 L2 L2 L2 L2 n .,ENG ESP ESP ESP ESP ESP ESP ESP ESP ESP ENG,1
+33,when is the tenth ?,conj cop det:art adj ?,ENG ENG ENG ENG,0
+34,.,None,,0
+35,chica te hace falta un new calendar .,L2 L2 L2 L2 L2 adj n .,ESP ESP ESP ESP ESP ENG ENG,1
+36,.,None,,0
+37,.,None,,0
+38,.,None,,0
+39,es el lunes .,cop det:art n .,ENG ENG ENG,0
+40,next Thursday .,adv n:prop .,ENG ENG,0
+41,.,None,,0
+42,okay .,co .,ENG,0
+43,okay because I /.,co conj pro:sub +/.,ENG ENG ENG,0
+44,.,None,,0
+45,okay because I'm barely gonna take ...,co conj pro:sub adv part v +...,ENG ENG ENG ENG ENG ENG,0
+46,my brother is in town .,det:poss n cop prep n .,ENG ENG ENG ENG ENG,0
+47,.,None,,0
+48,and so I'm probably gonna take one day off next week .,coord co pro:sub adv part v det:num n adv adv n .,ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG,0
+49,.,None,,0
+50,so it may be Thursday so ...,co pro:per mod cop n:prop adv +...,ENG ENG ENG ENG ENG ENG,0
+51,.,None,,0
+52,right .,co .,ENG,0
+53,.,None,,0
+54,right .,co .,ENG,0
+55,.,None,,0
+56,mhm .,co .,ENG,0
+57,.,None,,0
+58,mhm .,co .,ENG,0
+59,.,None,,0
