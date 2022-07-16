@@ -1,5 +1,4 @@
-# This project is still under development, hence many functionality may be incorrect or partially done in our public repo.
-# Project: Like a bilingual baby: The advantage of visually grounding a bilingual language model
+#Code to reproduce from paper "Like a bilingual baby:The advantage of visually grounding a bilingual language model" ACL 2022
 
 ## Project Guide:
 1. Download the MS-COCO-ES dataset.
