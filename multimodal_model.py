@@ -14,7 +14,6 @@ from torch import nn
 from multimodal_lstm import MultiModalLSTM
 from multi_bpe import MultiBPE
 from torchvision.models import resnet50, ResNet50_Weights
-from multimodal_gpt import GPT2LMHeadModel
 
 multi_bpe = MultiBPE()
 
